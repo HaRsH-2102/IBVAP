@@ -112,3 +112,8 @@ temp/
 
 # --- Docker ---
 .dockerignore
+
+# --- Specific Model Exclusions ---
+*.pt
+!backend/best.pt
+!backend/rtdetr-l.pt
