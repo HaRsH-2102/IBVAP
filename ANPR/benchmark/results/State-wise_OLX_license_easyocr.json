@@ -1,0 +1,10302 @@
+[
+  {
+    "image": "AN1.jpg",
+    "det_time_ms": 358.47,
+    "plates": [
+      {
+        "box": [
+          95,
+          362,
+          186,
+          387
+        ],
+        "detector_conf": 0.7706305384635925,
+        "text": "Fano1P9687",
+        "ocr_time_ms": 64.0
+      }
+    ]
+  },
+  {
+    "image": "AN10.jpg",
+    "det_time_ms": 41.45,
+    "plates": [
+      {
+        "box": [
+          108,
+          166,
+          166,
+          182
+        ],
+        "detector_conf": 0.781758725643158,
+        "text": "74N0[442",
+        "ocr_time_ms": 44.52
+      }
+    ]
+  },
+  {
+    "image": "AN2.jpg",
+    "det_time_ms": 65.5,
+    "plates": [
+      {
+        "box": [
+          121,
+          221,
+          179,
+          238
+        ],
+        "detector_conf": 0.7752348184585571,
+        "text": "Hiulil",
+        "ocr_time_ms": 28.64
+      }
+    ]
+  },
+  {
+    "image": "AN4.jpg",
+    "det_time_ms": 11.01,
+    "plates": [
+      {
+        "box": [
+          83,
+          227,
+          149,
+          247
+        ],
+        "detector_conf": 0.7781071066856384,
+        "text": "Anoiham",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "AN5.jpg",
+    "det_time_ms": 38.0,
+    "plates": [
+      {
+        "box": [
+          149,
+          242,
+          206,
+          257
+        ],
+        "detector_conf": 0.7793828248977661,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AN6.jpg",
+    "det_time_ms": 37.0,
+    "plates": [
+      {
+        "box": [
+          122,
+          228,
+          186,
+          248
+        ],
+        "detector_conf": 0.7899116277694702,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AN7.jpg",
+    "det_time_ms": 10.1,
+    "plates": [
+      {
+        "box": [
+          89,
+          367,
+          192,
+          394
+        ],
+        "detector_conf": 0.7430755496025085,
+        "text": "4no4h0908",
+        "ocr_time_ms": 36.0
+      }
+    ]
+  },
+  {
+    "image": "AP1.jpg",
+    "det_time_ms": 36.47,
+    "plates": [
+      {
+        "box": [
+          99,
+          143,
+          181,
+          164
+        ],
+        "detector_conf": 0.8263925909996033,
+        "text": "AP05B17799",
+        "ocr_time_ms": 15.0
+      }
+    ]
+  },
+  {
+    "image": "AP10.jpg",
+    "det_time_ms": 43.48,
+    "plates": [
+      {
+        "box": [
+          110,
+          266,
+          189,
+          287
+        ],
+        "detector_conf": 0.7888755798339844,
+        "text": "EAP39E1493",
+        "ocr_time_ms": 14.75
+      }
+    ]
+  },
+  {
+    "image": "AP12.jpg",
+    "det_time_ms": 10.66,
+    "plates": [
+      {
+        "box": [
+          76,
+          224,
+          134,
+          248
+        ],
+        "detector_conf": 0.8092355132102966,
+        "text": "HLL",
+        "ocr_time_ms": 23.37
+      }
+    ]
+  },
+  {
+    "image": "AP13.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          96,
+          188,
+          172,
+          211
+        ],
+        "detector_conf": 0.8280578851699829,
+        "text": "AP39JJSLI",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "AP14.jpg",
+    "det_time_ms": 37.68,
+    "plates": [
+      {
+        "box": [
+          102,
+          177,
+          193,
+          206
+        ],
+        "detector_conf": 0.809877336025238,
+        "text": "AP10AS3445",
+        "ocr_time_ms": 13.37
+      }
+    ]
+  },
+  {
+    "image": "AP15.jpg",
+    "det_time_ms": 10.41,
+    "plates": [
+      {
+        "box": [
+          91,
+          241,
+          207,
+          261
+        ],
+        "detector_conf": 0.751481831073761,
+        "text": "4P284T5333",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "AP16.jpg",
+    "det_time_ms": 35.24,
+    "plates": [
+      {
+        "box": [
+          103,
+          125,
+          155,
+          139
+        ],
+        "detector_conf": 0.7871882915496826,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AP17.jpg",
+    "det_time_ms": 9.44,
+    "plates": [
+      {
+        "box": [
+          104,
+          336,
+          182,
+          356
+        ],
+        "detector_conf": 0.7319332361221313,
+        "text": "ARA",
+        "ocr_time_ms": 10.54
+      }
+    ]
+  },
+  {
+    "image": "AP18.jpg",
+    "det_time_ms": 36.35,
+    "plates": [
+      {
+        "box": [
+          104,
+          114,
+          163,
+          130
+        ],
+        "detector_conf": 0.8141545653343201,
+        "text": "FAP4GBS4500",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "AP19.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          98,
+          338,
+          158,
+          357
+        ],
+        "detector_conf": 0.7368078231811523,
+        "text": "ARC4M7627",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "AP2.jpg",
+    "det_time_ms": 37.33,
+    "plates": [
+      {
+        "box": [
+          93,
+          46,
+          143,
+          62
+        ],
+        "detector_conf": 0.7790296077728271,
+        "text": "",
+        "ocr_time_ms": 4.0
+      },
+      {
+        "box": [
+          243,
+          78,
+          262,
+          101
+        ],
+        "detector_conf": 0.4571305513381958,
+        "text": "",
+        "ocr_time_ms": 19.69
+      }
+    ]
+  },
+  {
+    "image": "AP20.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          95,
+          256,
+          167,
+          277
+        ],
+        "detector_conf": 0.7469034194946289,
+        "text": "Heuuisers]]",
+        "ocr_time_ms": 22.35
+      }
+    ]
+  },
+  {
+    "image": "AP21.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          120,
+          99,
+          233,
+          130
+        ],
+        "detector_conf": 0.8189749121665955,
+        "text": "AP31415064",
+        "ocr_time_ms": 15.0
+      }
+    ]
+  },
+  {
+    "image": "AP22.jpg",
+    "det_time_ms": 10.97,
+    "plates": [
+      {
+        "box": [
+          76,
+          229,
+          176,
+          249
+        ],
+        "detector_conf": 0.7510758638381958,
+        "text": "AP16CH9545",
+        "ocr_time_ms": 16.01
+      }
+    ]
+  },
+  {
+    "image": "AP23.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          221,
+          136,
+          235
+        ],
+        "detector_conf": 0.7475180625915527,
+        "text": "",
+        "ocr_time_ms": 3.69
+      }
+    ]
+  },
+  {
+    "image": "AP24.jpg",
+    "det_time_ms": 10.13,
+    "plates": [
+      {
+        "box": [
+          88,
+          262,
+          182,
+          287
+        ],
+        "detector_conf": 0.8328952789306641,
+        "text": "AP07Ad555s",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "AP25.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          250,
+          174,
+          269
+        ],
+        "detector_conf": 0.7979035377502441,
+        "text": "P26441260",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "AP26.jpg",
+    "det_time_ms": 37.35,
+    "plates": [
+      {
+        "box": [
+          96,
+          46,
+          179,
+          66
+        ],
+        "detector_conf": 0.8299828171730042,
+        "text": "AP31BR.9501",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "AP27.jpg",
+    "det_time_ms": 10.05,
+    "plates": [
+      {
+        "box": [
+          97,
+          195,
+          176,
+          217
+        ],
+        "detector_conf": 0.828423023223877,
+        "text": "LAP3IEF1155",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "AP29.jpg",
+    "det_time_ms": 37.0,
+    "plates": [
+      {
+        "box": [
+          102,
+          0,
+          185,
+          19
+        ],
+        "detector_conf": 0.8056607246398926,
+        "text": "APalDE2833",
+        "ocr_time_ms": 20.09
+      }
+    ]
+  },
+  {
+    "image": "AP3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          175,
+          271,
+          252,
+          322
+        ],
+        "detector_conf": 0.7942655086517334,
+        "text": "",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "AP30.jpg",
+    "det_time_ms": 48.08,
+    "plates": [
+      {
+        "box": [
+          87,
+          273,
+          173,
+          293
+        ],
+        "detector_conf": 0.7762178182601929,
+        "text": "FAP31019378",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "AP33.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          95,
+          231,
+          184,
+          252
+        ],
+        "detector_conf": 0.799545407295227,
+        "text": "EARZ1ACO2D",
+        "ocr_time_ms": 15.36
+      }
+    ]
+  },
+  {
+    "image": "AP34.jpg",
+    "det_time_ms": 36.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          5,
+          185,
+          22
+        ],
+        "detector_conf": 0.7912721633911133,
+        "text": "'Ap37EJ2277",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "AP39.jpg",
+    "det_time_ms": 9.39,
+    "plates": [
+      {
+        "box": [
+          93,
+          155,
+          169,
+          173
+        ],
+        "detector_conf": 0.8076176047325134,
+        "text": "EAPO5DX3395",
+        "ocr_time_ms": 11.57
+      }
+    ]
+  },
+  {
+    "image": "AP4.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          137,
+          174,
+          153
+        ],
+        "detector_conf": 0.784835696220398,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AP40.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          232,
+          169,
+          254
+        ],
+        "detector_conf": 0.79124516248703,
+        "text": "APO40A4464\"",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "AP41.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          78,
+          262,
+          190,
+          292
+        ],
+        "detector_conf": 0.8287937641143799,
+        "text": "APSCG6320",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "AP42.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          114,
+          91,
+          187,
+          111
+        ],
+        "detector_conf": 0.7744161486625671,
+        "text": "Fpytsat",
+        "ocr_time_ms": 19.65
+      }
+    ]
+  },
+  {
+    "image": "AP43.jpg",
+    "det_time_ms": 9.45,
+    "plates": [
+      {
+        "box": [
+          112,
+          321,
+          201,
+          345
+        ],
+        "detector_conf": 0.7640476226806641,
+        "text": "78271AP3IBG=",
+        "ocr_time_ms": 21.52
+      }
+    ]
+  },
+  {
+    "image": "AP44.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          250,
+          160,
+          271
+        ],
+        "detector_conf": 0.7876155376434326,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AP45.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          231,
+          183,
+          265
+        ],
+        "detector_conf": 0.8055338263511658,
+        "text": "AP3IBL2833",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "AP46.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          262,
+          180,
+          288
+        ],
+        "detector_conf": 0.812030017375946,
+        "text": "AP3ICS2541",
+        "ocr_time_ms": 11.89
+      }
+    ]
+  },
+  {
+    "image": "AP5.jpg",
+    "det_time_ms": 9.28,
+    "plates": [
+      {
+        "box": [
+          92,
+          162,
+          155,
+          180
+        ],
+        "detector_conf": 0.7797060608863831,
+        "text": "TE39Td2u",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "AP6.jpg",
+    "det_time_ms": 35.58,
+    "plates": [
+      {
+        "box": [
+          96,
+          219,
+          177,
+          240
+        ],
+        "detector_conf": 0.799015998840332,
+        "text": "AP3IIY7236",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "AP7.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          221,
+          161,
+          244
+        ],
+        "detector_conf": 0.8048397898674011,
+        "text": "AP31BL8656",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "AP8.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          220,
+          175,
+          239
+        ],
+        "detector_conf": 0.807451605796814,
+        "text": "LAP16DPZ065",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "AR1.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          108,
+          155,
+          123
+        ],
+        "detector_conf": 0.7969228625297546,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AR10.jpg",
+    "det_time_ms": 9.4,
+    "plates": [
+      {
+        "box": [
+          32,
+          169,
+          89,
+          188
+        ],
+        "detector_conf": 0.7506663799285889,
+        "text": "E0a52019",
+        "ocr_time_ms": 11.55
+      }
+    ]
+  },
+  {
+    "image": "AR11.jpg",
+    "det_time_ms": 7.98,
+    "plates": [
+      {
+        "box": [
+          27,
+          413,
+          219,
+          448
+        ],
+        "detector_conf": 0.8035565614700317,
+        "text": "ARO1J0123",
+        "ocr_time_ms": 27.26
+      }
+    ]
+  },
+  {
+    "image": "AR12.jpg",
+    "det_time_ms": 9.17,
+    "plates": [
+      {
+        "box": [
+          110,
+          134,
+          177,
+          153
+        ],
+        "detector_conf": 0.799685001373291,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AR13.jpg",
+    "det_time_ms": 36.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          34,
+          183,
+          58
+        ],
+        "detector_conf": 0.8147080540657043,
+        "text": "AR200692",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "AR2.jpg",
+    "det_time_ms": 10.02,
+    "plates": [
+      {
+        "box": [
+          114,
+          161,
+          174,
+          177
+        ],
+        "detector_conf": 0.8038671016693115,
+        "text": "E4R01E2622",
+        "ocr_time_ms": 12.43
+      }
+    ]
+  },
+  {
+    "image": "AR3.jpg",
+    "det_time_ms": 10.62,
+    "plates": [
+      {
+        "box": [
+          52,
+          232,
+          97,
+          259
+        ],
+        "detector_conf": 0.7979453802108765,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AR4.jpg",
+    "det_time_ms": 9.7,
+    "plates": [
+      {
+        "box": [
+          95,
+          268,
+          193,
+          290
+        ],
+        "detector_conf": 0.7862215638160706,
+        "text": "PAR0105723",
+        "ocr_time_ms": 12.01
+      }
+    ]
+  },
+  {
+    "image": "AR6.jpg",
+    "det_time_ms": 35.0,
+    "plates": [
+      {
+        "box": [
+          127,
+          159,
+          198,
+          184
+        ],
+        "detector_conf": 0.7883704304695129,
+        "text": "",
+        "ocr_time_ms": 4.01
+      }
+    ]
+  },
+  {
+    "image": "AR7.jpg",
+    "det_time_ms": 8.51,
+    "plates": [
+      {
+        "box": [
+          85,
+          56,
+          164,
+          77
+        ],
+        "detector_conf": 0.8036867380142212,
+        "text": "ARoza7116",
+        "ocr_time_ms": 12.19
+      }
+    ]
+  },
+  {
+    "image": "AR8.jpg",
+    "det_time_ms": 7.94,
+    "plates": [
+      {
+        "box": [
+          33,
+          296,
+          75,
+          317
+        ],
+        "detector_conf": 0.6166380643844604,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AR9.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          97,
+          267,
+          193,
+          287
+        ],
+        "detector_conf": 0.7858335375785828,
+        "text": "NiO161034",
+        "ocr_time_ms": 25.0
+      }
+    ]
+  },
+  {
+    "image": "AS1.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          142,
+          250,
+          218,
+          272
+        ],
+        "detector_conf": 0.7876741886138916,
+        "text": "28664523h",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "AS10.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          356,
+          180,
+          379
+        ],
+        "detector_conf": 0.7720085382461548,
+        "text": "4s0idg6002]",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "AS11.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          80,
+          92,
+          121,
+          106
+        ],
+        "detector_conf": 0.7954418659210205,
+        "text": "L3077]",
+        "ocr_time_ms": 21.51
+      }
+    ]
+  },
+  {
+    "image": "AS13.jpg",
+    "det_time_ms": 35.0,
+    "plates": [
+      {
+        "box": [
+          119,
+          110,
+          169,
+          124
+        ],
+        "detector_conf": 0.8242034316062927,
+        "text": "3a",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "AS14.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          40,
+          157,
+          93,
+          172
+        ],
+        "detector_conf": 0.8016536235809326,
+        "text": "45ibphlis",
+        "ocr_time_ms": 24.49
+      }
+    ]
+  },
+  {
+    "image": "AS15.jpg",
+    "det_time_ms": 10.51,
+    "plates": [
+      {
+        "box": [
+          83,
+          272,
+          181,
+          294
+        ],
+        "detector_conf": 0.7912330627441406,
+        "text": "2013f2573",
+        "ocr_time_ms": 20.8
+      }
+    ]
+  },
+  {
+    "image": "AS16.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          78,
+          239,
+          173,
+          262
+        ],
+        "detector_conf": 0.8223133087158203,
+        "text": "ASOLAL3746",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "AS17.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          89,
+          247,
+          185,
+          271
+        ],
+        "detector_conf": 0.8069479465484619,
+        "text": "EASOAR4986",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "AS18.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          215,
+          148,
+          235
+        ],
+        "detector_conf": 0.7681527733802795,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "AS19.jpg",
+    "det_time_ms": 9.65,
+    "plates": [
+      {
+        "box": [
+          82,
+          246,
+          167,
+          268
+        ],
+        "detector_conf": 0.7919867634773254,
+        "text": "506U1295",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "AS2.jpg",
+    "det_time_ms": 8.96,
+    "plates": [
+      {
+        "box": [
+          98,
+          247,
+          189,
+          271
+        ],
+        "detector_conf": 0.8079060316085815,
+        "text": "Faso7ac6653",
+        "ocr_time_ms": 15.08
+      }
+    ]
+  },
+  {
+    "image": "AS20.jpg",
+    "det_time_ms": 35.52,
+    "plates": [
+      {
+        "box": [
+          49,
+          123,
+          113,
+          152
+        ],
+        "detector_conf": 0.7853384613990784,
+        "text": "FnsoiLielg",
+        "ocr_time_ms": 18.51
+      }
+    ]
+  },
+  {
+    "image": "AS21.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          189,
+          181,
+          208
+        ],
+        "detector_conf": 0.7995330691337585,
+        "text": "S23*5585",
+        "ocr_time_ms": 11.93
+      }
+    ]
+  },
+  {
+    "image": "AS22.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          101,
+          279,
+          167,
+          300
+        ],
+        "detector_conf": 0.8050597310066223,
+        "text": "LS0118668",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "AS23.jpg",
+    "det_time_ms": 8.46,
+    "plates": [
+      {
+        "box": [
+          80,
+          75,
+          181,
+          103
+        ],
+        "detector_conf": 0.8102596998214722,
+        "text": "F4s1909919",
+        "ocr_time_ms": 10.83
+      }
+    ]
+  },
+  {
+    "image": "AS24.jpg",
+    "det_time_ms": 35.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          342,
+          181,
+          367
+        ],
+        "detector_conf": 0.7847709059715271,
+        "text": "452302612",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "AS25.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          145,
+          166,
+          162
+        ],
+        "detector_conf": 0.8127467632293701,
+        "text": "Eas0IBS4362",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "AS26.jpg",
+    "det_time_ms": 7.58,
+    "plates": [
+      {
+        "box": [
+          106,
+          134,
+          169,
+          150
+        ],
+        "detector_conf": 0.84120112657547,
+        "text": "Fas06z0844",
+        "ocr_time_ms": 13.51
+      }
+    ]
+  },
+  {
+    "image": "AS3.jpg",
+    "det_time_ms": 8.32,
+    "plates": [
+      {
+        "box": [
+          69,
+          138,
+          122,
+          166
+        ],
+        "detector_conf": 0.8136400580406189,
+        "text": "IBE",
+        "ocr_time_ms": 19.57
+      }
+    ]
+  },
+  {
+    "image": "AS5.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          314,
+          190,
+          343
+        ],
+        "detector_conf": 0.770024299621582,
+        "text": "As23k0770",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "AS6.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          15,
+          153,
+          68,
+          177
+        ],
+        "detector_conf": 0.7855627536773682,
+        "text": "EEb]",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "AS7.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          59,
+          213,
+          130,
+          246
+        ],
+        "detector_conf": 0.8097363114356995,
+        "text": "Fas4604427]",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "AS8.jpg",
+    "det_time_ms": 9.54,
+    "plates": [
+      {
+        "box": [
+          95,
+          242,
+          165,
+          260
+        ],
+        "detector_conf": 0.806877076625824,
+        "text": "AsOLAM44I9",
+        "ocr_time_ms": 21.02
+      }
+    ]
+  },
+  {
+    "image": "AS9.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          133,
+          174,
+          152
+        ],
+        "detector_conf": 0.8304376006126404,
+        "text": "F4s04X2780",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "BR10.jpg",
+    "det_time_ms": 10.49,
+    "plates": [
+      {
+        "box": [
+          108,
+          234,
+          194,
+          256
+        ],
+        "detector_conf": 0.7684503197669983,
+        "text": "BR3ZPA-6558",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "BR11.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          207,
+          143,
+          225
+        ],
+        "detector_conf": 0.7700812220573425,
+        "text": "E8RuzuF4",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "BR12.jpg",
+    "det_time_ms": 8.38,
+    "plates": [
+      {
+        "box": [
+          104,
+          130,
+          152,
+          142
+        ],
+        "detector_conf": 0.7650771141052246,
+        "text": "DkottIa",
+        "ocr_time_ms": 20.66
+      }
+    ]
+  },
+  {
+    "image": "BR13.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          95,
+          194,
+          168,
+          214
+        ],
+        "detector_conf": 0.7955021262168884,
+        "text": "BROIPL759LL",
+        "ocr_time_ms": 11.99
+      }
+    ]
+  },
+  {
+    "image": "BR14.jpg",
+    "det_time_ms": 9.53,
+    "plates": [
+      {
+        "box": [
+          16,
+          183,
+          72,
+          224
+        ],
+        "detector_conf": 0.7973054051399231,
+        "text": "J4BL66z8]",
+        "ocr_time_ms": 30.68
+      }
+    ]
+  },
+  {
+    "image": "BR15.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          76,
+          123,
+          146,
+          167
+        ],
+        "detector_conf": 0.8046092987060547,
+        "text": "3435L01br!",
+        "ocr_time_ms": 15.09
+      }
+    ]
+  },
+  {
+    "image": "BR16.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          40,
+          254,
+          115,
+          288
+        ],
+        "detector_conf": 0.8281472325325012,
+        "text": "~er22mdqov",
+        "ocr_time_ms": 19.83
+      }
+    ]
+  },
+  {
+    "image": "BR17.jpg",
+    "det_time_ms": 8.59,
+    "plates": [
+      {
+        "box": [
+          89,
+          232,
+          155,
+          250
+        ],
+        "detector_conf": 0.7963075041770935,
+        "text": "~BROGpppood",
+        "ocr_time_ms": 21.55
+      }
+    ]
+  },
+  {
+    "image": "BR18.jpg",
+    "det_time_ms": 8.5,
+    "plates": [
+      {
+        "box": [
+          91,
+          339,
+          197,
+          361
+        ],
+        "detector_conf": 0.7911252379417419,
+        "text": "[BR-O1BD-5042",
+        "ocr_time_ms": 13.51
+      }
+    ]
+  },
+  {
+    "image": "BR3.jpg",
+    "det_time_ms": 8.51,
+    "plates": [
+      {
+        "box": [
+          106,
+          213,
+          184,
+          229
+        ],
+        "detector_conf": 0.7516436576843262,
+        "text": "Ior01nz0250",
+        "ocr_time_ms": 22.44
+      }
+    ]
+  },
+  {
+    "image": "BR4.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          34,
+          321,
+          134,
+          349
+        ],
+        "detector_conf": 0.7735488414764404,
+        "text": "BRO6U2470",
+        "ocr_time_ms": 10.52
+      }
+    ]
+  },
+  {
+    "image": "BR5.jpg",
+    "det_time_ms": 9.61,
+    "plates": [
+      {
+        "box": [
+          98,
+          296,
+          170,
+          313
+        ],
+        "detector_conf": 0.7889063954353333,
+        "text": "EBRO1BE0272]",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "BR6.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          123,
+          242,
+          210,
+          266
+        ],
+        "detector_conf": 0.7780323624610901,
+        "text": "{P39s",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "BR7.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          96,
+          299,
+          184,
+          320
+        ],
+        "detector_conf": 0.7878324389457703,
+        "text": "BILMB-4200",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "BR8.jpg",
+    "det_time_ms": 8.91,
+    "plates": [
+      {
+        "box": [
+          98,
+          130,
+          163,
+          147
+        ],
+        "detector_conf": 0.7946845293045044,
+        "text": "Ke3o10gg694",
+        "ocr_time_ms": 20.13
+      }
+    ]
+  },
+  {
+    "image": "BR9.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          167,
+          220,
+          218,
+          242
+        ],
+        "detector_conf": 0.8000110387802124,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "CG1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          260,
+          193,
+          285
+        ],
+        "detector_conf": 0.8316226601600647,
+        "text": "iCG04HD6930'",
+        "ocr_time_ms": 11.8
+      }
+    ]
+  },
+  {
+    "image": "CG10.jpg",
+    "det_time_ms": 6.51,
+    "plates": [
+      {
+        "box": [
+          74,
+          370,
+          182,
+          397
+        ],
+        "detector_conf": 0.7859941124916077,
+        "text": "CG22#7740",
+        "ocr_time_ms": 13.33
+      }
+    ]
+  },
+  {
+    "image": "CG11.jpg",
+    "det_time_ms": 9.51,
+    "plates": [
+      {
+        "box": [
+          132,
+          170,
+          190,
+          186
+        ],
+        "detector_conf": 0.792410135269165,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "CG12.jpg",
+    "det_time_ms": 10.06,
+    "plates": [
+      {
+        "box": [
+          81,
+          259,
+          182,
+          281
+        ],
+        "detector_conf": 0.8183196783065796,
+        "text": "CG12ag1130",
+        "ocr_time_ms": 15.01
+      }
+    ]
+  },
+  {
+    "image": "CG13.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          243,
+          177,
+          268
+        ],
+        "detector_conf": 0.772599995136261,
+        "text": "CCIGB[Ru2",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "CG14.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          88,
+          134,
+          138,
+          147
+        ],
+        "detector_conf": 0.7545624375343323,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "CG15.jpg",
+    "det_time_ms": 8.51,
+    "plates": [
+      {
+        "box": [
+          109,
+          128,
+          168,
+          143
+        ],
+        "detector_conf": 0.8048226833343506,
+        "text": "[go78R3255",
+        "ocr_time_ms": 11.56
+      }
+    ]
+  },
+  {
+    "image": "CG16.jpg",
+    "det_time_ms": 8.58,
+    "plates": [
+      {
+        "box": [
+          87,
+          126,
+          139,
+          141
+        ],
+        "detector_conf": 0.7800692915916443,
+        "text": "",
+        "ocr_time_ms": 3.02
+      }
+    ]
+  },
+  {
+    "image": "CG17.jpg",
+    "det_time_ms": 7.52,
+    "plates": [
+      {
+        "box": [
+          103,
+          121,
+          154,
+          137
+        ],
+        "detector_conf": 0.8238541483879089,
+        "text": "(907n47525",
+        "ocr_time_ms": 20.48
+      }
+    ]
+  },
+  {
+    "image": "CG18.jpg",
+    "det_time_ms": 9.91,
+    "plates": [
+      {
+        "box": [
+          113,
+          251,
+          215,
+          289
+        ],
+        "detector_conf": 0.8186860680580139,
+        "text": "C60zCA7289",
+        "ocr_time_ms": 30.52
+      }
+    ]
+  },
+  {
+    "image": "CG19.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          205,
+          169,
+          222
+        ],
+        "detector_conf": 0.8079113960266113,
+        "text": "cg0zwa7848",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "CG20.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          72,
+          124,
+          137,
+          142
+        ],
+        "detector_conf": 0.8016133308410645,
+        "text": "0026",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "CG21.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          101,
+          155,
+          165,
+          170
+        ],
+        "detector_conf": 0.8054924607276917,
+        "text": "cgu46UE894",
+        "ocr_time_ms": 10.99
+      }
+    ]
+  },
+  {
+    "image": "CG22.jpg",
+    "det_time_ms": 37.01,
+    "plates": [
+      {
+        "box": [
+          93,
+          234,
+          177,
+          258
+        ],
+        "detector_conf": 0.8278254866600037,
+        "text": "{CG13AE4060",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "CG4.jpg",
+    "det_time_ms": 8.9,
+    "plates": [
+      {
+        "box": [
+          104,
+          138,
+          177,
+          153
+        ],
+        "detector_conf": 0.7806069850921631,
+        "text": "CG04HU7009_",
+        "ocr_time_ms": 13.63
+      }
+    ]
+  },
+  {
+    "image": "CG6.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          114,
+          117,
+          162,
+          130
+        ],
+        "detector_conf": 0.7817116379737854,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "CG7.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          76,
+          371,
+          167,
+          391
+        ],
+        "detector_conf": 0.740307092666626,
+        "text": "ceoek20s7",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "CG8.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          172,
+          181,
+          194
+        ],
+        "detector_conf": 0.7900429964065552,
+        "text": "CG64H5060",
+        "ocr_time_ms": 14.42
+      }
+    ]
+  },
+  {
+    "image": "CG9.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          85,
+          196,
+          184,
+          221
+        ],
+        "detector_conf": 0.8205012083053589,
+        "text": "cG04HC4887",
+        "ocr_time_ms": 15.0
+      }
+    ]
+  },
+  {
+    "image": "CH1.jpg",
+    "det_time_ms": 9.05,
+    "plates": [
+      {
+        "box": [
+          32,
+          130,
+          71,
+          146
+        ],
+        "detector_conf": 0.7651415467262268,
+        "text": "",
+        "ocr_time_ms": 4.17
+      }
+    ]
+  },
+  {
+    "image": "CH10.jpg",
+    "det_time_ms": 35.44,
+    "plates": [
+      {
+        "box": [
+          89,
+          300,
+          176,
+          323
+        ],
+        "detector_conf": 0.7626742720603943,
+        "text": "CHOIAB4559",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "CH2.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          109,
+          139,
+          189,
+          160
+        ],
+        "detector_conf": 0.8204814195632935,
+        "text": "EcHQLBL,3528",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "CH3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          55,
+          268,
+          145,
+          291
+        ],
+        "detector_conf": 0.7998246550559998,
+        "text": "cho?K7672",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "CH4.jpg",
+    "det_time_ms": 10.97,
+    "plates": [
+      {
+        "box": [
+          95,
+          190,
+          191,
+          217
+        ],
+        "detector_conf": 0.8158270716667175,
+        "text": "Ch014x9090",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "CH5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          169,
+          178,
+          186
+        ],
+        "detector_conf": 0.7858680486679077,
+        "text": "Acho14p4538",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "CH6.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          108,
+          148,
+          179,
+          167
+        ],
+        "detector_conf": 0.7968616485595703,
+        "text": "~ChO44z2642",
+        "ocr_time_ms": 20.17
+      }
+    ]
+  },
+  {
+    "image": "CH7.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          157,
+          205,
+          186
+        ],
+        "detector_conf": 0.8227350115776062,
+        "text": "CHOAL4920",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "CH8.jpg",
+    "det_time_ms": 8.3,
+    "plates": [
+      {
+        "box": [
+          58,
+          179,
+          139,
+          202
+        ],
+        "detector_conf": 0.7773782014846802,
+        "text": "ccild9bel",
+        "ocr_time_ms": 19.55
+      }
+    ]
+  },
+  {
+    "image": "CH9.jpg",
+    "det_time_ms": 8.33,
+    "plates": [
+      {
+        "box": [
+          108,
+          104,
+          162,
+          119
+        ],
+        "detector_conf": 0.7914315462112427,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "DL1.jpg",
+    "det_time_ms": 9.99,
+    "plates": [
+      {
+        "box": [
+          85,
+          234,
+          182,
+          257
+        ],
+        "detector_conf": 0.7955473065376282,
+        "text": "DL6cJ840D",
+        "ocr_time_ms": 12.89
+      }
+    ]
+  },
+  {
+    "image": "DL10.jpg",
+    "det_time_ms": 9.29,
+    "plates": [
+      {
+        "box": [
+          96,
+          213,
+          162,
+          229
+        ],
+        "detector_conf": 0.7905077338218689,
+        "text": "E0LJC4E1359",
+        "ocr_time_ms": 13.08
+      }
+    ]
+  },
+  {
+    "image": "DL11.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          216,
+          183,
+          243
+        ],
+        "detector_conf": 0.8170366287231445,
+        "text": "FOL9cAP8882",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "DL12.jpg",
+    "det_time_ms": 8.52,
+    "plates": [
+      {
+        "box": [
+          101,
+          229,
+          185,
+          252
+        ],
+        "detector_conf": 0.8348354697227478,
+        "text": "LDLSCH7599",
+        "ocr_time_ms": 13.08
+      }
+    ]
+  },
+  {
+    "image": "DL13.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          233,
+          177,
+          256
+        ],
+        "detector_conf": 0.8144605159759521,
+        "text": "E0L12C,J9823",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "DL14.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          86,
+          214,
+          166,
+          237
+        ],
+        "detector_conf": 0.828445553779602,
+        "text": "FoL9CAULZ43",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "DL15.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          160,
+          162,
+          225,
+          190
+        ],
+        "detector_conf": 0.7876506447792053,
+        "text": "FFdLBCZ7220",
+        "ocr_time_ms": 19.92
+      }
+    ]
+  },
+  {
+    "image": "DL16.jpg",
+    "det_time_ms": 8.56,
+    "plates": [
+      {
+        "box": [
+          88,
+          225,
+          168,
+          246
+        ],
+        "detector_conf": 0.8092539310455322,
+        "text": "EDL9CAv4739",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "DL18.jpg",
+    "det_time_ms": 9.37,
+    "plates": [
+      {
+        "box": [
+          95,
+          213,
+          168,
+          233
+        ],
+        "detector_conf": 0.7938103079795837,
+        "text": "LOLIC5,8739",
+        "ocr_time_ms": 12.55
+      }
+    ]
+  },
+  {
+    "image": "DL19.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          161,
+          185,
+          179
+        ],
+        "detector_conf": 0.8182136416435242,
+        "text": "FoLIcT2782",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "DL2.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          111,
+          173,
+          133
+        ],
+        "detector_conf": 0.8239343166351318,
+        "text": "~dLGCR7002",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "DL20.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          112,
+          175,
+          131
+        ],
+        "detector_conf": 0.7864328026771545,
+        "text": "EdL12CL2555",
+        "ocr_time_ms": 15.0
+      }
+    ]
+  },
+  {
+    "image": "DL21.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          241,
+          186,
+          263
+        ],
+        "detector_conf": 0.8155772089958191,
+        "text": "EDL12057886",
+        "ocr_time_ms": 21.01
+      }
+    ]
+  },
+  {
+    "image": "DL22.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          103,
+          229,
+          168,
+          246
+        ],
+        "detector_conf": 0.8036120533943176,
+        "text": "DL6CL0457",
+        "ocr_time_ms": 16.23
+      }
+    ]
+  },
+  {
+    "image": "DL23.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          71,
+          256,
+          187,
+          285
+        ],
+        "detector_conf": 0.7859259247779846,
+        "text": "EOLZCAX2886",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "DL24.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          233,
+          181,
+          256
+        ],
+        "detector_conf": 0.8105396032333374,
+        "text": "03cc*8019",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "DL25.jpg",
+    "det_time_ms": 9.11,
+    "plates": [
+      {
+        "box": [
+          124,
+          147,
+          186,
+          169
+        ],
+        "detector_conf": 0.8245233297348022,
+        "text": "",
+        "ocr_time_ms": 3.62
+      }
+    ]
+  },
+  {
+    "image": "DL26.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          85,
+          284,
+          194,
+          310
+        ],
+        "detector_conf": 0.794558048248291,
+        "text": "EDLJICA/900",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "DL27.jpg",
+    "det_time_ms": 9.03,
+    "plates": [
+      {
+        "box": [
+          93,
+          374,
+          194,
+          400
+        ],
+        "detector_conf": 0.7723771333694458,
+        "text": "@L10CA0986",
+        "ocr_time_ms": 11.06
+      }
+    ]
+  },
+  {
+    "image": "DL28.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          259,
+          169,
+          279
+        ],
+        "detector_conf": 0.8068799376487732,
+        "text": "~DLLCNA723",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "DL29.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          102,
+          277,
+          176,
+          300
+        ],
+        "detector_conf": 0.7851008176803589,
+        "text": "FoLecthea3l",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "DL3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          118,
+          288,
+          191,
+          307
+        ],
+        "detector_conf": 0.7806128859519958,
+        "text": "E@LBCAu6883",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "DL30.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          168,
+          205,
+          223,
+          230
+        ],
+        "detector_conf": 0.8061480522155762,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "DL31.jpg",
+    "det_time_ms": 10.14,
+    "plates": [
+      {
+        "box": [
+          198,
+          226,
+          248,
+          244
+        ],
+        "detector_conf": 0.7791820764541626,
+        "text": "MALNEL",
+        "ocr_time_ms": 16.52
+      }
+    ]
+  },
+  {
+    "image": "DL32.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          113,
+          149,
+          168,
+          164
+        ],
+        "detector_conf": 0.7937830686569214,
+        "text": "ILzcARQIOR",
+        "ocr_time_ms": 24.0
+      }
+    ]
+  },
+  {
+    "image": "DL33.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          272,
+          168,
+          293
+        ],
+        "detector_conf": 0.8319593667984009,
+        "text": "~OLLCNA7231",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "DL34.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          159,
+          145,
+          213,
+          173
+        ],
+        "detector_conf": 0.7904720306396484,
+        "text": "EOUSS",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "DL35.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          75,
+          306,
+          154,
+          326
+        ],
+        "detector_conf": 0.7786139845848083,
+        "text": "DL3CBS5881",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "DL38.jpg",
+    "det_time_ms": 9.56,
+    "plates": [
+      {
+        "box": [
+          99,
+          142,
+          168,
+          162
+        ],
+        "detector_conf": 0.8119593858718872,
+        "text": "EOL4c403231",
+        "ocr_time_ms": 23.0
+      },
+      {
+        "box": [
+          250,
+          59,
+          271,
+          67
+        ],
+        "detector_conf": 0.35006383061408997,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "DL4.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          226,
+          175,
+          248
+        ],
+        "detector_conf": 0.8069319725036621,
+        "text": "EDL?c4U5573",
+        "ocr_time_ms": 12.06
+      }
+    ]
+  },
+  {
+    "image": "DL5.jpg",
+    "det_time_ms": 8.74,
+    "plates": [
+      {
+        "box": [
+          80,
+          274,
+          181,
+          302
+        ],
+        "detector_conf": 0.8590215444564819,
+        "text": "FdL12c08660",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "DL6.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          198,
+          181,
+          226
+        ],
+        "detector_conf": 0.8248602151870728,
+        "text": "FDLLcAR90661",
+        "ocr_time_ms": 12.57
+      }
+    ]
+  },
+  {
+    "image": "DL7.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          213,
+          169,
+          231
+        ],
+        "detector_conf": 0.8183009624481201,
+        "text": "FDLiZcK8643",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "DL8.jpg",
+    "det_time_ms": 10.77,
+    "plates": [
+      {
+        "box": [
+          118,
+          145,
+          178,
+          162
+        ],
+        "detector_conf": 0.7930295467376709,
+        "text": "LL10chi252",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "DL9.jpg",
+    "det_time_ms": 34.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          93,
+          150,
+          110
+        ],
+        "detector_conf": 0.8143022060394287,
+        "text": "EqL2che525",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "DN1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          205,
+          173,
+          227
+        ],
+        "detector_conf": 0.8036059141159058,
+        "text": "DAq942191",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "DN2.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          104,
+          149,
+          118
+        ],
+        "detector_conf": 0.777954638004303,
+        "text": "HTE4",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "DN3.jpg",
+    "det_time_ms": 10.05,
+    "plates": [
+      {
+        "box": [
+          65,
+          245,
+          193,
+          275
+        ],
+        "detector_conf": 0.7866137027740479,
+        "text": "@No9H0968}",
+        "ocr_time_ms": 11.52
+      }
+    ]
+  },
+  {
+    "image": "DN4.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          203,
+          184,
+          229
+        ],
+        "detector_conf": 0.8042563199996948,
+        "text": "EoNogJ0032]",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "DN5.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          77,
+          303,
+          177,
+          327
+        ],
+        "detector_conf": 0.7636473178863525,
+        "text": "DN0902724",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "DN6.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          68,
+          130,
+          85
+        ],
+        "detector_conf": 0.8170238733291626,
+        "text": "L240204428",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "DN7.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          108,
+          360,
+          181,
+          383
+        ],
+        "detector_conf": 0.768284261226654,
+        "text": "ON0909204",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "DN8.jpg",
+    "det_time_ms": 8.66,
+    "plates": [
+      {
+        "box": [
+          54,
+          269,
+          133,
+          291
+        ],
+        "detector_conf": 0.7727067470550537,
+        "text": "0Nd9C0868",
+        "ocr_time_ms": 10.59
+      }
+    ]
+  },
+  {
+    "image": "GA1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          125,
+          205,
+          175,
+          225
+        ],
+        "detector_conf": 0.7843745946884155,
+        "text": "",
+        "ocr_time_ms": 5.0
+      }
+    ]
+  },
+  {
+    "image": "GA10.jpg",
+    "det_time_ms": 36.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          169,
+          157,
+          204
+        ],
+        "detector_conf": 0.8026683330535889,
+        "text": "Eqoir625_",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "GA11.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          45,
+          328,
+          94,
+          363
+        ],
+        "detector_conf": 0.7853253483772278,
+        "text": "14np2839",
+        "ocr_time_ms": 17.0
+      }
+    ]
+  },
+  {
+    "image": "GA12.jpg",
+    "det_time_ms": 11.62,
+    "plates": [
+      {
+        "box": [
+          98,
+          184,
+          171,
+          205
+        ],
+        "detector_conf": 0.7882928252220154,
+        "text": "EGa03L9512",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "GA13.jpg",
+    "det_time_ms": 39.0,
+    "plates": [
+      {
+        "box": [
+          161,
+          152,
+          217,
+          172
+        ],
+        "detector_conf": 0.8146809339523315,
+        "text": "[04074G090",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "GA2.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          299,
+          199,
+          327
+        ],
+        "detector_conf": 0.7913218140602112,
+        "text": "ga08h0184",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "GA3.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          272,
+          165,
+          289
+        ],
+        "detector_conf": 0.7402955293655396,
+        "text": "5058",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "GA4.jpg",
+    "det_time_ms": 9.36,
+    "plates": [
+      {
+        "box": [
+          117,
+          251,
+          228,
+          311
+        ],
+        "detector_conf": 0.7972864508628845,
+        "text": "73099[Gaon",
+        "ocr_time_ms": 16.89
+      }
+    ]
+  },
+  {
+    "image": "GA5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          152,
+          186,
+          175
+        ],
+        "detector_conf": 0.8334318399429321,
+        "text": "GAOTE5947",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "GA6.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          341,
+          185,
+          363
+        ],
+        "detector_conf": 0.743935227394104,
+        "text": "0219G403",
+        "ocr_time_ms": 18.01
+      }
+    ]
+  },
+  {
+    "image": "GA7.jpg",
+    "det_time_ms": 34.59,
+    "plates": [
+      {
+        "box": [
+          46,
+          106,
+          105,
+          128
+        ],
+        "detector_conf": 0.8031315803527832,
+        "text": "G401K7150|",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "GA8.jpg",
+    "det_time_ms": 8.08,
+    "plates": [
+      {
+        "box": [
+          138,
+          56,
+          208,
+          95
+        ],
+        "detector_conf": 0.8043112754821777,
+        "text": "~Ga0585072",
+        "ocr_time_ms": 14.71
+      }
+    ]
+  },
+  {
+    "image": "GA9.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          249,
+          166,
+          271
+        ],
+        "detector_conf": 0.8116178512573242,
+        "text": "Ega0ge2855",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "GJ1.jpg",
+    "det_time_ms": 8.51,
+    "plates": [
+      {
+        "box": [
+          39,
+          283,
+          107,
+          325
+        ],
+        "detector_conf": 0.8305058479309082,
+        "text": "GizAGAil",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "GJ10.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          116,
+          147,
+          164,
+          162
+        ],
+        "detector_conf": 0.7901492714881897,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "GJ11.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          240,
+          197,
+          272
+        ],
+        "detector_conf": 0.7530093193054199,
+        "text": "'6JoghS1855]",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "GJ12.jpg",
+    "det_time_ms": 10.5,
+    "plates": [
+      {
+        "box": [
+          102,
+          134,
+          176,
+          155
+        ],
+        "detector_conf": 0.8086681962013245,
+        "text": "EgJogpa009]",
+        "ocr_time_ms": 11.52
+      }
+    ]
+  },
+  {
+    "image": "GJ13.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          142,
+          181,
+          164
+        ],
+        "detector_conf": 0.8519743084907532,
+        "text": "gJogkp85o8",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "GJ14.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          100,
+          149,
+          172,
+          167
+        ],
+        "detector_conf": 0.8154453039169312,
+        "text": "[gJjog0g9255",
+        "ocr_time_ms": 21.17
+      }
+    ]
+  },
+  {
+    "image": "GJ15.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          146,
+          167,
+          163
+        ],
+        "detector_conf": 0.7922787666320801,
+        "text": "96J014S4902",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "GJ16.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          147,
+          178,
+          166
+        ],
+        "detector_conf": 0.8048143982887268,
+        "text": "Egjo1Kc9959",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "GJ17.jpg",
+    "det_time_ms": 8.48,
+    "plates": [
+      {
+        "box": [
+          99,
+          143,
+          182,
+          165
+        ],
+        "detector_conf": 0.8442646265029907,
+        "text": "6J06003712",
+        "ocr_time_ms": 11.08
+      }
+    ]
+  },
+  {
+    "image": "GJ18.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          106,
+          148,
+          177,
+          167
+        ],
+        "detector_conf": 0.8259662389755249,
+        "text": "66JC1844259",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "GJ2.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          183,
+          179,
+          211
+        ],
+        "detector_conf": 0.8153867125511169,
+        "text": "GJ15cB3980]",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "GJ20.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          120,
+          121,
+          182,
+          139
+        ],
+        "detector_conf": 0.7896564602851868,
+        "text": "6o4Rk2420",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "GJ21.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          192,
+          177,
+          213
+        ],
+        "detector_conf": 0.8264910578727722,
+        "text": "E6j12c62526",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "GJ22.jpg",
+    "det_time_ms": 9.44,
+    "plates": [
+      {
+        "box": [
+          113,
+          114,
+          179,
+          132
+        ],
+        "detector_conf": 0.8144909739494324,
+        "text": "66J49806246",
+        "ocr_time_ms": 11.61
+      }
+    ]
+  },
+  {
+    "image": "GJ23.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          114,
+          115,
+          176,
+          131
+        ],
+        "detector_conf": 0.8017141222953796,
+        "text": "2GJo4Rs0198",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "GJ24.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          344,
+          172,
+          363
+        ],
+        "detector_conf": 0.7282339334487915,
+        "text": "EgJzZcCeZ98",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "GJ25.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          135,
+          166,
+          151
+        ],
+        "detector_conf": 0.7795507907867432,
+        "text": "Equoihwse8z",
+        "ocr_time_ms": 31.0
+      }
+    ]
+  },
+  {
+    "image": "GJ26.jpg",
+    "det_time_ms": 14.09,
+    "plates": [
+      {
+        "box": [
+          83,
+          260,
+          180,
+          284
+        ],
+        "detector_conf": 0.8136802315711975,
+        "text": "6J09468384",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "GJ27.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          142,
+          162,
+          158
+        ],
+        "detector_conf": 0.7967255711555481,
+        "text": "'g44eb45705",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "GJ28.jpg",
+    "det_time_ms": 12.0,
+    "plates": [
+      {
+        "box": [
+          119,
+          135,
+          184,
+          164
+        ],
+        "detector_conf": 0.7976559400558472,
+        "text": "IFgu05J96399",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "GJ29.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          106,
+          138,
+          164,
+          154
+        ],
+        "detector_conf": 0.8119239807128906,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "GJ4.jpg",
+    "det_time_ms": 9.52,
+    "plates": [
+      {
+        "box": [
+          101,
+          251,
+          179,
+          271
+        ],
+        "detector_conf": 0.821153998374939,
+        "text": "GJO6JEL788",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "GJ5.jpg",
+    "det_time_ms": 11.01,
+    "plates": [
+      {
+        "box": [
+          90,
+          265,
+          176,
+          285
+        ],
+        "detector_conf": 0.7760886549949646,
+        "text": "GJEL5g72p0",
+        "ocr_time_ms": 19.14
+      }
+    ]
+  },
+  {
+    "image": "GJ6.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          147,
+          180,
+          169
+        ],
+        "detector_conf": 0.8632526993751526,
+        "text": "FgJO6FK2977",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "GJ7.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          132,
+          188,
+          154
+        ],
+        "detector_conf": 0.8569826483726501,
+        "text": "6J3489811",
+        "ocr_time_ms": 16.31
+      }
+    ]
+  },
+  {
+    "image": "GJ8.jpg",
+    "det_time_ms": 8.39,
+    "plates": [
+      {
+        "box": [
+          97,
+          148,
+          173,
+          166
+        ],
+        "detector_conf": 0.8193730711936951,
+        "text": "Fgj16ch982Z",
+        "ocr_time_ms": 21.56
+      }
+    ]
+  },
+  {
+    "image": "GJ9.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          186,
+          174,
+          208
+        ],
+        "detector_conf": 0.8495588898658752,
+        "text": "RGJOSRE811g",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "HP1.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          120,
+          227,
+          179,
+          243
+        ],
+        "detector_conf": 0.7827116250991821,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "HP10.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          348,
+          166,
+          367
+        ],
+        "detector_conf": 0.7522915005683899,
+        "text": "EH?5285958]",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "HP11.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          102,
+          126,
+          173,
+          146
+        ],
+        "detector_conf": 0.8141496777534485,
+        "text": "Ahpzhzguz",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "HP12.jpg",
+    "det_time_ms": 9.49,
+    "plates": [
+      {
+        "box": [
+          76,
+          249,
+          145,
+          289
+        ],
+        "detector_conf": 0.8324321508407593,
+        "text": "HP26E2220",
+        "ocr_time_ms": 20.53
+      }
+    ]
+  },
+  {
+    "image": "HP13.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          54,
+          352,
+          184,
+          386
+        ],
+        "detector_conf": 0.8255343437194824,
+        "text": "FHP34C8986",
+        "ocr_time_ms": 28.51
+      }
+    ]
+  },
+  {
+    "image": "HP14.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          252,
+          201,
+          275
+        ],
+        "detector_conf": 0.7561142444610596,
+        "text": "1Hp3S6/63",
+        "ocr_time_ms": 25.57
+      }
+    ]
+  },
+  {
+    "image": "HP15.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          155,
+          171,
+          170
+        ],
+        "detector_conf": 0.8114523887634277,
+        "text": "HRZZE8000",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "HP16.jpg",
+    "det_time_ms": 9.56,
+    "plates": [
+      {
+        "box": [
+          81,
+          122,
+          133,
+          137
+        ],
+        "detector_conf": 0.784816324710846,
+        "text": "",
+        "ocr_time_ms": 5.07
+      }
+    ]
+  },
+  {
+    "image": "HP17.jpg",
+    "det_time_ms": 9.5,
+    "plates": [
+      {
+        "box": [
+          78,
+          244,
+          179,
+          266
+        ],
+        "detector_conf": 0.7892013192176819,
+        "text": "chPzoe3953-",
+        "ocr_time_ms": 12.57
+      }
+    ]
+  },
+  {
+    "image": "HP18.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          139,
+          280,
+          184,
+          294
+        ],
+        "detector_conf": 0.760635256767273,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "HP19.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          180,
+          168,
+          199
+        ],
+        "detector_conf": 0.7969047427177429,
+        "text": "~HPsLc6562",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "HP2.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          112,
+          293,
+          237,
+          318
+        ],
+        "detector_conf": 0.7414534091949463,
+        "text": "HeXTGA204",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "HP20.jpg",
+    "det_time_ms": 9.43,
+    "plates": [
+      {
+        "box": [
+          44,
+          156,
+          100,
+          175
+        ],
+        "detector_conf": 0.7705652713775635,
+        "text": "Deitrurg",
+        "ocr_time_ms": 18.57
+      }
+    ]
+  },
+  {
+    "image": "HP21.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          286,
+          170,
+          329
+        ],
+        "detector_conf": 0.8085153102874756,
+        "text": "HP8992408",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "HP22.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          198,
+          158,
+          216
+        ],
+        "detector_conf": 0.8024088144302368,
+        "text": "Lhp64B3380",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "HP3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          78,
+          278,
+          169,
+          303
+        ],
+        "detector_conf": 0.7965787053108215,
+        "text": "Hp666807",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "HP4.jpg",
+    "det_time_ms": 9.55,
+    "plates": [
+      {
+        "box": [
+          61,
+          227,
+          133,
+          246
+        ],
+        "detector_conf": 0.7534921765327454,
+        "text": "J4B22",
+        "ocr_time_ms": 15.06
+      }
+    ]
+  },
+  {
+    "image": "HP5.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          85,
+          184,
+          177,
+          206
+        ],
+        "detector_conf": 0.8061312437057495,
+        "text": "Hp01N0304",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "HP6.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          30,
+          96,
+          74,
+          112
+        ],
+        "detector_conf": 0.7969695329666138,
+        "text": "Urnn5",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "HP7.jpg",
+    "det_time_ms": 12.0,
+    "plates": [
+      {
+        "box": [
+          69,
+          284,
+          160,
+          310
+        ],
+        "detector_conf": 0.7968602776527405,
+        "text": "EHP12C,3766}",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "HP8.jpg",
+    "det_time_ms": 9.1,
+    "plates": [
+      {
+        "box": [
+          102,
+          166,
+          178,
+          190
+        ],
+        "detector_conf": 0.784821093082428,
+        "text": "PHP719898",
+        "ocr_time_ms": 11.22
+      }
+    ]
+  },
+  {
+    "image": "HP9.jpg",
+    "det_time_ms": 9.57,
+    "plates": [
+      {
+        "box": [
+          88,
+          194,
+          162,
+          218
+        ],
+        "detector_conf": 0.8133524656295776,
+        "text": "HP23A6965|",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "HR1.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          271,
+          182,
+          291
+        ],
+        "detector_conf": 0.7826213240623474,
+        "text": "HR26BQ8176",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "HR10.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          121,
+          187,
+          147
+        ],
+        "detector_conf": 0.8529236912727356,
+        "text": "FHRZGBYL812",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "HR11.jpg",
+    "det_time_ms": 13.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          248,
+          196,
+          274
+        ],
+        "detector_conf": 0.795820415019989,
+        "text": "HR0444331",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "HR12.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          149,
+          274,
+          199,
+          294
+        ],
+        "detector_conf": 0.7898318767547607,
+        "text": "[1298343",
+        "ocr_time_ms": 17.57
+      }
+    ]
+  },
+  {
+    "image": "HR13.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          245,
+          181,
+          266
+        ],
+        "detector_conf": 0.8203059434890747,
+        "text": "EHRSLAQ0911",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "HR14.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          77,
+          265,
+          187,
+          290
+        ],
+        "detector_conf": 0.7899584174156189,
+        "text": "EHRS1BU8218]",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "HR15.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          219,
+          159,
+          240
+        ],
+        "detector_conf": 0.7825398445129395,
+        "text": "ER29k7840",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "HR16.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          144,
+          265,
+          226,
+          294
+        ],
+        "detector_conf": 0.752652645111084,
+        "text": "HR56B364",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "HR17.jpg",
+    "det_time_ms": 9.57,
+    "plates": [
+      {
+        "box": [
+          88,
+          284,
+          181,
+          308
+        ],
+        "detector_conf": 0.7906257510185242,
+        "text": "KHRZGBK8597",
+        "ocr_time_ms": 11.58
+      }
+    ]
+  },
+  {
+    "image": "HR18.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          98,
+          332,
+          166,
+          351
+        ],
+        "detector_conf": 0.7622818946838379,
+        "text": "EHR26042296",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "HR19.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          145,
+          169,
+          163
+        ],
+        "detector_conf": 0.7952532768249512,
+        "text": "JHR29404339",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "HR2.jpg",
+    "det_time_ms": 8.91,
+    "plates": [
+      {
+        "box": [
+          109,
+          134,
+          184,
+          154
+        ],
+        "detector_conf": 0.8220728635787964,
+        "text": "EHRZE9259",
+        "ocr_time_ms": 14.02
+      }
+    ]
+  },
+  {
+    "image": "HR20.jpg",
+    "det_time_ms": 10.33,
+    "plates": [
+      {
+        "box": [
+          100,
+          235,
+          191,
+          256
+        ],
+        "detector_conf": 0.8197791576385498,
+        "text": "HR26EJ7668",
+        "ocr_time_ms": 14.01
+      }
+    ]
+  },
+  {
+    "image": "HR21.jpg",
+    "det_time_ms": 8.43,
+    "plates": [
+      {
+        "box": [
+          93,
+          108,
+          167,
+          126
+        ],
+        "detector_conf": 0.7843285799026489,
+        "text": "HlApa",
+        "ocr_time_ms": 20.6
+      }
+    ]
+  },
+  {
+    "image": "HR22.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          74,
+          213,
+          137,
+          234
+        ],
+        "detector_conf": 0.8300615549087524,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "HR3.jpg",
+    "det_time_ms": 8.98,
+    "plates": [
+      {
+        "box": [
+          102,
+          135,
+          181,
+          155
+        ],
+        "detector_conf": 0.8119966387748718,
+        "text": "HR29W8286",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "HR4.jpg",
+    "det_time_ms": 9.99,
+    "plates": [
+      {
+        "box": [
+          96,
+          216,
+          187,
+          243
+        ],
+        "detector_conf": 0.8325454592704773,
+        "text": "FHRTOAE9885",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "HR5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          139,
+          165,
+          158
+        ],
+        "detector_conf": 0.8296692371368408,
+        "text": "CHrz6cc7676",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "HR6.jpg",
+    "det_time_ms": 9.79,
+    "plates": [
+      {
+        "box": [
+          100,
+          265,
+          173,
+          283
+        ],
+        "detector_conf": 0.8016668558120728,
+        "text": "~HRZGDJ8832",
+        "ocr_time_ms": 11.52
+      }
+    ]
+  },
+  {
+    "image": "HR7.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          111,
+          118,
+          170,
+          134
+        ],
+        "detector_conf": 0.804314136505127,
+        "text": "FHrotmode0",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "HR8.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          286,
+          188,
+          309
+        ],
+        "detector_conf": 0.8028619885444641,
+        "text": "EHRZOX8432",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "HR9.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          208,
+          169,
+          224
+        ],
+        "detector_conf": 0.8188375234603882,
+        "text": "JHR2MLSOOS",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "JH1.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          328,
+          222,
+          360
+        ],
+        "detector_conf": 0.7229553461074829,
+        "text": "JH0jz3702",
+        "ocr_time_ms": 30.11
+      }
+    ]
+  },
+  {
+    "image": "JH10.jpg",
+    "det_time_ms": 9.44,
+    "plates": [
+      {
+        "box": [
+          121,
+          285,
+          174,
+          305
+        ],
+        "detector_conf": 0.7498918771743774,
+        "text": "[#c2iz5E",
+        "ocr_time_ms": 18.49
+      }
+    ]
+  },
+  {
+    "image": "JH11.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          140,
+          298,
+          204,
+          316
+        ],
+        "detector_conf": 0.8225215673446655,
+        "text": "Jho1BC5Z40",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "JH12.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          75,
+          305,
+          166,
+          333
+        ],
+        "detector_conf": 0.7595582008361816,
+        "text": "EJho1AX5392/",
+        "ocr_time_ms": 11.51
+      }
+    ]
+  },
+  {
+    "image": "JH13.jpg",
+    "det_time_ms": 9.58,
+    "plates": [
+      {
+        "box": [
+          105,
+          229,
+          182,
+          249
+        ],
+        "detector_conf": 0.7570281028747559,
+        "text": "MuOLAM2554",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "JH14.jpg",
+    "det_time_ms": 9.25,
+    "plates": [
+      {
+        "box": [
+          99,
+          275,
+          183,
+          295
+        ],
+        "detector_conf": 0.8179239630699158,
+        "text": "JhjoBV1496",
+        "ocr_time_ms": 12.02
+      }
+    ]
+  },
+  {
+    "image": "JH15.jpg",
+    "det_time_ms": 8.32,
+    "plates": [
+      {
+        "box": [
+          88,
+          124,
+          181,
+          148
+        ],
+        "detector_conf": 0.8168812990188599,
+        "text": "JH08C0625",
+        "ocr_time_ms": 16.0
+      }
+    ]
+  },
+  {
+    "image": "JH16.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          62,
+          310,
+          172,
+          346
+        ],
+        "detector_conf": 0.818585991859436,
+        "text": "Jhi0s5378",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "JH17.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          140,
+          161,
+          156
+        ],
+        "detector_conf": 0.7939951419830322,
+        "text": "Juoiar%011",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "JH18.jpg",
+    "det_time_ms": 10.2,
+    "plates": [
+      {
+        "box": [
+          118,
+          277,
+          169,
+          295
+        ],
+        "detector_conf": 0.7688374519348145,
+        "text": "[46sa29",
+        "ocr_time_ms": 23.27
+      }
+    ]
+  },
+  {
+    "image": "JH19.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          71,
+          190,
+          96
+        ],
+        "detector_conf": 0.8175870776176453,
+        "text": "JuOSY0030",
+        "ocr_time_ms": 23.0
+      }
+    ]
+  },
+  {
+    "image": "JH2.jpg",
+    "det_time_ms": 35.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          267,
+          179,
+          287
+        ],
+        "detector_conf": 0.8032639026641846,
+        "text": "JHOIAMO1OO",
+        "ocr_time_ms": 14.01
+      }
+    ]
+  },
+  {
+    "image": "JH3.jpg",
+    "det_time_ms": 9.67,
+    "plates": [
+      {
+        "box": [
+          108,
+          131,
+          168,
+          147
+        ],
+        "detector_conf": 0.8054794073104858,
+        "text": "JJHOIDB1e81",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "JH5.jpg",
+    "det_time_ms": 8.42,
+    "plates": [
+      {
+        "box": [
+          171,
+          139,
+          229,
+          166
+        ],
+        "detector_conf": 0.8096720576286316,
+        "text": "",
+        "ocr_time_ms": 4.13
+      }
+    ]
+  },
+  {
+    "image": "JH6.jpg",
+    "det_time_ms": 12.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          150,
+          139,
+          165
+        ],
+        "detector_conf": 0.7939720153808594,
+        "text": "042u0150",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "JH7.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          112,
+          79,
+          167,
+          94
+        ],
+        "detector_conf": 0.8087967038154602,
+        "text": "EJhoteXo0id",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "JH8.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          265,
+          174,
+          282
+        ],
+        "detector_conf": 0.7442560791969299,
+        "text": "UA-O4C.7104",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "JH9.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          112,
+          138,
+          169,
+          153
+        ],
+        "detector_conf": 0.7904946804046631,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "JK1.jpg",
+    "det_time_ms": 10.37,
+    "plates": [
+      {
+        "box": [
+          100,
+          209,
+          185,
+          232
+        ],
+        "detector_conf": 0.7561362385749817,
+        "text": "Ko2BF5058]",
+        "ocr_time_ms": 13.52
+      }
+    ]
+  },
+  {
+    "image": "JK10.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          109,
+          167,
+          189,
+          186
+        ],
+        "detector_conf": 0.780084490776062,
+        "text": "K0zk8967",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "JK11.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          92,
+          339,
+          164,
+          362
+        ],
+        "detector_conf": 0.7342168092727661,
+        "text": "UKojd7750",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "JK12.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          239,
+          182,
+          260
+        ],
+        "detector_conf": 0.8407151699066162,
+        "text": "FJKO14031478",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "JK13.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          86,
+          172,
+          187,
+          197
+        ],
+        "detector_conf": 0.8720762729644775,
+        "text": "~JkoiaF7715",
+        "ocr_time_ms": 15.0
+      }
+    ]
+  },
+  {
+    "image": "JK14.jpg",
+    "det_time_ms": 9.13,
+    "plates": [
+      {
+        "box": [
+          73,
+          371,
+          179,
+          395
+        ],
+        "detector_conf": 0.7664608359336853,
+        "text": "EJKIID8443",
+        "ocr_time_ms": 20.01
+      }
+    ]
+  },
+  {
+    "image": "JK15.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          180,
+          169,
+          201
+        ],
+        "detector_conf": 0.8061628341674805,
+        "text": "Bikoznn1525",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "JK16.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          235,
+          199,
+          262
+        ],
+        "detector_conf": 0.7960768938064575,
+        "text": "JKO9B7745]",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "JK17.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          66,
+          265,
+          183,
+          294
+        ],
+        "detector_conf": 0.8264855146408081,
+        "text": "JK02aS3888",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "JK18.jpg",
+    "det_time_ms": 9.59,
+    "plates": [
+      {
+        "box": [
+          92,
+          358,
+          165,
+          378
+        ],
+        "detector_conf": 0.7006816267967224,
+        "text": "UJib21605",
+        "ocr_time_ms": 20.26
+      }
+    ]
+  },
+  {
+    "image": "JK19.jpg",
+    "det_time_ms": 9.8,
+    "plates": [
+      {
+        "box": [
+          137,
+          171,
+          207,
+          214
+        ],
+        "detector_conf": 0.78707355260849,
+        "text": "'7959JK12-",
+        "ocr_time_ms": 17.71
+      }
+    ]
+  },
+  {
+    "image": "JK2.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          80,
+          142,
+          193,
+          172
+        ],
+        "detector_conf": 0.8143283724784851,
+        "text": "JJKOZBJ7997",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "JK20.jpg",
+    "det_time_ms": 13.0,
+    "plates": [
+      {
+        "box": [
+          2,
+          216,
+          66,
+          254
+        ],
+        "detector_conf": 0.8406403660774231,
+        "text": "A1eJLpae",
+        "ocr_time_ms": 23.99
+      }
+    ]
+  },
+  {
+    "image": "JK22.jpg",
+    "det_time_ms": 9.45,
+    "plates": [
+      {
+        "box": [
+          98,
+          135,
+          158,
+          152
+        ],
+        "detector_conf": 0.7809769511222839,
+        "text": "",
+        "ocr_time_ms": 3.55
+      }
+    ]
+  },
+  {
+    "image": "JK23.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          75,
+          193,
+          161,
+          218
+        ],
+        "detector_conf": 0.7952994108200073,
+        "text": "EJK02cc0447",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "JK24.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          238,
+          178,
+          259
+        ],
+        "detector_conf": 0.8483238816261292,
+        "text": "UJk028kj088",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "JK26.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          130,
+          256,
+          218,
+          286
+        ],
+        "detector_conf": 0.8022277355194092,
+        "text": "5JK02462454",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "JK27.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          165,
+          226,
+          247,
+          264
+        ],
+        "detector_conf": 0.7400215268135071,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "JK28.jpg",
+    "det_time_ms": 9.84,
+    "plates": [
+      {
+        "box": [
+          147,
+          253,
+          221,
+          289
+        ],
+        "detector_conf": 0.8058727979660034,
+        "text": "",
+        "ocr_time_ms": 3.08
+      }
+    ]
+  },
+  {
+    "image": "JK29.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          68,
+          333,
+          172,
+          359
+        ],
+        "detector_conf": 0.7826827168464661,
+        "text": "EJKO1AF0310",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "JK3.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          103,
+          167,
+          174,
+          185
+        ],
+        "detector_conf": 0.7656528949737549,
+        "text": "UJKZBL1213",
+        "ocr_time_ms": 22.01
+      }
+    ]
+  },
+  {
+    "image": "JK30.jpg",
+    "det_time_ms": 8.57,
+    "plates": [
+      {
+        "box": [
+          25,
+          183,
+          78,
+          200
+        ],
+        "detector_conf": 0.7300564050674438,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "JK31.jpg",
+    "det_time_ms": 8.56,
+    "plates": [
+      {
+        "box": [
+          105,
+          140,
+          162,
+          155
+        ],
+        "detector_conf": 0.7471811771392822,
+        "text": "EM4Tep42l",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "JK32.jpg",
+    "det_time_ms": 10.2,
+    "plates": [
+      {
+        "box": [
+          160,
+          197,
+          211,
+          219
+        ],
+        "detector_conf": 0.7634517550468445,
+        "text": "",
+        "ocr_time_ms": 4.04
+      }
+    ]
+  },
+  {
+    "image": "JK34.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          129,
+          272,
+          200,
+          294
+        ],
+        "detector_conf": 0.7792040109634399,
+        "text": "FJKUQB2317",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "JK35.jpg",
+    "det_time_ms": 9.51,
+    "plates": [
+      {
+        "box": [
+          90,
+          257,
+          175,
+          277
+        ],
+        "detector_conf": 0.7352623343467712,
+        "text": "Jkioa4638",
+        "ocr_time_ms": 12.96
+      }
+    ]
+  },
+  {
+    "image": "JK36.jpg",
+    "det_time_ms": 8.88,
+    "plates": [
+      {
+        "box": [
+          140,
+          282,
+          210,
+          322
+        ],
+        "detector_conf": 0.7664560079574585,
+        "text": "JhOz3UJ",
+        "ocr_time_ms": 15.0
+      }
+    ]
+  },
+  {
+    "image": "JK4.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          50,
+          296,
+          144,
+          332
+        ],
+        "detector_conf": 0.8064451217651367,
+        "text": "JK_44123",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "JK5.jpg",
+    "det_time_ms": 8.98,
+    "plates": [
+      {
+        "box": [
+          82,
+          329,
+          169,
+          352
+        ],
+        "detector_conf": 0.7568053603172302,
+        "text": "EJko5h3594",
+        "ocr_time_ms": 12.94
+      }
+    ]
+  },
+  {
+    "image": "JK6.jpg",
+    "det_time_ms": 9.41,
+    "plates": [
+      {
+        "box": [
+          157,
+          243,
+          221,
+          277
+        ],
+        "detector_conf": 0.7977712750434875,
+        "text": "Jkoir",
+        "ocr_time_ms": 10.68
+      }
+    ]
+  },
+  {
+    "image": "JK7.jpg",
+    "det_time_ms": 8.57,
+    "plates": [
+      {
+        "box": [
+          144,
+          231,
+          220,
+          256
+        ],
+        "detector_conf": 0.7587344646453857,
+        "text": "",
+        "ocr_time_ms": 4.32
+      }
+    ]
+  },
+  {
+    "image": "JK8.jpg",
+    "det_time_ms": 9.29,
+    "plates": [
+      {
+        "box": [
+          97,
+          251,
+          186,
+          271
+        ],
+        "detector_conf": 0.7994831204414368,
+        "text": "JK022657",
+        "ocr_time_ms": 15.28
+      }
+    ]
+  },
+  {
+    "image": "JK9.jpg",
+    "det_time_ms": 9.37,
+    "plates": [
+      {
+        "box": [
+          76,
+          219,
+          158,
+          242
+        ],
+        "detector_conf": 0.7628801465034485,
+        "text": "JKozcd04g1",
+        "ocr_time_ms": 12.06
+      }
+    ]
+  },
+  {
+    "image": "KA1.jpg",
+    "det_time_ms": 10.86,
+    "plates": [
+      {
+        "box": [
+          98,
+          156,
+          168,
+          179
+        ],
+        "detector_conf": 0.8277263045310974,
+        "text": "KaozLo6984",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "KA10.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          163,
+          172,
+          185
+        ],
+        "detector_conf": 0.8305922746658325,
+        "text": "KAD4MG7528",
+        "ocr_time_ms": 14.17
+      }
+    ]
+  },
+  {
+    "image": "KA11.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          149,
+          168,
+          167
+        ],
+        "detector_conf": 0.8139094114303589,
+        "text": "KAoLaK0368",
+        "ocr_time_ms": 25.0
+      }
+    ]
+  },
+  {
+    "image": "KA12.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          109,
+          169,
+          129
+        ],
+        "detector_conf": 0.8185489177703857,
+        "text": "La40zwe3336",
+        "ocr_time_ms": 25.0
+      }
+    ]
+  },
+  {
+    "image": "KA16.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          182,
+          183,
+          202
+        ],
+        "detector_conf": 0.7916949391365051,
+        "text": "KAOIINC7167",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "KA17.jpg",
+    "det_time_ms": 10.07,
+    "plates": [
+      {
+        "box": [
+          115,
+          228,
+          184,
+          247
+        ],
+        "detector_conf": 0.8214057087898254,
+        "text": "KaoiNG1660",
+        "ocr_time_ms": 11.53
+      }
+    ]
+  },
+  {
+    "image": "KA18.jpg",
+    "det_time_ms": 17.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          126,
+          155,
+          140
+        ],
+        "detector_conf": 0.7859786748886108,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "KA19.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          98,
+          156,
+          168,
+          179
+        ],
+        "detector_conf": 0.8277263045310974,
+        "text": "KaozLo6984",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "KA2.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          108,
+          131,
+          170,
+          150
+        ],
+        "detector_conf": 0.8350666761398315,
+        "text": "~KaoskE1762",
+        "ocr_time_ms": 21.0
+      },
+      {
+        "box": [
+          0,
+          88,
+          11,
+          95
+        ],
+        "detector_conf": 0.4753260910511017,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "KA20.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          76,
+          280,
+          171,
+          303
+        ],
+        "detector_conf": 0.7842637300491333,
+        "text": "Kin9NE1763",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "KA21.jpg",
+    "det_time_ms": 7.84,
+    "plates": [
+      {
+        "box": [
+          103,
+          319,
+          175,
+          338
+        ],
+        "detector_conf": 0.6933959126472473,
+        "text": "F429043589",
+        "ocr_time_ms": 12.64
+      }
+    ]
+  },
+  {
+    "image": "KA23.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          236,
+          158,
+          251
+        ],
+        "detector_conf": 0.7801768183708191,
+        "text": "FEenaine",
+        "ocr_time_ms": 23.0
+      }
+    ]
+  },
+  {
+    "image": "KA24.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          141,
+          154,
+          210,
+          175
+        ],
+        "detector_conf": 0.7927194833755493,
+        "text": "77425P5080_",
+        "ocr_time_ms": 21.54
+      }
+    ]
+  },
+  {
+    "image": "KA25.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          62,
+          343,
+          177,
+          371
+        ],
+        "detector_conf": 0.8039277195930481,
+        "text": "FKa38M8037",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "KA3.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          70,
+          234,
+          146,
+          260
+        ],
+        "detector_conf": 0.7703107595443726,
+        "text": "KAOGC%s%0]",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "KA4.jpg",
+    "det_time_ms": 8.36,
+    "plates": [
+      {
+        "box": [
+          63,
+          342,
+          178,
+          371
+        ],
+        "detector_conf": 0.8156842589378357,
+        "text": "EK438M8037",
+        "ocr_time_ms": 12.59
+      }
+    ]
+  },
+  {
+    "image": "KA5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          108,
+          128,
+          170,
+          145
+        ],
+        "detector_conf": 0.8065617084503174,
+        "text": "K453P7604",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "KA7.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          124,
+          150,
+          170,
+          165
+        ],
+        "detector_conf": 0.7606086134910583,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "KA8.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          111,
+          162,
+          193,
+          180
+        ],
+        "detector_conf": 0.739332914352417,
+        "text": "0*",
+        "ocr_time_ms": 18.56
+      }
+    ]
+  },
+  {
+    "image": "KA9.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          259,
+          170,
+          277
+        ],
+        "detector_conf": 0.77447110414505,
+        "text": "Kamuar",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "KL10.jpg",
+    "det_time_ms": 9.06,
+    "plates": [
+      {
+        "box": [
+          56,
+          198,
+          129,
+          229
+        ],
+        "detector_conf": 0.7877058982849121,
+        "text": "L6c4",
+        "ocr_time_ms": 21.1
+      }
+    ]
+  },
+  {
+    "image": "KL11.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          241,
+          179,
+          263
+        ],
+        "detector_conf": 0.7626928091049194,
+        "text": "0B{B0ouE",
+        "ocr_time_ms": 35.11
+      }
+    ]
+  },
+  {
+    "image": "KL14.jpg",
+    "det_time_ms": 9.46,
+    "plates": [
+      {
+        "box": [
+          156,
+          224,
+          226,
+          261
+        ],
+        "detector_conf": 0.7944332361221313,
+        "text": "0356114",
+        "ocr_time_ms": 11.31
+      }
+    ]
+  },
+  {
+    "image": "KL15.jpg",
+    "det_time_ms": 9.34,
+    "plates": [
+      {
+        "box": [
+          140,
+          228,
+          224,
+          258
+        ],
+        "detector_conf": 0.8091959953308105,
+        "text": "KLL366618",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "KL16.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          220,
+          181,
+          244
+        ],
+        "detector_conf": 0.8235011696815491,
+        "text": "KL4304444",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "KL19.jpg",
+    "det_time_ms": 14.62,
+    "plates": [
+      {
+        "box": [
+          102,
+          117,
+          157,
+          134
+        ],
+        "detector_conf": 0.7870020270347595,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "KL3.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          33,
+          213,
+          87,
+          246
+        ],
+        "detector_conf": 0.8035691380500793,
+        "text": "",
+        "ocr_time_ms": 5.0
+      }
+    ]
+  },
+  {
+    "image": "KL4.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          86,
+          228,
+          164,
+          249
+        ],
+        "detector_conf": 0.7486000657081604,
+        "text": "[KL2Z09809",
+        "ocr_time_ms": 12.15
+      }
+    ]
+  },
+  {
+    "image": "KL5.jpg",
+    "det_time_ms": 36.1,
+    "plates": [
+      {
+        "box": [
+          101,
+          157,
+          162,
+          173
+        ],
+        "detector_conf": 0.808175802230835,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "KL6.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          225,
+          171,
+          247
+        ],
+        "detector_conf": 0.7894370555877686,
+        "text": "406z43",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "KL7.jpg",
+    "det_time_ms": 9.89,
+    "plates": [
+      {
+        "box": [
+          110,
+          132,
+          163,
+          148
+        ],
+        "detector_conf": 0.8048520684242249,
+        "text": "",
+        "ocr_time_ms": 4.04
+      }
+    ]
+  },
+  {
+    "image": "KL8.jpg",
+    "det_time_ms": 10.27,
+    "plates": [
+      {
+        "box": [
+          122,
+          205,
+          205,
+          224
+        ],
+        "detector_conf": 0.7718534469604492,
+        "text": "K0ZBU7",
+        "ocr_time_ms": 13.57
+      }
+    ]
+  },
+  {
+    "image": "KL9.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          186,
+          177,
+          203
+        ],
+        "detector_conf": 0.7662228941917419,
+        "text": "Kll6lu4063",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "LA1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          79,
+          182,
+          145,
+          204
+        ],
+        "detector_conf": 0.7683761119842529,
+        "text": "0020749",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "MH1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          124,
+          178,
+          146
+        ],
+        "detector_conf": 0.8130497336387634,
+        "text": "JIWALsc",
+        "ocr_time_ms": 24.0
+      }
+    ]
+  },
+  {
+    "image": "MH10.jpg",
+    "det_time_ms": 10.52,
+    "plates": [
+      {
+        "box": [
+          87,
+          305,
+          184,
+          328
+        ],
+        "detector_conf": 0.796783447265625,
+        "text": "Fh11c08510",
+        "ocr_time_ms": 21.53
+      }
+    ]
+  },
+  {
+    "image": "MH11.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          109,
+          191,
+          160,
+          204
+        ],
+        "detector_conf": 0.770499050617218,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "MH12.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          284,
+          191,
+          308
+        ],
+        "detector_conf": 0.8164345026016235,
+        "text": "MHI2NJ5838",
+        "ocr_time_ms": 14.77
+      }
+    ]
+  },
+  {
+    "image": "MH13.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          331,
+          176,
+          352
+        ],
+        "detector_conf": 0.723567545413971,
+        "text": "MHosBS3471",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "MH14.jpg",
+    "det_time_ms": 10.41,
+    "plates": [
+      {
+        "box": [
+          91,
+          219,
+          185,
+          241
+        ],
+        "detector_conf": 0.8377780318260193,
+        "text": "LHL3X8997",
+        "ocr_time_ms": 12.54
+      }
+    ]
+  },
+  {
+    "image": "MH15.jpg",
+    "det_time_ms": 10.64,
+    "plates": [
+      {
+        "box": [
+          64,
+          230,
+          170,
+          257
+        ],
+        "detector_conf": 0.8216384649276733,
+        "text": "MHOSEQ4066",
+        "ocr_time_ms": 12.04
+      }
+    ]
+  },
+  {
+    "image": "MH16.jpg",
+    "det_time_ms": 10.01,
+    "plates": [
+      {
+        "box": [
+          104,
+          244,
+          174,
+          265
+        ],
+        "detector_conf": 0.8099012970924377,
+        "text": "Mh12.GR.862",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "MH17.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          338,
+          172,
+          361
+        ],
+        "detector_conf": 0.79010009765625,
+        "text": "MHOLBT,7906",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "MH18.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          101,
+          314,
+          167,
+          338
+        ],
+        "detector_conf": 0.7882794141769409,
+        "text": "Ehizhn4Go7",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "MH19.jpg",
+    "det_time_ms": 8.03,
+    "plates": [
+      {
+        "box": [
+          93,
+          321,
+          184,
+          347
+        ],
+        "detector_conf": 0.7874826192855835,
+        "text": "NH12KN8366",
+        "ocr_time_ms": 12.12
+      }
+    ]
+  },
+  {
+    "image": "MH2.jpg",
+    "det_time_ms": 9.99,
+    "plates": [
+      {
+        "box": [
+          91,
+          164,
+          159,
+          181
+        ],
+        "detector_conf": 0.8242834210395813,
+        "text": "ELelk2798",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "MH20.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          234,
+          179,
+          250
+        ],
+        "detector_conf": 0.7638853192329407,
+        "text": "MiizkJ7652",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "MH21.jpg",
+    "det_time_ms": 7.98,
+    "plates": [
+      {
+        "box": [
+          97,
+          368,
+          185,
+          391
+        ],
+        "detector_conf": 0.7798269391059875,
+        "text": "MH04DR8508",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "MH22.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          82,
+          150,
+          94
+        ],
+        "detector_conf": 0.7744606137275696,
+        "text": "",
+        "ocr_time_ms": 4.26
+      }
+    ]
+  },
+  {
+    "image": "MH23.jpg",
+    "det_time_ms": 11.02,
+    "plates": [
+      {
+        "box": [
+          107,
+          143,
+          164,
+          159
+        ],
+        "detector_conf": 0.8132236003875732,
+        "text": "Diteasabad",
+        "ocr_time_ms": 21.01
+      }
+    ]
+  },
+  {
+    "image": "MH24.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          171,
+          180,
+          191
+        ],
+        "detector_conf": 0.8242760300636292,
+        "text": "Mhoahf50jz",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "MH25.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          265,
+          178,
+          285
+        ],
+        "detector_conf": 0.8081127405166626,
+        "text": "Mh12FK1392",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "MH26.jpg",
+    "det_time_ms": 12.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          210,
+          172,
+          230
+        ],
+        "detector_conf": 0.8419930338859558,
+        "text": "Mh12HF5057",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "MH3.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          102,
+          233,
+          168,
+          250
+        ],
+        "detector_conf": 0.8138881921768188,
+        "text": "Mi4:62c4",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "MH4.jpg",
+    "det_time_ms": 9.03,
+    "plates": [
+      {
+        "box": [
+          84,
+          187,
+          178,
+          209
+        ],
+        "detector_conf": 0.7817971110343933,
+        "text": "miiJ?MEE42",
+        "ocr_time_ms": 21.6
+      }
+    ]
+  },
+  {
+    "image": "MH6.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          108,
+          224,
+          175,
+          242
+        ],
+        "detector_conf": 0.7673917412757874,
+        "text": "Mh47N01z",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "MH7.jpg",
+    "det_time_ms": 11.76,
+    "plates": [
+      {
+        "box": [
+          94,
+          219,
+          184,
+          240
+        ],
+        "detector_conf": 0.8008649349212646,
+        "text": "72k*0021",
+        "ocr_time_ms": 19.27
+      }
+    ]
+  },
+  {
+    "image": "MH8.jpg",
+    "det_time_ms": 9.23,
+    "plates": [
+      {
+        "box": [
+          103,
+          151,
+          173,
+          173
+        ],
+        "detector_conf": 0.8087378144264221,
+        "text": "Mho2DN.7410",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "ML1.jpg",
+    "det_time_ms": 9.55,
+    "plates": [
+      {
+        "box": [
+          91,
+          64,
+          164,
+          83
+        ],
+        "detector_conf": 0.8261984586715698,
+        "text": "FhL05F6894",
+        "ocr_time_ms": 13.07
+      }
+    ]
+  },
+  {
+    "image": "ML10.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          125,
+          151,
+          179,
+          165
+        ],
+        "detector_conf": 0.7714906334877014,
+        "text": "Idulsi",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "ML11.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          43,
+          77,
+          116,
+          108
+        ],
+        "detector_conf": 0.8151304721832275,
+        "text": "cLu]",
+        "ocr_time_ms": 23.0
+      }
+    ]
+  },
+  {
+    "image": "ML12.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          162,
+          182,
+          181
+        ],
+        "detector_conf": 0.8003330230712891,
+        "text": "EL05F9854",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "ML13.jpg",
+    "det_time_ms": 10.93,
+    "plates": [
+      {
+        "box": [
+          93,
+          314,
+          183,
+          334
+        ],
+        "detector_conf": 0.7172950506210327,
+        "text": "H05H4958",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "ML14.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          132,
+          16,
+          206,
+          38
+        ],
+        "detector_conf": 0.7695295810699463,
+        "text": "EL1089u08",
+        "ocr_time_ms": 20.03
+      }
+    ]
+  },
+  {
+    "image": "ML15.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          281,
+          187,
+          308
+        ],
+        "detector_conf": 0.8506301045417786,
+        "text": "1909",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "ML16.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          23,
+          88,
+          76,
+          116
+        ],
+        "detector_conf": 0.8090639710426331,
+        "text": "C2",
+        "ocr_time_ms": 20.25
+      }
+    ]
+  },
+  {
+    "image": "ML17.jpg",
+    "det_time_ms": 11.14,
+    "plates": [
+      {
+        "box": [
+          106,
+          239,
+          178,
+          259
+        ],
+        "detector_conf": 0.7990137934684753,
+        "text": "05L5150",
+        "ocr_time_ms": 10.58
+      }
+    ]
+  },
+  {
+    "image": "ML18.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          70,
+          418,
+          164,
+          443
+        ],
+        "detector_conf": 0.7739495038986206,
+        "text": "EL1084503|",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "ML19.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          297,
+          192,
+          319
+        ],
+        "detector_conf": 0.7990425825119019,
+        "text": "MLOAC0056",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "ML2.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          244,
+          193,
+          267
+        ],
+        "detector_conf": 0.8030518889427185,
+        "text": "EMl050879g",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "ML20.jpg",
+    "det_time_ms": 8.05,
+    "plates": [
+      {
+        "box": [
+          129,
+          252,
+          208,
+          271
+        ],
+        "detector_conf": 0.8047294616699219,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "ML21.jpg",
+    "det_time_ms": 10.37,
+    "plates": [
+      {
+        "box": [
+          101,
+          210,
+          174,
+          228
+        ],
+        "detector_conf": 0.7900550961494446,
+        "text": "AL05J3288",
+        "ocr_time_ms": 12.04
+      }
+    ]
+  },
+  {
+    "image": "ML22.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          194,
+          163,
+          212
+        ],
+        "detector_conf": 0.8103181719779968,
+        "text": "~Miqaz841",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "ML23.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          83,
+          199,
+          181,
+          223
+        ],
+        "detector_conf": 0.8151767253875732,
+        "text": "MLO5R1934",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "ML24.jpg",
+    "det_time_ms": 12.0,
+    "plates": [
+      {
+        "box": [
+          108,
+          114,
+          164,
+          130
+        ],
+        "detector_conf": 0.7843580842018127,
+        "text": "FL0562550",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "ML25.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          203,
+          176,
+          224
+        ],
+        "detector_conf": 0.8138835430145264,
+        "text": "ELL048e289",
+        "ocr_time_ms": 14.01
+      }
+    ]
+  },
+  {
+    "image": "ML26.jpg",
+    "det_time_ms": 11.78,
+    "plates": [
+      {
+        "box": [
+          91,
+          248,
+          171,
+          273
+        ],
+        "detector_conf": 0.8079906105995178,
+        "text": "EnLog0J6",
+        "ocr_time_ms": 19.15
+      }
+    ]
+  },
+  {
+    "image": "ML27.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          113,
+          208,
+          180,
+          226
+        ],
+        "detector_conf": 0.795807957649231,
+        "text": "05K9494",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "ML28.jpg",
+    "det_time_ms": 13.0,
+    "plates": [
+      {
+        "box": [
+          69,
+          232,
+          158,
+          256
+        ],
+        "detector_conf": 0.7967076301574707,
+        "text": "RL0B8061",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "ML29.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          70,
+          193,
+          89
+        ],
+        "detector_conf": 0.7804772853851318,
+        "text": "MLOA\u20ac4738",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "ML30.jpg",
+    "det_time_ms": 8.16,
+    "plates": [
+      {
+        "box": [
+          48,
+          221,
+          106,
+          237
+        ],
+        "detector_conf": 0.768844723701477,
+        "text": "WLosCs200",
+        "ocr_time_ms": 12.87
+      }
+    ]
+  },
+  {
+    "image": "ML31.jpg",
+    "det_time_ms": 9.78,
+    "plates": [
+      {
+        "box": [
+          54,
+          129,
+          183,
+          154
+        ],
+        "detector_conf": 0.790094792842865,
+        "text": "HL05J8950",
+        "ocr_time_ms": 12.9
+      }
+    ]
+  },
+  {
+    "image": "ML32.jpg",
+    "det_time_ms": 8.46,
+    "plates": [
+      {
+        "box": [
+          91,
+          342,
+          177,
+          364
+        ],
+        "detector_conf": 0.728718638420105,
+        "text": "QLI0C267=",
+        "ocr_time_ms": 21.57
+      }
+    ]
+  },
+  {
+    "image": "ML33.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          81,
+          275,
+          169,
+          302
+        ],
+        "detector_conf": 0.7915259599685669,
+        "text": "ALO4De9i8",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "ML34.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          151,
+          181,
+          173
+        ],
+        "detector_conf": 0.7605666518211365,
+        "text": "Lulo5tiob4",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "ML35.jpg",
+    "det_time_ms": 9.78,
+    "plates": [
+      {
+        "box": [
+          122,
+          224,
+          192,
+          243
+        ],
+        "detector_conf": 0.8242802023887634,
+        "text": "ANL0563474",
+        "ocr_time_ms": 12.99
+      }
+    ]
+  },
+  {
+    "image": "ML36.jpg",
+    "det_time_ms": 8.74,
+    "plates": [
+      {
+        "box": [
+          116,
+          224,
+          177,
+          244
+        ],
+        "detector_conf": 0.8018056154251099,
+        "text": "LnLoe@Qioo}",
+        "ocr_time_ms": 19.49
+      }
+    ]
+  },
+  {
+    "image": "ML37.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          111,
+          90,
+          156,
+          104
+        ],
+        "detector_conf": 0.7508911490440369,
+        "text": "ILJ",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "ML38.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          95,
+          270,
+          203,
+          299
+        ],
+        "detector_conf": 0.7971207499504089,
+        "text": "ML064696",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "ML39.jpg",
+    "det_time_ms": 9.1,
+    "plates": [
+      {
+        "box": [
+          127,
+          118,
+          197,
+          137
+        ],
+        "detector_conf": 0.8064818978309631,
+        "text": "Fal0566098",
+        "ocr_time_ms": 11.68
+      }
+    ]
+  },
+  {
+    "image": "ML5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          102,
+          219,
+          157,
+          235
+        ],
+        "detector_conf": 0.7831525206565857,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "ML7.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          78,
+          233,
+          172,
+          258
+        ],
+        "detector_conf": 0.7973769307136536,
+        "text": "MLO69642",
+        "ocr_time_ms": 11.21
+      }
+    ]
+  },
+  {
+    "image": "ML8.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          188,
+          231,
+          261,
+          274
+        ],
+        "detector_conf": 0.8282787203788757,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "MN2.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          109,
+          253,
+          176,
+          273
+        ],
+        "detector_conf": 0.790618896484375,
+        "text": "El05400281",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "MN3.jpg",
+    "det_time_ms": 9.77,
+    "plates": [
+      {
+        "box": [
+          79,
+          172,
+          149,
+          192
+        ],
+        "detector_conf": 0.7900310158729553,
+        "text": "Exno1g02974",
+        "ocr_time_ms": 11.17
+      }
+    ]
+  },
+  {
+    "image": "MN4.jpg",
+    "det_time_ms": 36.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          7,
+          158,
+          24
+        ],
+        "detector_conf": 0.8032552003860474,
+        "text": "Hd",
+        "ocr_time_ms": 19.01
+      }
+    ]
+  },
+  {
+    "image": "MN5.jpg",
+    "det_time_ms": 8.51,
+    "plates": [
+      {
+        "box": [
+          114,
+          161,
+          181,
+          179
+        ],
+        "detector_conf": 0.8102449178695679,
+        "text": "FwMO1g5395",
+        "ocr_time_ms": 21.04
+      }
+    ]
+  },
+  {
+    "image": "MN6.jpg",
+    "det_time_ms": 11.16,
+    "plates": [
+      {
+        "box": [
+          82,
+          242,
+          158,
+          262
+        ],
+        "detector_conf": 0.7835105061531067,
+        "text": "Ecdlk5246",
+        "ocr_time_ms": 22.84
+      }
+    ]
+  },
+  {
+    "image": "MP1.jpg",
+    "det_time_ms": 12.65,
+    "plates": [
+      {
+        "box": [
+          88,
+          268,
+          171,
+          290
+        ],
+        "detector_conf": 0.8167533874511719,
+        "text": "MPocCL364E",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "MP10.jpg",
+    "det_time_ms": 10.09,
+    "plates": [
+      {
+        "box": [
+          96,
+          267,
+          186,
+          285
+        ],
+        "detector_conf": 0.7970833778381348,
+        "text": "MPO8CA6293|",
+        "ocr_time_ms": 15.0
+      }
+    ]
+  },
+  {
+    "image": "MP11.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          202,
+          186,
+          227
+        ],
+        "detector_conf": 0.8127347826957703,
+        "text": "FMPozCB8897",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "MP2.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          39,
+          125,
+          100,
+          143
+        ],
+        "detector_conf": 0.8074812889099121,
+        "text": "\"APOLcL8840",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "MP3.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          205,
+          168,
+          223
+        ],
+        "detector_conf": 0.7864624261856079,
+        "text": "ChpesC-0854",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "MP4.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          98,
+          197,
+          158,
+          215
+        ],
+        "detector_conf": 0.7990104556083679,
+        "text": "Mro9ck.4943",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "MP5.jpg",
+    "det_time_ms": 8.91,
+    "plates": [
+      {
+        "box": [
+          100,
+          226,
+          172,
+          247
+        ],
+        "detector_conf": 0.7819022536277771,
+        "text": "NP2OTA0949",
+        "ocr_time_ms": 10.72
+      }
+    ]
+  },
+  {
+    "image": "MP6.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          237,
+          179,
+          258
+        ],
+        "detector_conf": 0.8217641711235046,
+        "text": "Tai6r",
+        "ocr_time_ms": 21.58
+      }
+    ]
+  },
+  {
+    "image": "MP7.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          98,
+          229,
+          184,
+          254
+        ],
+        "detector_conf": 0.7822343707084656,
+        "text": "ENPogBD1270",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "MP8.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          184,
+          177,
+          205
+        ],
+        "detector_conf": 0.7907742857933044,
+        "text": "MPo9CQ9712",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "MP9.jpg",
+    "det_time_ms": 8.65,
+    "plates": [
+      {
+        "box": [
+          188,
+          218,
+          250,
+          246
+        ],
+        "detector_conf": 0.7930247783660889,
+        "text": "PaGhi",
+        "ocr_time_ms": 19.97
+      }
+    ]
+  },
+  {
+    "image": "MZ1.jpg",
+    "det_time_ms": 7.84,
+    "plates": [
+      {
+        "box": [
+          118,
+          96,
+          184,
+          114
+        ],
+        "detector_conf": 0.7880319356918335,
+        "text": "3nZ069825",
+        "ocr_time_ms": 11.57
+      }
+    ]
+  },
+  {
+    "image": "NL2.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          74,
+          298,
+          183,
+          332
+        ],
+        "detector_conf": 0.7564952373504639,
+        "text": "0c84pB",
+        "ocr_time_ms": 17.74
+      }
+    ]
+  },
+  {
+    "image": "NL3.jpg",
+    "det_time_ms": 9.26,
+    "plates": [
+      {
+        "box": [
+          118,
+          145,
+          197,
+          171
+        ],
+        "detector_conf": 0.7919624447822571,
+        "text": "FL07844O",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "NL4.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          169,
+          387,
+          234,
+          423
+        ],
+        "detector_conf": 0.7750958204269409,
+        "text": "[020234",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "NL5.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          52,
+          362,
+          121,
+          407
+        ],
+        "detector_conf": 0.7790347933769226,
+        "text": "107047621",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "NL6.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          213,
+          244,
+          263,
+          266
+        ],
+        "detector_conf": 0.7704256772994995,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "NL7.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          230,
+          164,
+          249
+        ],
+        "detector_conf": 0.7601921558380127,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "NL8.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          118,
+          182,
+          202,
+          205
+        ],
+        "detector_conf": 0.8001245260238647,
+        "text": "ML07170937",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "NL9.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          66,
+          416,
+          166,
+          445
+        ],
+        "detector_conf": 0.7694149613380432,
+        "text": "NL02C6709",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "OD10.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          244,
+          180,
+          264
+        ],
+        "detector_conf": 0.800072193145752,
+        "text": "OD05K6964",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "OD11.jpg",
+    "det_time_ms": 8.22,
+    "plates": [
+      {
+        "box": [
+          163,
+          250,
+          218,
+          270
+        ],
+        "detector_conf": 0.7670121192932129,
+        "text": "",
+        "ocr_time_ms": 4.1
+      }
+    ]
+  },
+  {
+    "image": "OD12.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          103,
+          309,
+          174,
+          331
+        ],
+        "detector_conf": 0.7449108362197876,
+        "text": "004n",
+        "ocr_time_ms": 26.0
+      }
+    ]
+  },
+  {
+    "image": "OD13.jpg",
+    "det_time_ms": 8.05,
+    "plates": [
+      {
+        "box": [
+          95,
+          94,
+          157,
+          111
+        ],
+        "detector_conf": 0.810501217842102,
+        "text": "Aod052323",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "OD14.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          186,
+          167,
+          206
+        ],
+        "detector_conf": 0.7829576134681702,
+        "text": "0d02L.4656",
+        "ocr_time_ms": 12.14
+      }
+    ]
+  },
+  {
+    "image": "OD15.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          109,
+          54,
+          173,
+          73
+        ],
+        "detector_conf": 0.8075329065322876,
+        "text": "cowiu",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "OD16.jpg",
+    "det_time_ms": 9.59,
+    "plates": [
+      {
+        "box": [
+          80,
+          328,
+          171,
+          353
+        ],
+        "detector_conf": 0.7678209543228149,
+        "text": "OR-14U8730",
+        "ocr_time_ms": 11.54
+      }
+    ]
+  },
+  {
+    "image": "OD17.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          139,
+          150,
+          153
+        ],
+        "detector_conf": 0.8028737306594849,
+        "text": "OPALA4Z",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "OD18.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          64,
+          122,
+          130,
+          136
+        ],
+        "detector_conf": 0.786697268486023,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "OD19.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          100,
+          129,
+          166,
+          147
+        ],
+        "detector_conf": 0.7934853434562683,
+        "text": "OD-ALP6423",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "OD20.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          116,
+          121,
+          192,
+          140
+        ],
+        "detector_conf": 0.8058968186378479,
+        "text": "Ooghte-ata",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "OD22.jpg",
+    "det_time_ms": 8.81,
+    "plates": [
+      {
+        "box": [
+          101,
+          53,
+          217,
+          118
+        ],
+        "detector_conf": 0.7534850239753723,
+        "text": "OR05Ac0422",
+        "ocr_time_ms": 41.65
+      }
+    ]
+  },
+  {
+    "image": "OD23.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          117,
+          162,
+          130
+        ],
+        "detector_conf": 0.7836114764213562,
+        "text": "ORZIEuja",
+        "ocr_time_ms": 23.0
+      }
+    ]
+  },
+  {
+    "image": "OD24.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          103,
+          220,
+          161,
+          234
+        ],
+        "detector_conf": 0.7605217099189758,
+        "text": "[00.02440435",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "OD25.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          279,
+          185,
+          299
+        ],
+        "detector_conf": 0.783943235874176,
+        "text": "OD02AR-3010",
+        "ocr_time_ms": 13.99
+      }
+    ]
+  },
+  {
+    "image": "OD26.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          188,
+          202,
+          214
+        ],
+        "detector_conf": 0.7700359225273132,
+        "text": "FOD021481",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "OD27.jpg",
+    "det_time_ms": 10.17,
+    "plates": [
+      {
+        "box": [
+          118,
+          128,
+          179,
+          143
+        ],
+        "detector_conf": 0.7961756587028503,
+        "text": "",
+        "ocr_time_ms": 4.04
+      }
+    ]
+  },
+  {
+    "image": "OD3.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          80,
+          168,
+          98
+        ],
+        "detector_conf": 0.8074837327003479,
+        "text": "Epoozv000}/",
+        "ocr_time_ms": 20.89
+      }
+    ]
+  },
+  {
+    "image": "OD4.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          126,
+          329,
+          223,
+          352
+        ],
+        "detector_conf": 0.754015326499939,
+        "text": "OD-02C-2836",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "OD5.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          193,
+          183,
+          213
+        ],
+        "detector_conf": 0.8080416321754456,
+        "text": "ODI4E3131",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "OD6.jpg",
+    "det_time_ms": 6.99,
+    "plates": [
+      {
+        "box": [
+          98,
+          328,
+          175,
+          357
+        ],
+        "detector_conf": 0.7968857288360596,
+        "text": "@ROBE4OoL",
+        "ocr_time_ms": 20.29
+      }
+    ]
+  },
+  {
+    "image": "OD9.jpg",
+    "det_time_ms": 10.14,
+    "plates": [
+      {
+        "box": [
+          101,
+          227,
+          195,
+          250
+        ],
+        "detector_conf": 0.8132665157318115,
+        "text": "@D334,2616]",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "PB1.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          89,
+          211,
+          189,
+          240
+        ],
+        "detector_conf": 0.7773515582084656,
+        "text": "PBIIBG7347",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "PB10.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          355,
+          194,
+          376
+        ],
+        "detector_conf": 0.7488723397254944,
+        "text": "FPBT1BN6101",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "PB11.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          66,
+          142,
+          186,
+          172
+        ],
+        "detector_conf": 0.792873740196228,
+        "text": "CPBO8c03690",
+        "ocr_time_ms": 16.0
+      }
+    ]
+  },
+  {
+    "image": "PB12.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          132,
+          180,
+          157
+        ],
+        "detector_conf": 0.8310762643814087,
+        "text": "PBO7BY3563",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "PB13.jpg",
+    "det_time_ms": 8.93,
+    "plates": [
+      {
+        "box": [
+          109,
+          157,
+          179,
+          171
+        ],
+        "detector_conf": 0.7743330001831055,
+        "text": "P8o80u4342",
+        "ocr_time_ms": 12.06
+      }
+    ]
+  },
+  {
+    "image": "PB14.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          111,
+          260,
+          201,
+          281
+        ],
+        "detector_conf": 0.7869608998298645,
+        "text": "{PBIOEH0164",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "PB15.jpg",
+    "det_time_ms": 7.98,
+    "plates": [
+      {
+        "box": [
+          97,
+          290,
+          172,
+          310
+        ],
+        "detector_conf": 0.7931105494499207,
+        "text": "FP326040]",
+        "ocr_time_ms": 18.01
+      }
+    ]
+  },
+  {
+    "image": "PB17.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          80,
+          157,
+          170,
+          179
+        ],
+        "detector_conf": 0.7955144643783569,
+        "text": "LP823$8600_",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "PB18.jpg",
+    "det_time_ms": 9.02,
+    "plates": [
+      {
+        "box": [
+          114,
+          157,
+          187,
+          175
+        ],
+        "detector_conf": 0.8061692118644714,
+        "text": "FP8O8BF6160",
+        "ocr_time_ms": 12.99
+      }
+    ]
+  },
+  {
+    "image": "PB19.jpg",
+    "det_time_ms": 9.52,
+    "plates": [
+      {
+        "box": [
+          109,
+          150,
+          172,
+          166
+        ],
+        "detector_conf": 0.8233989477157593,
+        "text": "EPEc00209",
+        "ocr_time_ms": 20.03
+      }
+    ]
+  },
+  {
+    "image": "PB2.jpg",
+    "det_time_ms": 9.5,
+    "plates": [
+      {
+        "box": [
+          109,
+          210,
+          172,
+          227
+        ],
+        "detector_conf": 0.7770238518714905,
+        "text": "EP00454753",
+        "ocr_time_ms": 11.58
+      }
+    ]
+  },
+  {
+    "image": "PB20.jpg",
+    "det_time_ms": 10.43,
+    "plates": [
+      {
+        "box": [
+          103,
+          162,
+          166,
+          180
+        ],
+        "detector_conf": 0.8262069225311279,
+        "text": "PBZIR8I23",
+        "ocr_time_ms": 11.12
+      }
+    ]
+  },
+  {
+    "image": "PB21.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          71,
+          361,
+          171,
+          394
+        ],
+        "detector_conf": 0.7669365406036377,
+        "text": "PB3748269",
+        "ocr_time_ms": 11.5
+      }
+    ]
+  },
+  {
+    "image": "PB22.jpg",
+    "det_time_ms": 10.47,
+    "plates": [
+      {
+        "box": [
+          101,
+          146,
+          193,
+          168
+        ],
+        "detector_conf": 0.8166826963424683,
+        "text": "Epbo6an6162",
+        "ocr_time_ms": 12.22
+      }
+    ]
+  },
+  {
+    "image": "PB23.jpg",
+    "det_time_ms": 9.74,
+    "plates": [
+      {
+        "box": [
+          120,
+          111,
+          163,
+          125
+        ],
+        "detector_conf": 0.7737544178962708,
+        "text": "DGI",
+        "ocr_time_ms": 20.08
+      }
+    ]
+  },
+  {
+    "image": "PB24.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          83,
+          259,
+          168,
+          281
+        ],
+        "detector_conf": 0.820047914981842,
+        "text": "CPBozoy7380",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "PB25.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          124,
+          231,
+          185,
+          247
+        ],
+        "detector_conf": 0.7790743708610535,
+        "text": "EPRloc5005",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "PB26.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          19,
+          239,
+          90,
+          297
+        ],
+        "detector_conf": 0.8558081388473511,
+        "text": "Tent40678",
+        "ocr_time_ms": 24.0
+      }
+    ]
+  },
+  {
+    "image": "PB27.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          92,
+          234,
+          176,
+          256
+        ],
+        "detector_conf": 0.8238190412521362,
+        "text": "EPB654n2583",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "PB29.jpg",
+    "det_time_ms": 8.86,
+    "plates": [
+      {
+        "box": [
+          109,
+          186,
+          180,
+          206
+        ],
+        "detector_conf": 0.8056660890579224,
+        "text": "PBIOEE0888",
+        "ocr_time_ms": 15.61
+      }
+    ]
+  },
+  {
+    "image": "PB30.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          72,
+          100,
+          131,
+          114
+        ],
+        "detector_conf": 0.7887134552001953,
+        "text": "ReoeDi4nz]",
+        "ocr_time_ms": 19.06
+      }
+    ]
+  },
+  {
+    "image": "PB4.jpg",
+    "det_time_ms": 10.57,
+    "plates": [
+      {
+        "box": [
+          100,
+          267,
+          186,
+          287
+        ],
+        "detector_conf": 0.8107079267501831,
+        "text": "EPBOZ@L8,058",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "PB5.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          34,
+          215,
+          79,
+          231
+        ],
+        "detector_conf": 0.7616697549819946,
+        "text": "Eukz",
+        "ocr_time_ms": 16.67
+      }
+    ]
+  },
+  {
+    "image": "PB6.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          104,
+          259,
+          203,
+          288
+        ],
+        "detector_conf": 0.7855232954025269,
+        "text": "FPB134F6756,",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "PB7.jpg",
+    "det_time_ms": 10.77,
+    "plates": [
+      {
+        "box": [
+          108,
+          152,
+          168,
+          169
+        ],
+        "detector_conf": 0.8106772899627686,
+        "text": "Peioovsisa",
+        "ocr_time_ms": 13.01
+      }
+    ]
+  },
+  {
+    "image": "PB8.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          242,
+          175,
+          264
+        ],
+        "detector_conf": 0.800005316734314,
+        "text": "\"PBIOCOOOOS",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "PB9.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          102,
+          229,
+          174,
+          246
+        ],
+        "detector_conf": 0.7531316876411438,
+        "text": "EPEE9ZJ",
+        "ocr_time_ms": 21.0
+      },
+      {
+        "box": [
+          99,
+          202,
+          177,
+          213
+        ],
+        "detector_conf": 0.34489279985427856,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "PY1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          281,
+          174,
+          301
+        ],
+        "detector_conf": 0.8212352991104126,
+        "text": "P0-0-7047",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "PY10.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          89,
+          271,
+          185,
+          296
+        ],
+        "detector_conf": 0.8207428455352783,
+        "text": "[PYo1cE41zg]",
+        "ocr_time_ms": 13.58
+      }
+    ]
+  },
+  {
+    "image": "PY12.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          118,
+          162,
+          180,
+          184
+        ],
+        "detector_conf": 0.8030271530151367,
+        "text": "Eploiah9o6",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "PY13.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          290,
+          179,
+          312
+        ],
+        "detector_conf": 0.7959369421005249,
+        "text": "PLOCG2929",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "PY14.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          126,
+          225,
+          184,
+          251
+        ],
+        "detector_conf": 0.777684211730957,
+        "text": "PYOIdwz",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "PY15.jpg",
+    "det_time_ms": 9.97,
+    "plates": [
+      {
+        "box": [
+          100,
+          222,
+          171,
+          243
+        ],
+        "detector_conf": 0.8008155822753906,
+        "text": "EPy0548339",
+        "ocr_time_ms": 11.58
+      }
+    ]
+  },
+  {
+    "image": "PY16.jpg",
+    "det_time_ms": 10.56,
+    "plates": [
+      {
+        "box": [
+          98,
+          163,
+          169,
+          180
+        ],
+        "detector_conf": 0.7474392056465149,
+        "text": "PLoL.BU,?406",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "PY17.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          135,
+          172,
+          158
+        ],
+        "detector_conf": 0.8122501969337463,
+        "text": "PY02$9326",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "PY18.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          213,
+          160,
+          236
+        ],
+        "detector_conf": 0.789060652256012,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "PY2.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          263,
+          191,
+          285
+        ],
+        "detector_conf": 0.7927106618881226,
+        "text": "FPYO1CH9549]",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "PY3.jpg",
+    "det_time_ms": 8.01,
+    "plates": [
+      {
+        "box": [
+          86,
+          242,
+          171,
+          266
+        ],
+        "detector_conf": 0.7796472311019897,
+        "text": "EPYoICM5400",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "PY4.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          87,
+          184,
+          111
+        ],
+        "detector_conf": 0.826007068157196,
+        "text": "EPY02$7828",
+        "ocr_time_ms": 16.68
+      }
+    ]
+  },
+  {
+    "image": "PY5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          82,
+          274,
+          176,
+          294
+        ],
+        "detector_conf": 0.7692945599555969,
+        "text": "FYOLAw2814",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "PY6.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          261,
+          183,
+          282
+        ],
+        "detector_conf": 0.8046113848686218,
+        "text": "EPYOIAP0555}",
+        "ocr_time_ms": 14.01
+      }
+    ]
+  },
+  {
+    "image": "PY7.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          116,
+          312,
+          190,
+          332
+        ],
+        "detector_conf": 0.7995746731758118,
+        "text": "PR03.6993",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "PY8.jpg",
+    "det_time_ms": 8.43,
+    "plates": [
+      {
+        "box": [
+          98,
+          397,
+          208,
+          426
+        ],
+        "detector_conf": 0.791664183139801,
+        "text": "PYO1B0902O",
+        "ocr_time_ms": 12.11
+      }
+    ]
+  },
+  {
+    "image": "PY9.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          253,
+          173,
+          273
+        ],
+        "detector_conf": 0.8053663372993469,
+        "text": "EPYo55353",
+        "ocr_time_ms": 16.0
+      }
+    ]
+  },
+  {
+    "image": "RJ10.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          275,
+          175,
+          296
+        ],
+        "detector_conf": 0.8193608522415161,
+        "text": "ERJ14C43730",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "RJ2.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          114,
+          177,
+          138
+        ],
+        "detector_conf": 0.8085191249847412,
+        "text": "LRJIacn4415",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "RJ4.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          87,
+          247,
+          182,
+          273
+        ],
+        "detector_conf": 0.8276981115341187,
+        "text": "FRJ2OCD5118",
+        "ocr_time_ms": 11.03
+      }
+    ]
+  },
+  {
+    "image": "RJ5.jpg",
+    "det_time_ms": 10.97,
+    "plates": [
+      {
+        "box": [
+          90,
+          201,
+          181,
+          226
+        ],
+        "detector_conf": 0.8319757580757141,
+        "text": "RJILCF580Z]",
+        "ocr_time_ms": 12.01
+      }
+    ]
+  },
+  {
+    "image": "RJ6.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          152,
+          260,
+          233,
+          296
+        ],
+        "detector_conf": 0.7958418130874634,
+        "text": "FR423002222",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "RJ7.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          254,
+          184,
+          277
+        ],
+        "detector_conf": 0.815175473690033,
+        "text": "RJZ3CBL320",
+        "ocr_time_ms": 12.01
+      }
+    ]
+  },
+  {
+    "image": "RJ9.jpg",
+    "det_time_ms": 9.36,
+    "plates": [
+      {
+        "box": [
+          100,
+          260,
+          171,
+          274
+        ],
+        "detector_conf": 0.7518072128295898,
+        "text": "A.20UB0137",
+        "ocr_time_ms": 34.14
+      }
+    ]
+  },
+  {
+    "image": "SK1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          140,
+          174,
+          160
+        ],
+        "detector_conf": 0.8039113879203796,
+        "text": "SKOiPa2969",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "SK10.jpg",
+    "det_time_ms": 10.57,
+    "plates": [
+      {
+        "box": [
+          68,
+          189,
+          126,
+          205
+        ],
+        "detector_conf": 0.7867130041122437,
+        "text": "45401p95004",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "SK11.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          290,
+          161,
+          309
+        ],
+        "detector_conf": 0.7897937297821045,
+        "text": "Sn?piOm:",
+        "ocr_time_ms": 25.0
+      }
+    ]
+  },
+  {
+    "image": "SK12.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          62,
+          288,
+          142,
+          325
+        ],
+        "detector_conf": 0.8220433592796326,
+        "text": "Fk0d412839",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "SK13.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          106,
+          122,
+          170,
+          141
+        ],
+        "detector_conf": 0.8017367124557495,
+        "text": "45405[4JJ8",
+        "ocr_time_ms": 20.0
+      }
+    ]
+  },
+  {
+    "image": "SK2.jpg",
+    "det_time_ms": 9.31,
+    "plates": [
+      {
+        "box": [
+          91,
+          229,
+          171,
+          255
+        ],
+        "detector_conf": 0.7919650673866272,
+        "text": "Esu1794",
+        "ocr_time_ms": 11.02
+      }
+    ]
+  },
+  {
+    "image": "SK3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          235,
+          182,
+          257
+        ],
+        "detector_conf": 0.8235193490982056,
+        "text": "SKQP4ZZ08",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "SK4.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          191,
+          275,
+          248,
+          307
+        ],
+        "detector_conf": 0.8188804388046265,
+        "text": "ESKB",
+        "ocr_time_ms": 18.0
+      }
+    ]
+  },
+  {
+    "image": "SK5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          415,
+          172,
+          431
+        ],
+        "detector_conf": 0.7725176215171814,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "SK6.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          97,
+          257,
+          179,
+          279
+        ],
+        "detector_conf": 0.7916235327720642,
+        "text": "LSKQ4P1320]",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "SK7.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          65,
+          243,
+          128,
+          275
+        ],
+        "detector_conf": 0.8234636783599854,
+        "text": "JEozhld",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "SK8.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          32,
+          188,
+          97,
+          224
+        ],
+        "detector_conf": 0.8283677697181702,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "SK9.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          302,
+          190,
+          327
+        ],
+        "detector_conf": 0.8061330318450928,
+        "text": "ESK017879",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "TN1.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          106,
+          222,
+          162,
+          238
+        ],
+        "detector_conf": 0.790421724319458,
+        "text": "462842954",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "TN10.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          76,
+          238,
+          188,
+          266
+        ],
+        "detector_conf": 0.8141847252845764,
+        "text": "[N624j4455]",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "TN2.jpg",
+    "det_time_ms": 9.01,
+    "plates": [
+      {
+        "box": [
+          101,
+          281,
+          173,
+          300
+        ],
+        "detector_conf": 0.7514403462409973,
+        "text": "NZ6V1978",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "TN3.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          86,
+          304,
+          189,
+          332
+        ],
+        "detector_conf": 0.8088515400886536,
+        "text": "INg2449295",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "TN4.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          146,
+          174,
+          170
+        ],
+        "detector_conf": 0.8232970237731934,
+        "text": "InjOAR0431",
+        "ocr_time_ms": 15.0
+      }
+    ]
+  },
+  {
+    "image": "TN5.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          340,
+          193,
+          360
+        ],
+        "detector_conf": 0.694581151008606,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "TN6.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          87,
+          193,
+          111
+        ],
+        "detector_conf": 0.7936808466911316,
+        "text": "IN19F0816",
+        "ocr_time_ms": 12.97
+      }
+    ]
+  },
+  {
+    "image": "TN7.jpg",
+    "det_time_ms": 9.5,
+    "plates": [
+      {
+        "box": [
+          96,
+          229,
+          184,
+          250
+        ],
+        "detector_conf": 0.8204106688499451,
+        "text": "[n0zB15778",
+        "ocr_time_ms": 11.54
+      }
+    ]
+  },
+  {
+    "image": "TN8.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          85,
+          69,
+          172,
+          95
+        ],
+        "detector_conf": 0.8207119107246399,
+        "text": "IN07AP0659",
+        "ocr_time_ms": 11.99
+      }
+    ]
+  },
+  {
+    "image": "TN9.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          86,
+          274,
+          170,
+          299
+        ],
+        "detector_conf": 0.7790167927742004,
+        "text": "Tn190835",
+        "ocr_time_ms": 16.0
+      }
+    ]
+  },
+  {
+    "image": "TR1.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          92,
+          163,
+          112
+        ],
+        "detector_conf": 0.810788631439209,
+        "text": "ATROSBO208",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "TR10.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          326,
+          184,
+          351
+        ],
+        "detector_conf": 0.7714694142341614,
+        "text": "IROZD0569",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "TR2.jpg",
+    "det_time_ms": 10.21,
+    "plates": [
+      {
+        "box": [
+          77,
+          270,
+          178,
+          298
+        ],
+        "detector_conf": 0.7994548678398132,
+        "text": "IR0Jh0259",
+        "ocr_time_ms": 13.01
+      }
+    ]
+  },
+  {
+    "image": "TR3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          143,
+          228,
+          208,
+          247
+        ],
+        "detector_conf": 0.7850264310836792,
+        "text": "JR0ZL0569",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "TR4.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          98,
+          146,
+          166,
+          165
+        ],
+        "detector_conf": 0.7939147353172302,
+        "text": "Trdino4el",
+        "ocr_time_ms": 21.33
+      }
+    ]
+  },
+  {
+    "image": "TR5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          388,
+          187,
+          418
+        ],
+        "detector_conf": 0.792461097240448,
+        "text": "PiRoX0482",
+        "ocr_time_ms": 17.0
+      }
+    ]
+  },
+  {
+    "image": "TR6.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          91,
+          152,
+          106
+        ],
+        "detector_conf": 0.7780976295471191,
+        "text": "IROI0g0245",
+        "ocr_time_ms": 18.86
+      }
+    ]
+  },
+  {
+    "image": "TR7.jpg",
+    "det_time_ms": 10.34,
+    "plates": [
+      {
+        "box": [
+          153,
+          105,
+          198,
+          137
+        ],
+        "detector_conf": 0.8114838600158691,
+        "text": "",
+        "ocr_time_ms": 4.51
+      }
+    ]
+  },
+  {
+    "image": "TR8.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          35,
+          166,
+          58
+        ],
+        "detector_conf": 0.7614628076553345,
+        "text": "TRAL3",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "TR9.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          312,
+          170,
+          335
+        ],
+        "detector_conf": 0.7865443825721741,
+        "text": "FTro14S0609",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "TS1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          265,
+          185,
+          289
+        ],
+        "detector_conf": 0.7962695956230164,
+        "text": "FTSOBFO1262",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "TS10.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          83,
+          298,
+          183,
+          323
+        ],
+        "detector_conf": 0.8038783669471741,
+        "text": "ISIIEQ2914",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "TS11.jpg",
+    "det_time_ms": 8.52,
+    "plates": [
+      {
+        "box": [
+          133,
+          224,
+          197,
+          247
+        ],
+        "detector_conf": 0.7900323867797852,
+        "text": "4s09E28238",
+        "ocr_time_ms": 21.63
+      }
+    ]
+  },
+  {
+    "image": "TS12.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          339,
+          183,
+          364
+        ],
+        "detector_conf": 0.801026463508606,
+        "text": "FIs89ua7948",
+        "ocr_time_ms": 23.0
+      }
+    ]
+  },
+  {
+    "image": "TS13.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          85,
+          232,
+          197,
+          260
+        ],
+        "detector_conf": 0.8110296726226807,
+        "text": "Ts15es0894",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "TS14.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          277,
+          161,
+          298
+        ],
+        "detector_conf": 0.8164748549461365,
+        "text": "LiS36.H6578]",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "TS15.jpg",
+    "det_time_ms": 9.02,
+    "plates": [
+      {
+        "box": [
+          87,
+          155,
+          167,
+          172
+        ],
+        "detector_conf": 0.7748338580131531,
+        "text": "S13EK6249",
+        "ocr_time_ms": 16.57
+      }
+    ]
+  },
+  {
+    "image": "TS16.jpg",
+    "det_time_ms": 7.93,
+    "plates": [
+      {
+        "box": [
+          8,
+          319,
+          93,
+          417
+        ],
+        "detector_conf": 0.8265994191169739,
+        "text": "81",
+        "ocr_time_ms": 34.1
+      }
+    ]
+  },
+  {
+    "image": "TS2.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          112,
+          231,
+          172,
+          248
+        ],
+        "detector_conf": 0.8191461563110352,
+        "text": "1S07E4,3335",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "TS3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          234,
+          173,
+          253
+        ],
+        "detector_conf": 0.8017035126686096,
+        "text": "IS09E29293",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "TS4.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          107,
+          208,
+          172,
+          225
+        ],
+        "detector_conf": 0.7892566323280334,
+        "text": "4S09E29296",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "TS5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          231,
+          172,
+          248
+        ],
+        "detector_conf": 0.7876150012016296,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "TS6.jpg",
+    "det_time_ms": 9.36,
+    "plates": [
+      {
+        "box": [
+          107,
+          143,
+          156,
+          158
+        ],
+        "detector_conf": 0.7713382840156555,
+        "text": "",
+        "ocr_time_ms": 3.55
+      }
+    ]
+  },
+  {
+    "image": "TS7.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          227,
+          178,
+          247
+        ],
+        "detector_conf": 0.814223051071167,
+        "text": "ETSOBE29463",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "TS8.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          337,
+          181,
+          361
+        ],
+        "detector_conf": 0.7892489433288574,
+        "text": "ISO9EG6565",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "TS9.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          65,
+          145,
+          81
+        ],
+        "detector_conf": 0.7903323173522949,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "UK1.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          217,
+          166,
+          235
+        ],
+        "detector_conf": 0.800687313079834,
+        "text": "VK0842276",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "UK10.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          75,
+          249,
+          170,
+          270
+        ],
+        "detector_conf": 0.8036154508590698,
+        "text": "UKO7AA2432",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "UK2.jpg",
+    "det_time_ms": 9.55,
+    "plates": [
+      {
+        "box": [
+          29,
+          413,
+          156,
+          469
+        ],
+        "detector_conf": 0.8496274352073669,
+        "text": "Fuko6cB/595",
+        "ocr_time_ms": 12.52
+      }
+    ]
+  },
+  {
+    "image": "UK3.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          302,
+          174,
+          326
+        ],
+        "detector_conf": 0.7374062538146973,
+        "text": "LEuk185763",
+        "ocr_time_ms": 22.0
+      },
+      {
+        "box": [
+          25,
+          324,
+          49,
+          335
+        ],
+        "detector_conf": 0.3403083086013794,
+        "text": "",
+        "ocr_time_ms": 5.99
+      }
+    ]
+  },
+  {
+    "image": "UK4.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          346,
+          181,
+          369
+        ],
+        "detector_conf": 0.7762361168861389,
+        "text": "UP23k0008",
+        "ocr_time_ms": 14.99
+      }
+    ]
+  },
+  {
+    "image": "UK5.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          141,
+          175,
+          160
+        ],
+        "detector_conf": 0.8034477829933167,
+        "text": "Euk106679",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "UK6.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          111,
+          275,
+          188,
+          293
+        ],
+        "detector_conf": 0.8119209408760071,
+        "text": "07Dy{789",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "UK7.jpg",
+    "det_time_ms": 8.87,
+    "plates": [
+      {
+        "box": [
+          83,
+          178,
+          159,
+          196
+        ],
+        "detector_conf": 0.7878350615501404,
+        "text": "\"Uk0z445685",
+        "ocr_time_ms": 11.61
+      }
+    ]
+  },
+  {
+    "image": "UK8.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          211,
+          172,
+          230
+        ],
+        "detector_conf": 0.8079376220703125,
+        "text": "TUKOZBKSQ1L",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "UK9.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          96,
+          332,
+          173,
+          354
+        ],
+        "detector_conf": 0.792228102684021,
+        "text": "UKOk495J",
+        "ocr_time_ms": 30.0
+      }
+    ]
+  },
+  {
+    "image": "UP1.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          97,
+          163,
+          197,
+          200
+        ],
+        "detector_conf": 0.8145708441734314,
+        "text": "UP57H8173",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "UP10.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          95,
+          274,
+          187,
+          292
+        ],
+        "detector_conf": 0.7883390188217163,
+        "text": "[uP78DR3730",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "UP11.jpg",
+    "det_time_ms": 8.65,
+    "plates": [
+      {
+        "box": [
+          89,
+          257,
+          173,
+          277
+        ],
+        "detector_conf": 0.7697688341140747,
+        "text": "@P53AK1168",
+        "ocr_time_ms": 11.15
+      }
+    ]
+  },
+  {
+    "image": "UP12.jpg",
+    "det_time_ms": 7.16,
+    "plates": [
+      {
+        "box": [
+          98,
+          282,
+          181,
+          303
+        ],
+        "detector_conf": 0.7344133257865906,
+        "text": "UP14cY7920",
+        "ocr_time_ms": 13.25
+      }
+    ]
+  },
+  {
+    "image": "UP14.jpg",
+    "det_time_ms": 7.21,
+    "plates": [
+      {
+        "box": [
+          76,
+          302,
+          160,
+          331
+        ],
+        "detector_conf": 0.7694540023803711,
+        "text": "LUP21680,4866",
+        "ocr_time_ms": 16.0
+      }
+    ]
+  },
+  {
+    "image": "UP15.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          71,
+          332,
+          181,
+          359
+        ],
+        "detector_conf": 0.7921574115753174,
+        "text": "Eup79L0567",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "UP16.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          294,
+          154,
+          320
+        ],
+        "detector_conf": 0.8042058944702148,
+        "text": "[P32K*7325",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "UP17.jpg",
+    "det_time_ms": 9.18,
+    "plates": [
+      {
+        "box": [
+          88,
+          230,
+          180,
+          253
+        ],
+        "detector_conf": 0.7997810244560242,
+        "text": "Fupazcx3kog",
+        "ocr_time_ms": 12.03
+      }
+    ]
+  },
+  {
+    "image": "UP19.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          105,
+          211,
+          188,
+          236
+        ],
+        "detector_conf": 0.7619833946228027,
+        "text": "Up454,J020",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "UP2.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          174,
+          177,
+          195
+        ],
+        "detector_conf": 0.7922703623771667,
+        "text": "UP85BN4203",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "UP20.jpg",
+    "det_time_ms": 11.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          149,
+          176,
+          169
+        ],
+        "detector_conf": 0.826102077960968,
+        "text": "UPLLakb6oL",
+        "ocr_time_ms": 20.43
+      }
+    ]
+  },
+  {
+    "image": "UP21.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          288,
+          193,
+          316
+        ],
+        "detector_conf": 0.7878502607345581,
+        "text": "@P524H9705}",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "UP22.jpg",
+    "det_time_ms": 9.35,
+    "plates": [
+      {
+        "box": [
+          106,
+          277,
+          188,
+          295
+        ],
+        "detector_conf": 0.7811840772628784,
+        "text": "UP11AY06.46",
+        "ocr_time_ms": 12.53
+      }
+    ]
+  },
+  {
+    "image": "UP23.jpg",
+    "det_time_ms": 7.99,
+    "plates": [
+      {
+        "box": [
+          93,
+          182,
+          166,
+          200
+        ],
+        "detector_conf": 0.7657157182693481,
+        "text": "[d",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "UP24.jpg",
+    "det_time_ms": 8.98,
+    "plates": [
+      {
+        "box": [
+          78,
+          252,
+          164,
+          273
+        ],
+        "detector_conf": 0.7835494875907898,
+        "text": "UP27207322",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "UP25.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          302,
+          187,
+          338
+        ],
+        "detector_conf": 0.783776581287384,
+        "text": "UP32BF3577",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "UP26.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          47,
+          196,
+          103,
+          215
+        ],
+        "detector_conf": 0.7797985672950745,
+        "text": "L2444X9764",
+        "ocr_time_ms": 10.0
+      }
+    ]
+  },
+  {
+    "image": "UP27.jpg",
+    "det_time_ms": 11.92,
+    "plates": [
+      {
+        "box": [
+          97,
+          250,
+          166,
+          273
+        ],
+        "detector_conf": 0.8243963718414307,
+        "text": "Fup70E47816",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "UP28.jpg",
+    "det_time_ms": 8.01,
+    "plates": [
+      {
+        "box": [
+          95,
+          245,
+          175,
+          265
+        ],
+        "detector_conf": 0.8281019926071167,
+        "text": "up32HY6072]",
+        "ocr_time_ms": 12.51
+      }
+    ]
+  },
+  {
+    "image": "UP29.jpg",
+    "det_time_ms": 7.62,
+    "plates": [
+      {
+        "box": [
+          80,
+          307,
+          171,
+          332
+        ],
+        "detector_conf": 0.7645384073257446,
+        "text": "UPLA3804|",
+        "ocr_time_ms": 16.0
+      }
+    ]
+  },
+  {
+    "image": "UP3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          142,
+          177,
+          167
+        ],
+        "detector_conf": 0.8275045156478882,
+        "text": "~UPBQFA1666",
+        "ocr_time_ms": 13.01
+      }
+    ]
+  },
+  {
+    "image": "UP4.jpg",
+    "det_time_ms": 6.99,
+    "plates": [
+      {
+        "box": [
+          170,
+          347,
+          266,
+          384
+        ],
+        "detector_conf": 0.7623575329780579,
+        "text": "#UP'16UJ84491",
+        "ocr_time_ms": 24.0
+      }
+    ]
+  },
+  {
+    "image": "UP5.jpg",
+    "det_time_ms": 7.51,
+    "plates": [
+      {
+        "box": [
+          98,
+          281,
+          169,
+          301
+        ],
+        "detector_conf": 0.734178364276886,
+        "text": "UP32E(5510",
+        "ocr_time_ms": 13.82
+      }
+    ]
+  },
+  {
+    "image": "UP8.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          170,
+          218,
+          249,
+          258
+        ],
+        "detector_conf": 0.721768319606781,
+        "text": "FWEHUI",
+        "ocr_time_ms": 21.39
+      },
+      {
+        "box": [
+          94,
+          267,
+          125,
+          276
+        ],
+        "detector_conf": 0.32110875844955444,
+        "text": "",
+        "ocr_time_ms": 3.01
+      }
+    ]
+  },
+  {
+    "image": "WB1.jpg",
+    "det_time_ms": 9.99,
+    "plates": [
+      {
+        "box": [
+          158,
+          110,
+          223,
+          143
+        ],
+        "detector_conf": 0.7884323596954346,
+        "text": "\"b7207888",
+        "ocr_time_ms": 21.0
+      }
+    ]
+  },
+  {
+    "image": "WB11.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          78,
+          304,
+          174,
+          329
+        ],
+        "detector_conf": 0.806488037109375,
+        "text": "EwB084410U",
+        "ocr_time_ms": 21.65
+      }
+    ]
+  },
+  {
+    "image": "WB12.jpg",
+    "det_time_ms": 12.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          166,
+          186,
+          187
+        ],
+        "detector_conf": 0.8070988655090332,
+        "text": "WB2655093]",
+        "ocr_time_ms": 14.0
+      }
+    ]
+  },
+  {
+    "image": "WB13.jpg",
+    "det_time_ms": 8.01,
+    "plates": [
+      {
+        "box": [
+          167,
+          114,
+          223,
+          129
+        ],
+        "detector_conf": 0.4061337411403656,
+        "text": "",
+        "ocr_time_ms": 3.76
+      }
+    ]
+  },
+  {
+    "image": "WB14.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          367,
+          169,
+          392
+        ],
+        "detector_conf": 0.7701618671417236,
+        "text": "EwB360[6682]",
+        "ocr_time_ms": 22.0
+      }
+    ]
+  },
+  {
+    "image": "WB15.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          248,
+          182,
+          272
+        ],
+        "detector_conf": 0.8057642579078674,
+        "text": "FNB424X2987/",
+        "ocr_time_ms": 18.38
+      }
+    ]
+  },
+  {
+    "image": "WB16.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          252,
+          166,
+          270
+        ],
+        "detector_conf": 0.8011146187782288,
+        "text": "44006J9427",
+        "ocr_time_ms": 19.0
+      }
+    ]
+  },
+  {
+    "image": "WB17.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          264,
+          188,
+          287
+        ],
+        "detector_conf": 0.8237914443016052,
+        "text": "WB0ZAJ4534",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "WB18.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          232,
+          168,
+          254
+        ],
+        "detector_conf": 0.8260186910629272,
+        "text": "\"B06J2192",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "WB19.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          82,
+          174,
+          171,
+          201
+        ],
+        "detector_conf": 0.8162762522697449,
+        "text": "WB061061",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "WB2.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          82,
+          418,
+          189,
+          445
+        ],
+        "detector_conf": 0.7812432050704956,
+        "text": "WBGZM8447",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "WB20.jpg",
+    "det_time_ms": 9.28,
+    "plates": [
+      {
+        "box": [
+          103,
+          204,
+          178,
+          235
+        ],
+        "detector_conf": 0.8109826445579529,
+        "text": "",
+        "ocr_time_ms": 3.6
+      }
+    ]
+  },
+  {
+    "image": "WB21.jpg",
+    "det_time_ms": 8.95,
+    "plates": [
+      {
+        "box": [
+          32,
+          193,
+          108,
+          217
+        ],
+        "detector_conf": 0.8055202960968018,
+        "text": "W802w9535",
+        "ocr_time_ms": 11.02
+      }
+    ]
+  },
+  {
+    "image": "WB22.jpg",
+    "det_time_ms": 8.56,
+    "plates": [
+      {
+        "box": [
+          105,
+          245,
+          166,
+          264
+        ],
+        "detector_conf": 0.7926731705665588,
+        "text": "R2uo7",
+        "ocr_time_ms": 23.59
+      }
+    ]
+  },
+  {
+    "image": "WB23.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          140,
+          182,
+          163
+        ],
+        "detector_conf": 0.8305308818817139,
+        "text": "Hb20ag90g1",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "WB25.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          16,
+          117,
+          65,
+          139
+        ],
+        "detector_conf": 0.8111332654953003,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "WB26.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          29,
+          119,
+          78,
+          143
+        ],
+        "detector_conf": 0.821700394153595,
+        "text": "Wuznji",
+        "ocr_time_ms": 16.0
+      }
+    ]
+  },
+  {
+    "image": "WB27.jpg",
+    "det_time_ms": 10.42,
+    "plates": [
+      {
+        "box": [
+          101,
+          164,
+          188,
+          188
+        ],
+        "detector_conf": 0.8469241261482239,
+        "text": "Eue02404162",
+        "ocr_time_ms": 11.51
+      }
+    ]
+  },
+  {
+    "image": "WB28.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          304,
+          180,
+          328
+        ],
+        "detector_conf": 0.8096951842308044,
+        "text": "EB02448548",
+        "ocr_time_ms": 11.0
+      }
+    ]
+  },
+  {
+    "image": "WB3.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          145,
+          171,
+          165
+        ],
+        "detector_conf": 0.8262149095535278,
+        "text": "34B7063763",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "WB4.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          115,
+          270,
+          194,
+          292
+        ],
+        "detector_conf": 0.7889610528945923,
+        "text": "Wli02x8795",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "WB5.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          257,
+          188,
+          280
+        ],
+        "detector_conf": 0.7895509600639343,
+        "text": "ENB0664120",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  },
+  {
+    "image": "WB6.jpg",
+    "det_time_ms": 9.02,
+    "plates": [
+      {
+        "box": [
+          107,
+          246,
+          181,
+          266
+        ],
+        "detector_conf": 0.8336833119392395,
+        "text": "Fwbozah4655",
+        "ocr_time_ms": 23.57
+      }
+    ]
+  },
+  {
+    "image": "WB8.jpg",
+    "det_time_ms": 9.99,
+    "plates": [
+      {
+        "box": [
+          99,
+          209,
+          185,
+          231
+        ],
+        "detector_conf": 0.8318741321563721,
+        "text": "4B06J4432",
+        "ocr_time_ms": 13.0
+      }
+    ]
+  },
+  {
+    "image": "WB9.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          204,
+          152,
+          221
+        ],
+        "detector_conf": 0.8174025416374207,
+        "text": "34802445580",
+        "ocr_time_ms": 12.0
+      }
+    ]
+  }
+]

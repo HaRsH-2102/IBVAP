@@ -1,0 +1,20 @@
+[
+    {
+        "image": "E:\\SIH 2026\\IBVAP\\backend\\results\\evidence\\INTRUSION\\d8176e61-616e-4e68-a5bb-cf99428bcb52_crop.jpg",
+        "event_id": "d8176e61-616e-4e68-a5bb-cf99428bcb52",
+        "camera_id": "9764cbb7-44f9-4a81-9143-11053c941e85",
+        "track_id": "9764cbb7-44f9-4a81-9143-11053c941e85-18",
+        "ground_truth_plate": "TODO",
+        "plate_visible": true,
+        "quality": "HIGH|LOW"
+    },
+    {
+        "image": "E:\\SIH 2026\\IBVAP\\backend\\results\\evidence\\LOITERING\\b3db09cd-a962-46c6-b68d-4a9781926745_crop.jpg",
+        "event_id": "b3db09cd-a962-46c6-b68d-4a9781926745",
+        "camera_id": "9764cbb7-44f9-4a81-9143-11053c941e85",
+        "track_id": "9764cbb7-44f9-4a81-9143-11053c941e85-2",
+        "ground_truth_plate": "TODO",
+        "plate_visible": true,
+        "quality": "HIGH|LOW"
+    }
+]

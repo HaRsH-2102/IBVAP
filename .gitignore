@@ -1,0 +1,106 @@
+# ============================================================
+# IBVAP — .gitignore
+# ============================================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+*.whl
+.venv/
+venv/
+env/
+ENV/
+environments/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# --- Environment / Secrets ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+secrets/
+
+# --- IDE ---
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# --- Node / Frontend ---
+node_modules/
+frontend/dist/
+frontend/build/
+frontend/.next/
+frontend/.vite/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Evidence / Storage (future & current) ---
+evidence_storage/
+frame_cache/
+video_clips/
+backend/results/
+backend/storage/
+ANPR/results/
+test_results/
+
+# --- AI Models ---
+*.pt
+*.pth
+*.onnx
+*.engine
+*.bin
+*.safetensors
+*.ckpt
+*.weights
+
+# --- Datasets ---
+ANPR Data/
+
+# --- External Repositories ---
+Indian_LPR-main/
+
+# --- Database ---
+*.db
+*.sqlite3
+*.sqlite
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Caches ---
+.cache/
+tmp/
+temp/
+
+# --- Docker ---
+.dockerignore

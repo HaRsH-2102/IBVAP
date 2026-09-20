@@ -1,0 +1,3277 @@
+{
+  "car-wbs-MH01DE2780_00000.png_0.jpg": {
+    "text": "MH01DE2780",
+    "confidence": 0.9940775036811829,
+    "ocr_time_ms": 215.9723000077065
+  },
+  "car-wbs-MH03AR5549_00000.jpg_0.jpg": {
+    "text": "MH03AR554",
+    "confidence": 0.9992562532424927,
+    "ocr_time_ms": 10.032000005594455
+  },
+  "car-wbs-MH12FU1014_00000.png_0.jpg": {
+    "text": "MH12FU1014",
+    "confidence": 0.9985383152961731,
+    "ocr_time_ms": 9.343600002466701
+  },
+  "car-wbs-MH43AF5037_00000.png_0.jpg": {
+    "text": "MH43AF5037",
+    "confidence": 0.9885367155075073,
+    "ocr_time_ms": 9.199899999657646
+  },
+  "car-wbs-MH43BU2401_00000.png_0.jpg": {
+    "text": "MH43BU2401",
+    "confidence": 0.999943733215332,
+    "ocr_time_ms": 8.896599989384413
+  },
+  "car-wbs-MH46BV0688_00000.png_0.jpg": {
+    "text": "MH46BV0688",
+    "confidence": 0.9999802708625793,
+    "ocr_time_ms": 9.071699998457916
+  },
+  "car-ybs-MH43BP8173_00000.png_0.jpg": {
+    "text": "MH43BP8173",
+    "confidence": 0.9999664425849915,
+    "ocr_time_ms": 9.175500003038906
+  },
+  "car-ybs-MH46AD5258_00000.png_0.jpg": {
+    "text": "MH46AD5258",
+    "confidence": 0.9510631561279297,
+    "ocr_time_ms": 8.944300003349781
+  },
+  "car-ybs-MH46AD5258_00001.png_0.jpg": {
+    "text": "MH46AD5258",
+    "confidence": 0.9999319911003113,
+    "ocr_time_ms": 8.907700001145713
+  },
+  "car-ybs-MH46BF2342_00000.png_0.jpg": {
+    "text": "MH46BF2342",
+    "confidence": 0.99998939037323,
+    "ocr_time_ms": 9.423400013474748
+  },
+  "car-ybs-MH47N4570_00000.png_0.jpg": {
+    "text": "MH47N4570",
+    "confidence": 0.9998986721038818,
+    "ocr_time_ms": 9.212000004481524
+  },
+  "car-ybs-MH47N4570_00001.png_0.jpg": {
+    "text": "MH47N4570",
+    "confidence": 0.9998531341552734,
+    "ocr_time_ms": 8.892300000297837
+  },
+  "car-ybs-MH47N4570_00002.png_0.jpg": {
+    "text": "MH47N4570",
+    "confidence": 0.9999125003814697,
+    "ocr_time_ms": 9.191399993142113
+  },
+  "video10_1060.jpg_0.jpg": {
+    "text": "MH03DV2010",
+    "confidence": 0.999642550945282,
+    "ocr_time_ms": 8.8363999966532
+  },
+  "video10_1070.jpg_0.jpg": {
+    "text": "MH03DV2010",
+    "confidence": 0.9999836087226868,
+    "ocr_time_ms": 8.97189999523107
+  },
+  "video10_1080.jpg_0.jpg": {
+    "text": "MH03DV2010",
+    "confidence": 0.9999745488166809,
+    "ocr_time_ms": 9.63029998820275
+  },
+  "video10_110.jpg_0.jpg": {
+    "text": "MH02EK0837",
+    "confidence": 0.9899995923042297,
+    "ocr_time_ms": 9.836499986704439
+  },
+  "video10_120.jpg_0.jpg": {
+    "text": "MH02EK0837",
+    "confidence": 0.9994975924491882,
+    "ocr_time_ms": 9.413499996298924
+  },
+  "video10_1200.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999372363090515,
+    "ocr_time_ms": 9.422200004337355
+  },
+  "video10_1210.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999921917915344,
+    "ocr_time_ms": 9.511600001133047
+  },
+  "video10_1220.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999426603317261,
+    "ocr_time_ms": 9.885599996778183
+  },
+  "video10_1230.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999955296516418,
+    "ocr_time_ms": 9.710600003018044
+  },
+  "video10_1240.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999932050704956,
+    "ocr_time_ms": 9.716800006572157
+  },
+  "video10_1250.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999929666519165,
+    "ocr_time_ms": 9.416200002306141
+  },
+  "video10_1260.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999963045120239,
+    "ocr_time_ms": 9.289699999499135
+  },
+  "video10_1270.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999963641166687,
+    "ocr_time_ms": 9.131500002695248
+  },
+  "video10_1280.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9988343119621277,
+    "ocr_time_ms": 10.339400003431365
+  },
+  "video10_1290.jpg_0.jpg": {
+    "text": "MH05DS8679",
+    "confidence": 0.9999955296516418,
+    "ocr_time_ms": 9.772299992619082
+  },
+  "video10_130.jpg_0.jpg": {
+    "text": "MH02EK0837",
+    "confidence": 0.999543309211731,
+    "ocr_time_ms": 12.090899996110238
+  },
+  "video10_1390.jpg_0.jpg": {
+    "text": "MR43AH5410",
+    "confidence": 0.6875842213630676,
+    "ocr_time_ms": 9.726800009957515
+  },
+  "video10_140.jpg_0.jpg": {
+    "text": "MH02EK0837",
+    "confidence": 0.9999383091926575,
+    "ocr_time_ms": 9.577500008163042
+  },
+  "video10_1420.jpg_0.jpg": {
+    "text": "MH43AL8464",
+    "confidence": 0.8109478950500488,
+    "ocr_time_ms": 9.564899999531917
+  },
+  "video10_150.jpg_0.jpg": {
+    "text": "MH02EK0837",
+    "confidence": 0.9998879432678223,
+    "ocr_time_ms": 9.135200001765043
+  },
+  "video10_160.jpg_0.jpg": {
+    "text": "MH02EK0837",
+    "confidence": 0.9999622106552124,
+    "ocr_time_ms": 9.281199992983602
+  },
+  "video10_170.jpg_0.jpg": {
+    "text": "MH02EK0837",
+    "confidence": 0.9996724128723145,
+    "ocr_time_ms": 9.319799995864742
+  },
+  "video10_1700.jpg_0.jpg": {
+    "text": "GJ15CD0564",
+    "confidence": 0.9971184730529785,
+    "ocr_time_ms": 9.352399996714666
+  },
+  "video10_1710.jpg_0.jpg": {
+    "text": "GJ15CD0564",
+    "confidence": 0.9938774108886719,
+    "ocr_time_ms": 9.249099995940924
+  },
+  "video10_180.jpg_0.jpg": {
+    "text": "MH02EK0837",
+    "confidence": 0.9993526339530945,
+    "ocr_time_ms": 10.935199999948964
+  },
+  "video10_640.jpg_0.jpg": {
+    "text": "DL3CCQ0107",
+    "confidence": 0.9968253970146179,
+    "ocr_time_ms": 9.20889999542851
+  },
+  "video10_650.jpg_0.jpg": {
+    "text": "DL3CCQ0107",
+    "confidence": 0.9998552203178406,
+    "ocr_time_ms": 9.299400000600144
+  },
+  "video10_660.jpg_0.jpg": {
+    "text": "DL3CCQ0107",
+    "confidence": 0.9997097849845886,
+    "ocr_time_ms": 9.527300004265271
+  },
+  "video10_670.jpg_0.jpg": {
+    "text": "DL3CCQ0107",
+    "confidence": 0.9981233477592468,
+    "ocr_time_ms": 9.297599986894056
+  },
+  "video10_690.jpg_0.jpg": {
+    "text": "DL3CCQ0107",
+    "confidence": 0.9998706579208374,
+    "ocr_time_ms": 9.247800000593998
+  },
+  "video10_710.jpg_0.jpg": {
+    "text": "DL3CCQ0107",
+    "confidence": 0.9998729825019836,
+    "ocr_time_ms": 9.49719999334775
+  },
+  "video10_720.jpg_0.jpg": {
+    "text": "DL3CCQ0107",
+    "confidence": 0.9901130795478821,
+    "ocr_time_ms": 9.037600000738166
+  },
+  "video10_760.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.9433576464653015,
+    "ocr_time_ms": 9.145599993644282
+  },
+  "video10_770.jpg_0.jpg": {
+    "text": "MH01AU0059",
+    "confidence": 0.9993788003921509,
+    "ocr_time_ms": 9.212999997544102
+  },
+  "video10_830.jpg_0.jpg": {
+    "text": "MH05EJ3805",
+    "confidence": 0.9995919466018677,
+    "ocr_time_ms": 9.958800001186319
+  },
+  "video10_850.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.9683546423912048,
+    "ocr_time_ms": 9.316299998317845
+  },
+  "video10_860.jpg_0.jpg": {
+    "text": "MH01AU0059",
+    "confidence": 0.9967687726020813,
+    "ocr_time_ms": 8.961300001828931
+  },
+  "video10_870.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.9370741248130798,
+    "ocr_time_ms": 9.19709999288898
+  },
+  "video10_880.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.9718006253242493,
+    "ocr_time_ms": 9.10289998864755
+  },
+  "video10_890.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.9852519631385803,
+    "ocr_time_ms": 8.798000009846874
+  },
+  "video10_900.jpg_0.jpg": {
+    "text": "MH01AU0059",
+    "confidence": 0.9984794855117798,
+    "ocr_time_ms": 8.48799999221228
+  },
+  "video10_910.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.989954948425293,
+    "ocr_time_ms": 8.89919999463018
+  },
+  "video10_920.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.9761530160903931,
+    "ocr_time_ms": 9.07790000201203
+  },
+  "video10_930.jpg_0.jpg": {
+    "text": "MH01AU0059",
+    "confidence": 0.9994999170303345,
+    "ocr_time_ms": 9.306099993409589
+  },
+  "video10_940.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.9775825142860413,
+    "ocr_time_ms": 8.869099998264574
+  },
+  "video10_950.jpg_0.jpg": {
+    "text": "MH01AU0059H",
+    "confidence": 0.9678989052772522,
+    "ocr_time_ms": 8.947300011641346
+  },
+  "video10_960.jpg_0.jpg": {
+    "text": "MH01AU0059",
+    "confidence": 0.9800854921340942,
+    "ocr_time_ms": 8.769100008066744
+  },
+  "video10_970.jpg_0.jpg": {
+    "text": "MH01AU0059",
+    "confidence": 0.981817364692688,
+    "ocr_time_ms": 9.309200002462603
+  },
+  "video10_980.jpg_0.jpg": {
+    "text": "MH01AU0059",
+    "confidence": 0.9838588833808899,
+    "ocr_time_ms": 9.328100000857376
+  },
+  "video10_990.jpg_0.jpg": {
+    "text": "MH01AU0059",
+    "confidence": 0.9705928564071655,
+    "ocr_time_ms": 8.934099998441525
+  },
+  "video11_1000.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9998056888580322,
+    "ocr_time_ms": 9.316900002886541
+  },
+  "video11_1010.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9997631907463074,
+    "ocr_time_ms": 10.153499999432825
+  },
+  "video11_1020.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.999711275100708,
+    "ocr_time_ms": 9.15250000252854
+  },
+  "video11_1030.jpg_0.jpg": {
+    "text": "MH47Y112",
+    "confidence": 0.999726414680481,
+    "ocr_time_ms": 10.813900007633492
+  },
+  "video11_1040.jpg_0.jpg": {
+    "text": "MH47Y112",
+    "confidence": 0.9994109869003296,
+    "ocr_time_ms": 9.645999991334975
+  },
+  "video11_1050.jpg_0.jpg": {
+    "text": "MH47Y112H",
+    "confidence": 0.9046885967254639,
+    "ocr_time_ms": 9.129399986704811
+  },
+  "video11_1060.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.999512791633606,
+    "ocr_time_ms": 9.766599992872216
+  },
+  "video11_1070.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.999659538269043,
+    "ocr_time_ms": 9.224399997037835
+  },
+  "video11_1080.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9841010570526123,
+    "ocr_time_ms": 9.815999990678392
+  },
+  "video11_1100.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9998086094856262,
+    "ocr_time_ms": 9.168200005660765
+  },
+  "video11_1110.jpg_0.jpg": {
+    "text": "MH47Y112",
+    "confidence": 0.9982820749282837,
+    "ocr_time_ms": 9.090700012166053
+  },
+  "video11_1120.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9660220742225647,
+    "ocr_time_ms": 11.351699999067932
+  },
+  "video11_1130.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9523985981941223,
+    "ocr_time_ms": 9.352199995191768
+  },
+  "video11_1140.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9986152648925781,
+    "ocr_time_ms": 9.119300011661835
+  },
+  "video11_1150.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9337985515594482,
+    "ocr_time_ms": 9.01249999878928
+  },
+  "video11_1160.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9499928951263428,
+    "ocr_time_ms": 8.840599999530241
+  },
+  "video11_1170.jpg_0.jpg": {
+    "text": "MH04EX7505",
+    "confidence": 0.9999713897705078,
+    "ocr_time_ms": 8.876499996404164
+  },
+  "video11_1180.jpg_0.jpg": {
+    "text": "MH04EX7505J",
+    "confidence": 0.9473252892494202,
+    "ocr_time_ms": 9.282400002120994
+  },
+  "video11_1230.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9828873872756958,
+    "ocr_time_ms": 9.255400000256486
+  },
+  "video11_1240.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9747916460037231,
+    "ocr_time_ms": 9.48590000916738
+  },
+  "video11_1250.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9993606209754944,
+    "ocr_time_ms": 9.604199993191287
+  },
+  "video11_1270.jpg_0.jpg": {
+    "text": "MH01DB1477",
+    "confidence": 0.9999805688858032,
+    "ocr_time_ms": 8.914500009268522
+  },
+  "video11_1280.jpg_0.jpg": {
+    "text": "MH01DB1477",
+    "confidence": 0.9999610781669617,
+    "ocr_time_ms": 9.468500007642433
+  },
+  "video11_1290.jpg_0.jpg": {
+    "text": "MH01DB1477",
+    "confidence": 0.9998419880867004,
+    "ocr_time_ms": 9.40670000272803
+  },
+  "video11_1300.jpg_0.jpg": {
+    "text": "MH12RT1105",
+    "confidence": 0.9995166659355164,
+    "ocr_time_ms": 9.410099999513477
+  },
+  "video11_1310.jpg_0.jpg": {
+    "text": "MH01DB1477",
+    "confidence": 0.9999786615371704,
+    "ocr_time_ms": 9.076699992874637
+  },
+  "video11_1320.jpg_0.jpg": {
+    "text": "MH12RT1105",
+    "confidence": 0.9999474287033081,
+    "ocr_time_ms": 8.849699996062554
+  },
+  "video11_1330.jpg_0.jpg": {
+    "text": "MH01DB1477",
+    "confidence": 0.9997018575668335,
+    "ocr_time_ms": 9.044699996593408
+  },
+  "video11_1340.jpg_0.jpg": {
+    "text": "MH01DB1477",
+    "confidence": 0.9999858736991882,
+    "ocr_time_ms": 9.67780000064522
+  },
+  "video11_1350.jpg_0.jpg": {
+    "text": "MH01DB1477",
+    "confidence": 0.9999707937240601,
+    "ocr_time_ms": 8.86519999767188
+  },
+  "video11_1360.jpg_0.jpg": {
+    "text": "MH01DB1477",
+    "confidence": 0.9999617338180542,
+    "ocr_time_ms": 9.590800007572398
+  },
+  "video11_1440.jpg_0.jpg": {
+    "text": "MH022599",
+    "confidence": 0.982384979724884,
+    "ocr_time_ms": 9.241699997801334
+  },
+  "video11_1560.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9939754605293274,
+    "ocr_time_ms": 9.316299998317845
+  },
+  "video11_1570.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9882674217224121,
+    "ocr_time_ms": 9.59560000046622
+  },
+  "video11_1580.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.990726113319397,
+    "ocr_time_ms": 9.406299999682233
+  },
+  "video11_1590.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9962738752365112,
+    "ocr_time_ms": 11.141199996927753
+  },
+  "video11_1600.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9989104270935059,
+    "ocr_time_ms": 9.571599992341362
+  },
+  "video11_1610.jpg_0.jpg": {
+    "text": "JH02BQ9628",
+    "confidence": 0.9618088006973267,
+    "ocr_time_ms": 10.411399998702109
+  },
+  "video11_1620.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9992443919181824,
+    "ocr_time_ms": 9.708099998533726
+  },
+  "video11_1630.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9965828657150269,
+    "ocr_time_ms": 9.226200010743923
+  },
+  "video11_1640.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9990207552909851,
+    "ocr_time_ms": 9.547800000291318
+  },
+  "video11_1650.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9991055727005005,
+    "ocr_time_ms": 9.240600003977306
+  },
+  "video11_1660.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.948421835899353,
+    "ocr_time_ms": 9.438399996724911
+  },
+  "video11_1670.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9973974227905273,
+    "ocr_time_ms": 9.405100005096756
+  },
+  "video11_1680.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9978569746017456,
+    "ocr_time_ms": 8.838300011120737
+  },
+  "video11_1690.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.8828471899032593,
+    "ocr_time_ms": 8.899699998437427
+  },
+  "video11_1840.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9998610019683838,
+    "ocr_time_ms": 9.613900008844212
+  },
+  "video11_1850.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9996670484542847,
+    "ocr_time_ms": 9.654800000134856
+  },
+  "video11_1860.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9879148006439209,
+    "ocr_time_ms": 9.824399996432476
+  },
+  "video11_1870.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9992324113845825,
+    "ocr_time_ms": 9.22980000905227
+  },
+  "video11_1880.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9997888207435608,
+    "ocr_time_ms": 9.076099988305941
+  },
+  "video11_1890.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9809720516204834,
+    "ocr_time_ms": 9.311300003901124
+  },
+  "video11_1900.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9965872168540955,
+    "ocr_time_ms": 9.705300006316975
+  },
+  "video11_1910.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9996572136878967,
+    "ocr_time_ms": 9.747000003699213
+  },
+  "video11_1920.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9762020111083984,
+    "ocr_time_ms": 9.257999990950339
+  },
+  "video11_1930.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9520708918571472,
+    "ocr_time_ms": 8.851299993693829
+  },
+  "video11_1940.jpg_0.jpg": {
+    "text": "MH47Y112",
+    "confidence": 0.9947490692138672,
+    "ocr_time_ms": 8.987199995317496
+  },
+  "video11_1980.jpg_0.jpg": {
+    "text": "MH02DQ0196JH",
+    "confidence": 0.8999364972114563,
+    "ocr_time_ms": 9.407699995790608
+  },
+  "video11_1990.jpg_0.jpg": {
+    "text": "MH02JQ0196JH",
+    "confidence": 0.8684973120689392,
+    "ocr_time_ms": 9.469099997659214
+  },
+  "video11_2000.jpg_0.jpg": {
+    "text": "MH02DQ0196H6",
+    "confidence": 0.9187361598014832,
+    "ocr_time_ms": 9.449499993934296
+  },
+  "video11_2010.jpg_0.jpg": {
+    "text": "MH0M016JH6",
+    "confidence": 0.7743566632270813,
+    "ocr_time_ms": 9.41870000679046
+  },
+  "video11_2040.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9998850226402283,
+    "ocr_time_ms": 10.211200002231635
+  },
+  "video11_2050.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9992251992225647,
+    "ocr_time_ms": 9.074299989151768
+  },
+  "video11_2060.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9993054270744324,
+    "ocr_time_ms": 9.93039998866152
+  },
+  "video11_2070.jpg_0.jpg": {
+    "text": "MH47Y112",
+    "confidence": 0.9995187520980835,
+    "ocr_time_ms": 9.557600002153777
+  },
+  "video11_2080.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.946542501449585,
+    "ocr_time_ms": 9.366800004499964
+  },
+  "video11_210.jpg_0.jpg": {
+    "text": "MH43BK9518",
+    "confidence": 0.918011486530304,
+    "ocr_time_ms": 9.514999997918494
+  },
+  "video11_2180.jpg_0.jpg": {
+    "text": "MH47AV753",
+    "confidence": 0.9910696744918823,
+    "ocr_time_ms": 9.671000007074326
+  },
+  "video11_2190.jpg_0.jpg": {
+    "text": "MH47AV753",
+    "confidence": 0.9636884331703186,
+    "ocr_time_ms": 9.982100003981031
+  },
+  "video11_220.jpg_0.jpg": {
+    "text": "MH43BK951",
+    "confidence": 0.9302380084991455,
+    "ocr_time_ms": 9.180799999739975
+  },
+  "video11_2200.jpg_0.jpg": {
+    "text": "MH47AV753",
+    "confidence": 0.9789298176765442,
+    "ocr_time_ms": 9.752799989655614
+  },
+  "video11_2210.jpg_0.jpg": {
+    "text": "MH47AV753",
+    "confidence": 0.9972038269042969,
+    "ocr_time_ms": 9.555200012982823
+  },
+  "video11_2220.jpg_0.jpg": {
+    "text": "MH47AV753",
+    "confidence": 0.9956105351448059,
+    "ocr_time_ms": 9.568199995555915
+  },
+  "video11_2230.jpg_0.jpg": {
+    "text": "MH47AVMH753",
+    "confidence": 0.8779957294464111,
+    "ocr_time_ms": 9.042699995916337
+  },
+  "video11_2260.jpg_0.jpg": {
+    "text": "MH47AV753",
+    "confidence": 0.9958527684211731,
+    "ocr_time_ms": 9.71650000428781
+  },
+  "video11_2270.jpg_0.jpg": {
+    "text": "MH47AV753",
+    "confidence": 0.9962437152862549,
+    "ocr_time_ms": 10.1859999995213
+  },
+  "video11_2280.jpg_0.jpg": {
+    "text": "MH47AV753",
+    "confidence": 0.98521488904953,
+    "ocr_time_ms": 9.274299998651259
+  },
+  "video11_2290.jpg_0.jpg": {
+    "text": "MH47AVH753",
+    "confidence": 0.8987617492675781,
+    "ocr_time_ms": 9.709299993119203
+  },
+  "video11_2370.jpg_0.jpg": {
+    "text": "MH12FTH88",
+    "confidence": 0.7905606627464294,
+    "ocr_time_ms": 8.755599992582574
+  },
+  "video11_2380.jpg_0.jpg": {
+    "text": "MH12EF58",
+    "confidence": 0.8358720541000366,
+    "ocr_time_ms": 9.229999996023253
+  },
+  "video11_2550.jpg_0.jpg": {
+    "text": "MH04JLJ547",
+    "confidence": 0.8828255534172058,
+    "ocr_time_ms": 9.412200000951998
+  },
+  "video11_2560.jpg_0.jpg": {
+    "text": "MH04JLJ547",
+    "confidence": 0.8515281677246094,
+    "ocr_time_ms": 9.149899997282773
+  },
+  "video11_2570.jpg_0.jpg": {
+    "text": "MH04JLJH57",
+    "confidence": 0.883566677570343,
+    "ocr_time_ms": 9.598999997251667
+  },
+  "video11_2600.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9996931552886963,
+    "ocr_time_ms": 8.898000000044703
+  },
+  "video11_2610.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9932215213775635,
+    "ocr_time_ms": 9.049799991771579
+  },
+  "video11_2620.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9929608106613159,
+    "ocr_time_ms": 8.728999993763864
+  },
+  "video11_2630.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9978520274162292,
+    "ocr_time_ms": 9.325799997895956
+  },
+  "video11_2640.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9999855756759644,
+    "ocr_time_ms": 9.329299995442852
+  },
+  "video11_2650.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9999880790710449,
+    "ocr_time_ms": 9.504699992248788
+  },
+  "video11_2660.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9999809265136719,
+    "ocr_time_ms": 9.503399996901862
+  },
+  "video11_2670.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9973332285881042,
+    "ocr_time_ms": 9.278300000005402
+  },
+  "video11_2680.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9999092221260071,
+    "ocr_time_ms": 9.08519999939017
+  },
+  "video11_2690.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9992167353630066,
+    "ocr_time_ms": 9.02680000581313
+  },
+  "video11_2700.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9968563914299011,
+    "ocr_time_ms": 9.770799995749258
+  },
+  "video11_2710.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9886788129806519,
+    "ocr_time_ms": 9.11479999194853
+  },
+  "video11_2720.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.999438464641571,
+    "ocr_time_ms": 9.683399999630637
+  },
+  "video11_2730.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9999883770942688,
+    "ocr_time_ms": 9.810100003960542
+  },
+  "video11_2740.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9998689889907837,
+    "ocr_time_ms": 9.139399990090169
+  },
+  "video11_2750.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9937860369682312,
+    "ocr_time_ms": 9.851099996012636
+  },
+  "video11_2760.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.999984622001648,
+    "ocr_time_ms": 9.17269999627024
+  },
+  "video11_2770.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9999910593032837,
+    "ocr_time_ms": 9.222699998645112
+  },
+  "video11_2780.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9999729990959167,
+    "ocr_time_ms": 9.684000004199333
+  },
+  "video11_2790.jpg_0.jpg": {
+    "text": "MH03BS4060",
+    "confidence": 0.9907456636428833,
+    "ocr_time_ms": 9.492900004261173
+  },
+  "video11_2800.jpg_0.jpg": {
+    "text": "MH02WA8344J4",
+    "confidence": 0.9391827583312988,
+    "ocr_time_ms": 8.873700004187413
+  },
+  "video11_2810.jpg_0.jpg": {
+    "text": "MH04BM4154",
+    "confidence": 0.9921053051948547,
+    "ocr_time_ms": 9.074300003703684
+  },
+  "video11_2820.jpg_0.jpg": {
+    "text": "MH04BM6154",
+    "confidence": 0.9319202303886414,
+    "ocr_time_ms": 8.682799991220236
+  },
+  "video11_2830.jpg_0.jpg": {
+    "text": "MH04BM4154",
+    "confidence": 0.9424470663070679,
+    "ocr_time_ms": 9.22300000092946
+  },
+  "video11_3250.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9523054361343384,
+    "ocr_time_ms": 9.774000005563721
+  },
+  "video11_3260.jpg_0.jpg": {
+    "text": "MH02BQ9629",
+    "confidence": 0.944170355796814,
+    "ocr_time_ms": 9.020500001497567
+  },
+  "video11_3280.jpg_0.jpg": {
+    "text": "MH05DK1018",
+    "confidence": 0.9998435974121094,
+    "ocr_time_ms": 9.24529999610968
+  },
+  "video11_3290.jpg_0.jpg": {
+    "text": "MH05DK1018",
+    "confidence": 0.9989328384399414,
+    "ocr_time_ms": 8.870200006640516
+  },
+  "video11_3300.jpg_0.jpg": {
+    "text": "MH05DK1018",
+    "confidence": 0.9982069134712219,
+    "ocr_time_ms": 8.728700006031431
+  },
+  "video11_3310.jpg_0.jpg": {
+    "text": "MH05DK1018",
+    "confidence": 0.9680172204971313,
+    "ocr_time_ms": 8.732900008908473
+  },
+  "video11_3320.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9998540878295898,
+    "ocr_time_ms": 8.589100005337968
+  },
+  "video11_3330.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9991213083267212,
+    "ocr_time_ms": 8.634500001790002
+  },
+  "video11_3340.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9991443753242493,
+    "ocr_time_ms": 9.766100003616884
+  },
+  "video11_3350.jpg_0.jpg": {
+    "text": "MH02BQ9628",
+    "confidence": 0.9997506141662598,
+    "ocr_time_ms": 9.504500005277805
+  },
+  "video11_3630.jpg_0.jpg": {
+    "text": "MH03AT3856",
+    "confidence": 0.9906303286552429,
+    "ocr_time_ms": 8.648200004245155
+  },
+  "video11_3640.jpg_0.jpg": {
+    "text": "MH03AT3836JH",
+    "confidence": 0.8757545948028564,
+    "ocr_time_ms": 8.60889999603387
+  },
+  "video11_3660.jpg_0.jpg": {
+    "text": "MH03CB0229",
+    "confidence": 0.9998126029968262,
+    "ocr_time_ms": 8.73180000053253
+  },
+  "video11_3680.jpg_0.jpg": {
+    "text": "MH03AR7140",
+    "confidence": 0.9994928240776062,
+    "ocr_time_ms": 9.35419999586884
+  },
+  "video11_3690.jpg_0.jpg": {
+    "text": "MH03AR7140",
+    "confidence": 0.9998815655708313,
+    "ocr_time_ms": 8.961699990322813
+  },
+  "video11_3700.jpg_0.jpg": {
+    "text": "MH04JM8262MH",
+    "confidence": 0.9344363808631897,
+    "ocr_time_ms": 8.740999997826293
+  },
+  "video11_3710.jpg_0.jpg": {
+    "text": "MH03AR7140",
+    "confidence": 0.998679518699646,
+    "ocr_time_ms": 8.854699990479276
+  },
+  "video11_3720.jpg_0.jpg": {
+    "text": "MH03DK2961",
+    "confidence": 0.9987098574638367,
+    "ocr_time_ms": 9.833599993726239
+  },
+  "video11_3730.jpg_0.jpg": {
+    "text": "MH03DK2961",
+    "confidence": 0.9997461438179016,
+    "ocr_time_ms": 8.779800002230331
+  },
+  "video11_3750.jpg_0.jpg": {
+    "text": "MH03AF1911JH",
+    "confidence": 0.9259489178657532,
+    "ocr_time_ms": 10.81339998927433
+  },
+  "video11_3830.jpg_0.jpg": {
+    "text": "MH01AM9839",
+    "confidence": 0.9695808291435242,
+    "ocr_time_ms": 9.849499998381361
+  },
+  "video11_3840.jpg_0.jpg": {
+    "text": "MH01AM9839H",
+    "confidence": 0.9507085680961609,
+    "ocr_time_ms": 9.833000003709458
+  },
+  "video11_3870.jpg_0.jpg": {
+    "text": "MA89Z",
+    "confidence": 0.5023730993270874,
+    "ocr_time_ms": 9.403899995959364
+  },
+  "video11_3880.jpg_0.jpg": {
+    "text": "ML989ZJ",
+    "confidence": 0.6426063776016235,
+    "ocr_time_ms": 8.801399992080405
+  },
+  "video11_3910.jpg_0.jpg": {
+    "text": "MH04JM3383",
+    "confidence": 0.9999312162399292,
+    "ocr_time_ms": 9.327099993242882
+  },
+  "video11_3920.jpg_0.jpg": {
+    "text": "MH01DB2561",
+    "confidence": 0.9997727274894714,
+    "ocr_time_ms": 9.136599997873418
+  },
+  "video11_3930.jpg_0.jpg": {
+    "text": "MH1CB2561",
+    "confidence": 0.8854787349700928,
+    "ocr_time_ms": 9.444399998756126
+  },
+  "video11_3940.jpg_0.jpg": {
+    "text": "MH01BT4302",
+    "confidence": 0.9950240850448608,
+    "ocr_time_ms": 9.762799993040971
+  },
+  "video11_4010.jpg_0.jpg": {
+    "text": "MH01BM4921",
+    "confidence": 0.9372774362564087,
+    "ocr_time_ms": 10.089499992318451
+  },
+  "video11_4020.jpg_0.jpg": {
+    "text": "MH01BM4824",
+    "confidence": 0.9799725413322449,
+    "ocr_time_ms": 13.182999988202937
+  },
+  "video11_4030.jpg_0.jpg": {
+    "text": "MH01BM4824H",
+    "confidence": 0.9466610550880432,
+    "ocr_time_ms": 10.169800007133745
+  },
+  "video11_4060.jpg_0.jpg": {
+    "text": "MH03DU5196",
+    "confidence": 0.9992720484733582,
+    "ocr_time_ms": 11.353499998222105
+  },
+  "video11_4070.jpg_0.jpg": {
+    "text": "MH03DU5196",
+    "confidence": 0.9992573857307434,
+    "ocr_time_ms": 9.764800008269958
+  },
+  "video11_4080.jpg_0.jpg": {
+    "text": "MH03DU5196",
+    "confidence": 0.9994691014289856,
+    "ocr_time_ms": 19.199800008209422
+  },
+  "video11_4090.jpg_0.jpg": {
+    "text": "MH01DK4867",
+    "confidence": 0.9990752935409546,
+    "ocr_time_ms": 15.22560000012163
+  },
+  "video11_410.jpg_0.jpg": {
+    "text": "MH02CW826",
+    "confidence": 0.8338603973388672,
+    "ocr_time_ms": 10.515600006328896
+  },
+  "video11_4100.jpg_0.jpg": {
+    "text": "MH01DK4867",
+    "confidence": 0.9997137784957886,
+    "ocr_time_ms": 10.608900003717281
+  },
+  "video11_420.jpg_0.jpg": {
+    "text": "MH02C8226",
+    "confidence": 0.9892061948776245,
+    "ocr_time_ms": 9.444099996471778
+  },
+  "video11_4390.jpg_0.jpg": {
+    "text": "MH02MA5324",
+    "confidence": 0.9998885989189148,
+    "ocr_time_ms": 9.001600003102794
+  },
+  "video11_4410.jpg_0.jpg": {
+    "text": "MH02MA5324",
+    "confidence": 0.9998782277107239,
+    "ocr_time_ms": 9.037800002261065
+  },
+  "video11_4420.jpg_0.jpg": {
+    "text": "MH02MA5324",
+    "confidence": 0.9999738931655884,
+    "ocr_time_ms": 9.049899992533028
+  },
+  "video11_4430.jpg_0.jpg": {
+    "text": "MH02MA5324",
+    "confidence": 0.9969254732131958,
+    "ocr_time_ms": 10.762500009150244
+  },
+  "video11_4440.jpg_0.jpg": {
+    "text": "MH02MA5324",
+    "confidence": 0.9998040199279785,
+    "ocr_time_ms": 9.9111999879824
+  },
+  "video11_4450.jpg_0.jpg": {
+    "text": "MH02MA5324",
+    "confidence": 0.9999629259109497,
+    "ocr_time_ms": 10.022800008300692
+  },
+  "video11_4460.jpg_0.jpg": {
+    "text": "MH02MA5324",
+    "confidence": 0.9948937296867371,
+    "ocr_time_ms": 9.521200001472607
+  },
+  "video11_4470.jpg_0.jpg": {
+    "text": "MH02MA5324",
+    "confidence": 0.9999620318412781,
+    "ocr_time_ms": 9.516699996311218
+  },
+  "video11_4600.jpg_0.jpg": {
+    "text": "MH01AM5810",
+    "confidence": 0.9932381510734558,
+    "ocr_time_ms": 8.902000001398847
+  },
+  "video11_4610.jpg_0.jpg": {
+    "text": "MH01AM5810",
+    "confidence": 0.9995349049568176,
+    "ocr_time_ms": 8.84530000621453
+  },
+  "video11_4620.jpg_0.jpg": {
+    "text": "MH01AM5810",
+    "confidence": 0.9937431216239929,
+    "ocr_time_ms": 8.84809999843128
+  },
+  "video11_4630.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9877160787582397,
+    "ocr_time_ms": 8.700200007297099
+  },
+  "video11_4640.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.961712658405304,
+    "ocr_time_ms": 9.355400005006231
+  },
+  "video11_4650.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9999094009399414,
+    "ocr_time_ms": 9.472799996729009
+  },
+  "video11_4660.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9948399662971497,
+    "ocr_time_ms": 8.801000003586523
+  },
+  "video11_4670.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9999969601631165,
+    "ocr_time_ms": 8.443400001851842
+  },
+  "video11_4710.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9883272051811218,
+    "ocr_time_ms": 8.774799993261695
+  },
+  "video11_4720.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9999296069145203,
+    "ocr_time_ms": 8.529200000339188
+  },
+  "video11_4730.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9997804760932922,
+    "ocr_time_ms": 8.92520000343211
+  },
+  "video11_4740.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9848254919052124,
+    "ocr_time_ms": 8.782399992924184
+  },
+  "video11_4750.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9591935873031616,
+    "ocr_time_ms": 9.54160001128912
+  },
+  "video11_4770.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.999923825263977,
+    "ocr_time_ms": 9.629099993617274
+  },
+  "video11_4780.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9998044967651367,
+    "ocr_time_ms": 8.595000006607734
+  },
+  "video11_4790.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9999145269393921,
+    "ocr_time_ms": 9.01410001097247
+  },
+  "video11_4800.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9997426271438599,
+    "ocr_time_ms": 8.860600006300956
+  },
+  "video11_4810.jpg_0.jpg": {
+    "text": "MH03CP1328",
+    "confidence": 0.9999048113822937,
+    "ocr_time_ms": 8.518999995430931
+  },
+  "video11_4950.jpg_0.jpg": {
+    "text": "MH01AM7014",
+    "confidence": 0.9994598627090454,
+    "ocr_time_ms": 8.696300006704405
+  },
+  "video11_4960.jpg_0.jpg": {
+    "text": "MH01AM7014",
+    "confidence": 0.9996592402458191,
+    "ocr_time_ms": 11.421299990615807
+  },
+  "video11_540.jpg_0.jpg": {
+    "text": "MH02DQ0196",
+    "confidence": 0.9588885307312012,
+    "ocr_time_ms": 9.228800001437776
+  },
+  "video11_550.jpg_0.jpg": {
+    "text": "MH02DQ0196",
+    "confidence": 0.9847658276557922,
+    "ocr_time_ms": 8.98530000995379
+  },
+  "video11_750.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9980998039245605,
+    "ocr_time_ms": 8.990100002847612
+  },
+  "video11_760.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9985512495040894,
+    "ocr_time_ms": 9.307700005592778
+  },
+  "video11_770.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.999281108379364,
+    "ocr_time_ms": 9.004499996080995
+  },
+  "video11_780.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9978277087211609,
+    "ocr_time_ms": 10.4496999992989
+  },
+  "video11_790.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9502912759780884,
+    "ocr_time_ms": 9.188899988657795
+  },
+  "video11_800.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9992169141769409,
+    "ocr_time_ms": 8.745600003749132
+  },
+  "video11_810.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9949304461479187,
+    "ocr_time_ms": 8.765199992922135
+  },
+  "video11_860.jpg_0.jpg": {
+    "text": "MH01AX3070",
+    "confidence": 0.9770973324775696,
+    "ocr_time_ms": 8.825899989460595
+  },
+  "video11_980.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9774299263954163,
+    "ocr_time_ms": 8.54510000499431
+  },
+  "video11_990.jpg_0.jpg": {
+    "text": "MH47Y1124",
+    "confidence": 0.9982571005821228,
+    "ocr_time_ms": 8.987599998363294
+  },
+  "video12_100.jpg_0.jpg": {
+    "text": "MH02BG9542",
+    "confidence": 0.9999774694442749,
+    "ocr_time_ms": 8.813099993858486
+  },
+  "video12_110.jpg_0.jpg": {
+    "text": "MH02BG9542",
+    "confidence": 0.9998711347579956,
+    "ocr_time_ms": 9.251499999663793
+  },
+  "video12_140.jpg_0.jpg": {
+    "text": "GJ15CD0564",
+    "confidence": 0.9999572038650513,
+    "ocr_time_ms": 8.80880000477191
+  },
+  "video12_150.jpg_0.jpg": {
+    "text": "GJ15CD0564",
+    "confidence": 0.9999839067459106,
+    "ocr_time_ms": 8.796499998425134
+  },
+  "video12_60.jpg_0.jpg": {
+    "text": "MH02BG9542",
+    "confidence": 0.9979912638664246,
+    "ocr_time_ms": 9.117499997955747
+  },
+  "video12_70.jpg_0.jpg": {
+    "text": "MH02BG9542",
+    "confidence": 0.9999901652336121,
+    "ocr_time_ms": 8.568299992475659
+  },
+  "video12_80.jpg_0.jpg": {
+    "text": "MH02BG9542",
+    "confidence": 0.9998966455459595,
+    "ocr_time_ms": 8.75120000273455
+  },
+  "video12_90.jpg_0.jpg": {
+    "text": "MH02BG9542",
+    "confidence": 0.9999780654907227,
+    "ocr_time_ms": 9.340399992652237
+  },
+  "video2_0.jpg_0.jpg": {
+    "text": "MH02EK4399",
+    "confidence": 0.9997881054878235,
+    "ocr_time_ms": 8.613099998910911
+  },
+  "video2_1360.jpg_0.jpg": {
+    "text": "MH01DP5662",
+    "confidence": 0.9999920129776001,
+    "ocr_time_ms": 9.033199996338226
+  },
+  "video2_1430.jpg_0.jpg": {
+    "text": "MH02ENMH88",
+    "confidence": 0.863444983959198,
+    "ocr_time_ms": 8.759799995459616
+  },
+  "video2_1480.jpg_0.jpg": {
+    "text": "DL8CN6308",
+    "confidence": 0.9838945865631104,
+    "ocr_time_ms": 8.592400001361966
+  },
+  "video2_1490.jpg_0.jpg": {
+    "text": "DL8CN6308",
+    "confidence": 0.9998705983161926,
+    "ocr_time_ms": 9.393899992574006
+  },
+  "video2_1510.jpg_0.jpg": {
+    "text": "DL8CN6308",
+    "confidence": 0.9998998641967773,
+    "ocr_time_ms": 10.139699996216223
+  },
+  "video2_1590.jpg_0.jpg": {
+    "text": "DL8CN6308",
+    "confidence": 0.9661151170730591,
+    "ocr_time_ms": 9.267599991289899
+  },
+  "video2_1750.jpg_0.jpg": {
+    "text": "DL8CN6308",
+    "confidence": 0.9983185529708862,
+    "ocr_time_ms": 8.801100004347973
+  },
+  "video2_180.jpg_0.jpg": {
+    "text": "MH02EK4399",
+    "confidence": 0.9977442622184753,
+    "ocr_time_ms": 9.794599987799302
+  },
+  "video2_1820.jpg_0.jpg": {
+    "text": "DL8CN6308",
+    "confidence": 0.9456460475921631,
+    "ocr_time_ms": 10.47209999524057
+  },
+  "video2_1830.jpg_0.jpg": {
+    "text": "DL8CN6308",
+    "confidence": 0.9973158240318298,
+    "ocr_time_ms": 10.097999998833984
+  },
+  "video2_2150.jpg_0.jpg": {
+    "text": "MH47Y0205",
+    "confidence": 0.998688817024231,
+    "ocr_time_ms": 9.268499998142943
+  },
+  "video2_220.jpg_0.jpg": {
+    "text": "MH02EU4884",
+    "confidence": 0.9781176447868347,
+    "ocr_time_ms": 9.9904999951832
+  },
+  "video2_2210.jpg_0.jpg": {
+    "text": "MH47Y0205",
+    "confidence": 0.9980023503303528,
+    "ocr_time_ms": 9.931399996276014
+  },
+  "video2_2220.jpg_0.jpg": {
+    "text": "MH47Y0205",
+    "confidence": 0.9873946309089661,
+    "ocr_time_ms": 9.48670000070706
+  },
+  "video2_2230.jpg_0.jpg": {
+    "text": "MH47Y0205",
+    "confidence": 0.9990697503089905,
+    "ocr_time_ms": 9.488700001384132
+  },
+  "video2_230.jpg_0.jpg": {
+    "text": "MH02EU4884",
+    "confidence": 0.9577404260635376,
+    "ocr_time_ms": 8.637299994006753
+  },
+  "video2_240.jpg_0.jpg": {
+    "text": "MH02EU4884",
+    "confidence": 0.9999700784683228,
+    "ocr_time_ms": 8.461799996439368
+  },
+  "video2_2550.jpg_0.jpg": {
+    "text": "MH02EK5817",
+    "confidence": 0.9999426007270813,
+    "ocr_time_ms": 8.537699992302805
+  },
+  "video2_280.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.964878261089325,
+    "ocr_time_ms": 9.13629999558907
+  },
+  "video2_2870.jpg_0.jpg": {
+    "text": "MH03DA4505",
+    "confidence": 0.9992352724075317,
+    "ocr_time_ms": 9.988999998313375
+  },
+  "video2_290.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9999758005142212,
+    "ocr_time_ms": 9.252399991964921
+  },
+  "video2_300.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9950006604194641,
+    "ocr_time_ms": 8.989599999040365
+  },
+  "video2_3030.jpg_0.jpg": {
+    "text": "MH02EP4454",
+    "confidence": 0.9597501754760742,
+    "ocr_time_ms": 8.735099996556528
+  },
+  "video2_310.jpg_0.jpg": {
+    "text": "MH02EU4884",
+    "confidence": 0.9685038328170776,
+    "ocr_time_ms": 8.931999997003004
+  },
+  "video2_3260.jpg_0.jpg": {
+    "text": "MH02EZ5492",
+    "confidence": 0.8282250165939331,
+    "ocr_time_ms": 8.860500005539507
+  },
+  "video2_3370.jpg_0.jpg": {
+    "text": "MH03BS8519",
+    "confidence": 0.9997168779373169,
+    "ocr_time_ms": 8.685599997988902
+  },
+  "video2_3440.jpg_0.jpg": {
+    "text": "MH47AG4326",
+    "confidence": 0.9973474740982056,
+    "ocr_time_ms": 8.502700002281927
+  },
+  "video2_3560.jpg_0.jpg": {
+    "text": "MH02AQ2299",
+    "confidence": 0.9964346885681152,
+    "ocr_time_ms": 9.777700004633516
+  },
+  "video2_3570.jpg_0.jpg": {
+    "text": "MH02AQ2299",
+    "confidence": 0.9859428405761719,
+    "ocr_time_ms": 10.916200000792742
+  },
+  "video2_3600.jpg_0.jpg": {
+    "text": "MH02AQ2299",
+    "confidence": 0.9807366132736206,
+    "ocr_time_ms": 9.191000004648231
+  },
+  "video2_3730.jpg_0.jpg": {
+    "text": "MH47N2829",
+    "confidence": 0.9999191761016846,
+    "ocr_time_ms": 8.88009999471251
+  },
+  "video2_3740.jpg_0.jpg": {
+    "text": "MH47N2829",
+    "confidence": 0.9962043762207031,
+    "ocr_time_ms": 8.387800000491552
+  },
+  "video2_3750.jpg_0.jpg": {
+    "text": "MH47N2829",
+    "confidence": 0.9963086247444153,
+    "ocr_time_ms": 8.58880000305362
+  },
+  "video2_380.jpg_0.jpg": {
+    "text": "MH02DN8718JH",
+    "confidence": 0.9167887568473816,
+    "ocr_time_ms": 8.849699996062554
+  },
+  "video2_390.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9957073330879211,
+    "ocr_time_ms": 11.333500006003305
+  },
+  "video2_3990.jpg_0.jpg": {
+    "text": "MH02AQ2299",
+    "confidence": 0.9377015233039856,
+    "ocr_time_ms": 9.127400000579655
+  },
+  "video2_400.jpg_0.jpg": {
+    "text": "MH02DN8718H",
+    "confidence": 0.9515359997749329,
+    "ocr_time_ms": 9.142000009887852
+  },
+  "video2_4010.jpg_0.jpg": {
+    "text": "MH02AQ2299",
+    "confidence": 0.9849136471748352,
+    "ocr_time_ms": 9.382499993080273
+  },
+  "video2_4080.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9999445080757141,
+    "ocr_time_ms": 9.158999993815087
+  },
+  "video2_410.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9998030662536621,
+    "ocr_time_ms": 8.795200003078207
+  },
+  "video2_4140.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9960120320320129,
+    "ocr_time_ms": 8.82820000697393
+  },
+  "video2_4150.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9999763369560242,
+    "ocr_time_ms": 8.768400002736598
+  },
+  "video2_4190.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9828132390975952,
+    "ocr_time_ms": 8.443200000328943
+  },
+  "video2_420.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9999336004257202,
+    "ocr_time_ms": 8.520799994585104
+  },
+  "video2_4230.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9999402761459351,
+    "ocr_time_ms": 9.288400004152209
+  },
+  "video2_4280.jpg_0.jpg": {
+    "text": "MH04HP6100JH",
+    "confidence": 0.932485818862915,
+    "ocr_time_ms": 9.276800003135577
+  },
+  "video2_4290.jpg_0.jpg": {
+    "text": "MH04HP6100JH",
+    "confidence": 0.9195272922515869,
+    "ocr_time_ms": 8.94509999488946
+  },
+  "video2_430.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9994462728500366,
+    "ocr_time_ms": 9.22069999796804
+  },
+  "video2_4340.jpg_0.jpg": {
+    "text": "MH01AV6814",
+    "confidence": 0.9099947214126587,
+    "ocr_time_ms": 8.971600007498637
+  },
+  "video2_4370.jpg_0.jpg": {
+    "text": "MH01AV8814",
+    "confidence": 0.9253384470939636,
+    "ocr_time_ms": 8.859199995640665
+  },
+  "video2_440.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.98681640625,
+    "ocr_time_ms": 8.578499997383915
+  },
+  "video2_4400.jpg_0.jpg": {
+    "text": "MH01AV8814",
+    "confidence": 0.9999507069587708,
+    "ocr_time_ms": 8.645000008982606
+  },
+  "video2_4410.jpg_0.jpg": {
+    "text": "MH01AV8814",
+    "confidence": 0.9963099360466003,
+    "ocr_time_ms": 8.888099997420795
+  },
+  "video2_450.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9997543096542358,
+    "ocr_time_ms": 8.922699998947792
+  },
+  "video2_4510.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9997966885566711,
+    "ocr_time_ms": 8.909299998776987
+  },
+  "video2_4520.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9998825788497925,
+    "ocr_time_ms": 9.54230000206735
+  },
+  "video2_460.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9999672770500183,
+    "ocr_time_ms": 9.163299997453578
+  },
+  "video2_470.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9969151616096497,
+    "ocr_time_ms": 9.42520001262892
+  },
+  "video2_4760.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9999680519104004,
+    "ocr_time_ms": 8.900100001483224
+  },
+  "video2_4770.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9995323419570923,
+    "ocr_time_ms": 8.626399998320267
+  },
+  "video2_4780.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.999957263469696,
+    "ocr_time_ms": 8.94230000267271
+  },
+  "video2_480.jpg_0.jpg": {
+    "text": "MH02DN8718",
+    "confidence": 0.9986838102340698,
+    "ocr_time_ms": 8.727200009161606
+  },
+  "video2_4870.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9977426528930664,
+    "ocr_time_ms": 8.929100004024804
+  },
+  "video2_4980.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9997361898422241,
+    "ocr_time_ms": 8.54210001125466
+  },
+  "video2_5240.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9997701644897461,
+    "ocr_time_ms": 9.062199998879805
+  },
+  "video2_5250.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9998676180839539,
+    "ocr_time_ms": 9.45789999968838
+  },
+  "video2_5260.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9981566667556763,
+    "ocr_time_ms": 9.093000000575557
+  },
+  "video2_5270.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9507285356521606,
+    "ocr_time_ms": 8.876100007910281
+  },
+  "video2_5280.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9603441953659058,
+    "ocr_time_ms": 9.151700010988861
+  },
+  "video2_5290.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9348189234733582,
+    "ocr_time_ms": 9.164999995846301
+  },
+  "video2_5300.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9999852180480957,
+    "ocr_time_ms": 8.877800006303005
+  },
+  "video2_610.jpg_0.jpg": {
+    "text": "MH02BJ2456",
+    "confidence": 0.9992761611938477,
+    "ocr_time_ms": 9.105999997700565
+  },
+  "video2_620.jpg_0.jpg": {
+    "text": "MH02BJ2456",
+    "confidence": 0.9991292953491211,
+    "ocr_time_ms": 9.15040000109002
+  },
+  "video2_650.jpg_0.jpg": {
+    "text": "MH02BJ2456",
+    "confidence": 0.9643376469612122,
+    "ocr_time_ms": 9.256100005586632
+  },
+  "video2_820.jpg_0.jpg": {
+    "text": "MH02BR4503",
+    "confidence": 0.9933531880378723,
+    "ocr_time_ms": 8.64670000737533
+  },
+  "video3_1050.jpg_0.jpg": {
+    "text": "MH02EZ4077",
+    "confidence": 0.9037590026855469,
+    "ocr_time_ms": 8.605700000771321
+  },
+  "video3_1070.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.9658376574516296,
+    "ocr_time_ms": 9.28520000888966
+  },
+  "video3_1080.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.9997762441635132,
+    "ocr_time_ms": 10.009099991293624
+  },
+  "video3_1090.jpg_0.jpg": {
+    "text": "MH02EE8407JH",
+    "confidence": 0.9521362781524658,
+    "ocr_time_ms": 8.71259999985341
+  },
+  "video3_1100.jpg_0.jpg": {
+    "text": "MHMH51",
+    "confidence": 0.3372429311275482,
+    "ocr_time_ms": 8.532400010153651
+  },
+  "video3_1120.jpg_0.jpg": {
+    "text": "MH02EX4399",
+    "confidence": 0.8730968236923218,
+    "ocr_time_ms": 8.505499994498678
+  },
+  "video3_1130.jpg_0.jpg": {
+    "text": "MH02EX4399",
+    "confidence": 0.9850233197212219,
+    "ocr_time_ms": 8.525599987478927
+  },
+  "video3_1140.jpg_0.jpg": {
+    "text": "MHr34H81",
+    "confidence": 0.3627142012119293,
+    "ocr_time_ms": 8.733399998163804
+  },
+  "video3_1150.jpg_0.jpg": {
+    "text": "MHEHA81",
+    "confidence": 0.2642774283885956,
+    "ocr_time_ms": 11.224200003198348
+  },
+  "video3_1180.jpg_0.jpg": {
+    "text": "MH02BT6412",
+    "confidence": 0.8456159830093384,
+    "ocr_time_ms": 9.68010000360664
+  },
+  "video3_1190.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9963605999946594,
+    "ocr_time_ms": 8.51860000693705
+  },
+  "video3_1200.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9676440358161926,
+    "ocr_time_ms": 9.0290000080131
+  },
+  "video3_1210.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.999354362487793,
+    "ocr_time_ms": 8.979999998700805
+  },
+  "video3_1220.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9997550845146179,
+    "ocr_time_ms": 8.607299998402596
+  },
+  "video3_1350.jpg_0.jpg": {
+    "text": "MH02CL4017",
+    "confidence": 0.9972068071365356,
+    "ocr_time_ms": 8.54510000499431
+  },
+  "video3_1360.jpg_0.jpg": {
+    "text": "MH02CL4017",
+    "confidence": 0.9421242475509644,
+    "ocr_time_ms": 8.492699998896569
+  },
+  "video3_1370.jpg_0.jpg": {
+    "text": "MH02CL4017",
+    "confidence": 0.9990078210830688,
+    "ocr_time_ms": 9.578499986673705
+  },
+  "video3_1440.jpg_0.jpg": {
+    "text": "H14DX993",
+    "confidence": 0.8722072839736938,
+    "ocr_time_ms": 8.648799994261935
+  },
+  "video3_1450.jpg_0.jpg": {
+    "text": "MH14DX993",
+    "confidence": 0.9735502600669861,
+    "ocr_time_ms": 8.559000008972362
+  },
+  "video3_1460.jpg_0.jpg": {
+    "text": "MH14DX9938",
+    "confidence": 0.9937739372253418,
+    "ocr_time_ms": 9.12360000074841
+  },
+  "video3_1500.jpg_0.jpg": {
+    "text": "MH14DX9938",
+    "confidence": 0.9974230527877808,
+    "ocr_time_ms": 8.656299993162975
+  },
+  "video3_1510.jpg_0.jpg": {
+    "text": "MH14DX9938",
+    "confidence": 0.9989627003669739,
+    "ocr_time_ms": 9.26009999238886
+  },
+  "video3_1650.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.9999624490737915,
+    "ocr_time_ms": 9.26679999975022
+  },
+  "video3_1660.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.9999421834945679,
+    "ocr_time_ms": 8.963400003267452
+  },
+  "video3_1670.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.9999812245368958,
+    "ocr_time_ms": 8.693499999935739
+  },
+  "video3_1680.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.9720252752304077,
+    "ocr_time_ms": 8.751499990466982
+  },
+  "video3_1700.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.9999198913574219,
+    "ocr_time_ms": 8.811299994704314
+  },
+  "video3_1710.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.999902069568634,
+    "ocr_time_ms": 8.905599999707192
+  },
+  "video3_1730.jpg_0.jpg": {
+    "text": "MH02EE8407",
+    "confidence": 0.9999642372131348,
+    "ocr_time_ms": 9.103300006245263
+  },
+  "video3_1750.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9924570918083191,
+    "ocr_time_ms": 9.249499998986721
+  },
+  "video3_1760.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9995732307434082,
+    "ocr_time_ms": 9.40529999206774
+  },
+  "video3_1770.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9998590350151062,
+    "ocr_time_ms": 9.155300009297207
+  },
+  "video3_1780.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9989392161369324,
+    "ocr_time_ms": 9.294400006183423
+  },
+  "video3_1790.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9997011423110962,
+    "ocr_time_ms": 9.37770000018645
+  },
+  "video3_1800.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9985989332199097,
+    "ocr_time_ms": 9.395700006280094
+  },
+  "video3_1810.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9999270439147949,
+    "ocr_time_ms": 9.1792000021087
+  },
+  "video3_1820.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9998043775558472,
+    "ocr_time_ms": 8.708399996976368
+  },
+  "video3_1840.jpg_0.jpg": {
+    "text": "MH02EU407",
+    "confidence": 0.8339954018592834,
+    "ocr_time_ms": 8.600499990279786
+  },
+  "video3_1850.jpg_0.jpg": {
+    "text": "MH02EJ407",
+    "confidence": 0.8235564231872559,
+    "ocr_time_ms": 9.263100000680424
+  },
+  "video3_1860.jpg_0.jpg": {
+    "text": "MB02EU4077",
+    "confidence": 0.8578789830207825,
+    "ocr_time_ms": 8.780300006037578
+  },
+  "video3_1870.jpg_0.jpg": {
+    "text": "MH02EU4077",
+    "confidence": 0.9445140957832336,
+    "ocr_time_ms": 8.73769998725038
+  },
+  "video3_1880.jpg_0.jpg": {
+    "text": "MH02EU4077",
+    "confidence": 0.9998380541801453,
+    "ocr_time_ms": 9.858299992629327
+  },
+  "video3_1890.jpg_0.jpg": {
+    "text": "MH02EU4077",
+    "confidence": 0.9886356592178345,
+    "ocr_time_ms": 10.242699994705617
+  },
+  "video3_1900.jpg_0.jpg": {
+    "text": "MH02EU4077",
+    "confidence": 0.9572359323501587,
+    "ocr_time_ms": 8.655799989355728
+  },
+  "video3_1910.jpg_0.jpg": {
+    "text": "MH02CD4077",
+    "confidence": 0.9172270894050598,
+    "ocr_time_ms": 8.559599998989142
+  },
+  "video3_1920.jpg_0.jpg": {
+    "text": "MH01BD186",
+    "confidence": 0.9948201775550842,
+    "ocr_time_ms": 9.089400002267212
+  },
+  "video3_1930.jpg_0.jpg": {
+    "text": "M201BD186",
+    "confidence": 0.9024879932403564,
+    "ocr_time_ms": 8.877500004018657
+  },
+  "video3_1950.jpg_0.jpg": {
+    "text": "MH02ET919",
+    "confidence": 0.7619066834449768,
+    "ocr_time_ms": 8.557499997550622
+  },
+  "video3_1960.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9986615180969238,
+    "ocr_time_ms": 9.06080000277143
+  },
+  "video3_1970.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9948398470878601,
+    "ocr_time_ms": 8.788899998762645
+  },
+  "video3_1980.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9999009370803833,
+    "ocr_time_ms": 8.800399999017827
+  },
+  "video3_1990.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9883626699447632,
+    "ocr_time_ms": 9.168200005660765
+  },
+  "video3_2000.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9999462366104126,
+    "ocr_time_ms": 8.70510000095237
+  },
+  "video3_2170.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9683286547660828,
+    "ocr_time_ms": 8.610200005932711
+  },
+  "video3_2180.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9993107914924622,
+    "ocr_time_ms": 8.774699992500246
+  },
+  "video3_2190.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9999456405639648,
+    "ocr_time_ms": 8.574499996029772
+  },
+  "video3_2200.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9529106020927429,
+    "ocr_time_ms": 8.682300001964904
+  },
+  "video3_2210.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9844477772712708,
+    "ocr_time_ms": 8.663300002808683
+  },
+  "video3_2220.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.999957263469696,
+    "ocr_time_ms": 8.772899993346073
+  },
+  "video3_2230.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9989522695541382,
+    "ocr_time_ms": 8.645599998999387
+  },
+  "video3_2240.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9996956586837769,
+    "ocr_time_ms": 9.016099997097626
+  },
+  "video3_2250.jpg_0.jpg": {
+    "text": "MH02BT6482",
+    "confidence": 0.9998787045478821,
+    "ocr_time_ms": 8.939399995142594
+  },
+  "video3_310.jpg_0.jpg": {
+    "text": "MH14FS5229",
+    "confidence": 0.9507617950439453,
+    "ocr_time_ms": 9.4828999863239
+  },
+  "video3_40.jpg_0.jpg": {
+    "text": "MH01CT1710",
+    "confidence": 0.9953790903091431,
+    "ocr_time_ms": 8.918699997593649
+  },
+  "video3_440.jpg_0.jpg": {
+    "text": "MH14FM6930",
+    "confidence": 0.952085018157959,
+    "ocr_time_ms": 8.701400001882575
+  },
+  "video3_450.jpg_0.jpg": {
+    "text": "MH02EP5740",
+    "confidence": 0.9999796152114868,
+    "ocr_time_ms": 9.23099998908583
+  },
+  "video3_470.jpg_0.jpg": {
+    "text": "MH02EP5740",
+    "confidence": 0.9999917149543762,
+    "ocr_time_ms": 9.177599989925511
+  },
+  "video3_540.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9995383024215698,
+    "ocr_time_ms": 9.11110000743065
+  },
+  "video3_550.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9998177289962769,
+    "ocr_time_ms": 9.339600001112558
+  },
+  "video3_560.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9726547002792358,
+    "ocr_time_ms": 9.573199989972636
+  },
+  "video3_570.jpg_0.jpg": {
+    "text": "MH02ER914MH",
+    "confidence": 0.8943019509315491,
+    "ocr_time_ms": 9.207099996274337
+  },
+  "video3_580.jpg_0.jpg": {
+    "text": "MH02ER9194MH",
+    "confidence": 0.9209936261177063,
+    "ocr_time_ms": 8.854699990479276
+  },
+  "video3_590.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9709204435348511,
+    "ocr_time_ms": 9.04679999803193
+  },
+  "video3_600.jpg_0.jpg": {
+    "text": "MH02ER9194",
+    "confidence": 0.9995592832565308,
+    "ocr_time_ms": 8.848600002238527
+  },
+  "video3_610.jpg_0.jpg": {
+    "text": "MH02ER9194JH",
+    "confidence": 0.9053192734718323,
+    "ocr_time_ms": 9.117000008700415
+  },
+  "video3_620.jpg_0.jpg": {
+    "text": "MH02ER9194JH",
+    "confidence": 0.9292788505554199,
+    "ocr_time_ms": 9.90670001192484
+  },
+  "video3_630.jpg_0.jpg": {
+    "text": "MH02ER9194JH",
+    "confidence": 0.8969995975494385,
+    "ocr_time_ms": 8.774799993261695
+  },
+  "video3_640.jpg_0.jpg": {
+    "text": "MH02ER9194J",
+    "confidence": 0.9345993399620056,
+    "ocr_time_ms": 8.87930000317283
+  },
+  "video3_650.jpg_0.jpg": {
+    "text": "MH02ER194",
+    "confidence": 0.9630944132804871,
+    "ocr_time_ms": 9.696900000562891
+  },
+  "video3_650.jpg_1.jpg": {
+    "text": "MH2ER914J4",
+    "confidence": 0.8736740946769714,
+    "ocr_time_ms": 10.125599990715273
+  },
+  "video3_660.jpg_0.jpg": {
+    "text": "MH02ER194",
+    "confidence": 0.9451823830604553,
+    "ocr_time_ms": 9.307900007115677
+  },
+  "video4_1100.jpg_0.jpg": {
+    "text": "GJ12FJ0735",
+    "confidence": 0.8588812947273254,
+    "ocr_time_ms": 9.028699991176836
+  },
+  "video4_2020.jpg_0.jpg": {
+    "text": "MH02DS3039",
+    "confidence": 0.8625577092170715,
+    "ocr_time_ms": 8.642800006782636
+  },
+  "video4_2030.jpg_0.jpg": {
+    "text": "MH02DS3099",
+    "confidence": 0.942416787147522,
+    "ocr_time_ms": 8.958199992775917
+  },
+  "video4_2120.jpg_0.jpg": {
+    "text": "MH04DW020",
+    "confidence": 0.9826592206954956,
+    "ocr_time_ms": 9.71110000682529
+  },
+  "video4_2130.jpg_0.jpg": {
+    "text": "MH04DWM020",
+    "confidence": 0.9049102663993835,
+    "ocr_time_ms": 8.786599995801225
+  },
+  "video4_2140.jpg_0.jpg": {
+    "text": "MH04DW020",
+    "confidence": 0.9831173419952393,
+    "ocr_time_ms": 8.971499992185272
+  },
+  "video4_2150.jpg_0.jpg": {
+    "text": "MH04DWCH00",
+    "confidence": 0.8730357885360718,
+    "ocr_time_ms": 9.316499999840744
+  },
+  "video4_2160.jpg_0.jpg": {
+    "text": "MH04DWCH00",
+    "confidence": 0.8434852361679077,
+    "ocr_time_ms": 8.99270000809338
+  },
+  "video4_2170.jpg_0.jpg": {
+    "text": "MH04DW020",
+    "confidence": 0.9956591129302979,
+    "ocr_time_ms": 8.870599995134398
+  },
+  "video4_2180.jpg_0.jpg": {
+    "text": "MH04DWCH020",
+    "confidence": 0.8866415619850159,
+    "ocr_time_ms": 12.132999996538274
+  },
+  "video4_2210.jpg_0.jpg": {
+    "text": "MH01CT9150",
+    "confidence": 0.9951896667480469,
+    "ocr_time_ms": 10.43039999785833
+  },
+  "video4_2230.jpg_0.jpg": {
+    "text": "MH01CT9150H",
+    "confidence": 0.9164774417877197,
+    "ocr_time_ms": 9.078799994313158
+  },
+  "video4_2240.jpg_0.jpg": {
+    "text": "MH01CT9150JH",
+    "confidence": 0.9364450573921204,
+    "ocr_time_ms": 8.76589999825228
+  },
+  "video4_2250.jpg_0.jpg": {
+    "text": "MH01CT9150",
+    "confidence": 0.9999761581420898,
+    "ocr_time_ms": 9.099099988816306
+  },
+  "video4_2260.jpg_0.jpg": {
+    "text": "MH01CT9150",
+    "confidence": 0.9995940923690796,
+    "ocr_time_ms": 8.864299990818836
+  },
+  "video4_2290.jpg_0.jpg": {
+    "text": "MH01CT9150JH",
+    "confidence": 0.8842418193817139,
+    "ocr_time_ms": 9.181900008115917
+  },
+  "video4_2300.jpg_0.jpg": {
+    "text": "MH01CT9150JH",
+    "confidence": 0.9444839954376221,
+    "ocr_time_ms": 9.141699993051589
+  },
+  "video4_2310.jpg_0.jpg": {
+    "text": "MH01CT9150JH0",
+    "confidence": 0.8895451426506042,
+    "ocr_time_ms": 9.081099997274578
+  },
+  "video4_2340.jpg_0.jpg": {
+    "text": "MH1CT91J0",
+    "confidence": 0.8849738836288452,
+    "ocr_time_ms": 9.393900007125922
+  },
+  "video4_2370.jpg_0.jpg": {
+    "text": "MH01AH8495",
+    "confidence": 0.9924306869506836,
+    "ocr_time_ms": 9.386599995195866
+  },
+  "video4_2380.jpg_0.jpg": {
+    "text": "MH01AH8495",
+    "confidence": 0.9996325373649597,
+    "ocr_time_ms": 9.03850000759121
+  },
+  "video4_2390.jpg_0.jpg": {
+    "text": "MH01AH8495",
+    "confidence": 0.9999006390571594,
+    "ocr_time_ms": 9.873999995761551
+  },
+  "video4_2410.jpg_0.jpg": {
+    "text": "MH01AH8495JH",
+    "confidence": 0.8653305172920227,
+    "ocr_time_ms": 9.415699998498894
+  },
+  "video4_2420.jpg_0.jpg": {
+    "text": "MH01AH8495",
+    "confidence": 0.9998365640640259,
+    "ocr_time_ms": 9.131400001933798
+  },
+  "video4_2430.jpg_0.jpg": {
+    "text": "MH01AH8495",
+    "confidence": 0.999934196472168,
+    "ocr_time_ms": 9.050199994817376
+  },
+  "video4_2440.jpg_0.jpg": {
+    "text": "MH01AH8495H",
+    "confidence": 0.9451282024383545,
+    "ocr_time_ms": 8.980500002508052
+  },
+  "video4_2490.jpg_0.jpg": {
+    "text": "MH02AK5481",
+    "confidence": 0.9663738012313843,
+    "ocr_time_ms": 9.07119999465067
+  },
+  "video4_2500.jpg_0.jpg": {
+    "text": "MH02AK5481",
+    "confidence": 0.9994621276855469,
+    "ocr_time_ms": 8.92889998794999
+  },
+  "video4_2580.jpg_0.jpg": {
+    "text": "MH01BU852",
+    "confidence": 0.9955553412437439,
+    "ocr_time_ms": 9.470200006035157
+  },
+  "video4_2590.jpg_0.jpg": {
+    "text": "MH01BUCH852",
+    "confidence": 0.8595359325408936,
+    "ocr_time_ms": 9.612800000468269
+  },
+  "video4_2600.jpg_0.jpg": {
+    "text": "MH01BUH852",
+    "confidence": 0.898047149181366,
+    "ocr_time_ms": 9.238600003300235
+  },
+  "video4_2610.jpg_0.jpg": {
+    "text": "MH01BU852",
+    "confidence": 0.9485366344451904,
+    "ocr_time_ms": 9.506600006716326
+  },
+  "video4_2620.jpg_0.jpg": {
+    "text": "MH01BUJ52",
+    "confidence": 0.8783711791038513,
+    "ocr_time_ms": 8.930900003178976
+  },
+  "video4_2630.jpg_0.jpg": {
+    "text": "MH01BU852",
+    "confidence": 0.91514652967453,
+    "ocr_time_ms": 9.121100010816008
+  },
+  "video4_2640.jpg_0.jpg": {
+    "text": "MH01AV7441",
+    "confidence": 0.9613946676254272,
+    "ocr_time_ms": 8.890699988114648
+  },
+  "video4_2650.jpg_0.jpg": {
+    "text": "MP01AY7443",
+    "confidence": 0.7435562610626221,
+    "ocr_time_ms": 9.25989999086596
+  },
+  "video4_2660.jpg_0.jpg": {
+    "text": "MH01AV7461",
+    "confidence": 0.967141330242157,
+    "ocr_time_ms": 9.633900001063012
+  },
+  "video4_2720.jpg_0.jpg": {
+    "text": "MH01AV7461H",
+    "confidence": 0.9578023552894592,
+    "ocr_time_ms": 8.958899998106062
+  },
+  "video4_2730.jpg_0.jpg": {
+    "text": "MH01AV7461",
+    "confidence": 0.9943934679031372,
+    "ocr_time_ms": 8.996799995657057
+  },
+  "video4_2780.jpg_0.jpg": {
+    "text": "MH01AV7461",
+    "confidence": 0.9997786283493042,
+    "ocr_time_ms": 9.19850000354927
+  },
+  "video4_2790.jpg_0.jpg": {
+    "text": "MH01AV7461",
+    "confidence": 0.9994369745254517,
+    "ocr_time_ms": 9.470200006035157
+  },
+  "video4_2800.jpg_0.jpg": {
+    "text": "MH01AV7461",
+    "confidence": 0.9737442135810852,
+    "ocr_time_ms": 9.562599996570498
+  },
+  "video4_2810.jpg_0.jpg": {
+    "text": "MH01AV7461H",
+    "confidence": 0.9517513513565063,
+    "ocr_time_ms": 9.065600010217167
+  },
+  "video4_2820.jpg_0.jpg": {
+    "text": "MH01AV7461",
+    "confidence": 0.9997712969779968,
+    "ocr_time_ms": 8.927599992603064
+  },
+  "video4_2830.jpg_0.jpg": {
+    "text": "MH01AV7461",
+    "confidence": 0.9013479351997375,
+    "ocr_time_ms": 9.599099998013116
+  },
+  "video4_2840.jpg_0.jpg": {
+    "text": "MH01AV7461",
+    "confidence": 0.9087343215942383,
+    "ocr_time_ms": 9.351800006697886
+  },
+  "video4_2970.jpg_0.jpg": {
+    "text": "MM2JH251",
+    "confidence": 0.3096104860305786,
+    "ocr_time_ms": 9.093900007428601
+  },
+  "video4_3090.jpg_0.jpg": {
+    "text": "MH01JA8939",
+    "confidence": 0.954748809337616,
+    "ocr_time_ms": 10.615699997288175
+  },
+  "video4_3100.jpg_0.jpg": {
+    "text": "MH01JA8939",
+    "confidence": 0.9933134913444519,
+    "ocr_time_ms": 9.459399996558204
+  },
+  "video4_3130.jpg_0.jpg": {
+    "text": "MH01JA8939",
+    "confidence": 0.996790885925293,
+    "ocr_time_ms": 9.133699990343302
+  },
+  "video4_3190.jpg_0.jpg": {
+    "text": "MH01AX1113MH",
+    "confidence": 0.9274677634239197,
+    "ocr_time_ms": 9.195300008286722
+  },
+  "video4_3200.jpg_0.jpg": {
+    "text": "MH01AX1113H",
+    "confidence": 0.9317325949668884,
+    "ocr_time_ms": 9.090099993045442
+  },
+  "video4_3280.jpg_0.jpg": {
+    "text": "MH01AL9693H",
+    "confidence": 0.9396932125091553,
+    "ocr_time_ms": 9.287599998060614
+  },
+  "video4_3290.jpg_0.jpg": {
+    "text": "MH01AL9693",
+    "confidence": 0.9987571835517883,
+    "ocr_time_ms": 9.167199998046272
+  },
+  "video4_330.jpg_0.jpg": {
+    "text": "MH04CM7382",
+    "confidence": 0.9754413366317749,
+    "ocr_time_ms": 9.026100000482984
+  },
+  "video4_3310.jpg_0.jpg": {
+    "text": "MH01AL9693MH",
+    "confidence": 0.8614690899848938,
+    "ocr_time_ms": 8.937200007494539
+  },
+  "video4_3320.jpg_0.jpg": {
+    "text": "MH01AL9693MH",
+    "confidence": 0.9238844513893127,
+    "ocr_time_ms": 9.092300009797327
+  },
+  "video4_3330.jpg_0.jpg": {
+    "text": "MH01AL9693MH",
+    "confidence": 0.9313434958457947,
+    "ocr_time_ms": 9.55719999910798
+  },
+  "video4_340.jpg_0.jpg": {
+    "text": "MH04GM7982",
+    "confidence": 0.999996542930603,
+    "ocr_time_ms": 9.398099995451048
+  },
+  "video4_3500.jpg_0.jpg": {
+    "text": "MH02DJ8952",
+    "confidence": 0.9999040365219116,
+    "ocr_time_ms": 9.19850000354927
+  },
+  "video4_3510.jpg_0.jpg": {
+    "text": "MH02DJ895",
+    "confidence": 0.8500654697418213,
+    "ocr_time_ms": 8.774799993261695
+  },
+  "video4_3520.jpg_0.jpg": {
+    "text": "MH02DJ8952M",
+    "confidence": 0.8829084038734436,
+    "ocr_time_ms": 9.490999989793636
+  },
+  "video4_3720.jpg_0.jpg": {
+    "text": "MH02DJ4903JH",
+    "confidence": 0.9432399868965149,
+    "ocr_time_ms": 9.989099999074824
+  },
+  "video4_3760.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9955118298530579,
+    "ocr_time_ms": 9.202000001096167
+  },
+  "video4_3770.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.999774158000946,
+    "ocr_time_ms": 9.342599994852208
+  },
+  "video4_3780.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9998839497566223,
+    "ocr_time_ms": 10.182800004258752
+  },
+  "video4_3790.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9998825788497925,
+    "ocr_time_ms": 9.25709999864921
+  },
+  "video4_3800.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9998159408569336,
+    "ocr_time_ms": 8.867599986842833
+  },
+  "video4_3810.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9783525466918945,
+    "ocr_time_ms": 8.88070001383312
+  },
+  "video4_3820.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9994586706161499,
+    "ocr_time_ms": 8.806199999526143
+  },
+  "video4_3830.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9997707605361938,
+    "ocr_time_ms": 8.617400002549402
+  },
+  "video4_3840.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9999481439590454,
+    "ocr_time_ms": 8.734300005016848
+  },
+  "video4_3850.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9858602285385132,
+    "ocr_time_ms": 8.836499997414649
+  },
+  "video4_3860.jpg_0.jpg": {
+    "text": "MH02DW8021",
+    "confidence": 0.9994505643844604,
+    "ocr_time_ms": 9.232299998984672
+  },
+  "video4_50.jpg_0.jpg": {
+    "text": "MH02B6980",
+    "confidence": 0.9333170652389526,
+    "ocr_time_ms": 10.704600004828535
+  },
+  "video5_0.jpg_0.jpg": {
+    "text": "MH01BY7658",
+    "confidence": 0.9999392628669739,
+    "ocr_time_ms": 10.365699999965727
+  },
+  "video5_10.jpg_0.jpg": {
+    "text": "MH01BY7658",
+    "confidence": 0.9999103546142578,
+    "ocr_time_ms": 10.758200005511753
+  },
+  "video5_100.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9978643655776978,
+    "ocr_time_ms": 10.739799996372312
+  },
+  "video5_110.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9992087483406067,
+    "ocr_time_ms": 11.684400000376627
+  },
+  "video5_120.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9989864230155945,
+    "ocr_time_ms": 10.112699994351715
+  },
+  "video5_130.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9964650869369507,
+    "ocr_time_ms": 9.499099993263371
+  },
+  "video5_140.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9894668459892273,
+    "ocr_time_ms": 9.727100012241863
+  },
+  "video5_150.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9974125027656555,
+    "ocr_time_ms": 9.384300006786361
+  },
+  "video5_160.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9997933506965637,
+    "ocr_time_ms": 9.47049999376759
+  },
+  "video5_170.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9990375638008118,
+    "ocr_time_ms": 9.662600001320243
+  },
+  "video5_180.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9993294477462769,
+    "ocr_time_ms": 9.587100008502603
+  },
+  "video5_1820.jpg_0.jpg": {
+    "text": "MH01CV6333",
+    "confidence": 0.9944890141487122,
+    "ocr_time_ms": 9.12439999228809
+  },
+  "video5_1830.jpg_0.jpg": {
+    "text": "MH01CY6333",
+    "confidence": 0.9569012522697449,
+    "ocr_time_ms": 9.25469999492634
+  },
+  "video5_1840.jpg_0.jpg": {
+    "text": "MH01CV6333",
+    "confidence": 0.9998832941055298,
+    "ocr_time_ms": 10.259999995469116
+  },
+  "video5_190.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9995483160018921,
+    "ocr_time_ms": 9.609699991415255
+  },
+  "video5_340.jpg_0.jpg": {
+    "text": "MH03CS626E",
+    "confidence": 0.9154240489006042,
+    "ocr_time_ms": 9.285499996622093
+  },
+  "video5_350.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9786574244499207,
+    "ocr_time_ms": 9.691300001577474
+  },
+  "video5_360.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9905694127082825,
+    "ocr_time_ms": 9.175400002277456
+  },
+  "video5_370.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9995614886283875,
+    "ocr_time_ms": 9.47920000180602
+  },
+  "video5_380.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9840484857559204,
+    "ocr_time_ms": 9.729700002935715
+  },
+  "video5_390.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9960952997207642,
+    "ocr_time_ms": 9.75849998940248
+  },
+  "video5_400.jpg_0.jpg": {
+    "text": "MH03CS626E",
+    "confidence": 0.8868615031242371,
+    "ocr_time_ms": 9.536600002320483
+  },
+  "video5_430.jpg_0.jpg": {
+    "text": "MH01CY6333",
+    "confidence": 0.9510719180107117,
+    "ocr_time_ms": 9.156900006928481
+  },
+  "video5_470.jpg_0.jpg": {
+    "text": "MH03CS828",
+    "confidence": 0.9745148420333862,
+    "ocr_time_ms": 8.820399991236627
+  },
+  "video5_480.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9990915060043335,
+    "ocr_time_ms": 8.697199999005534
+  },
+  "video5_490.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9992850422859192,
+    "ocr_time_ms": 9.497399994870648
+  },
+  "video5_500.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9992702603340149,
+    "ocr_time_ms": 9.112100000493228
+  },
+  "video5_510.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9903814196586609,
+    "ocr_time_ms": 8.844399999361485
+  },
+  "video5_520.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9725011587142944,
+    "ocr_time_ms": 9.102600000915118
+  },
+  "video5_60.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9880420565605164,
+    "ocr_time_ms": 9.027100008097477
+  },
+  "video5_70.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9934896230697632,
+    "ocr_time_ms": 8.989800000563264
+  },
+  "video5_80.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9994548559188843,
+    "ocr_time_ms": 8.887100004358217
+  },
+  "video5_90.jpg_0.jpg": {
+    "text": "MH03CS6266",
+    "confidence": 0.9991884231567383,
+    "ocr_time_ms": 8.902200002921745
+  },
+  "video6_1000.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999735951423645,
+    "ocr_time_ms": 8.84510000469163
+  },
+  "video6_1010.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999803304672241,
+    "ocr_time_ms": 11.771800011047162
+  },
+  "video6_1020.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9984596967697144,
+    "ocr_time_ms": 10.219599993433803
+  },
+  "video6_1030.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999861717224121,
+    "ocr_time_ms": 9.703799994895235
+  },
+  "video6_1040.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999758005142212,
+    "ocr_time_ms": 9.797799997613765
+  },
+  "video6_1050.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9908124804496765,
+    "ocr_time_ms": 9.729600002174266
+  },
+  "video6_1060.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999604225158691,
+    "ocr_time_ms": 9.252300005755387
+  },
+  "video6_1070.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999955296516418,
+    "ocr_time_ms": 9.187200004816987
+  },
+  "video6_1080.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999235272407532,
+    "ocr_time_ms": 9.481900007813238
+  },
+  "video6_1090.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999462366104126,
+    "ocr_time_ms": 9.469500000705011
+  },
+  "video6_1100.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.999976634979248,
+    "ocr_time_ms": 9.913800007780083
+  },
+  "video6_1110.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.999965488910675,
+    "ocr_time_ms": 11.031899994122796
+  },
+  "video6_1120.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.97760409116745,
+    "ocr_time_ms": 8.870199992088601
+  },
+  "video6_1130.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999348521232605,
+    "ocr_time_ms": 9.044700011145324
+  },
+  "video6_1140.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9998468160629272,
+    "ocr_time_ms": 8.974399999715388
+  },
+  "video6_1150.jpg_0.jpg": {
+    "text": "MH07U9939",
+    "confidence": 0.7612350583076477,
+    "ocr_time_ms": 9.057300005224533
+  },
+  "video6_200.jpg_0.jpg": {
+    "text": "PB11AG0774",
+    "confidence": 0.9942746162414551,
+    "ocr_time_ms": 9.318399999756366
+  },
+  "video6_210.jpg_0.jpg": {
+    "text": "PB11AG0774",
+    "confidence": 0.9998825788497925,
+    "ocr_time_ms": 8.808500002487563
+  },
+  "video6_220.jpg_0.jpg": {
+    "text": "PB11AG0774",
+    "confidence": 0.9999149441719055,
+    "ocr_time_ms": 9.544800006551668
+  },
+  "video6_260.jpg_0.jpg": {
+    "text": "MH06AZ3571",
+    "confidence": 0.9592032432556152,
+    "ocr_time_ms": 9.069500010809861
+  },
+  "video6_40.jpg_0.jpg": {
+    "text": "PB11AG0774",
+    "confidence": 0.9993656277656555,
+    "ocr_time_ms": 8.69770000281278
+  },
+  "video6_440.jpg_0.jpg": {
+    "text": "MH01BD1897",
+    "confidence": 0.9741038084030151,
+    "ocr_time_ms": 9.085600002435967
+  },
+  "video6_650.jpg_0.jpg": {
+    "text": "MH01CV9311",
+    "confidence": 0.9663589596748352,
+    "ocr_time_ms": 8.958399994298816
+  },
+  "video6_710.jpg_0.jpg": {
+    "text": "MH01CY9311",
+    "confidence": 0.9452840089797974,
+    "ocr_time_ms": 9.024300001328811
+  },
+  "video6_80.jpg_0.jpg": {
+    "text": "PB11AG0774",
+    "confidence": 0.9610471725463867,
+    "ocr_time_ms": 10.110199989867397
+  },
+  "video6_810.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9917974472045898,
+    "ocr_time_ms": 9.776499995496124
+  },
+  "video6_820.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999931454658508,
+    "ocr_time_ms": 9.734599996590987
+  },
+  "video6_830.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999618530273438,
+    "ocr_time_ms": 9.181000001262873
+  },
+  "video6_840.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999380111694336,
+    "ocr_time_ms": 13.116700007230975
+  },
+  "video6_850.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999330639839172,
+    "ocr_time_ms": 9.844799991697073
+  },
+  "video6_860.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999681711196899,
+    "ocr_time_ms": 9.963199991034344
+  },
+  "video6_870.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999967813491821,
+    "ocr_time_ms": 9.836600002017803
+  },
+  "video6_880.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999868273735046,
+    "ocr_time_ms": 9.816200006753206
+  },
+  "video6_890.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9988728761672974,
+    "ocr_time_ms": 9.596000003512017
+  },
+  "video6_900.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999438524246216,
+    "ocr_time_ms": 9.227100003045052
+  },
+  "video6_910.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999381303787231,
+    "ocr_time_ms": 9.744299997691996
+  },
+  "video6_920.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999899864196777,
+    "ocr_time_ms": 9.702000010292977
+  },
+  "video6_930.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9955278635025024,
+    "ocr_time_ms": 9.08740000159014
+  },
+  "video6_940.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.999995231628418,
+    "ocr_time_ms": 9.576799988280982
+  },
+  "video6_950.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999935030937195,
+    "ocr_time_ms": 9.267700006603263
+  },
+  "video6_960.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9994122385978699,
+    "ocr_time_ms": 8.781399999861605
+  },
+  "video6_970.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999837875366211,
+    "ocr_time_ms": 9.035600000061095
+  },
+  "video6_990.jpg_0.jpg": {
+    "text": "MH02DS9365",
+    "confidence": 0.9999881982803345,
+    "ocr_time_ms": 8.715799995115958
+  },
+  "video8_0.jpg_0.jpg": {
+    "text": "MH02CD3654",
+    "confidence": 0.9956269264221191,
+    "ocr_time_ms": 8.866000003763475
+  },
+  "video8_10.jpg_0.jpg": {
+    "text": "MH02CD3654J",
+    "confidence": 0.9672844409942627,
+    "ocr_time_ms": 8.751199988182634
+  },
+  "video8_1030.jpg_0.jpg": {
+    "text": "MH02EE6842",
+    "confidence": 0.9939283132553101,
+    "ocr_time_ms": 8.807400008663535
+  },
+  "video8_1040.jpg_0.jpg": {
+    "text": "MH02EE6842",
+    "confidence": 0.999984085559845,
+    "ocr_time_ms": 9.259500002372079
+  },
+  "video8_1050.jpg_0.jpg": {
+    "text": "MH02EE6842",
+    "confidence": 0.9961203336715698,
+    "ocr_time_ms": 9.90980000642594
+  },
+  "video8_1090.jpg_0.jpg": {
+    "text": "MH03AM3025",
+    "confidence": 0.9551172256469727,
+    "ocr_time_ms": 9.23109998984728
+  },
+  "video8_1110.jpg_0.jpg": {
+    "text": "MH03AM3025",
+    "confidence": 0.9998506307601929,
+    "ocr_time_ms": 9.442700000363402
+  },
+  "video8_1120.jpg_0.jpg": {
+    "text": "MH03AM3025",
+    "confidence": 0.9828052520751953,
+    "ocr_time_ms": 8.998500008601695
+  },
+  "video8_130.jpg_0.jpg": {
+    "text": "MH20G144",
+    "confidence": 0.5855226516723633,
+    "ocr_time_ms": 8.698100005858578
+  },
+  "video8_1300.jpg_0.jpg": {
+    "text": "MH2C4A4MH34",
+    "confidence": 0.41363075375556946,
+    "ocr_time_ms": 8.754599999519996
+  },
+  "video8_1310.jpg_0.jpg": {
+    "text": "MH02CF46H4",
+    "confidence": 0.5653687119483948,
+    "ocr_time_ms": 8.688800007803366
+  },
+  "video8_1340.jpg_0.jpg": {
+    "text": "MH01BG7161",
+    "confidence": 0.9988517761230469,
+    "ocr_time_ms": 8.648500006529503
+  },
+  "video8_1350.jpg_0.jpg": {
+    "text": "MH01BG7161",
+    "confidence": 0.9996560215950012,
+    "ocr_time_ms": 8.831400002236478
+  },
+  "video8_1360.jpg_0.jpg": {
+    "text": "MH01BG7161",
+    "confidence": 0.9996721148490906,
+    "ocr_time_ms": 8.766099999775179
+  },
+  "video8_1370.jpg_0.jpg": {
+    "text": "MH01BG7161H",
+    "confidence": 0.9701434969902039,
+    "ocr_time_ms": 8.81420000223443
+  },
+  "video8_1380.jpg_0.jpg": {
+    "text": "MH01BG7161",
+    "confidence": 0.9982731938362122,
+    "ocr_time_ms": 9.154100000159815
+  },
+  "video8_1390.jpg_0.jpg": {
+    "text": "MH01BG711JH1",
+    "confidence": 0.8678761124610901,
+    "ocr_time_ms": 9.540400002151728
+  },
+  "video8_1410.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9871307015419006,
+    "ocr_time_ms": 9.182599998894148
+  },
+  "video8_1420.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9766643047332764,
+    "ocr_time_ms": 8.682200001203455
+  },
+  "video8_1430.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9900088906288147,
+    "ocr_time_ms": 13.295700002345257
+  },
+  "video8_1440.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9945167899131775,
+    "ocr_time_ms": 11.825599998701364
+  },
+  "video8_1450.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9810537695884705,
+    "ocr_time_ms": 9.746200012159534
+  },
+  "video8_1510.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9989598393440247,
+    "ocr_time_ms": 9.527700007311068
+  },
+  "video8_1520.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.956462562084198,
+    "ocr_time_ms": 9.183500005747192
+  },
+  "video8_1540.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9985630512237549,
+    "ocr_time_ms": 8.91639999463223
+  },
+  "video8_1550.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9520128965377808,
+    "ocr_time_ms": 8.785500001977198
+  },
+  "video8_1570.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.994954526424408,
+    "ocr_time_ms": 8.769399995799176
+  },
+  "video8_1580.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9991837739944458,
+    "ocr_time_ms": 8.75919999089092
+  },
+  "video8_1590.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9847351908683777,
+    "ocr_time_ms": 8.88140000461135
+  },
+  "video8_1600.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9883345365524292,
+    "ocr_time_ms": 8.847199991578236
+  },
+  "video8_1610.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9561463594436646,
+    "ocr_time_ms": 8.934899989981204
+  },
+  "video8_1680.jpg_0.jpg": {
+    "text": "MH47AZ323",
+    "confidence": 0.9915978908538818,
+    "ocr_time_ms": 10.020899993833154
+  },
+  "video8_1890.jpg_0.jpg": {
+    "text": "MH02EH1077",
+    "confidence": 0.9945927858352661,
+    "ocr_time_ms": 10.14460000442341
+  },
+  "video8_20.jpg_0.jpg": {
+    "text": "MH02CD3654J",
+    "confidence": 0.9359054565429688,
+    "ocr_time_ms": 9.0998999949079
+  },
+  "video8_2090.jpg_0.jpg": {
+    "text": "MH02CR8277",
+    "confidence": 0.950090765953064,
+    "ocr_time_ms": 8.808999991742894
+  },
+  "video8_2100.jpg_0.jpg": {
+    "text": "MH02CR8276",
+    "confidence": 0.9947737455368042,
+    "ocr_time_ms": 9.220399995683692
+  },
+  "video8_2260.jpg_0.jpg": {
+    "text": "MH01BT9006",
+    "confidence": 0.786419689655304,
+    "ocr_time_ms": 8.919200001400895
+  },
+  "video8_2270.jpg_0.jpg": {
+    "text": "MH02BT9066",
+    "confidence": 0.9031289219856262,
+    "ocr_time_ms": 9.110999992117286
+  },
+  "video8_2350.jpg_0.jpg": {
+    "text": "MH01BY9066",
+    "confidence": 0.9374316334724426,
+    "ocr_time_ms": 9.21619999280665
+  },
+  "video8_2360.jpg_0.jpg": {
+    "text": "MH01BT9065H6",
+    "confidence": 0.7644527554512024,
+    "ocr_time_ms": 8.80959999631159
+  },
+  "video8_2450.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9922972917556763,
+    "ocr_time_ms": 9.816599995247088
+  },
+  "video8_2460.jpg_0.jpg": {
+    "text": "MH02D534",
+    "confidence": 0.9651960134506226,
+    "ocr_time_ms": 8.882000009180047
+  },
+  "video8_2460.jpg_1.jpg": {
+    "text": "MH01BT906JH4",
+    "confidence": 0.7422060370445251,
+    "ocr_time_ms": 9.257800003979355
+  },
+  "video8_2470.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.9615588784217834,
+    "ocr_time_ms": 9.353900008136407
+  },
+  "video8_2480.jpg_0.jpg": {
+    "text": "MH4705851",
+    "confidence": 0.974065899848938,
+    "ocr_time_ms": 8.857099994202144
+  },
+  "video8_250.jpg_0.jpg": {
+    "text": "MH47AU1306",
+    "confidence": 0.9971904754638672,
+    "ocr_time_ms": 9.160999994492158
+  },
+  "video8_260.jpg_0.jpg": {
+    "text": "MH47AU1306",
+    "confidence": 0.9972389340400696,
+    "ocr_time_ms": 9.301900005084462
+  },
+  "video8_270.jpg_0.jpg": {
+    "text": "Unre3le",
+    "confidence": 0.6713513135910034,
+    "ocr_time_ms": 9.072900007595308
+  },
+  "video8_660.jpg_0.jpg": {
+    "text": "MH01DP0323",
+    "confidence": 0.9681357145309448,
+    "ocr_time_ms": 8.938800005125813
+  },
+  "video8_730.jpg_0.jpg": {
+    "text": "MH01CR7388",
+    "confidence": 0.9993572235107422,
+    "ocr_time_ms": 9.049400003277697
+  },
+  "video8_740.jpg_0.jpg": {
+    "text": "MH01CR7388",
+    "confidence": 0.9999658465385437,
+    "ocr_time_ms": 9.098300011828542
+  },
+  "video8_750.jpg_0.jpg": {
+    "text": "MH01CR7388",
+    "confidence": 0.9986560940742493,
+    "ocr_time_ms": 9.414400003151968
+  },
+  "video8_760.jpg_0.jpg": {
+    "text": "MH01CR738H",
+    "confidence": 0.9347409009933472,
+    "ocr_time_ms": 9.009400004288182
+  },
+  "video8_770.jpg_0.jpg": {
+    "text": "MH01CR7388JH",
+    "confidence": 0.9592225551605225,
+    "ocr_time_ms": 9.448400000110269
+  },
+  "video8_780.jpg_0.jpg": {
+    "text": "MH12SF212",
+    "confidence": 0.9807725548744202,
+    "ocr_time_ms": 9.176299994578585
+  },
+  "video8_790.jpg_0.jpg": {
+    "text": "MH12SFJ212",
+    "confidence": 0.9378396272659302,
+    "ocr_time_ms": 8.889299992006272
+  },
+  "video8_800.jpg_0.jpg": {
+    "text": "MH2SF212",
+    "confidence": 0.9326790571212769,
+    "ocr_time_ms": 9.536400000797585
+  },
+  "video8_840.jpg_0.jpg": {
+    "text": "MH02DS4676",
+    "confidence": 0.9999665021896362,
+    "ocr_time_ms": 8.798100010608323
+  },
+  "video8_850.jpg_0.jpg": {
+    "text": "MH01BT0050",
+    "confidence": 0.9998089075088501,
+    "ocr_time_ms": 8.74150000163354
+  },
+  "video8_860.jpg_0.jpg": {
+    "text": "MH01BT0050",
+    "confidence": 0.9999827146530151,
+    "ocr_time_ms": 8.716099997400306
+  },
+  "video8_870.jpg_0.jpg": {
+    "text": "MH01BT0050",
+    "confidence": 0.998568058013916,
+    "ocr_time_ms": 9.0970000019297
+  },
+  "video8_880.jpg_0.jpg": {
+    "text": "MH01BT0050",
+    "confidence": 0.9999572038650513,
+    "ocr_time_ms": 8.732999995118007
+  },
+  "video8_890.jpg_0.jpg": {
+    "text": "MH01BT0050",
+    "confidence": 0.9999586343765259,
+    "ocr_time_ms": 9.074600005988032
+  },
+  "video8_920.jpg_0.jpg": {
+    "text": "MH038C6247",
+    "confidence": 0.8862264752388,
+    "ocr_time_ms": 10.196600007475354
+  },
+  "video8_930.jpg_0.jpg": {
+    "text": "MH02CD7733",
+    "confidence": 0.9995142221450806,
+    "ocr_time_ms": 9.216699996613897
+  },
+  "video8_940.jpg_0.jpg": {
+    "text": "MH02CD7733",
+    "confidence": 0.9995254278182983,
+    "ocr_time_ms": 8.82659999479074
+  },
+  "video8_950.jpg_0.jpg": {
+    "text": "MH04CT3566",
+    "confidence": 0.9922617673873901,
+    "ocr_time_ms": 8.819599999696948
+  },
+  "video8_960.jpg_0.jpg": {
+    "text": "MH04CT3566",
+    "confidence": 0.9999640583992004,
+    "ocr_time_ms": 8.801100004347973
+  },
+  "video8_970.jpg_0.jpg": {
+    "text": "MH04CT3566",
+    "confidence": 0.9999375343322754,
+    "ocr_time_ms": 8.892199999536388
+  },
+  "video8_980.jpg_0.jpg": {
+    "text": "MH04CT3566JH",
+    "confidence": 0.9231752753257751,
+    "ocr_time_ms": 9.71199999912642
+  },
+  "video9_100.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.9580321311950684,
+    "ocr_time_ms": 9.28889999340754
+  },
+  "video9_110.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.9999906420707703,
+    "ocr_time_ms": 9.069699997780845
+  },
+  "video9_120.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.9999957084655762,
+    "ocr_time_ms": 8.919700005208142
+  },
+  "video9_130.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.999644935131073,
+    "ocr_time_ms": 8.792199994786642
+  },
+  "video9_140.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.9999843835830688,
+    "ocr_time_ms": 8.97619999886956
+  },
+  "video9_150.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.999996542930603,
+    "ocr_time_ms": 9.15050000185147
+  },
+  "video9_260.jpg_0.jpg": {
+    "text": "MH02FN2783",
+    "confidence": 0.9973414540290833,
+    "ocr_time_ms": 9.116800007177517
+  },
+  "video9_270.jpg_0.jpg": {
+    "text": "MH02FN2783",
+    "confidence": 0.9999567866325378,
+    "ocr_time_ms": 9.106999990763143
+  },
+  "video9_280.jpg_0.jpg": {
+    "text": "MH02FN2783",
+    "confidence": 0.9992865324020386,
+    "ocr_time_ms": 9.601800004020333
+  },
+  "video9_290.jpg_0.jpg": {
+    "text": "MH02FN2783",
+    "confidence": 0.9954913854598999,
+    "ocr_time_ms": 9.457499996642582
+  },
+  "video9_300.jpg_0.jpg": {
+    "text": "MH48AW001",
+    "confidence": 0.9858729839324951,
+    "ocr_time_ms": 9.130799997365102
+  },
+  "video9_310.jpg_0.jpg": {
+    "text": "MH02FN2783",
+    "confidence": 0.9993072748184204,
+    "ocr_time_ms": 9.415199994691648
+  },
+  "video9_350.jpg_0.jpg": {
+    "text": "MH02FN2783",
+    "confidence": 0.99989253282547,
+    "ocr_time_ms": 9.424099989701062
+  },
+  "video9_360.jpg_0.jpg": {
+    "text": "MH02FN2783",
+    "confidence": 0.9462534785270691,
+    "ocr_time_ms": 9.144900002866052
+  },
+  "video9_370.jpg_0.jpg": {
+    "text": "Mnrae",
+    "confidence": 0.5100324153900146,
+    "ocr_time_ms": 9.385700002894737
+  },
+  "video9_390.jpg_0.jpg": {
+    "text": "MH02FN2783",
+    "confidence": 0.9994899034500122,
+    "ocr_time_ms": 11.735899999621324
+  },
+  "video9_40.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.9999408721923828,
+    "ocr_time_ms": 9.507099995971657
+  },
+  "video9_70.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.9499603509902954,
+    "ocr_time_ms": 8.901099994545802
+  },
+  "video9_80.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.9999812245368958,
+    "ocr_time_ms": 8.958200007327832
+  },
+  "video9_90.jpg_0.jpg": {
+    "text": "MH01DT1917",
+    "confidence": 0.9987715482711792,
+    "ocr_time_ms": 9.053699992364272
+  },
+  "video_15.jpg_0.jpg": {
+    "text": "MH01CP2655",
+    "confidence": 0.9996751546859741,
+    "ocr_time_ms": 8.870699995895848
+  }
+}

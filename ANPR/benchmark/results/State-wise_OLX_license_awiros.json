@@ -1,0 +1,10302 @@
+[
+  {
+    "image": "AN1.jpg",
+    "det_time_ms": 383.07,
+    "plates": [
+      {
+        "box": [
+          95,
+          362,
+          186,
+          387
+        ],
+        "detector_conf": 0.7706305384635925,
+        "text": "AN01P9687",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AN10.jpg",
+    "det_time_ms": 40.1,
+    "plates": [
+      {
+        "box": [
+          108,
+          166,
+          166,
+          182
+        ],
+        "detector_conf": 0.781758725643158,
+        "text": "AN01K9412",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AN2.jpg",
+    "det_time_ms": 57.57,
+    "plates": [
+      {
+        "box": [
+          121,
+          221,
+          179,
+          238
+        ],
+        "detector_conf": 0.7752348184585571,
+        "text": "AN01D4163",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AN4.jpg",
+    "det_time_ms": 11.01,
+    "plates": [
+      {
+        "box": [
+          83,
+          227,
+          149,
+          247
+        ],
+        "detector_conf": 0.7781071066856384,
+        "text": "AN01MM",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AN5.jpg",
+    "det_time_ms": 34.75,
+    "plates": [
+      {
+        "box": [
+          149,
+          242,
+          206,
+          257
+        ],
+        "detector_conf": 0.7793828248977661,
+        "text": "AN01L6155",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AN6.jpg",
+    "det_time_ms": 34.51,
+    "plates": [
+      {
+        "box": [
+          122,
+          228,
+          186,
+          248
+        ],
+        "detector_conf": 0.7899116277694702,
+        "text": "AN01H1689",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AN7.jpg",
+    "det_time_ms": 8.89,
+    "plates": [
+      {
+        "box": [
+          89,
+          367,
+          192,
+          394
+        ],
+        "detector_conf": 0.7430755496025085,
+        "text": "AN01H0908",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP1.jpg",
+    "det_time_ms": 33.4,
+    "plates": [
+      {
+        "box": [
+          99,
+          143,
+          181,
+          164
+        ],
+        "detector_conf": 0.8263925909996033,
+        "text": "AP05BY7799",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP10.jpg",
+    "det_time_ms": 35.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          266,
+          189,
+          287
+        ],
+        "detector_conf": 0.7888755798339844,
+        "text": "AP39E1493",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP12.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          76,
+          224,
+          134,
+          248
+        ],
+        "detector_conf": 0.8092355132102966,
+        "text": "AP31DU7562",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP13.jpg",
+    "det_time_ms": 9.03,
+    "plates": [
+      {
+        "box": [
+          96,
+          188,
+          172,
+          211
+        ],
+        "detector_conf": 0.8280578851699829,
+        "text": "AP39JJ5441",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP14.jpg",
+    "det_time_ms": 35.38,
+    "plates": [
+      {
+        "box": [
+          102,
+          177,
+          193,
+          206
+        ],
+        "detector_conf": 0.809877336025238,
+        "text": "AP10AS3445",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP15.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          241,
+          207,
+          261
+        ],
+        "detector_conf": 0.751481831073761,
+        "text": "AP28AT5333",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP16.jpg",
+    "det_time_ms": 34.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          125,
+          155,
+          139
+        ],
+        "detector_conf": 0.7871882915496826,
+        "text": "AP39GR9492",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP17.jpg",
+    "det_time_ms": 11.02,
+    "plates": [
+      {
+        "box": [
+          104,
+          336,
+          182,
+          356
+        ],
+        "detector_conf": 0.7319332361221313,
+        "text": "AP31TH2282",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP18.jpg",
+    "det_time_ms": 34.47,
+    "plates": [
+      {
+        "box": [
+          104,
+          114,
+          163,
+          130
+        ],
+        "detector_conf": 0.8141545653343201,
+        "text": "AP16BS4500",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP19.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          98,
+          338,
+          158,
+          357
+        ],
+        "detector_conf": 0.7368078231811523,
+        "text": "AP04M7627",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP2.jpg",
+    "det_time_ms": 32.99,
+    "plates": [
+      {
+        "box": [
+          93,
+          46,
+          143,
+          62
+        ],
+        "detector_conf": 0.7790296077728271,
+        "text": "AP07AN3919",
+        "ocr_time_ms": 155.0
+      },
+      {
+        "box": [
+          243,
+          78,
+          262,
+          101
+        ],
+        "detector_conf": 0.4571305513381958,
+        "text": "KA52",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP20.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          95,
+          256,
+          167,
+          277
+        ],
+        "detector_conf": 0.7469034194946289,
+        "text": "AP04AS8753P",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP21.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          120,
+          99,
+          233,
+          130
+        ],
+        "detector_conf": 0.8189749121665955,
+        "text": "AP31AT5064",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP22.jpg",
+    "det_time_ms": 10.37,
+    "plates": [
+      {
+        "box": [
+          76,
+          229,
+          176,
+          249
+        ],
+        "detector_conf": 0.7510758638381958,
+        "text": "AP16CH9545",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP23.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          221,
+          136,
+          235
+        ],
+        "detector_conf": 0.7475180625915527,
+        "text": "AP39DL3537",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP24.jpg",
+    "det_time_ms": 9.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          262,
+          182,
+          287
+        ],
+        "detector_conf": 0.8328952789306641,
+        "text": "AP07AD5555",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP25.jpg",
+    "det_time_ms": 8.99,
+    "plates": [
+      {
+        "box": [
+          89,
+          250,
+          174,
+          269
+        ],
+        "detector_conf": 0.7979035377502441,
+        "text": "AP26AM1260",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP26.jpg",
+    "det_time_ms": 33.93,
+    "plates": [
+      {
+        "box": [
+          96,
+          46,
+          179,
+          66
+        ],
+        "detector_conf": 0.8299828171730042,
+        "text": "AP31BR9501",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP27.jpg",
+    "det_time_ms": 10.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          195,
+          176,
+          217
+        ],
+        "detector_conf": 0.828423023223877,
+        "text": "AP31EF1155",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP29.jpg",
+    "det_time_ms": 35.0,
+    "plates": [
+      {
+        "box": [
+          102,
+          0,
+          185,
+          19
+        ],
+        "detector_conf": 0.8056607246398926,
+        "text": "AP31DF2833",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP3.jpg",
+    "det_time_ms": 8.91,
+    "plates": [
+      {
+        "box": [
+          175,
+          271,
+          252,
+          322
+        ],
+        "detector_conf": 0.7942655086517334,
+        "text": "AP01D4",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP30.jpg",
+    "det_time_ms": 42.58,
+    "plates": [
+      {
+        "box": [
+          87,
+          273,
+          173,
+          293
+        ],
+        "detector_conf": 0.7762178182601929,
+        "text": "AP31DT9378",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP33.jpg",
+    "det_time_ms": 7.7,
+    "plates": [
+      {
+        "box": [
+          95,
+          231,
+          184,
+          252
+        ],
+        "detector_conf": 0.799545407295227,
+        "text": "AP31DA0020",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP34.jpg",
+    "det_time_ms": 33.91,
+    "plates": [
+      {
+        "box": [
+          97,
+          5,
+          185,
+          22
+        ],
+        "detector_conf": 0.7912721633911133,
+        "text": "AP37EJ2277",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP39.jpg",
+    "det_time_ms": 9.99,
+    "plates": [
+      {
+        "box": [
+          93,
+          155,
+          169,
+          173
+        ],
+        "detector_conf": 0.8076176047325134,
+        "text": "AP05DY3395",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP4.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          137,
+          174,
+          153
+        ],
+        "detector_conf": 0.784835696220398,
+        "text": "AP39HZ0087",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP40.jpg",
+    "det_time_ms": 10.01,
+    "plates": [
+      {
+        "box": [
+          73,
+          232,
+          169,
+          254
+        ],
+        "detector_conf": 0.79124516248703,
+        "text": "AP04BA4464",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP41.jpg",
+    "det_time_ms": 10.4,
+    "plates": [
+      {
+        "box": [
+          78,
+          262,
+          190,
+          292
+        ],
+        "detector_conf": 0.8287937641143799,
+        "text": "AP5CG6320",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP42.jpg",
+    "det_time_ms": 9.06,
+    "plates": [
+      {
+        "box": [
+          114,
+          91,
+          187,
+          111
+        ],
+        "detector_conf": 0.7744161486625671,
+        "text": "AP31TY6847",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP43.jpg",
+    "det_time_ms": 10.77,
+    "plates": [
+      {
+        "box": [
+          112,
+          321,
+          201,
+          345
+        ],
+        "detector_conf": 0.7640476226806641,
+        "text": "AP31BG7827",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP44.jpg",
+    "det_time_ms": 26.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          250,
+          160,
+          271
+        ],
+        "detector_conf": 0.7876155376434326,
+        "text": "AP31BL4935",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP45.jpg",
+    "det_time_ms": 22.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          231,
+          183,
+          265
+        ],
+        "detector_conf": 0.8055338263511658,
+        "text": "AP31BL2833",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP46.jpg",
+    "det_time_ms": 25.51,
+    "plates": [
+      {
+        "box": [
+          73,
+          262,
+          180,
+          288
+        ],
+        "detector_conf": 0.812030017375946,
+        "text": "AP31CS2511",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP5.jpg",
+    "det_time_ms": 30.05,
+    "plates": [
+      {
+        "box": [
+          92,
+          162,
+          155,
+          180
+        ],
+        "detector_conf": 0.7797060608863831,
+        "text": "AP39TP0211",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP6.jpg",
+    "det_time_ms": 39.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          219,
+          177,
+          240
+        ],
+        "detector_conf": 0.799015998840332,
+        "text": "AP31TV7236",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP7.jpg",
+    "det_time_ms": 31.01,
+    "plates": [
+      {
+        "box": [
+          77,
+          221,
+          161,
+          244
+        ],
+        "detector_conf": 0.8048397898674011,
+        "text": "AP31BL8656",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AP8.jpg",
+    "det_time_ms": 31.86,
+    "plates": [
+      {
+        "box": [
+          100,
+          220,
+          175,
+          239
+        ],
+        "detector_conf": 0.807451605796814,
+        "text": "AP16DP7065",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR1.jpg",
+    "det_time_ms": 27.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          108,
+          155,
+          123
+        ],
+        "detector_conf": 0.7969228625297546,
+        "text": "AR048395",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR10.jpg",
+    "det_time_ms": 34.0,
+    "plates": [
+      {
+        "box": [
+          32,
+          169,
+          89,
+          188
+        ],
+        "detector_conf": 0.7506663799285889,
+        "text": "AR152019",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR11.jpg",
+    "det_time_ms": 32.22,
+    "plates": [
+      {
+        "box": [
+          27,
+          413,
+          219,
+          448
+        ],
+        "detector_conf": 0.8035565614700317,
+        "text": "AR01J0123",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR12.jpg",
+    "det_time_ms": 45.98,
+    "plates": [
+      {
+        "box": [
+          110,
+          134,
+          177,
+          153
+        ],
+        "detector_conf": 0.799685001373291,
+        "text": "KA118724",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR13.jpg",
+    "det_time_ms": 41.93,
+    "plates": [
+      {
+        "box": [
+          92,
+          34,
+          183,
+          58
+        ],
+        "detector_conf": 0.8147080540657043,
+        "text": "AR200692",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR2.jpg",
+    "det_time_ms": 47.53,
+    "plates": [
+      {
+        "box": [
+          114,
+          161,
+          174,
+          177
+        ],
+        "detector_conf": 0.8038671016693115,
+        "text": "AR01F2523",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR3.jpg",
+    "det_time_ms": 49.47,
+    "plates": [
+      {
+        "box": [
+          52,
+          232,
+          97,
+          259
+        ],
+        "detector_conf": 0.7979453802108765,
+        "text": "BR19723PH3",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR4.jpg",
+    "det_time_ms": 55.06,
+    "plates": [
+      {
+        "box": [
+          95,
+          268,
+          193,
+          290
+        ],
+        "detector_conf": 0.7862215638160706,
+        "text": "AR01C5723",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR6.jpg",
+    "det_time_ms": 67.08,
+    "plates": [
+      {
+        "box": [
+          127,
+          159,
+          198,
+          184
+        ],
+        "detector_conf": 0.7883704304695129,
+        "text": "AR168272",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR7.jpg",
+    "det_time_ms": 41.7,
+    "plates": [
+      {
+        "box": [
+          85,
+          56,
+          164,
+          77
+        ],
+        "detector_conf": 0.8036867380142212,
+        "text": "AR02A7116",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR8.jpg",
+    "det_time_ms": 39.07,
+    "plates": [
+      {
+        "box": [
+          33,
+          296,
+          75,
+          317
+        ],
+        "detector_conf": 0.6166380643844604,
+        "text": "AR08963",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AR9.jpg",
+    "det_time_ms": 54.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          267,
+          193,
+          287
+        ],
+        "detector_conf": 0.7858335375785828,
+        "text": "AR01E1034",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS1.jpg",
+    "det_time_ms": 58.05,
+    "plates": [
+      {
+        "box": [
+          142,
+          250,
+          218,
+          272
+        ],
+        "detector_conf": 0.7876741886138916,
+        "text": "AS23H2866",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS10.jpg",
+    "det_time_ms": 41.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          356,
+          180,
+          379
+        ],
+        "detector_conf": 0.7720085382461548,
+        "text": "AS01DG6002",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS11.jpg",
+    "det_time_ms": 52.13,
+    "plates": [
+      {
+        "box": [
+          80,
+          92,
+          121,
+          106
+        ],
+        "detector_conf": 0.7954418659210205,
+        "text": "AS01DS7523",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS13.jpg",
+    "det_time_ms": 55.09,
+    "plates": [
+      {
+        "box": [
+          119,
+          110,
+          169,
+          124
+        ],
+        "detector_conf": 0.8242034316062927,
+        "text": "AS25S6858",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS14.jpg",
+    "det_time_ms": 58.0,
+    "plates": [
+      {
+        "box": [
+          40,
+          157,
+          93,
+          172
+        ],
+        "detector_conf": 0.8016536235809326,
+        "text": "AS01BP2415",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS15.jpg",
+    "det_time_ms": 67.08,
+    "plates": [
+      {
+        "box": [
+          83,
+          272,
+          181,
+          294
+        ],
+        "detector_conf": 0.7912330627441406,
+        "text": "AS01BF9673",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS16.jpg",
+    "det_time_ms": 68.14,
+    "plates": [
+      {
+        "box": [
+          78,
+          239,
+          173,
+          262
+        ],
+        "detector_conf": 0.8223133087158203,
+        "text": "AS01AL3746",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS17.jpg",
+    "det_time_ms": 69.12,
+    "plates": [
+      {
+        "box": [
+          89,
+          247,
+          185,
+          271
+        ],
+        "detector_conf": 0.8069479465484619,
+        "text": "AS01AR1986",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS18.jpg",
+    "det_time_ms": 66.91,
+    "plates": [
+      {
+        "box": [
+          92,
+          215,
+          148,
+          235
+        ],
+        "detector_conf": 0.7681527733802795,
+        "text": "AS04P4549",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS19.jpg",
+    "det_time_ms": 66.59,
+    "plates": [
+      {
+        "box": [
+          82,
+          246,
+          167,
+          268
+        ],
+        "detector_conf": 0.7919867634773254,
+        "text": "AS06U1295",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS2.jpg",
+    "det_time_ms": 67.18,
+    "plates": [
+      {
+        "box": [
+          98,
+          247,
+          189,
+          271
+        ],
+        "detector_conf": 0.8079060316085815,
+        "text": "AS07AC6653",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS20.jpg",
+    "det_time_ms": 69.0,
+    "plates": [
+      {
+        "box": [
+          49,
+          123,
+          113,
+          152
+        ],
+        "detector_conf": 0.7853384613990784,
+        "text": "AS01AT8119",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS21.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          189,
+          181,
+          208
+        ],
+        "detector_conf": 0.7995330691337585,
+        "text": "AS23X5585",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS22.jpg",
+    "det_time_ms": 54.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          279,
+          167,
+          300
+        ],
+        "detector_conf": 0.8050597310066223,
+        "text": "AS01AN8668",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS23.jpg",
+    "det_time_ms": 52.91,
+    "plates": [
+      {
+        "box": [
+          80,
+          75,
+          181,
+          103
+        ],
+        "detector_conf": 0.8102596998214722,
+        "text": "AS19D9919",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS24.jpg",
+    "det_time_ms": 51.32,
+    "plates": [
+      {
+        "box": [
+          88,
+          342,
+          181,
+          367
+        ],
+        "detector_conf": 0.7847709059715271,
+        "text": "AS23G2612",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS25.jpg",
+    "det_time_ms": 66.73,
+    "plates": [
+      {
+        "box": [
+          94,
+          145,
+          166,
+          162
+        ],
+        "detector_conf": 0.8127467632293701,
+        "text": "AS01BS4362",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS26.jpg",
+    "det_time_ms": 68.45,
+    "plates": [
+      {
+        "box": [
+          106,
+          134,
+          169,
+          150
+        ],
+        "detector_conf": 0.84120112657547,
+        "text": "AS06Z0841",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS3.jpg",
+    "det_time_ms": 68.14,
+    "plates": [
+      {
+        "box": [
+          69,
+          138,
+          122,
+          166
+        ],
+        "detector_conf": 0.8136400580406189,
+        "text": "AS23E0596",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS5.jpg",
+    "det_time_ms": 50.41,
+    "plates": [
+      {
+        "box": [
+          93,
+          314,
+          190,
+          343
+        ],
+        "detector_conf": 0.770024299621582,
+        "text": "AS23H0770",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS6.jpg",
+    "det_time_ms": 87.04,
+    "plates": [
+      {
+        "box": [
+          15,
+          153,
+          68,
+          177
+        ],
+        "detector_conf": 0.7855627536773682,
+        "text": "AS12S6951",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS7.jpg",
+    "det_time_ms": 72.9,
+    "plates": [
+      {
+        "box": [
+          59,
+          213,
+          130,
+          246
+        ],
+        "detector_conf": 0.8097363114356995,
+        "text": "AS0604437",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS8.jpg",
+    "det_time_ms": 64.84,
+    "plates": [
+      {
+        "box": [
+          95,
+          242,
+          165,
+          260
+        ],
+        "detector_conf": 0.806877076625824,
+        "text": "AS01AM1419",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "AS9.jpg",
+    "det_time_ms": 64.15,
+    "plates": [
+      {
+        "box": [
+          99,
+          133,
+          174,
+          152
+        ],
+        "detector_conf": 0.8304376006126404,
+        "text": "AS04X2780",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR10.jpg",
+    "det_time_ms": 65.96,
+    "plates": [
+      {
+        "box": [
+          108,
+          234,
+          194,
+          256
+        ],
+        "detector_conf": 0.7684503197669983,
+        "text": "BR32PA6558",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR11.jpg",
+    "det_time_ms": 64.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          207,
+          143,
+          225
+        ],
+        "detector_conf": 0.7700812220573425,
+        "text": "BR02AF7424",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR12.jpg",
+    "det_time_ms": 50.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          130,
+          152,
+          142
+        ],
+        "detector_conf": 0.7650771141052246,
+        "text": "MR03PM3803",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR13.jpg",
+    "det_time_ms": 64.05,
+    "plates": [
+      {
+        "box": [
+          95,
+          194,
+          168,
+          214
+        ],
+        "detector_conf": 0.7955021262168884,
+        "text": "BR01PL7594",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR14.jpg",
+    "det_time_ms": 64.0,
+    "plates": [
+      {
+        "box": [
+          16,
+          183,
+          72,
+          224
+        ],
+        "detector_conf": 0.7973054051399231,
+        "text": "B01BL662J",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR15.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          76,
+          123,
+          146,
+          167
+        ],
+        "detector_conf": 0.8046092987060547,
+        "text": "BR01BR5436T6",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR16.jpg",
+    "det_time_ms": 69.06,
+    "plates": [
+      {
+        "box": [
+          40,
+          254,
+          115,
+          288
+        ],
+        "detector_conf": 0.8281472325325012,
+        "text": "BR33M0001",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR17.jpg",
+    "det_time_ms": 66.53,
+    "plates": [
+      {
+        "box": [
+          89,
+          232,
+          155,
+          250
+        ],
+        "detector_conf": 0.7963075041770935,
+        "text": "BR06P00006",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR18.jpg",
+    "det_time_ms": 53.44,
+    "plates": [
+      {
+        "box": [
+          91,
+          339,
+          197,
+          361
+        ],
+        "detector_conf": 0.7911252379417419,
+        "text": "BH01BD5042",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR3.jpg",
+    "det_time_ms": 67.53,
+    "plates": [
+      {
+        "box": [
+          106,
+          213,
+          184,
+          229
+        ],
+        "detector_conf": 0.7516436576843262,
+        "text": "BR01AZ8290",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR4.jpg",
+    "det_time_ms": 48.81,
+    "plates": [
+      {
+        "box": [
+          34,
+          321,
+          134,
+          349
+        ],
+        "detector_conf": 0.7735488414764404,
+        "text": "BR06U2470",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR5.jpg",
+    "det_time_ms": 68.26,
+    "plates": [
+      {
+        "box": [
+          98,
+          296,
+          170,
+          313
+        ],
+        "detector_conf": 0.7889063954353333,
+        "text": "BR01BE0777",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR6.jpg",
+    "det_time_ms": 49.15,
+    "plates": [
+      {
+        "box": [
+          123,
+          242,
+          210,
+          266
+        ],
+        "detector_conf": 0.7780323624610901,
+        "text": "BR7P3952",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR7.jpg",
+    "det_time_ms": 67.04,
+    "plates": [
+      {
+        "box": [
+          96,
+          299,
+          184,
+          320
+        ],
+        "detector_conf": 0.7878324389457703,
+        "text": "BR44E1206",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR8.jpg",
+    "det_time_ms": 52.06,
+    "plates": [
+      {
+        "box": [
+          98,
+          130,
+          163,
+          147
+        ],
+        "detector_conf": 0.7946845293045044,
+        "text": "BR01DG6692",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "BR9.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          167,
+          220,
+          218,
+          242
+        ],
+        "detector_conf": 0.8000110387802124,
+        "text": "BR01AW1250",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG1.jpg",
+    "det_time_ms": 72.23,
+    "plates": [
+      {
+        "box": [
+          101,
+          260,
+          193,
+          285
+        ],
+        "detector_conf": 0.8316226601600647,
+        "text": "CG04HD6930",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG10.jpg",
+    "det_time_ms": 51.01,
+    "plates": [
+      {
+        "box": [
+          74,
+          370,
+          182,
+          397
+        ],
+        "detector_conf": 0.7859941124916077,
+        "text": "CG22H7740",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG11.jpg",
+    "det_time_ms": 67.21,
+    "plates": [
+      {
+        "box": [
+          132,
+          170,
+          190,
+          186
+        ],
+        "detector_conf": 0.792410135269165,
+        "text": "CG04MA455",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG12.jpg",
+    "det_time_ms": 67.55,
+    "plates": [
+      {
+        "box": [
+          81,
+          259,
+          182,
+          281
+        ],
+        "detector_conf": 0.8183196783065796,
+        "text": "CG12AG1130",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG13.jpg",
+    "det_time_ms": 66.08,
+    "plates": [
+      {
+        "box": [
+          89,
+          243,
+          177,
+          268
+        ],
+        "detector_conf": 0.772599995136261,
+        "text": "CG16B1802",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG14.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          88,
+          134,
+          138,
+          147
+        ],
+        "detector_conf": 0.7545624375343323,
+        "text": "CG09JA2359",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG15.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          109,
+          128,
+          168,
+          143
+        ],
+        "detector_conf": 0.8048226833343506,
+        "text": "CG07BR3255",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG16.jpg",
+    "det_time_ms": 65.12,
+    "plates": [
+      {
+        "box": [
+          87,
+          126,
+          139,
+          141
+        ],
+        "detector_conf": 0.7800692915916443,
+        "text": "CG07N264",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG17.jpg",
+    "det_time_ms": 66.65,
+    "plates": [
+      {
+        "box": [
+          103,
+          121,
+          154,
+          137
+        ],
+        "detector_conf": 0.8238541483879089,
+        "text": "CG07MA2529",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG18.jpg",
+    "det_time_ms": 67.04,
+    "plates": [
+      {
+        "box": [
+          113,
+          251,
+          215,
+          289
+        ],
+        "detector_conf": 0.8186860680580139,
+        "text": "CG07CA7784",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG19.jpg",
+    "det_time_ms": 66.57,
+    "plates": [
+      {
+        "box": [
+          105,
+          205,
+          169,
+          222
+        ],
+        "detector_conf": 0.8079113960266113,
+        "text": "CG07MA7848",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG20.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          72,
+          124,
+          137,
+          142
+        ],
+        "detector_conf": 0.8016133308410645,
+        "text": "CG251612",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG21.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          155,
+          165,
+          170
+        ],
+        "detector_conf": 0.8054924607276917,
+        "text": "CG04FJ5894",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG22.jpg",
+    "det_time_ms": 84.62,
+    "plates": [
+      {
+        "box": [
+          93,
+          234,
+          177,
+          258
+        ],
+        "detector_conf": 0.8278254866600037,
+        "text": "CG13AE4060",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG4.jpg",
+    "det_time_ms": 53.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          138,
+          177,
+          153
+        ],
+        "detector_conf": 0.7806069850921631,
+        "text": "CG04HV7009",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG6.jpg",
+    "det_time_ms": 51.9,
+    "plates": [
+      {
+        "box": [
+          114,
+          117,
+          162,
+          130
+        ],
+        "detector_conf": 0.7817116379737854,
+        "text": "CG22AB111",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG7.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          76,
+          371,
+          167,
+          391
+        ],
+        "detector_conf": 0.740307092666626,
+        "text": "CB08K2057",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG8.jpg",
+    "det_time_ms": 67.21,
+    "plates": [
+      {
+        "box": [
+          89,
+          172,
+          181,
+          194
+        ],
+        "detector_conf": 0.7900429964065552,
+        "text": "CG04H5060",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CG9.jpg",
+    "det_time_ms": 66.46,
+    "plates": [
+      {
+        "box": [
+          85,
+          196,
+          184,
+          221
+        ],
+        "detector_conf": 0.8205012083053589,
+        "text": "CG04HC4887",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH1.jpg",
+    "det_time_ms": 60.77,
+    "plates": [
+      {
+        "box": [
+          32,
+          130,
+          71,
+          146
+        ],
+        "detector_conf": 0.7651415467262268,
+        "text": "MH01AQ554",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH10.jpg",
+    "det_time_ms": 52.11,
+    "plates": [
+      {
+        "box": [
+          89,
+          300,
+          176,
+          323
+        ],
+        "detector_conf": 0.7626742720603943,
+        "text": "CH01AB4559",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH2.jpg",
+    "det_time_ms": 101.96,
+    "plates": [
+      {
+        "box": [
+          109,
+          139,
+          189,
+          160
+        ],
+        "detector_conf": 0.8204814195632935,
+        "text": "CH01BL3528",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH3.jpg",
+    "det_time_ms": 48.61,
+    "plates": [
+      {
+        "box": [
+          55,
+          268,
+          145,
+          291
+        ],
+        "detector_conf": 0.7998246550559998,
+        "text": "CH03K7672",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH4.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          95,
+          190,
+          191,
+          217
+        ],
+        "detector_conf": 0.8158270716667175,
+        "text": "CH01AX9090",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH5.jpg",
+    "det_time_ms": 49.39,
+    "plates": [
+      {
+        "box": [
+          110,
+          169,
+          178,
+          186
+        ],
+        "detector_conf": 0.7858680486679077,
+        "text": "CH01AP4538",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH6.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          108,
+          148,
+          179,
+          167
+        ],
+        "detector_conf": 0.7968616485595703,
+        "text": "CH01AZ2642",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH7.jpg",
+    "det_time_ms": 47.34,
+    "plates": [
+      {
+        "box": [
+          94,
+          157,
+          205,
+          186
+        ],
+        "detector_conf": 0.8227350115776062,
+        "text": "CH01AL4920",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH8.jpg",
+    "det_time_ms": 47.81,
+    "plates": [
+      {
+        "box": [
+          58,
+          179,
+          139,
+          202
+        ],
+        "detector_conf": 0.7773782014846802,
+        "text": "CH01AD9331",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "CH9.jpg",
+    "det_time_ms": 48.44,
+    "plates": [
+      {
+        "box": [
+          108,
+          104,
+          162,
+          119
+        ],
+        "detector_conf": 0.7914315462112427,
+        "text": "CH01AF1382",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL1.jpg",
+    "det_time_ms": 50.13,
+    "plates": [
+      {
+        "box": [
+          85,
+          234,
+          182,
+          257
+        ],
+        "detector_conf": 0.7955473065376282,
+        "text": "DL6CJ8404",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL10.jpg",
+    "det_time_ms": 48.82,
+    "plates": [
+      {
+        "box": [
+          96,
+          213,
+          162,
+          229
+        ],
+        "detector_conf": 0.7905077338218689,
+        "text": "DL9CAE1359",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL11.jpg",
+    "det_time_ms": 61.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          216,
+          183,
+          243
+        ],
+        "detector_conf": 0.8170366287231445,
+        "text": "DL9CAP8884",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL12.jpg",
+    "det_time_ms": 60.76,
+    "plates": [
+      {
+        "box": [
+          101,
+          229,
+          185,
+          252
+        ],
+        "detector_conf": 0.8348354697227478,
+        "text": "DL5CH7599",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL13.jpg",
+    "det_time_ms": 64.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          233,
+          177,
+          256
+        ],
+        "detector_conf": 0.8144605159759521,
+        "text": "DL12CJ9823",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL14.jpg",
+    "det_time_ms": 66.94,
+    "plates": [
+      {
+        "box": [
+          86,
+          214,
+          166,
+          237
+        ],
+        "detector_conf": 0.828445553779602,
+        "text": "DL9CAU4743",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL15.jpg",
+    "det_time_ms": 82.65,
+    "plates": [
+      {
+        "box": [
+          160,
+          162,
+          225,
+          190
+        ],
+        "detector_conf": 0.7876506447792053,
+        "text": "DL8CZ7230",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL16.jpg",
+    "det_time_ms": 54.22,
+    "plates": [
+      {
+        "box": [
+          88,
+          225,
+          168,
+          246
+        ],
+        "detector_conf": 0.8092539310455322,
+        "text": "DL9CAV1739",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL18.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          95,
+          213,
+          168,
+          233
+        ],
+        "detector_conf": 0.7938103079795837,
+        "text": "DL1CS8739",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL19.jpg",
+    "det_time_ms": 66.97,
+    "plates": [
+      {
+        "box": [
+          99,
+          161,
+          185,
+          179
+        ],
+        "detector_conf": 0.8182136416435242,
+        "text": "DL1CT2782",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL2.jpg",
+    "det_time_ms": 66.1,
+    "plates": [
+      {
+        "box": [
+          97,
+          111,
+          173,
+          133
+        ],
+        "detector_conf": 0.8239343166351318,
+        "text": "DL6CR7002",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL20.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          112,
+          175,
+          131
+        ],
+        "detector_conf": 0.7864328026771545,
+        "text": "DL12CL2555",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL21.jpg",
+    "det_time_ms": 67.5,
+    "plates": [
+      {
+        "box": [
+          93,
+          241,
+          186,
+          263
+        ],
+        "detector_conf": 0.8155772089958191,
+        "text": "DL12CS7886",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL22.jpg",
+    "det_time_ms": 67.11,
+    "plates": [
+      {
+        "box": [
+          103,
+          229,
+          168,
+          246
+        ],
+        "detector_conf": 0.8036120533943176,
+        "text": "DL6CL0457",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL23.jpg",
+    "det_time_ms": 67.43,
+    "plates": [
+      {
+        "box": [
+          71,
+          256,
+          187,
+          285
+        ],
+        "detector_conf": 0.7859259247779846,
+        "text": "DL2CAX2886",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL24.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          233,
+          181,
+          256
+        ],
+        "detector_conf": 0.8105396032333374,
+        "text": "DL3CCX8019",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL25.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          124,
+          147,
+          186,
+          169
+        ],
+        "detector_conf": 0.8245233297348022,
+        "text": "DL9CDS1537",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL26.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          85,
+          284,
+          194,
+          310
+        ],
+        "detector_conf": 0.794558048248291,
+        "text": "DL11CA4900",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL27.jpg",
+    "det_time_ms": 48.04,
+    "plates": [
+      {
+        "box": [
+          93,
+          374,
+          194,
+          400
+        ],
+        "detector_conf": 0.7723771333694458,
+        "text": "DL10CA0986",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL28.jpg",
+    "det_time_ms": 68.09,
+    "plates": [
+      {
+        "box": [
+          101,
+          259,
+          169,
+          279
+        ],
+        "detector_conf": 0.8068799376487732,
+        "text": "DL4CNA723",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL29.jpg",
+    "det_time_ms": 66.76,
+    "plates": [
+      {
+        "box": [
+          102,
+          277,
+          176,
+          300
+        ],
+        "detector_conf": 0.7851008176803589,
+        "text": "DL8CAL4134",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL3.jpg",
+    "det_time_ms": 60.91,
+    "plates": [
+      {
+        "box": [
+          118,
+          288,
+          191,
+          307
+        ],
+        "detector_conf": 0.7806128859519958,
+        "text": "DL8CAU6883",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL30.jpg",
+    "det_time_ms": 68.7,
+    "plates": [
+      {
+        "box": [
+          168,
+          205,
+          223,
+          230
+        ],
+        "detector_conf": 0.8061480522155762,
+        "text": "DL10CD5520D",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL31.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          198,
+          226,
+          248,
+          244
+        ],
+        "detector_conf": 0.7791820764541626,
+        "text": "DL8CN057",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL32.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          113,
+          149,
+          168,
+          164
+        ],
+        "detector_conf": 0.7937830686569214,
+        "text": "DL2CAR0108",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL33.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          272,
+          168,
+          293
+        ],
+        "detector_conf": 0.8319593667984009,
+        "text": "DL4CNA7231",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL34.jpg",
+    "det_time_ms": 65.0,
+    "plates": [
+      {
+        "box": [
+          159,
+          145,
+          213,
+          173
+        ],
+        "detector_conf": 0.7904720306396484,
+        "text": "DL8CNA50J5",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL35.jpg",
+    "det_time_ms": 54.68,
+    "plates": [
+      {
+        "box": [
+          75,
+          306,
+          154,
+          326
+        ],
+        "detector_conf": 0.7786139845848083,
+        "text": "DL3CBS5881",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL38.jpg",
+    "det_time_ms": 66.48,
+    "plates": [
+      {
+        "box": [
+          99,
+          142,
+          168,
+          162
+        ],
+        "detector_conf": 0.8119593858718872,
+        "text": "DL4CAQ3231",
+        "ocr_time_ms": 155.0
+      },
+      {
+        "box": [
+          250,
+          59,
+          271,
+          67
+        ],
+        "detector_conf": 0.35006383061408997,
+        "text": "KABE",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL4.jpg",
+    "det_time_ms": 73.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          226,
+          175,
+          248
+        ],
+        "detector_conf": 0.8069319725036621,
+        "text": "DL9CAU5573",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL5.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          80,
+          274,
+          181,
+          302
+        ],
+        "detector_conf": 0.8590215444564819,
+        "text": "DL12CN8660",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL6.jpg",
+    "det_time_ms": 62.99,
+    "plates": [
+      {
+        "box": [
+          88,
+          198,
+          181,
+          226
+        ],
+        "detector_conf": 0.8248602151870728,
+        "text": "DL4CAM9066",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL7.jpg",
+    "det_time_ms": 76.28,
+    "plates": [
+      {
+        "box": [
+          97,
+          213,
+          169,
+          231
+        ],
+        "detector_conf": 0.8183009624481201,
+        "text": "DL12CK8643",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL8.jpg",
+    "det_time_ms": 67.27,
+    "plates": [
+      {
+        "box": [
+          118,
+          145,
+          178,
+          162
+        ],
+        "detector_conf": 0.7930295467376709,
+        "text": "DL10CH1252",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DL9.jpg",
+    "det_time_ms": 51.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          93,
+          150,
+          110
+        ],
+        "detector_conf": 0.8143022060394287,
+        "text": "DL2CH8634",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DN1.jpg",
+    "det_time_ms": 67.64,
+    "plates": [
+      {
+        "box": [
+          96,
+          205,
+          173,
+          227
+        ],
+        "detector_conf": 0.8036059141159058,
+        "text": "DN09H2191",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DN2.jpg",
+    "det_time_ms": 51.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          104,
+          149,
+          118
+        ],
+        "detector_conf": 0.777954638004303,
+        "text": "DN09J1548",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DN3.jpg",
+    "det_time_ms": 68.38,
+    "plates": [
+      {
+        "box": [
+          65,
+          245,
+          193,
+          275
+        ],
+        "detector_conf": 0.7866137027740479,
+        "text": "DN09H0968",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DN4.jpg",
+    "det_time_ms": 51.51,
+    "plates": [
+      {
+        "box": [
+          91,
+          203,
+          184,
+          229
+        ],
+        "detector_conf": 0.8042563199996948,
+        "text": "DN09J0032",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DN5.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          303,
+          177,
+          327
+        ],
+        "detector_conf": 0.7636473178863525,
+        "text": "DN09D2724",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DN6.jpg",
+    "det_time_ms": 53.05,
+    "plates": [
+      {
+        "box": [
+          73,
+          68,
+          130,
+          85
+        ],
+        "detector_conf": 0.8170238733291626,
+        "text": "DN09D1438",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DN7.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          108,
+          360,
+          181,
+          383
+        ],
+        "detector_conf": 0.768284261226654,
+        "text": "DN09Q9704",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "DN8.jpg",
+    "det_time_ms": 56.51,
+    "plates": [
+      {
+        "box": [
+          54,
+          269,
+          133,
+          291
+        ],
+        "detector_conf": 0.7727067470550537,
+        "text": "DN09C0868",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA1.jpg",
+    "det_time_ms": 67.6,
+    "plates": [
+      {
+        "box": [
+          125,
+          205,
+          175,
+          225
+        ],
+        "detector_conf": 0.7843745946884155,
+        "text": "GA03R923",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA10.jpg",
+    "det_time_ms": 75.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          169,
+          157,
+          204
+        ],
+        "detector_conf": 0.8026683330535889,
+        "text": "GA01R6315",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA11.jpg",
+    "det_time_ms": 51.0,
+    "plates": [
+      {
+        "box": [
+          45,
+          328,
+          94,
+          363
+        ],
+        "detector_conf": 0.7853253483772278,
+        "text": "GA03P289J9",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA12.jpg",
+    "det_time_ms": 85.92,
+    "plates": [
+      {
+        "box": [
+          98,
+          184,
+          171,
+          205
+        ],
+        "detector_conf": 0.7882928252220154,
+        "text": "GA03Y9512",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA13.jpg",
+    "det_time_ms": 73.91,
+    "plates": [
+      {
+        "box": [
+          161,
+          152,
+          217,
+          172
+        ],
+        "detector_conf": 0.8146809339523315,
+        "text": "GA07K6090",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA2.jpg",
+    "det_time_ms": 45.96,
+    "plates": [
+      {
+        "box": [
+          99,
+          299,
+          199,
+          327
+        ],
+        "detector_conf": 0.7913218140602112,
+        "text": "GA08M0184",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA3.jpg",
+    "det_time_ms": 68.15,
+    "plates": [
+      {
+        "box": [
+          103,
+          272,
+          165,
+          289
+        ],
+        "detector_conf": 0.7402955293655396,
+        "text": "GA0M55594",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA4.jpg",
+    "det_time_ms": 63.0,
+    "plates": [
+      {
+        "box": [
+          117,
+          251,
+          228,
+          311
+        ],
+        "detector_conf": 0.7972864508628845,
+        "text": "GA01C2098",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA5.jpg",
+    "det_time_ms": 64.05,
+    "plates": [
+      {
+        "box": [
+          100,
+          152,
+          186,
+          175
+        ],
+        "detector_conf": 0.8334318399429321,
+        "text": "GA01E5947",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA6.jpg",
+    "det_time_ms": 45.95,
+    "plates": [
+      {
+        "box": [
+          93,
+          341,
+          185,
+          363
+        ],
+        "detector_conf": 0.743935227394104,
+        "text": "GA02J2129",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA7.jpg",
+    "det_time_ms": 68.99,
+    "plates": [
+      {
+        "box": [
+          46,
+          106,
+          105,
+          128
+        ],
+        "detector_conf": 0.8031315803527832,
+        "text": "GA07K7150",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA8.jpg",
+    "det_time_ms": 42.84,
+    "plates": [
+      {
+        "box": [
+          138,
+          56,
+          208,
+          95
+        ],
+        "detector_conf": 0.8043112754821777,
+        "text": "GA05B5077",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GA9.jpg",
+    "det_time_ms": 66.43,
+    "plates": [
+      {
+        "box": [
+          92,
+          249,
+          166,
+          271
+        ],
+        "detector_conf": 0.8116178512573242,
+        "text": "GA06E3855",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ1.jpg",
+    "det_time_ms": 54.0,
+    "plates": [
+      {
+        "box": [
+          39,
+          283,
+          107,
+          325
+        ],
+        "detector_conf": 0.8305058479309082,
+        "text": "GJ7AG4373J",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ10.jpg",
+    "det_time_ms": 65.78,
+    "plates": [
+      {
+        "box": [
+          116,
+          147,
+          164,
+          162
+        ],
+        "detector_conf": 0.7901492714881897,
+        "text": "GJ01RA8370",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ11.jpg",
+    "det_time_ms": 48.71,
+    "plates": [
+      {
+        "box": [
+          88,
+          240,
+          197,
+          272
+        ],
+        "detector_conf": 0.7530093193054199,
+        "text": "GJ06HS1855",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ12.jpg",
+    "det_time_ms": 66.51,
+    "plates": [
+      {
+        "box": [
+          102,
+          134,
+          176,
+          155
+        ],
+        "detector_conf": 0.8086681962013245,
+        "text": "GJ06PA0097",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ13.jpg",
+    "det_time_ms": 65.77,
+    "plates": [
+      {
+        "box": [
+          94,
+          142,
+          181,
+          164
+        ],
+        "detector_conf": 0.8519743084907532,
+        "text": "GJ06KP8508",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ14.jpg",
+    "det_time_ms": 67.24,
+    "plates": [
+      {
+        "box": [
+          100,
+          149,
+          172,
+          167
+        ],
+        "detector_conf": 0.8154453039169312,
+        "text": "GJ06DG9355",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ15.jpg",
+    "det_time_ms": 64.89,
+    "plates": [
+      {
+        "box": [
+          104,
+          146,
+          167,
+          163
+        ],
+        "detector_conf": 0.7922787666320801,
+        "text": "GJ01HS1902",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ16.jpg",
+    "det_time_ms": 65.49,
+    "plates": [
+      {
+        "box": [
+          105,
+          147,
+          178,
+          166
+        ],
+        "detector_conf": 0.8048143982887268,
+        "text": "GJ01KC9959",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ17.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          143,
+          182,
+          165
+        ],
+        "detector_conf": 0.8442646265029907,
+        "text": "GJ06DQ3712",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ18.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          106,
+          148,
+          177,
+          167
+        ],
+        "detector_conf": 0.8259662389755249,
+        "text": "GJ01RN4259",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ2.jpg",
+    "det_time_ms": 54.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          183,
+          179,
+          211
+        ],
+        "detector_conf": 0.8153867125511169,
+        "text": "GJ15CB3980",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ20.jpg",
+    "det_time_ms": 63.0,
+    "plates": [
+      {
+        "box": [
+          120,
+          121,
+          182,
+          139
+        ],
+        "detector_conf": 0.7896564602851868,
+        "text": "GJ01RK2430",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ21.jpg",
+    "det_time_ms": 86.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          192,
+          177,
+          213
+        ],
+        "detector_conf": 0.8264910578727722,
+        "text": "GJ12CG2526",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ22.jpg",
+    "det_time_ms": 62.57,
+    "plates": [
+      {
+        "box": [
+          113,
+          114,
+          179,
+          132
+        ],
+        "detector_conf": 0.8144909739494324,
+        "text": "GJ18BD5216",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ23.jpg",
+    "det_time_ms": 63.0,
+    "plates": [
+      {
+        "box": [
+          114,
+          115,
+          176,
+          131
+        ],
+        "detector_conf": 0.8017141222953796,
+        "text": "GJ01RS0198",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ24.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          344,
+          172,
+          363
+        ],
+        "detector_conf": 0.7282339334487915,
+        "text": "GJ23CC8798",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ25.jpg",
+    "det_time_ms": 50.01,
+    "plates": [
+      {
+        "box": [
+          107,
+          135,
+          166,
+          151
+        ],
+        "detector_conf": 0.7795507907867432,
+        "text": "GJ01HM5887",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ26.jpg",
+    "det_time_ms": 68.48,
+    "plates": [
+      {
+        "box": [
+          83,
+          260,
+          180,
+          284
+        ],
+        "detector_conf": 0.8136802315711975,
+        "text": "GJ09AG8384",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ27.jpg",
+    "det_time_ms": 64.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          142,
+          162,
+          158
+        ],
+        "detector_conf": 0.7967255711555481,
+        "text": "GJ18BK6705",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ28.jpg",
+    "det_time_ms": 62.21,
+    "plates": [
+      {
+        "box": [
+          119,
+          135,
+          184,
+          164
+        ],
+        "detector_conf": 0.7976559400558472,
+        "text": "GJ05JB6589",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ29.jpg",
+    "det_time_ms": 62.32,
+    "plates": [
+      {
+        "box": [
+          106,
+          138,
+          164,
+          154
+        ],
+        "detector_conf": 0.8119239807128906,
+        "text": "GJ01RM3413",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ4.jpg",
+    "det_time_ms": 65.73,
+    "plates": [
+      {
+        "box": [
+          101,
+          251,
+          179,
+          271
+        ],
+        "detector_conf": 0.821153998374939,
+        "text": "GJ06JE4788",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ5.jpg",
+    "det_time_ms": 69.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          265,
+          176,
+          285
+        ],
+        "detector_conf": 0.7760886549949646,
+        "text": "GJ15CG7928",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ6.jpg",
+    "det_time_ms": 66.93,
+    "plates": [
+      {
+        "box": [
+          93,
+          147,
+          180,
+          169
+        ],
+        "detector_conf": 0.8632526993751526,
+        "text": "GJ06FK2977",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ7.jpg",
+    "det_time_ms": 65.17,
+    "plates": [
+      {
+        "box": [
+          110,
+          132,
+          188,
+          154
+        ],
+        "detector_conf": 0.8569826483726501,
+        "text": "GJ34B9811",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ8.jpg",
+    "det_time_ms": 65.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          148,
+          173,
+          166
+        ],
+        "detector_conf": 0.8193730711936951,
+        "text": "GJ16CH9827",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "GJ9.jpg",
+    "det_time_ms": 82.67,
+    "plates": [
+      {
+        "box": [
+          90,
+          186,
+          174,
+          208
+        ],
+        "detector_conf": 0.8495588898658752,
+        "text": "GJ05RE8119",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP1.jpg",
+    "det_time_ms": 67.36,
+    "plates": [
+      {
+        "box": [
+          120,
+          227,
+          179,
+          243
+        ],
+        "detector_conf": 0.7827116250991821,
+        "text": "HP12H1324",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP10.jpg",
+    "det_time_ms": 48.1,
+    "plates": [
+      {
+        "box": [
+          101,
+          348,
+          166,
+          367
+        ],
+        "detector_conf": 0.7522915005683899,
+        "text": "HP52B5958",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP11.jpg",
+    "det_time_ms": 66.6,
+    "plates": [
+      {
+        "box": [
+          102,
+          126,
+          173,
+          146
+        ],
+        "detector_conf": 0.8141496777534485,
+        "text": "HP12H7917",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP12.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          76,
+          249,
+          145,
+          289
+        ],
+        "detector_conf": 0.8324321508407593,
+        "text": "HP36E3330J",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP13.jpg",
+    "det_time_ms": 47.92,
+    "plates": [
+      {
+        "box": [
+          54,
+          352,
+          184,
+          386
+        ],
+        "detector_conf": 0.8255343437194824,
+        "text": "HP34C8986",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP14.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          252,
+          201,
+          275
+        ],
+        "detector_conf": 0.7561142444610596,
+        "text": "HP39G1539",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP15.jpg",
+    "det_time_ms": 70.82,
+    "plates": [
+      {
+        "box": [
+          110,
+          155,
+          171,
+          170
+        ],
+        "detector_conf": 0.8114523887634277,
+        "text": "HP22E8000",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP16.jpg",
+    "det_time_ms": 66.93,
+    "plates": [
+      {
+        "box": [
+          81,
+          122,
+          133,
+          137
+        ],
+        "detector_conf": 0.784816324710846,
+        "text": "HP302165",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP17.jpg",
+    "det_time_ms": 68.51,
+    "plates": [
+      {
+        "box": [
+          78,
+          244,
+          179,
+          266
+        ],
+        "detector_conf": 0.7892013192176819,
+        "text": "HP20E3953",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP18.jpg",
+    "det_time_ms": 66.05,
+    "plates": [
+      {
+        "box": [
+          139,
+          280,
+          184,
+          294
+        ],
+        "detector_conf": 0.760635256767273,
+        "text": "HP24C8032",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP19.jpg",
+    "det_time_ms": 77.1,
+    "plates": [
+      {
+        "box": [
+          105,
+          180,
+          168,
+          199
+        ],
+        "detector_conf": 0.7969047427177429,
+        "text": "HP54C6564",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP2.jpg",
+    "det_time_ms": 67.31,
+    "plates": [
+      {
+        "box": [
+          112,
+          293,
+          237,
+          318
+        ],
+        "detector_conf": 0.7414534091949463,
+        "text": "HP16A2014",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP20.jpg",
+    "det_time_ms": 53.99,
+    "plates": [
+      {
+        "box": [
+          44,
+          156,
+          100,
+          175
+        ],
+        "detector_conf": 0.7705652713775635,
+        "text": "MH01TR826",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP21.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          286,
+          170,
+          329
+        ],
+        "detector_conf": 0.8085153102874756,
+        "text": "HP40B892",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP22.jpg",
+    "det_time_ms": 67.58,
+    "plates": [
+      {
+        "box": [
+          84,
+          198,
+          158,
+          216
+        ],
+        "detector_conf": 0.8024088144302368,
+        "text": "HP64B3380",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP3.jpg",
+    "det_time_ms": 67.32,
+    "plates": [
+      {
+        "box": [
+          78,
+          278,
+          169,
+          303
+        ],
+        "detector_conf": 0.7965787053108215,
+        "text": "HP666807",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP4.jpg",
+    "det_time_ms": 66.15,
+    "plates": [
+      {
+        "box": [
+          61,
+          227,
+          133,
+          246
+        ],
+        "detector_conf": 0.7534921765327454,
+        "text": "HP48B2252",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP5.jpg",
+    "det_time_ms": 66.49,
+    "plates": [
+      {
+        "box": [
+          85,
+          184,
+          177,
+          206
+        ],
+        "detector_conf": 0.8061312437057495,
+        "text": "HP01N0304",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP6.jpg",
+    "det_time_ms": 65.0,
+    "plates": [
+      {
+        "box": [
+          30,
+          96,
+          74,
+          112
+        ],
+        "detector_conf": 0.7969695329666138,
+        "text": "HP01A7630",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP7.jpg",
+    "det_time_ms": 67.65,
+    "plates": [
+      {
+        "box": [
+          69,
+          284,
+          160,
+          310
+        ],
+        "detector_conf": 0.7968602776527405,
+        "text": "HP12C3766",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP8.jpg",
+    "det_time_ms": 66.12,
+    "plates": [
+      {
+        "box": [
+          102,
+          166,
+          178,
+          190
+        ],
+        "detector_conf": 0.784821093082428,
+        "text": "HP719898",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HP9.jpg",
+    "det_time_ms": 76.28,
+    "plates": [
+      {
+        "box": [
+          88,
+          194,
+          162,
+          218
+        ],
+        "detector_conf": 0.8133524656295776,
+        "text": "HP23A6365",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR1.jpg",
+    "det_time_ms": 68.01,
+    "plates": [
+      {
+        "box": [
+          99,
+          271,
+          182,
+          291
+        ],
+        "detector_conf": 0.7826213240623474,
+        "text": "HR26BQ8176",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR10.jpg",
+    "det_time_ms": 76.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          121,
+          187,
+          147
+        ],
+        "detector_conf": 0.8529236912727356,
+        "text": "HR26BY4812",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR11.jpg",
+    "det_time_ms": 73.55,
+    "plates": [
+      {
+        "box": [
+          87,
+          248,
+          196,
+          274
+        ],
+        "detector_conf": 0.795820415019989,
+        "text": "HR01H4731",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR12.jpg",
+    "det_time_ms": 71.25,
+    "plates": [
+      {
+        "box": [
+          149,
+          274,
+          199,
+          294
+        ],
+        "detector_conf": 0.7898318767547607,
+        "text": "HR29R9466",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR13.jpg",
+    "det_time_ms": 67.21,
+    "plates": [
+      {
+        "box": [
+          100,
+          245,
+          181,
+          266
+        ],
+        "detector_conf": 0.8203059434890747,
+        "text": "HR51AQ0911",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR14.jpg",
+    "det_time_ms": 53.3,
+    "plates": [
+      {
+        "box": [
+          77,
+          265,
+          187,
+          290
+        ],
+        "detector_conf": 0.7899584174156189,
+        "text": "HR51BU8218",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR15.jpg",
+    "det_time_ms": 72.34,
+    "plates": [
+      {
+        "box": [
+          94,
+          219,
+          159,
+          240
+        ],
+        "detector_conf": 0.7825398445129395,
+        "text": "HR29K7840",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR16.jpg",
+    "det_time_ms": 68.72,
+    "plates": [
+      {
+        "box": [
+          144,
+          265,
+          226,
+          294
+        ],
+        "detector_conf": 0.752652645111084,
+        "text": "HR56B2628",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR17.jpg",
+    "det_time_ms": 47.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          284,
+          181,
+          308
+        ],
+        "detector_conf": 0.7906257510185242,
+        "text": "HR26BK8597",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR18.jpg",
+    "det_time_ms": 48.01,
+    "plates": [
+      {
+        "box": [
+          98,
+          332,
+          166,
+          351
+        ],
+        "detector_conf": 0.7622818946838379,
+        "text": "HR26DM2296",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR19.jpg",
+    "det_time_ms": 66.42,
+    "plates": [
+      {
+        "box": [
+          99,
+          145,
+          169,
+          163
+        ],
+        "detector_conf": 0.7952532768249512,
+        "text": "HR29AQ4939",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR2.jpg",
+    "det_time_ms": 67.57,
+    "plates": [
+      {
+        "box": [
+          109,
+          134,
+          184,
+          154
+        ],
+        "detector_conf": 0.8220728635787964,
+        "text": "HR71F9259",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR20.jpg",
+    "det_time_ms": 67.31,
+    "plates": [
+      {
+        "box": [
+          100,
+          235,
+          191,
+          256
+        ],
+        "detector_conf": 0.8197791576385498,
+        "text": "HR26EJ7668",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR21.jpg",
+    "det_time_ms": 52.07,
+    "plates": [
+      {
+        "box": [
+          93,
+          108,
+          167,
+          126
+        ],
+        "detector_conf": 0.7843285799026489,
+        "text": "HR42B1329",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR22.jpg",
+    "det_time_ms": 72.07,
+    "plates": [
+      {
+        "box": [
+          74,
+          213,
+          137,
+          234
+        ],
+        "detector_conf": 0.8300615549087524,
+        "text": "HR09G8378",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR3.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          102,
+          135,
+          181,
+          155
+        ],
+        "detector_conf": 0.8119966387748718,
+        "text": "HR29V8286",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR4.jpg",
+    "det_time_ms": 110.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          216,
+          187,
+          243
+        ],
+        "detector_conf": 0.8325454592704773,
+        "text": "HR10AE9885",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR5.jpg",
+    "det_time_ms": 51.89,
+    "plates": [
+      {
+        "box": [
+          92,
+          139,
+          165,
+          158
+        ],
+        "detector_conf": 0.8296692371368408,
+        "text": "HR26CC7676",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR6.jpg",
+    "det_time_ms": 56.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          265,
+          173,
+          283
+        ],
+        "detector_conf": 0.8016668558120728,
+        "text": "HR26DJ8832",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR7.jpg",
+    "det_time_ms": 42.0,
+    "plates": [
+      {
+        "box": [
+          111,
+          118,
+          170,
+          134
+        ],
+        "detector_conf": 0.804314136505127,
+        "text": "HR01W0080",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR8.jpg",
+    "det_time_ms": 43.01,
+    "plates": [
+      {
+        "box": [
+          94,
+          286,
+          188,
+          309
+        ],
+        "detector_conf": 0.8028619885444641,
+        "text": "HR20X8432",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "HR9.jpg",
+    "det_time_ms": 59.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          208,
+          169,
+          224
+        ],
+        "detector_conf": 0.8188375234603882,
+        "text": "HR29AS0015",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH1.jpg",
+    "det_time_ms": 57.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          328,
+          222,
+          360
+        ],
+        "detector_conf": 0.7229553461074829,
+        "text": "JH01Z3792",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH10.jpg",
+    "det_time_ms": 37.99,
+    "plates": [
+      {
+        "box": [
+          121,
+          285,
+          174,
+          305
+        ],
+        "detector_conf": 0.7498918771743774,
+        "text": "JH02AD2533",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH11.jpg",
+    "det_time_ms": 37.0,
+    "plates": [
+      {
+        "box": [
+          140,
+          298,
+          204,
+          316
+        ],
+        "detector_conf": 0.8225215673446655,
+        "text": "JH01BC5210",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH12.jpg",
+    "det_time_ms": 45.33,
+    "plates": [
+      {
+        "box": [
+          75,
+          305,
+          166,
+          333
+        ],
+        "detector_conf": 0.7595582008361816,
+        "text": "JH01AX5392",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH13.jpg",
+    "det_time_ms": 72.25,
+    "plates": [
+      {
+        "box": [
+          105,
+          229,
+          182,
+          249
+        ],
+        "detector_conf": 0.7570281028747559,
+        "text": "JH01AM2354",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH14.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          99,
+          275,
+          183,
+          295
+        ],
+        "detector_conf": 0.8179239630699158,
+        "text": "JH10BV1496",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH15.jpg",
+    "det_time_ms": 67.22,
+    "plates": [
+      {
+        "box": [
+          88,
+          124,
+          181,
+          148
+        ],
+        "detector_conf": 0.8168812990188599,
+        "text": "JH08C0625",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH16.jpg",
+    "det_time_ms": 48.05,
+    "plates": [
+      {
+        "box": [
+          62,
+          310,
+          172,
+          346
+        ],
+        "detector_conf": 0.818585991859436,
+        "text": "JH10S5378",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH17.jpg",
+    "det_time_ms": 65.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          140,
+          161,
+          156
+        ],
+        "detector_conf": 0.7939951419830322,
+        "text": "JH01AR2011",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH18.jpg",
+    "det_time_ms": 67.25,
+    "plates": [
+      {
+        "box": [
+          118,
+          277,
+          169,
+          295
+        ],
+        "detector_conf": 0.7688374519348145,
+        "text": "CH05S3291",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH19.jpg",
+    "det_time_ms": 50.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          71,
+          190,
+          96
+        ],
+        "detector_conf": 0.8175870776176453,
+        "text": "JH05T9636",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH2.jpg",
+    "det_time_ms": 62.44,
+    "plates": [
+      {
+        "box": [
+          96,
+          267,
+          179,
+          287
+        ],
+        "detector_conf": 0.8032639026641846,
+        "text": "JH01AM0100",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH3.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          108,
+          131,
+          168,
+          147
+        ],
+        "detector_conf": 0.8054794073104858,
+        "text": "JH01DB1881",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH5.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          171,
+          139,
+          229,
+          166
+        ],
+        "detector_conf": 0.8096720576286316,
+        "text": "JH09AA2570JH0",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH6.jpg",
+    "det_time_ms": 65.51,
+    "plates": [
+      {
+        "box": [
+          87,
+          150,
+          139,
+          165
+        ],
+        "detector_conf": 0.7939720153808594,
+        "text": "JH02AH0750",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH7.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          112,
+          79,
+          167,
+          94
+        ],
+        "detector_conf": 0.8087967038154602,
+        "text": "JH01BX0013",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH8.jpg",
+    "det_time_ms": 55.01,
+    "plates": [
+      {
+        "box": [
+          103,
+          265,
+          174,
+          282
+        ],
+        "detector_conf": 0.7442560791969299,
+        "text": "JH04C7104",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JH9.jpg",
+    "det_time_ms": 53.09,
+    "plates": [
+      {
+        "box": [
+          112,
+          138,
+          169,
+          153
+        ],
+        "detector_conf": 0.7904946804046631,
+        "text": "JH01BU9956",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK1.jpg",
+    "det_time_ms": 68.34,
+    "plates": [
+      {
+        "box": [
+          100,
+          209,
+          185,
+          232
+        ],
+        "detector_conf": 0.7561362385749817,
+        "text": "JK02BF5058",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK10.jpg",
+    "det_time_ms": 65.93,
+    "plates": [
+      {
+        "box": [
+          109,
+          167,
+          189,
+          186
+        ],
+        "detector_conf": 0.780084490776062,
+        "text": "JK02AK8967",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK11.jpg",
+    "det_time_ms": 49.02,
+    "plates": [
+      {
+        "box": [
+          92,
+          339,
+          164,
+          362
+        ],
+        "detector_conf": 0.7342168092727661,
+        "text": "JK03D7750",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK12.jpg",
+    "det_time_ms": 72.82,
+    "plates": [
+      {
+        "box": [
+          107,
+          239,
+          182,
+          260
+        ],
+        "detector_conf": 0.8407151699066162,
+        "text": "JK01AD3147",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK13.jpg",
+    "det_time_ms": 83.32,
+    "plates": [
+      {
+        "box": [
+          86,
+          172,
+          187,
+          197
+        ],
+        "detector_conf": 0.8720762729644775,
+        "text": "JK01AF7715",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK14.jpg",
+    "det_time_ms": 53.9,
+    "plates": [
+      {
+        "box": [
+          73,
+          371,
+          179,
+          395
+        ],
+        "detector_conf": 0.7664608359336853,
+        "text": "JK11D8143",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK15.jpg",
+    "det_time_ms": 68.38,
+    "plates": [
+      {
+        "box": [
+          93,
+          180,
+          169,
+          201
+        ],
+        "detector_conf": 0.8061628341674805,
+        "text": "JK02AJ1525",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK16.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          235,
+          199,
+          262
+        ],
+        "detector_conf": 0.7960768938064575,
+        "text": "JK09B7745",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK17.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          66,
+          265,
+          183,
+          294
+        ],
+        "detector_conf": 0.8264855146408081,
+        "text": "JK02AS3888",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK18.jpg",
+    "det_time_ms": 48.82,
+    "plates": [
+      {
+        "box": [
+          92,
+          358,
+          165,
+          378
+        ],
+        "detector_conf": 0.7006816267967224,
+        "text": "JK11B2360",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK19.jpg",
+    "det_time_ms": 66.91,
+    "plates": [
+      {
+        "box": [
+          137,
+          171,
+          207,
+          214
+        ],
+        "detector_conf": 0.78707355260849,
+        "text": "JK12799J",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK2.jpg",
+    "det_time_ms": 71.04,
+    "plates": [
+      {
+        "box": [
+          80,
+          142,
+          193,
+          172
+        ],
+        "detector_conf": 0.8143283724784851,
+        "text": "JK02BJ7997",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK20.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          2,
+          216,
+          66,
+          254
+        ],
+        "detector_conf": 0.8406403660774231,
+        "text": "JK02BJ4045J",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK22.jpg",
+    "det_time_ms": 72.2,
+    "plates": [
+      {
+        "box": [
+          98,
+          135,
+          158,
+          152
+        ],
+        "detector_conf": 0.7809769511222839,
+        "text": "JK01AL4613",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK23.jpg",
+    "det_time_ms": 72.8,
+    "plates": [
+      {
+        "box": [
+          75,
+          193,
+          161,
+          218
+        ],
+        "detector_conf": 0.7952994108200073,
+        "text": "JK02CC0447",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK24.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          238,
+          178,
+          259
+        ],
+        "detector_conf": 0.8483238816261292,
+        "text": "JK02BN3088",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK26.jpg",
+    "det_time_ms": 66.9,
+    "plates": [
+      {
+        "box": [
+          130,
+          256,
+          218,
+          286
+        ],
+        "detector_conf": 0.8022277355194092,
+        "text": "JK02AG2454",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK27.jpg",
+    "det_time_ms": 67.88,
+    "plates": [
+      {
+        "box": [
+          165,
+          226,
+          247,
+          264
+        ],
+        "detector_conf": 0.7400215268135071,
+        "text": "JK01D8354",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK28.jpg",
+    "det_time_ms": 71.6,
+    "plates": [
+      {
+        "box": [
+          147,
+          253,
+          221,
+          289
+        ],
+        "detector_conf": 0.8058727979660034,
+        "text": "JK10A5217",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK29.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          68,
+          333,
+          172,
+          359
+        ],
+        "detector_conf": 0.7826827168464661,
+        "text": "JK01AF0310",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK3.jpg",
+    "det_time_ms": 66.13,
+    "plates": [
+      {
+        "box": [
+          103,
+          167,
+          174,
+          185
+        ],
+        "detector_conf": 0.7656528949737549,
+        "text": "JK02BL1212",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK30.jpg",
+    "det_time_ms": 66.03,
+    "plates": [
+      {
+        "box": [
+          25,
+          183,
+          78,
+          200
+        ],
+        "detector_conf": 0.7300564050674438,
+        "text": "JK02AC8876",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK31.jpg",
+    "det_time_ms": 65.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          140,
+          162,
+          155
+        ],
+        "detector_conf": 0.7471811771392822,
+        "text": "JH03A8048",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK32.jpg",
+    "det_time_ms": 72.35,
+    "plates": [
+      {
+        "box": [
+          160,
+          197,
+          211,
+          219
+        ],
+        "detector_conf": 0.7634517550468445,
+        "text": "JK13C4452",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK34.jpg",
+    "det_time_ms": 68.1,
+    "plates": [
+      {
+        "box": [
+          129,
+          272,
+          200,
+          294
+        ],
+        "detector_conf": 0.7792040109634399,
+        "text": "JK10B2313",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK35.jpg",
+    "det_time_ms": 62.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          257,
+          175,
+          277
+        ],
+        "detector_conf": 0.7352623343467712,
+        "text": "JK10A4638",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK36.jpg",
+    "det_time_ms": 54.51,
+    "plates": [
+      {
+        "box": [
+          140,
+          282,
+          210,
+          322
+        ],
+        "detector_conf": 0.7664560079574585,
+        "text": "JK072483J",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK4.jpg",
+    "det_time_ms": 50.99,
+    "plates": [
+      {
+        "box": [
+          50,
+          296,
+          144,
+          332
+        ],
+        "detector_conf": 0.8064451217651367,
+        "text": "JK01M4723",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK5.jpg",
+    "det_time_ms": 48.24,
+    "plates": [
+      {
+        "box": [
+          82,
+          329,
+          169,
+          352
+        ],
+        "detector_conf": 0.7568053603172302,
+        "text": "JK05H3594",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK6.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          157,
+          243,
+          221,
+          277
+        ],
+        "detector_conf": 0.7977712750434875,
+        "text": "JK01R8021",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK7.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          144,
+          231,
+          220,
+          256
+        ],
+        "detector_conf": 0.7587344646453857,
+        "text": "JK11B4928",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK8.jpg",
+    "det_time_ms": 71.68,
+    "plates": [
+      {
+        "box": [
+          97,
+          251,
+          186,
+          271
+        ],
+        "detector_conf": 0.7994831204414368,
+        "text": "JK02W2657",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "JK9.jpg",
+    "det_time_ms": 71.69,
+    "plates": [
+      {
+        "box": [
+          76,
+          219,
+          158,
+          242
+        ],
+        "detector_conf": 0.7628801465034485,
+        "text": "JK02CD0461",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA1.jpg",
+    "det_time_ms": 76.0,
+    "plates": [
+      {
+        "box": [
+          98,
+          156,
+          168,
+          179
+        ],
+        "detector_conf": 0.8277263045310974,
+        "text": "KA03MQ6984",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA10.jpg",
+    "det_time_ms": 76.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          163,
+          172,
+          185
+        ],
+        "detector_conf": 0.8305922746658325,
+        "text": "KA04MG7528",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA11.jpg",
+    "det_time_ms": 66.11,
+    "plates": [
+      {
+        "box": [
+          99,
+          149,
+          168,
+          167
+        ],
+        "detector_conf": 0.8139094114303589,
+        "text": "KA04MK0368",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA12.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          97,
+          109,
+          169,
+          129
+        ],
+        "detector_conf": 0.8185489177703857,
+        "text": "KA02MF3336",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA16.jpg",
+    "det_time_ms": 82.73,
+    "plates": [
+      {
+        "box": [
+          91,
+          182,
+          183,
+          202
+        ],
+        "detector_conf": 0.7916949391365051,
+        "text": "KA03NC7167",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA17.jpg",
+    "det_time_ms": 75.0,
+    "plates": [
+      {
+        "box": [
+          115,
+          228,
+          184,
+          247
+        ],
+        "detector_conf": 0.8214057087898254,
+        "text": "KA01MG1660",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA18.jpg",
+    "det_time_ms": 66.93,
+    "plates": [
+      {
+        "box": [
+          103,
+          126,
+          155,
+          140
+        ],
+        "detector_conf": 0.7859786748886108,
+        "text": "KA04MK312",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA19.jpg",
+    "det_time_ms": 76.04,
+    "plates": [
+      {
+        "box": [
+          98,
+          156,
+          168,
+          179
+        ],
+        "detector_conf": 0.8277263045310974,
+        "text": "KA03MQ6984",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA2.jpg",
+    "det_time_ms": 66.37,
+    "plates": [
+      {
+        "box": [
+          108,
+          131,
+          170,
+          150
+        ],
+        "detector_conf": 0.8350666761398315,
+        "text": "KA05MF1762",
+        "ocr_time_ms": 155.0
+      },
+      {
+        "box": [
+          0,
+          88,
+          11,
+          95
+        ],
+        "detector_conf": 0.4753260910511017,
+        "text": "HR2PA51",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA20.jpg",
+    "det_time_ms": 67.6,
+    "plates": [
+      {
+        "box": [
+          76,
+          280,
+          171,
+          303
+        ],
+        "detector_conf": 0.7842637300491333,
+        "text": "KA19MF1763",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA21.jpg",
+    "det_time_ms": 48.63,
+    "plates": [
+      {
+        "box": [
+          103,
+          319,
+          175,
+          338
+        ],
+        "detector_conf": 0.6933959126472473,
+        "text": "KA28M3589",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA23.jpg",
+    "det_time_ms": 68.99,
+    "plates": [
+      {
+        "box": [
+          104,
+          236,
+          158,
+          251
+        ],
+        "detector_conf": 0.7801768183708191,
+        "text": "KA51ML4025",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA24.jpg",
+    "det_time_ms": 69.3,
+    "plates": [
+      {
+        "box": [
+          141,
+          154,
+          210,
+          175
+        ],
+        "detector_conf": 0.7927194833755493,
+        "text": "KA25P5080",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA25.jpg",
+    "det_time_ms": 50.0,
+    "plates": [
+      {
+        "box": [
+          62,
+          343,
+          177,
+          371
+        ],
+        "detector_conf": 0.8039277195930481,
+        "text": "KA38M8037",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA3.jpg",
+    "det_time_ms": 61.2,
+    "plates": [
+      {
+        "box": [
+          70,
+          234,
+          146,
+          260
+        ],
+        "detector_conf": 0.7703107595443726,
+        "text": "KA06C9590",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA4.jpg",
+    "det_time_ms": 48.74,
+    "plates": [
+      {
+        "box": [
+          63,
+          342,
+          178,
+          371
+        ],
+        "detector_conf": 0.8156842589378357,
+        "text": "KA38M8037",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA5.jpg",
+    "det_time_ms": 66.72,
+    "plates": [
+      {
+        "box": [
+          108,
+          128,
+          170,
+          145
+        ],
+        "detector_conf": 0.8065617084503174,
+        "text": "KA53P7604",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA7.jpg",
+    "det_time_ms": 65.66,
+    "plates": [
+      {
+        "box": [
+          124,
+          150,
+          170,
+          165
+        ],
+        "detector_conf": 0.7606086134910583,
+        "text": "KA51P775",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA8.jpg",
+    "det_time_ms": 66.43,
+    "plates": [
+      {
+        "box": [
+          111,
+          162,
+          193,
+          180
+        ],
+        "detector_conf": 0.739332914352417,
+        "text": "KA51D9662",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KA9.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          259,
+          170,
+          277
+        ],
+        "detector_conf": 0.77447110414505,
+        "text": "KA01MB9714",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL10.jpg",
+    "det_time_ms": 65.91,
+    "plates": [
+      {
+        "box": [
+          56,
+          198,
+          129,
+          229
+        ],
+        "detector_conf": 0.7877058982849121,
+        "text": "KL45C441",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL11.jpg",
+    "det_time_ms": 66.46,
+    "plates": [
+      {
+        "box": [
+          87,
+          241,
+          179,
+          263
+        ],
+        "detector_conf": 0.7626928091049194,
+        "text": "KL08BJ5001",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL14.jpg",
+    "det_time_ms": 67.29,
+    "plates": [
+      {
+        "box": [
+          156,
+          224,
+          226,
+          261
+        ],
+        "detector_conf": 0.7944332361221313,
+        "text": "KL03S6394",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL15.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          140,
+          228,
+          224,
+          258
+        ],
+        "detector_conf": 0.8091959953308105,
+        "text": "KL43G6619",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL16.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          220,
+          181,
+          244
+        ],
+        "detector_conf": 0.8235011696815491,
+        "text": "KL43D4444",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL19.jpg",
+    "det_time_ms": 67.04,
+    "plates": [
+      {
+        "box": [
+          102,
+          117,
+          157,
+          134
+        ],
+        "detector_conf": 0.7870020270347595,
+        "text": "KL43D4389",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL3.jpg",
+    "det_time_ms": 67.65,
+    "plates": [
+      {
+        "box": [
+          33,
+          213,
+          87,
+          246
+        ],
+        "detector_conf": 0.8035691380500793,
+        "text": "ML02AF6723JL",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL4.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          86,
+          228,
+          164,
+          249
+        ],
+        "detector_conf": 0.7486000657081604,
+        "text": "KL27D9809",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL5.jpg",
+    "det_time_ms": 75.2,
+    "plates": [
+      {
+        "box": [
+          101,
+          157,
+          162,
+          173
+        ],
+        "detector_conf": 0.808175802230835,
+        "text": "NL34A7554",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL6.jpg",
+    "det_time_ms": 69.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          225,
+          171,
+          247
+        ],
+        "detector_conf": 0.7894370555877686,
+        "text": "KL46H3613",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL7.jpg",
+    "det_time_ms": 67.06,
+    "plates": [
+      {
+        "box": [
+          110,
+          132,
+          163,
+          148
+        ],
+        "detector_conf": 0.8048520684242249,
+        "text": "KL41N93",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL8.jpg",
+    "det_time_ms": 67.87,
+    "plates": [
+      {
+        "box": [
+          122,
+          205,
+          205,
+          224
+        ],
+        "detector_conf": 0.7718534469604492,
+        "text": "KL07BU7707",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "KL9.jpg",
+    "det_time_ms": 85.54,
+    "plates": [
+      {
+        "box": [
+          103,
+          186,
+          177,
+          203
+        ],
+        "detector_conf": 0.7662228941917419,
+        "text": "KL16U8863",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "LA1.jpg",
+    "det_time_ms": 68.06,
+    "plates": [
+      {
+        "box": [
+          79,
+          182,
+          145,
+          204
+        ],
+        "detector_conf": 0.7683761119842529,
+        "text": "LA020749",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH1.jpg",
+    "det_time_ms": 59.76,
+    "plates": [
+      {
+        "box": [
+          97,
+          124,
+          178,
+          146
+        ],
+        "detector_conf": 0.8130497336387634,
+        "text": "MH06AB8630",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH10.jpg",
+    "det_time_ms": 72.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          305,
+          184,
+          328
+        ],
+        "detector_conf": 0.796783447265625,
+        "text": "MH11CQ8516",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH11.jpg",
+    "det_time_ms": 68.04,
+    "plates": [
+      {
+        "box": [
+          109,
+          191,
+          160,
+          204
+        ],
+        "detector_conf": 0.770499050617218,
+        "text": "MH36H5700",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH12.jpg",
+    "det_time_ms": 69.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          284,
+          191,
+          308
+        ],
+        "detector_conf": 0.8164345026016235,
+        "text": "MH12NJ5838",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH13.jpg",
+    "det_time_ms": 48.34,
+    "plates": [
+      {
+        "box": [
+          101,
+          331,
+          176,
+          352
+        ],
+        "detector_conf": 0.723567545413971,
+        "text": "MH05BS3471",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH14.jpg",
+    "det_time_ms": 84.61,
+    "plates": [
+      {
+        "box": [
+          91,
+          219,
+          185,
+          241
+        ],
+        "detector_conf": 0.8377780318260193,
+        "text": "MH43X8997",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH15.jpg",
+    "det_time_ms": 64.0,
+    "plates": [
+      {
+        "box": [
+          64,
+          230,
+          170,
+          257
+        ],
+        "detector_conf": 0.8216384649276733,
+        "text": "MH05EQ4066",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH16.jpg",
+    "det_time_ms": 68.36,
+    "plates": [
+      {
+        "box": [
+          104,
+          244,
+          174,
+          265
+        ],
+        "detector_conf": 0.8099012970924377,
+        "text": "MH12GR862",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH17.jpg",
+    "det_time_ms": 51.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          338,
+          172,
+          361
+        ],
+        "detector_conf": 0.79010009765625,
+        "text": "MH01BT7906",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH18.jpg",
+    "det_time_ms": 47.01,
+    "plates": [
+      {
+        "box": [
+          101,
+          314,
+          167,
+          338
+        ],
+        "detector_conf": 0.7882794141769409,
+        "text": "MH12HN4507",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH19.jpg",
+    "det_time_ms": 46.26,
+    "plates": [
+      {
+        "box": [
+          93,
+          321,
+          184,
+          347
+        ],
+        "detector_conf": 0.7874826192855835,
+        "text": "MH12KN8366",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH2.jpg",
+    "det_time_ms": 72.06,
+    "plates": [
+      {
+        "box": [
+          91,
+          164,
+          159,
+          181
+        ],
+        "detector_conf": 0.8242834210395813,
+        "text": "MH48AK2798",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH20.jpg",
+    "det_time_ms": 73.44,
+    "plates": [
+      {
+        "box": [
+          100,
+          234,
+          179,
+          250
+        ],
+        "detector_conf": 0.7638853192329407,
+        "text": "MH12KJ7659",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH21.jpg",
+    "det_time_ms": 45.92,
+    "plates": [
+      {
+        "box": [
+          97,
+          368,
+          185,
+          391
+        ],
+        "detector_conf": 0.7798269391059875,
+        "text": "MH04DR8508",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH22.jpg",
+    "det_time_ms": 52.64,
+    "plates": [
+      {
+        "box": [
+          105,
+          82,
+          150,
+          94
+        ],
+        "detector_conf": 0.7744606137275696,
+        "text": "DH05CH1754",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH23.jpg",
+    "det_time_ms": 66.16,
+    "plates": [
+      {
+        "box": [
+          107,
+          143,
+          164,
+          159
+        ],
+        "detector_conf": 0.8132236003875732,
+        "text": "MH49AS5099",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH24.jpg",
+    "det_time_ms": 73.22,
+    "plates": [
+      {
+        "box": [
+          94,
+          171,
+          180,
+          191
+        ],
+        "detector_conf": 0.8242760300636292,
+        "text": "MH04HF5092",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH25.jpg",
+    "det_time_ms": 68.83,
+    "plates": [
+      {
+        "box": [
+          88,
+          265,
+          178,
+          285
+        ],
+        "detector_conf": 0.8081127405166626,
+        "text": "MH12FK1392",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH26.jpg",
+    "det_time_ms": 85.05,
+    "plates": [
+      {
+        "box": [
+          99,
+          210,
+          172,
+          230
+        ],
+        "detector_conf": 0.8419930338859558,
+        "text": "MH12HF5057",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH3.jpg",
+    "det_time_ms": 67.02,
+    "plates": [
+      {
+        "box": [
+          102,
+          233,
+          168,
+          250
+        ],
+        "detector_conf": 0.8138881921768188,
+        "text": "MH48AC6244",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH4.jpg",
+    "det_time_ms": 52.0,
+    "plates": [
+      {
+        "box": [
+          84,
+          187,
+          178,
+          209
+        ],
+        "detector_conf": 0.7817971110343933,
+        "text": "MH12DF6822",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH6.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          108,
+          224,
+          175,
+          242
+        ],
+        "detector_conf": 0.7673917412757874,
+        "text": "MH47N0712",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH7.jpg",
+    "det_time_ms": 82.5,
+    "plates": [
+      {
+        "box": [
+          94,
+          219,
+          184,
+          240
+        ],
+        "detector_conf": 0.8008649349212646,
+        "text": "MH12KY6921",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MH8.jpg",
+    "det_time_ms": 67.05,
+    "plates": [
+      {
+        "box": [
+          103,
+          151,
+          173,
+          173
+        ],
+        "detector_conf": 0.8087378144264221,
+        "text": "MH02DN7410",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML1.jpg",
+    "det_time_ms": 50.04,
+    "plates": [
+      {
+        "box": [
+          91,
+          64,
+          164,
+          83
+        ],
+        "detector_conf": 0.8261984586715698,
+        "text": "ML05F6894",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML10.jpg",
+    "det_time_ms": 63.0,
+    "plates": [
+      {
+        "box": [
+          125,
+          151,
+          179,
+          165
+        ],
+        "detector_conf": 0.7714906334877014,
+        "text": "ML06A1659",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML11.jpg",
+    "det_time_ms": 66.19,
+    "plates": [
+      {
+        "box": [
+          43,
+          77,
+          116,
+          108
+        ],
+        "detector_conf": 0.8151304721832275,
+        "text": "ML05L1434",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML12.jpg",
+    "det_time_ms": 66.85,
+    "plates": [
+      {
+        "box": [
+          103,
+          162,
+          182,
+          181
+        ],
+        "detector_conf": 0.8003330230712891,
+        "text": "ML05F9854",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML13.jpg",
+    "det_time_ms": 48.08,
+    "plates": [
+      {
+        "box": [
+          93,
+          314,
+          183,
+          334
+        ],
+        "detector_conf": 0.7172950506210327,
+        "text": "ML05H1958",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML14.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          132,
+          16,
+          206,
+          38
+        ],
+        "detector_conf": 0.7695295810699463,
+        "text": "ML10B9308",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML15.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          281,
+          187,
+          308
+        ],
+        "detector_conf": 0.8506301045417786,
+        "text": "ML111909",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML16.jpg",
+    "det_time_ms": 50.52,
+    "plates": [
+      {
+        "box": [
+          23,
+          88,
+          76,
+          116
+        ],
+        "detector_conf": 0.8090639710426331,
+        "text": "ML133317",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML17.jpg",
+    "det_time_ms": 82.67,
+    "plates": [
+      {
+        "box": [
+          106,
+          239,
+          178,
+          259
+        ],
+        "detector_conf": 0.7990137934684753,
+        "text": "ML05L5154",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML18.jpg",
+    "det_time_ms": 49.85,
+    "plates": [
+      {
+        "box": [
+          70,
+          418,
+          164,
+          443
+        ],
+        "detector_conf": 0.7739495038986206,
+        "text": "ML10B4503",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML19.jpg",
+    "det_time_ms": 53.01,
+    "plates": [
+      {
+        "box": [
+          103,
+          297,
+          192,
+          319
+        ],
+        "detector_conf": 0.7990425825119019,
+        "text": "ML04C0056",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML2.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          244,
+          193,
+          267
+        ],
+        "detector_conf": 0.8030518889427185,
+        "text": "ML05Q8790",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML20.jpg",
+    "det_time_ms": 66.14,
+    "plates": [
+      {
+        "box": [
+          129,
+          252,
+          208,
+          271
+        ],
+        "detector_conf": 0.8047294616699219,
+        "text": "ML137827",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML21.jpg",
+    "det_time_ms": 76.9,
+    "plates": [
+      {
+        "box": [
+          101,
+          210,
+          174,
+          228
+        ],
+        "detector_conf": 0.7900550961494446,
+        "text": "ML05J3288",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML22.jpg",
+    "det_time_ms": 67.55,
+    "plates": [
+      {
+        "box": [
+          104,
+          194,
+          163,
+          212
+        ],
+        "detector_conf": 0.8103181719779968,
+        "text": "MH10B281",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML23.jpg",
+    "det_time_ms": 73.04,
+    "plates": [
+      {
+        "box": [
+          83,
+          199,
+          181,
+          223
+        ],
+        "detector_conf": 0.8151767253875732,
+        "text": "ML05R1934",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML24.jpg",
+    "det_time_ms": 62.0,
+    "plates": [
+      {
+        "box": [
+          108,
+          114,
+          164,
+          130
+        ],
+        "detector_conf": 0.7843580842018127,
+        "text": "ML05G3550",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML25.jpg",
+    "det_time_ms": 62.06,
+    "plates": [
+      {
+        "box": [
+          103,
+          203,
+          176,
+          224
+        ],
+        "detector_conf": 0.8138835430145264,
+        "text": "ML04B8389",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML26.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          248,
+          171,
+          273
+        ],
+        "detector_conf": 0.8079906105995178,
+        "text": "ML068346",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML27.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          113,
+          208,
+          180,
+          226
+        ],
+        "detector_conf": 0.795807957649231,
+        "text": "ML05K9494",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML28.jpg",
+    "det_time_ms": 65.66,
+    "plates": [
+      {
+        "box": [
+          69,
+          232,
+          158,
+          256
+        ],
+        "detector_conf": 0.7967076301574707,
+        "text": "ML08C8061",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML29.jpg",
+    "det_time_ms": 52.0,
+    "plates": [
+      {
+        "box": [
+          110,
+          70,
+          193,
+          89
+        ],
+        "detector_conf": 0.7804772853851318,
+        "text": "ML04C4738",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML30.jpg",
+    "det_time_ms": 48.09,
+    "plates": [
+      {
+        "box": [
+          48,
+          221,
+          106,
+          237
+        ],
+        "detector_conf": 0.768844723701477,
+        "text": "ML05C538",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML31.jpg",
+    "det_time_ms": 63.0,
+    "plates": [
+      {
+        "box": [
+          54,
+          129,
+          183,
+          154
+        ],
+        "detector_conf": 0.790094792842865,
+        "text": "ML05J8950",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML32.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          342,
+          177,
+          364
+        ],
+        "detector_conf": 0.728718638420105,
+        "text": "DL10C2674",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML33.jpg",
+    "det_time_ms": 47.0,
+    "plates": [
+      {
+        "box": [
+          81,
+          275,
+          169,
+          302
+        ],
+        "detector_conf": 0.7915259599685669,
+        "text": "ML04B8918",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML34.jpg",
+    "det_time_ms": 64.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          151,
+          181,
+          173
+        ],
+        "detector_conf": 0.7605666518211365,
+        "text": "ML05H6564",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML35.jpg",
+    "det_time_ms": 67.51,
+    "plates": [
+      {
+        "box": [
+          122,
+          224,
+          192,
+          243
+        ],
+        "detector_conf": 0.8242802023887634,
+        "text": "ML05G3474",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML36.jpg",
+    "det_time_ms": 66.79,
+    "plates": [
+      {
+        "box": [
+          116,
+          224,
+          177,
+          244
+        ],
+        "detector_conf": 0.8018056154251099,
+        "text": "ML08B1100",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML37.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          111,
+          90,
+          156,
+          104
+        ],
+        "detector_conf": 0.7508911490440369,
+        "text": "ML08E9223",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML38.jpg",
+    "det_time_ms": 53.0,
+    "plates": [
+      {
+        "box": [
+          95,
+          270,
+          203,
+          299
+        ],
+        "detector_conf": 0.7971207499504089,
+        "text": "ML064696",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML39.jpg",
+    "det_time_ms": 68.11,
+    "plates": [
+      {
+        "box": [
+          127,
+          118,
+          197,
+          137
+        ],
+        "detector_conf": 0.8064818978309631,
+        "text": "ML05G6098",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML5.jpg",
+    "det_time_ms": 67.57,
+    "plates": [
+      {
+        "box": [
+          102,
+          219,
+          157,
+          235
+        ],
+        "detector_conf": 0.7831525206565857,
+        "text": "ML05D0571",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML7.jpg",
+    "det_time_ms": 66.9,
+    "plates": [
+      {
+        "box": [
+          78,
+          233,
+          172,
+          258
+        ],
+        "detector_conf": 0.7973769307136536,
+        "text": "ML069642",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "ML8.jpg",
+    "det_time_ms": 67.01,
+    "plates": [
+      {
+        "box": [
+          188,
+          231,
+          261,
+          274
+        ],
+        "detector_conf": 0.8282787203788757,
+        "text": "ML087084",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MN2.jpg",
+    "det_time_ms": 72.99,
+    "plates": [
+      {
+        "box": [
+          109,
+          253,
+          176,
+          273
+        ],
+        "detector_conf": 0.790618896484375,
+        "text": "MN05A6028",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MN3.jpg",
+    "det_time_ms": 68.1,
+    "plates": [
+      {
+        "box": [
+          79,
+          172,
+          149,
+          192
+        ],
+        "detector_conf": 0.7900310158729553,
+        "text": "MN01G0297",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MN4.jpg",
+    "det_time_ms": 42.23,
+    "plates": [
+      {
+        "box": [
+          103,
+          7,
+          158,
+          24
+        ],
+        "detector_conf": 0.8032552003860474,
+        "text": "MN06LA0861",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MN5.jpg",
+    "det_time_ms": 67.02,
+    "plates": [
+      {
+        "box": [
+          114,
+          161,
+          181,
+          179
+        ],
+        "detector_conf": 0.8102449178695679,
+        "text": "MN01G5395",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MN6.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          82,
+          242,
+          158,
+          262
+        ],
+        "detector_conf": 0.7835105061531067,
+        "text": "MN01K5346",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP1.jpg",
+    "det_time_ms": 62.97,
+    "plates": [
+      {
+        "box": [
+          88,
+          268,
+          171,
+          290
+        ],
+        "detector_conf": 0.8167533874511719,
+        "text": "MP04CL3546",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP10.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          267,
+          186,
+          285
+        ],
+        "detector_conf": 0.7970833778381348,
+        "text": "MP08CA6293",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP11.jpg",
+    "det_time_ms": 83.0,
+    "plates": [
+      {
+        "box": [
+          91,
+          202,
+          186,
+          227
+        ],
+        "detector_conf": 0.8127347826957703,
+        "text": "MP07CB8897",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP2.jpg",
+    "det_time_ms": 66.98,
+    "plates": [
+      {
+        "box": [
+          39,
+          125,
+          100,
+          143
+        ],
+        "detector_conf": 0.8074812889099121,
+        "text": "MP04CL8840",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP3.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          205,
+          168,
+          223
+        ],
+        "detector_conf": 0.7864624261856079,
+        "text": "MP65C0654",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP4.jpg",
+    "det_time_ms": 66.86,
+    "plates": [
+      {
+        "box": [
+          98,
+          197,
+          158,
+          215
+        ],
+        "detector_conf": 0.7990104556083679,
+        "text": "MP09CK4943",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP5.jpg",
+    "det_time_ms": 67.04,
+    "plates": [
+      {
+        "box": [
+          100,
+          226,
+          172,
+          247
+        ],
+        "detector_conf": 0.7819022536277771,
+        "text": "MP20TA0919",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP6.jpg",
+    "det_time_ms": 70.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          237,
+          179,
+          258
+        ],
+        "detector_conf": 0.8217641711235046,
+        "text": "MP07CA5563",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP7.jpg",
+    "det_time_ms": 54.03,
+    "plates": [
+      {
+        "box": [
+          98,
+          229,
+          184,
+          254
+        ],
+        "detector_conf": 0.7822343707084656,
+        "text": "MP09BD1270",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP8.jpg",
+    "det_time_ms": 67.5,
+    "plates": [
+      {
+        "box": [
+          91,
+          184,
+          177,
+          205
+        ],
+        "detector_conf": 0.7907742857933044,
+        "text": "MP09CQ9712",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MP9.jpg",
+    "det_time_ms": 54.01,
+    "plates": [
+      {
+        "box": [
+          188,
+          218,
+          250,
+          246
+        ],
+        "detector_conf": 0.7930247783660889,
+        "text": "MP45G0872",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "MZ1.jpg",
+    "det_time_ms": 49.29,
+    "plates": [
+      {
+        "box": [
+          118,
+          96,
+          184,
+          114
+        ],
+        "detector_conf": 0.7880319356918335,
+        "text": "MZ01G9825",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "NL2.jpg",
+    "det_time_ms": 72.0,
+    "plates": [
+      {
+        "box": [
+          74,
+          298,
+          183,
+          332
+        ],
+        "detector_conf": 0.7564952373504639,
+        "text": "NL01C8433",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "NL3.jpg",
+    "det_time_ms": 67.6,
+    "plates": [
+      {
+        "box": [
+          118,
+          145,
+          197,
+          171
+        ],
+        "detector_conf": 0.7919624447822571,
+        "text": "NL078440",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "NL4.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          169,
+          387,
+          234,
+          423
+        ],
+        "detector_conf": 0.7750958204269409,
+        "text": "KL02C3947J",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "NL5.jpg",
+    "det_time_ms": 47.48,
+    "plates": [
+      {
+        "box": [
+          52,
+          362,
+          121,
+          407
+        ],
+        "detector_conf": 0.7790347933769226,
+        "text": "JS19CK1",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "NL6.jpg",
+    "det_time_ms": 66.44,
+    "plates": [
+      {
+        "box": [
+          213,
+          244,
+          263,
+          266
+        ],
+        "detector_conf": 0.7704256772994995,
+        "text": "NL02C9593KL",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "NL7.jpg",
+    "det_time_ms": 85.51,
+    "plates": [
+      {
+        "box": [
+          92,
+          230,
+          164,
+          249
+        ],
+        "detector_conf": 0.7601921558380127,
+        "text": "ML01T8152",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "NL8.jpg",
+    "det_time_ms": 80.21,
+    "plates": [
+      {
+        "box": [
+          118,
+          182,
+          202,
+          205
+        ],
+        "detector_conf": 0.8001245260238647,
+        "text": "NL07T0937",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "NL9.jpg",
+    "det_time_ms": 46.5,
+    "plates": [
+      {
+        "box": [
+          66,
+          416,
+          166,
+          445
+        ],
+        "detector_conf": 0.7694149613380432,
+        "text": "NL02C6709",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD10.jpg",
+    "det_time_ms": 63.79,
+    "plates": [
+      {
+        "box": [
+          88,
+          244,
+          180,
+          264
+        ],
+        "detector_conf": 0.800072193145752,
+        "text": "OD05K6964",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD11.jpg",
+    "det_time_ms": 64.99,
+    "plates": [
+      {
+        "box": [
+          163,
+          250,
+          218,
+          270
+        ],
+        "detector_conf": 0.7670121192932129,
+        "text": "OH02BV0701",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD12.jpg",
+    "det_time_ms": 46.52,
+    "plates": [
+      {
+        "box": [
+          103,
+          309,
+          174,
+          331
+        ],
+        "detector_conf": 0.7449108362197876,
+        "text": "UN05AN4494",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD13.jpg",
+    "det_time_ms": 47.62,
+    "plates": [
+      {
+        "box": [
+          95,
+          94,
+          157,
+          111
+        ],
+        "detector_conf": 0.810501217842102,
+        "text": "OD052323",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD14.jpg",
+    "det_time_ms": 52.48,
+    "plates": [
+      {
+        "box": [
+          89,
+          186,
+          167,
+          206
+        ],
+        "detector_conf": 0.7829576134681702,
+        "text": "OD02L4656",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD15.jpg",
+    "det_time_ms": 43.0,
+    "plates": [
+      {
+        "box": [
+          109,
+          54,
+          173,
+          73
+        ],
+        "detector_conf": 0.8075329065322876,
+        "text": "OD05Y5787",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD16.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          80,
+          328,
+          171,
+          353
+        ],
+        "detector_conf": 0.7678209543228149,
+        "text": "OR14U8730",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD17.jpg",
+    "det_time_ms": 67.01,
+    "plates": [
+      {
+        "box": [
+          99,
+          139,
+          150,
+          153
+        ],
+        "detector_conf": 0.8028737306594849,
+        "text": "OD14B7432",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD18.jpg",
+    "det_time_ms": 73.11,
+    "plates": [
+      {
+        "box": [
+          64,
+          122,
+          130,
+          136
+        ],
+        "detector_conf": 0.786697268486023,
+        "text": "OD223991",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD19.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          129,
+          166,
+          147
+        ],
+        "detector_conf": 0.7934853434562683,
+        "text": "OD11P6123",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD20.jpg",
+    "det_time_ms": 53.0,
+    "plates": [
+      {
+        "box": [
+          116,
+          121,
+          192,
+          140
+        ],
+        "detector_conf": 0.8058968186378479,
+        "text": "OD01Q4668",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD22.jpg",
+    "det_time_ms": 63.19,
+    "plates": [
+      {
+        "box": [
+          101,
+          53,
+          217,
+          118
+        ],
+        "detector_conf": 0.7534850239753723,
+        "text": "BR05AC028JH2",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD23.jpg",
+    "det_time_ms": 69.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          117,
+          162,
+          130
+        ],
+        "detector_conf": 0.7836114764213562,
+        "text": "OR21E1033",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD24.jpg",
+    "det_time_ms": 67.94,
+    "plates": [
+      {
+        "box": [
+          103,
+          220,
+          161,
+          234
+        ],
+        "detector_conf": 0.7605217099189758,
+        "text": "OD02J0435",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD25.jpg",
+    "det_time_ms": 67.71,
+    "plates": [
+      {
+        "box": [
+          88,
+          279,
+          185,
+          299
+        ],
+        "detector_conf": 0.783943235874176,
+        "text": "OD02AP3010",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD26.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          188,
+          202,
+          214
+        ],
+        "detector_conf": 0.7700359225273132,
+        "text": "OD021481",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD27.jpg",
+    "det_time_ms": 63.0,
+    "plates": [
+      {
+        "box": [
+          118,
+          128,
+          179,
+          143
+        ],
+        "detector_conf": 0.7961756587028503,
+        "text": "OD25P7400",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD3.jpg",
+    "det_time_ms": 53.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          80,
+          168,
+          98
+        ],
+        "detector_conf": 0.8074837327003479,
+        "text": "OD02V0007",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD4.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          126,
+          329,
+          223,
+          352
+        ],
+        "detector_conf": 0.754015326499939,
+        "text": "OD02C2836",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD5.jpg",
+    "det_time_ms": 73.09,
+    "plates": [
+      {
+        "box": [
+          104,
+          193,
+          183,
+          213
+        ],
+        "detector_conf": 0.8080416321754456,
+        "text": "OD14E3131",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD6.jpg",
+    "det_time_ms": 49.01,
+    "plates": [
+      {
+        "box": [
+          98,
+          328,
+          175,
+          357
+        ],
+        "detector_conf": 0.7968857288360596,
+        "text": "OR08F1007",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "OD9.jpg",
+    "det_time_ms": 68.44,
+    "plates": [
+      {
+        "box": [
+          101,
+          227,
+          195,
+          250
+        ],
+        "detector_conf": 0.8132665157318115,
+        "text": "OD33L2616",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB1.jpg",
+    "det_time_ms": 50.1,
+    "plates": [
+      {
+        "box": [
+          89,
+          211,
+          189,
+          240
+        ],
+        "detector_conf": 0.7773515582084656,
+        "text": "PB11BG7347",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB10.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          103,
+          355,
+          194,
+          376
+        ],
+        "detector_conf": 0.7488723397254944,
+        "text": "PB11BN6101",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB11.jpg",
+    "det_time_ms": 66.12,
+    "plates": [
+      {
+        "box": [
+          66,
+          142,
+          186,
+          172
+        ],
+        "detector_conf": 0.792873740196228,
+        "text": "PB08CQ3690",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB12.jpg",
+    "det_time_ms": 79.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          132,
+          180,
+          157
+        ],
+        "detector_conf": 0.8310762643814087,
+        "text": "PB07BY3563",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB13.jpg",
+    "det_time_ms": 65.78,
+    "plates": [
+      {
+        "box": [
+          109,
+          157,
+          179,
+          171
+        ],
+        "detector_conf": 0.7743330001831055,
+        "text": "P08DT7342",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB14.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          111,
+          260,
+          201,
+          281
+        ],
+        "detector_conf": 0.7869608998298645,
+        "text": "PB10EH0164",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB15.jpg",
+    "det_time_ms": 54.43,
+    "plates": [
+      {
+        "box": [
+          97,
+          290,
+          172,
+          310
+        ],
+        "detector_conf": 0.7931105494499207,
+        "text": "PB30L5010",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB17.jpg",
+    "det_time_ms": 67.05,
+    "plates": [
+      {
+        "box": [
+          80,
+          157,
+          170,
+          179
+        ],
+        "detector_conf": 0.7955144643783569,
+        "text": "PB23S8600",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB18.jpg",
+    "det_time_ms": 66.01,
+    "plates": [
+      {
+        "box": [
+          114,
+          157,
+          187,
+          175
+        ],
+        "detector_conf": 0.8061692118644714,
+        "text": "PB08BF6160",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB19.jpg",
+    "det_time_ms": 66.87,
+    "plates": [
+      {
+        "box": [
+          109,
+          150,
+          172,
+          166
+        ],
+        "detector_conf": 0.8233989477157593,
+        "text": "PB10CX0209",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB2.jpg",
+    "det_time_ms": 67.48,
+    "plates": [
+      {
+        "box": [
+          109,
+          210,
+          172,
+          227
+        ],
+        "detector_conf": 0.7770238518714905,
+        "text": "PB04S4253",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB20.jpg",
+    "det_time_ms": 83.17,
+    "plates": [
+      {
+        "box": [
+          103,
+          162,
+          166,
+          180
+        ],
+        "detector_conf": 0.8262069225311279,
+        "text": "PB31R8123",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB21.jpg",
+    "det_time_ms": 47.74,
+    "plates": [
+      {
+        "box": [
+          71,
+          361,
+          171,
+          394
+        ],
+        "detector_conf": 0.7669365406036377,
+        "text": "PB37A8269",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB22.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          146,
+          193,
+          168
+        ],
+        "detector_conf": 0.8166826963424683,
+        "text": "PB06AN6162",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB23.jpg",
+    "det_time_ms": 52.99,
+    "plates": [
+      {
+        "box": [
+          120,
+          111,
+          163,
+          125
+        ],
+        "detector_conf": 0.7737544178962708,
+        "text": "MB02CC7299",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB24.jpg",
+    "det_time_ms": 67.52,
+    "plates": [
+      {
+        "box": [
+          83,
+          259,
+          168,
+          281
+        ],
+        "detector_conf": 0.820047914981842,
+        "text": "PB02DY7380",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB25.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          124,
+          231,
+          185,
+          247
+        ],
+        "detector_conf": 0.7790743708610535,
+        "text": "PB10CK5005",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB26.jpg",
+    "det_time_ms": 67.01,
+    "plates": [
+      {
+        "box": [
+          19,
+          239,
+          90,
+          297
+        ],
+        "detector_conf": 0.8558081388473511,
+        "text": "PB04T068P8",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB27.jpg",
+    "det_time_ms": 67.55,
+    "plates": [
+      {
+        "box": [
+          92,
+          234,
+          176,
+          256
+        ],
+        "detector_conf": 0.8238190412521362,
+        "text": "PB65AN2583",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB29.jpg",
+    "det_time_ms": 66.85,
+    "plates": [
+      {
+        "box": [
+          109,
+          186,
+          180,
+          206
+        ],
+        "detector_conf": 0.8056660890579224,
+        "text": "PB10EE0888",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB30.jpg",
+    "det_time_ms": 52.63,
+    "plates": [
+      {
+        "box": [
+          72,
+          100,
+          131,
+          114
+        ],
+        "detector_conf": 0.7887134552001953,
+        "text": "PB08DY4824",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB4.jpg",
+    "det_time_ms": 67.01,
+    "plates": [
+      {
+        "box": [
+          100,
+          267,
+          186,
+          287
+        ],
+        "detector_conf": 0.8107079267501831,
+        "text": "PB07BL8058",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB5.jpg",
+    "det_time_ms": 74.0,
+    "plates": [
+      {
+        "box": [
+          34,
+          215,
+          79,
+          231
+        ],
+        "detector_conf": 0.7616697549819946,
+        "text": "KA23T3752",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB6.jpg",
+    "det_time_ms": 72.0,
+    "plates": [
+      {
+        "box": [
+          104,
+          259,
+          203,
+          288
+        ],
+        "detector_conf": 0.7855232954025269,
+        "text": "PB13AF6756",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB7.jpg",
+    "det_time_ms": 76.08,
+    "plates": [
+      {
+        "box": [
+          108,
+          152,
+          168,
+          169
+        ],
+        "detector_conf": 0.8106772899627686,
+        "text": "PB10DV5354",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB8.jpg",
+    "det_time_ms": 67.35,
+    "plates": [
+      {
+        "box": [
+          88,
+          242,
+          175,
+          264
+        ],
+        "detector_conf": 0.800005316734314,
+        "text": "PB10CQ0006",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PB9.jpg",
+    "det_time_ms": 67.37,
+    "plates": [
+      {
+        "box": [
+          102,
+          229,
+          174,
+          246
+        ],
+        "detector_conf": 0.7531316876411438,
+        "text": "PB35F9333",
+        "ocr_time_ms": 155.0
+      },
+      {
+        "box": [
+          99,
+          202,
+          177,
+          213
+        ],
+        "detector_conf": 0.34489279985427856,
+        "text": "MH80",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY1.jpg",
+    "det_time_ms": 66.72,
+    "plates": [
+      {
+        "box": [
+          96,
+          281,
+          174,
+          301
+        ],
+        "detector_conf": 0.8212352991104126,
+        "text": "PY0107947",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY10.jpg",
+    "det_time_ms": 67.53,
+    "plates": [
+      {
+        "box": [
+          89,
+          271,
+          185,
+          296
+        ],
+        "detector_conf": 0.8207428455352783,
+        "text": "PY01CE4149",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY12.jpg",
+    "det_time_ms": 67.5,
+    "plates": [
+      {
+        "box": [
+          118,
+          162,
+          180,
+          184
+        ],
+        "detector_conf": 0.8030271530151367,
+        "text": "PY01AH9067",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY13.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          290,
+          179,
+          312
+        ],
+        "detector_conf": 0.7959369421005249,
+        "text": "PY01CG2929",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY14.jpg",
+    "det_time_ms": 65.62,
+    "plates": [
+      {
+        "box": [
+          126,
+          225,
+          184,
+          251
+        ],
+        "detector_conf": 0.777684211730957,
+        "text": "PY01CV2442",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY15.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          100,
+          222,
+          171,
+          243
+        ],
+        "detector_conf": 0.8008155822753906,
+        "text": "PY05A8339",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY16.jpg",
+    "det_time_ms": 67.07,
+    "plates": [
+      {
+        "box": [
+          98,
+          163,
+          169,
+          180
+        ],
+        "detector_conf": 0.7474392056465149,
+        "text": "PY01BU2406",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY17.jpg",
+    "det_time_ms": 68.8,
+    "plates": [
+      {
+        "box": [
+          84,
+          135,
+          172,
+          158
+        ],
+        "detector_conf": 0.8122501969337463,
+        "text": "PY02S9326",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY18.jpg",
+    "det_time_ms": 70.51,
+    "plates": [
+      {
+        "box": [
+          93,
+          213,
+          160,
+          236
+        ],
+        "detector_conf": 0.789060652256012,
+        "text": "PY02L1640",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY2.jpg",
+    "det_time_ms": 72.01,
+    "plates": [
+      {
+        "box": [
+          89,
+          263,
+          191,
+          285
+        ],
+        "detector_conf": 0.7927106618881226,
+        "text": "PY01CM9549",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY3.jpg",
+    "det_time_ms": 54.0,
+    "plates": [
+      {
+        "box": [
+          86,
+          242,
+          171,
+          266
+        ],
+        "detector_conf": 0.7796472311019897,
+        "text": "PY01CM5400",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY4.jpg",
+    "det_time_ms": 49.95,
+    "plates": [
+      {
+        "box": [
+          89,
+          87,
+          184,
+          111
+        ],
+        "detector_conf": 0.826007068157196,
+        "text": "PY02S7828",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY5.jpg",
+    "det_time_ms": 55.04,
+    "plates": [
+      {
+        "box": [
+          82,
+          274,
+          176,
+          294
+        ],
+        "detector_conf": 0.7692945599555969,
+        "text": "PY01AW2814",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY6.jpg",
+    "det_time_ms": 68.61,
+    "plates": [
+      {
+        "box": [
+          92,
+          261,
+          183,
+          282
+        ],
+        "detector_conf": 0.8046113848686218,
+        "text": "PY01AP0555",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY7.jpg",
+    "det_time_ms": 67.61,
+    "plates": [
+      {
+        "box": [
+          116,
+          312,
+          190,
+          332
+        ],
+        "detector_conf": 0.7995746731758118,
+        "text": "PY036993",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY8.jpg",
+    "det_time_ms": 47.85,
+    "plates": [
+      {
+        "box": [
+          98,
+          397,
+          208,
+          426
+        ],
+        "detector_conf": 0.791664183139801,
+        "text": "PY01BD9020",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "PY9.jpg",
+    "det_time_ms": 67.5,
+    "plates": [
+      {
+        "box": [
+          97,
+          253,
+          173,
+          273
+        ],
+        "detector_conf": 0.8053663372993469,
+        "text": "PY055353",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "RJ10.jpg",
+    "det_time_ms": 67.05,
+    "plates": [
+      {
+        "box": [
+          97,
+          275,
+          175,
+          296
+        ],
+        "detector_conf": 0.8193608522415161,
+        "text": "RJ14CM3730",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "RJ2.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          96,
+          114,
+          177,
+          138
+        ],
+        "detector_conf": 0.8085191249847412,
+        "text": "RJ14CW4115",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "RJ4.jpg",
+    "det_time_ms": 67.01,
+    "plates": [
+      {
+        "box": [
+          87,
+          247,
+          182,
+          273
+        ],
+        "detector_conf": 0.8276981115341187,
+        "text": "RJ20CD5118",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "RJ5.jpg",
+    "det_time_ms": 82.35,
+    "plates": [
+      {
+        "box": [
+          90,
+          201,
+          181,
+          226
+        ],
+        "detector_conf": 0.8319757580757141,
+        "text": "RJ14CF5807",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "RJ6.jpg",
+    "det_time_ms": 53.71,
+    "plates": [
+      {
+        "box": [
+          152,
+          260,
+          233,
+          296
+        ],
+        "detector_conf": 0.7958418130874634,
+        "text": "RJ23CB2272",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "RJ7.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          88,
+          254,
+          184,
+          277
+        ],
+        "detector_conf": 0.815175473690033,
+        "text": "RJ23CB4320",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "RJ9.jpg",
+    "det_time_ms": 66.35,
+    "plates": [
+      {
+        "box": [
+          100,
+          260,
+          171,
+          274
+        ],
+        "detector_conf": 0.7518072128295898,
+        "text": "RJ20UB0137",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK1.jpg",
+    "det_time_ms": 66.51,
+    "plates": [
+      {
+        "box": [
+          101,
+          140,
+          174,
+          160
+        ],
+        "detector_conf": 0.8039113879203796,
+        "text": "SK01PA2969",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK10.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          68,
+          189,
+          126,
+          205
+        ],
+        "detector_conf": 0.7867130041122437,
+        "text": "SK01PB5004",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK11.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          290,
+          161,
+          309
+        ],
+        "detector_conf": 0.7897937297821045,
+        "text": "SK02P1078",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK12.jpg",
+    "det_time_ms": 66.67,
+    "plates": [
+      {
+        "box": [
+          62,
+          288,
+          142,
+          325
+        ],
+        "detector_conf": 0.8220433592796326,
+        "text": "SK01T3835K",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK13.jpg",
+    "det_time_ms": 53.0,
+    "plates": [
+      {
+        "box": [
+          106,
+          122,
+          170,
+          141
+        ],
+        "detector_conf": 0.8017367124557495,
+        "text": "SK05T0338",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK2.jpg",
+    "det_time_ms": 67.55,
+    "plates": [
+      {
+        "box": [
+          91,
+          229,
+          171,
+          255
+        ],
+        "detector_conf": 0.7919650673866272,
+        "text": "SK01T3794",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK3.jpg",
+    "det_time_ms": 66.95,
+    "plates": [
+      {
+        "box": [
+          101,
+          235,
+          182,
+          257
+        ],
+        "detector_conf": 0.8235193490982056,
+        "text": "SK01PA7708",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK4.jpg",
+    "det_time_ms": 66.13,
+    "plates": [
+      {
+        "box": [
+          191,
+          275,
+          248,
+          307
+        ],
+        "detector_conf": 0.8188804388046265,
+        "text": "SK01PA4521JK1",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK5.jpg",
+    "det_time_ms": 47.71,
+    "plates": [
+      {
+        "box": [
+          105,
+          415,
+          172,
+          431
+        ],
+        "detector_conf": 0.7725176215171814,
+        "text": "SK01PB3596",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK6.jpg",
+    "det_time_ms": 53.92,
+    "plates": [
+      {
+        "box": [
+          97,
+          257,
+          179,
+          279
+        ],
+        "detector_conf": 0.7916235327720642,
+        "text": "SK04P1320",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK7.jpg",
+    "det_time_ms": 67.85,
+    "plates": [
+      {
+        "box": [
+          65,
+          243,
+          128,
+          275
+        ],
+        "detector_conf": 0.8234636783599854,
+        "text": "SK02P3471",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK8.jpg",
+    "det_time_ms": 68.62,
+    "plates": [
+      {
+        "box": [
+          32,
+          188,
+          97,
+          224
+        ],
+        "detector_conf": 0.8283677697181702,
+        "text": "SK01PA534SK",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "SK9.jpg",
+    "det_time_ms": 67.7,
+    "plates": [
+      {
+        "box": [
+          93,
+          302,
+          190,
+          327
+        ],
+        "detector_conf": 0.8061330318450928,
+        "text": "SK01T8791",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN1.jpg",
+    "det_time_ms": 65.99,
+    "plates": [
+      {
+        "box": [
+          106,
+          222,
+          162,
+          238
+        ],
+        "detector_conf": 0.790421724319458,
+        "text": "TN63BV7954",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN10.jpg",
+    "det_time_ms": 77.16,
+    "plates": [
+      {
+        "box": [
+          76,
+          238,
+          188,
+          266
+        ],
+        "detector_conf": 0.8141847252845764,
+        "text": "TN69AJ4455",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN2.jpg",
+    "det_time_ms": 54.98,
+    "plates": [
+      {
+        "box": [
+          101,
+          281,
+          173,
+          300
+        ],
+        "detector_conf": 0.7514403462409973,
+        "text": "TN76V1978",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN3.jpg",
+    "det_time_ms": 48.04,
+    "plates": [
+      {
+        "box": [
+          86,
+          304,
+          189,
+          332
+        ],
+        "detector_conf": 0.8088515400886536,
+        "text": "TN02AU9295",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN4.jpg",
+    "det_time_ms": 65.95,
+    "plates": [
+      {
+        "box": [
+          91,
+          146,
+          174,
+          170
+        ],
+        "detector_conf": 0.8232970237731934,
+        "text": "TN10AR0131",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN5.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          340,
+          193,
+          360
+        ],
+        "detector_conf": 0.694581151008606,
+        "text": "TN47T4464",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN6.jpg",
+    "det_time_ms": 60.28,
+    "plates": [
+      {
+        "box": [
+          100,
+          87,
+          193,
+          111
+        ],
+        "detector_conf": 0.7936808466911316,
+        "text": "TN19F0816",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN7.jpg",
+    "det_time_ms": 68.47,
+    "plates": [
+      {
+        "box": [
+          96,
+          229,
+          184,
+          250
+        ],
+        "detector_conf": 0.8204106688499451,
+        "text": "TN07BT5778",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN8.jpg",
+    "det_time_ms": 72.71,
+    "plates": [
+      {
+        "box": [
+          85,
+          69,
+          172,
+          95
+        ],
+        "detector_conf": 0.8207119107246399,
+        "text": "TN07AP0659",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TN9.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          86,
+          274,
+          170,
+          299
+        ],
+        "detector_conf": 0.7790167927742004,
+        "text": "TN19Q0835",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR1.jpg",
+    "det_time_ms": 76.01,
+    "plates": [
+      {
+        "box": [
+          84,
+          92,
+          163,
+          112
+        ],
+        "detector_conf": 0.810788631439209,
+        "text": "TR05B0308",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR10.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          326,
+          184,
+          351
+        ],
+        "detector_conf": 0.7714694142341614,
+        "text": "TR07D0569",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR2.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          77,
+          270,
+          178,
+          298
+        ],
+        "detector_conf": 0.7994548678398132,
+        "text": "TR03H0259",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR3.jpg",
+    "det_time_ms": 67.08,
+    "plates": [
+      {
+        "box": [
+          143,
+          228,
+          208,
+          247
+        ],
+        "detector_conf": 0.7850264310836792,
+        "text": "TR02L0569",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR4.jpg",
+    "det_time_ms": 66.52,
+    "plates": [
+      {
+        "box": [
+          98,
+          146,
+          166,
+          165
+        ],
+        "detector_conf": 0.7939147353172302,
+        "text": "TR01N0481",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR5.jpg",
+    "det_time_ms": 56.08,
+    "plates": [
+      {
+        "box": [
+          84,
+          388,
+          187,
+          418
+        ],
+        "detector_conf": 0.792461097240448,
+        "text": "TR01X0482",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR6.jpg",
+    "det_time_ms": 50.66,
+    "plates": [
+      {
+        "box": [
+          105,
+          91,
+          152,
+          106
+        ],
+        "detector_conf": 0.7780976295471191,
+        "text": "TR01BG0365",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR7.jpg",
+    "det_time_ms": 53.79,
+    "plates": [
+      {
+        "box": [
+          153,
+          105,
+          198,
+          137
+        ],
+        "detector_conf": 0.8114838600158691,
+        "text": "TR03F3J",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR8.jpg",
+    "det_time_ms": 66.18,
+    "plates": [
+      {
+        "box": [
+          104,
+          35,
+          166,
+          58
+        ],
+        "detector_conf": 0.7614628076553345,
+        "text": "TR01E2157",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TR9.jpg",
+    "det_time_ms": 47.99,
+    "plates": [
+      {
+        "box": [
+          84,
+          312,
+          170,
+          335
+        ],
+        "detector_conf": 0.7865443825721741,
+        "text": "TR01AS0609",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS1.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          265,
+          185,
+          289
+        ],
+        "detector_conf": 0.7962695956230164,
+        "text": "TS08FQ1262",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS10.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          83,
+          298,
+          183,
+          323
+        ],
+        "detector_conf": 0.8038783669471741,
+        "text": "TS11EQ2914",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS11.jpg",
+    "det_time_ms": 72.85,
+    "plates": [
+      {
+        "box": [
+          133,
+          224,
+          197,
+          247
+        ],
+        "detector_conf": 0.7900323867797852,
+        "text": "TS08FZ8298",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS12.jpg",
+    "det_time_ms": 49.01,
+    "plates": [
+      {
+        "box": [
+          87,
+          339,
+          183,
+          364
+        ],
+        "detector_conf": 0.801026463508606,
+        "text": "TS09UA7948",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS13.jpg",
+    "det_time_ms": 67.24,
+    "plates": [
+      {
+        "box": [
+          85,
+          232,
+          197,
+          260
+        ],
+        "detector_conf": 0.8110296726226807,
+        "text": "TS15ES0894",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS14.jpg",
+    "det_time_ms": 54.52,
+    "plates": [
+      {
+        "box": [
+          84,
+          277,
+          161,
+          298
+        ],
+        "detector_conf": 0.8164748549461365,
+        "text": "TS36H6578",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS15.jpg",
+    "det_time_ms": 63.0,
+    "plates": [
+      {
+        "box": [
+          87,
+          155,
+          167,
+          172
+        ],
+        "detector_conf": 0.7748338580131531,
+        "text": "TS13EK6213",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS16.jpg",
+    "det_time_ms": 51.1,
+    "plates": [
+      {
+        "box": [
+          8,
+          319,
+          93,
+          417
+        ],
+        "detector_conf": 0.8265994191169739,
+        "text": "MH55",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS2.jpg",
+    "det_time_ms": 67.99,
+    "plates": [
+      {
+        "box": [
+          112,
+          231,
+          172,
+          248
+        ],
+        "detector_conf": 0.8191461563110352,
+        "text": "TS07EL3335",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS3.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          101,
+          234,
+          173,
+          253
+        ],
+        "detector_conf": 0.8017035126686096,
+        "text": "TS09EZ9293",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS4.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          107,
+          208,
+          172,
+          225
+        ],
+        "detector_conf": 0.7892566323280334,
+        "text": "TS09EZ9296",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS5.jpg",
+    "det_time_ms": 68.47,
+    "plates": [
+      {
+        "box": [
+          105,
+          231,
+          172,
+          248
+        ],
+        "detector_conf": 0.7876150012016296,
+        "text": "TS09EA4088",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS6.jpg",
+    "det_time_ms": 68.04,
+    "plates": [
+      {
+        "box": [
+          107,
+          143,
+          156,
+          158
+        ],
+        "detector_conf": 0.7713382840156555,
+        "text": "TS18T3899",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS7.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          99,
+          227,
+          178,
+          247
+        ],
+        "detector_conf": 0.814223051071167,
+        "text": "TS08EZ9463",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS8.jpg",
+    "det_time_ms": 50.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          337,
+          181,
+          361
+        ],
+        "detector_conf": 0.7892489433288574,
+        "text": "TS09EG6565",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "TS9.jpg",
+    "det_time_ms": 52.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          65,
+          145,
+          81
+        ],
+        "detector_conf": 0.7903323173522949,
+        "text": "TS21J8351",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK1.jpg",
+    "det_time_ms": 67.08,
+    "plates": [
+      {
+        "box": [
+          88,
+          217,
+          166,
+          235
+        ],
+        "detector_conf": 0.800687313079834,
+        "text": "UK08W2276",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK10.jpg",
+    "det_time_ms": 72.63,
+    "plates": [
+      {
+        "box": [
+          75,
+          249,
+          170,
+          270
+        ],
+        "detector_conf": 0.8036154508590698,
+        "text": "UK07AA2432",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK2.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          29,
+          413,
+          156,
+          469
+        ],
+        "detector_conf": 0.8496274352073669,
+        "text": "UK06CB4595",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK3.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          89,
+          302,
+          174,
+          326
+        ],
+        "detector_conf": 0.7374062538146973,
+        "text": "UK185763",
+        "ocr_time_ms": 155.0
+      },
+      {
+        "box": [
+          25,
+          324,
+          49,
+          335
+        ],
+        "detector_conf": 0.3403083086013794,
+        "text": "KA5381",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK4.jpg",
+    "det_time_ms": 48.72,
+    "plates": [
+      {
+        "box": [
+          89,
+          346,
+          181,
+          369
+        ],
+        "detector_conf": 0.7762361168861389,
+        "text": "UP23K0008",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK5.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          107,
+          141,
+          175,
+          160
+        ],
+        "detector_conf": 0.8034477829933167,
+        "text": "UK106679",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK6.jpg",
+    "det_time_ms": 67.07,
+    "plates": [
+      {
+        "box": [
+          111,
+          275,
+          188,
+          293
+        ],
+        "detector_conf": 0.8119209408760071,
+        "text": "UK07DS5789",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK7.jpg",
+    "det_time_ms": 67.08,
+    "plates": [
+      {
+        "box": [
+          83,
+          178,
+          159,
+          196
+        ],
+        "detector_conf": 0.7878350615501404,
+        "text": "UK07AM5665",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK8.jpg",
+    "det_time_ms": 67.64,
+    "plates": [
+      {
+        "box": [
+          93,
+          211,
+          172,
+          230
+        ],
+        "detector_conf": 0.8079376220703125,
+        "text": "UK07BK5014",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UK9.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          96,
+          332,
+          173,
+          354
+        ],
+        "detector_conf": 0.792228102684021,
+        "text": "UK06J3953",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP1.jpg",
+    "det_time_ms": 66.07,
+    "plates": [
+      {
+        "box": [
+          97,
+          163,
+          197,
+          200
+        ],
+        "detector_conf": 0.8145708441734314,
+        "text": "UP57H8173",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP10.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          95,
+          274,
+          187,
+          292
+        ],
+        "detector_conf": 0.7883390188217163,
+        "text": "UP78DB3730",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP11.jpg",
+    "det_time_ms": 66.31,
+    "plates": [
+      {
+        "box": [
+          89,
+          257,
+          173,
+          277
+        ],
+        "detector_conf": 0.7697688341140747,
+        "text": "UP53AK1161",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP12.jpg",
+    "det_time_ms": 55.79,
+    "plates": [
+      {
+        "box": [
+          98,
+          282,
+          181,
+          303
+        ],
+        "detector_conf": 0.7344133257865906,
+        "text": "UP14CV7920",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP14.jpg",
+    "det_time_ms": 50.0,
+    "plates": [
+      {
+        "box": [
+          76,
+          302,
+          160,
+          331
+        ],
+        "detector_conf": 0.7694540023803711,
+        "text": "UP16BD4866",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP15.jpg",
+    "det_time_ms": 47.15,
+    "plates": [
+      {
+        "box": [
+          71,
+          332,
+          181,
+          359
+        ],
+        "detector_conf": 0.7921574115753174,
+        "text": "UP79L0567",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP16.jpg",
+    "det_time_ms": 50.42,
+    "plates": [
+      {
+        "box": [
+          73,
+          294,
+          154,
+          320
+        ],
+        "detector_conf": 0.8042058944702148,
+        "text": "UP32KW7325",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP17.jpg",
+    "det_time_ms": 70.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          230,
+          180,
+          253
+        ],
+        "detector_conf": 0.7997810244560242,
+        "text": "UP32CX3400",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP19.jpg",
+    "det_time_ms": 49.0,
+    "plates": [
+      {
+        "box": [
+          105,
+          211,
+          188,
+          236
+        ],
+        "detector_conf": 0.7619833946228027,
+        "text": "UP45Q3028",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP2.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          90,
+          174,
+          177,
+          195
+        ],
+        "detector_conf": 0.7922703623771667,
+        "text": "UP85BN4203",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP20.jpg",
+    "det_time_ms": 67.68,
+    "plates": [
+      {
+        "box": [
+          103,
+          149,
+          176,
+          169
+        ],
+        "detector_conf": 0.826102077960968,
+        "text": "UP14AK8604",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP21.jpg",
+    "det_time_ms": 48.24,
+    "plates": [
+      {
+        "box": [
+          99,
+          288,
+          193,
+          316
+        ],
+        "detector_conf": 0.7878502607345581,
+        "text": "UP52AH9705",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP22.jpg",
+    "det_time_ms": 67.6,
+    "plates": [
+      {
+        "box": [
+          106,
+          277,
+          188,
+          295
+        ],
+        "detector_conf": 0.7811840772628784,
+        "text": "UP11AY0646",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP23.jpg",
+    "det_time_ms": 67.0,
+    "plates": [
+      {
+        "box": [
+          93,
+          182,
+          166,
+          200
+        ],
+        "detector_conf": 0.7657157182693481,
+        "text": "UP78ED0449",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP24.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          78,
+          252,
+          164,
+          273
+        ],
+        "detector_conf": 0.7835494875907898,
+        "text": "UP27Z7322",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP25.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          73,
+          302,
+          187,
+          338
+        ],
+        "detector_conf": 0.783776581287384,
+        "text": "UP32BF3577",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP26.jpg",
+    "det_time_ms": 66.99,
+    "plates": [
+      {
+        "box": [
+          47,
+          196,
+          103,
+          215
+        ],
+        "detector_conf": 0.7797985672950745,
+        "text": "UP14AX9754",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP27.jpg",
+    "det_time_ms": 66.03,
+    "plates": [
+      {
+        "box": [
+          97,
+          250,
+          166,
+          273
+        ],
+        "detector_conf": 0.8243963718414307,
+        "text": "UP70ET7816",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP28.jpg",
+    "det_time_ms": 67.36,
+    "plates": [
+      {
+        "box": [
+          95,
+          245,
+          175,
+          265
+        ],
+        "detector_conf": 0.8281019926071167,
+        "text": "UP32HY6077",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP29.jpg",
+    "det_time_ms": 48.98,
+    "plates": [
+      {
+        "box": [
+          80,
+          307,
+          171,
+          332
+        ],
+        "detector_conf": 0.7645384073257446,
+        "text": "UP14AF3804",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP3.jpg",
+    "det_time_ms": 66.67,
+    "plates": [
+      {
+        "box": [
+          87,
+          142,
+          177,
+          167
+        ],
+        "detector_conf": 0.8275045156478882,
+        "text": "UP80FA1666",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP4.jpg",
+    "det_time_ms": 48.0,
+    "plates": [
+      {
+        "box": [
+          170,
+          347,
+          266,
+          384
+        ],
+        "detector_conf": 0.7623575329780579,
+        "text": "UP16U384Z",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP5.jpg",
+    "det_time_ms": 47.0,
+    "plates": [
+      {
+        "box": [
+          98,
+          281,
+          169,
+          301
+        ],
+        "detector_conf": 0.734178364276886,
+        "text": "UP32EC5577",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "UP8.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          170,
+          218,
+          249,
+          258
+        ],
+        "detector_conf": 0.721768319606781,
+        "text": "UP16AJ0704",
+        "ocr_time_ms": 155.0
+      },
+      {
+        "box": [
+          94,
+          267,
+          125,
+          276
+        ],
+        "detector_conf": 0.32110875844955444,
+        "text": "KA061",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB1.jpg",
+    "det_time_ms": 76.01,
+    "plates": [
+      {
+        "box": [
+          158,
+          110,
+          223,
+          143
+        ],
+        "detector_conf": 0.7884323596954346,
+        "text": "WB26T668",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB11.jpg",
+    "det_time_ms": 50.51,
+    "plates": [
+      {
+        "box": [
+          78,
+          304,
+          174,
+          329
+        ],
+        "detector_conf": 0.806488037109375,
+        "text": "WB08A4101",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB12.jpg",
+    "det_time_ms": 66.0,
+    "plates": [
+      {
+        "box": [
+          94,
+          166,
+          186,
+          187
+        ],
+        "detector_conf": 0.8070988655090332,
+        "text": "WB26S5093",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB13.jpg",
+    "det_time_ms": 52.0,
+    "plates": [
+      {
+        "box": [
+          167,
+          114,
+          223,
+          129
+        ],
+        "detector_conf": 0.4061337411403656,
+        "text": "MB26K2760",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB14.jpg",
+    "det_time_ms": 47.2,
+    "plates": [
+      {
+        "box": [
+          91,
+          367,
+          169,
+          392
+        ],
+        "detector_conf": 0.7701618671417236,
+        "text": "WB36G6682",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB15.jpg",
+    "det_time_ms": 68.0,
+    "plates": [
+      {
+        "box": [
+          92,
+          248,
+          182,
+          272
+        ],
+        "detector_conf": 0.8057642579078674,
+        "text": "WB12AX2987",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB16.jpg",
+    "det_time_ms": 66.82,
+    "plates": [
+      {
+        "box": [
+          97,
+          252,
+          166,
+          270
+        ],
+        "detector_conf": 0.8011146187782288,
+        "text": "WB06J9177",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB17.jpg",
+    "det_time_ms": 66.98,
+    "plates": [
+      {
+        "box": [
+          96,
+          264,
+          188,
+          287
+        ],
+        "detector_conf": 0.8237914443016052,
+        "text": "WB02AJ4534",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB18.jpg",
+    "det_time_ms": 66.47,
+    "plates": [
+      {
+        "box": [
+          73,
+          232,
+          168,
+          254
+        ],
+        "detector_conf": 0.8260186910629272,
+        "text": "WB06J2192",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB19.jpg",
+    "det_time_ms": 67.74,
+    "plates": [
+      {
+        "box": [
+          82,
+          174,
+          171,
+          201
+        ],
+        "detector_conf": 0.8162762522697449,
+        "text": "WB061061",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB2.jpg",
+    "det_time_ms": 48.17,
+    "plates": [
+      {
+        "box": [
+          82,
+          418,
+          189,
+          445
+        ],
+        "detector_conf": 0.7812432050704956,
+        "text": "WB02M8447",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB20.jpg",
+    "det_time_ms": 67.18,
+    "plates": [
+      {
+        "box": [
+          103,
+          204,
+          178,
+          235
+        ],
+        "detector_conf": 0.8109826445579529,
+        "text": "WB171717",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB21.jpg",
+    "det_time_ms": 66.3,
+    "plates": [
+      {
+        "box": [
+          32,
+          193,
+          108,
+          217
+        ],
+        "detector_conf": 0.8055202960968018,
+        "text": "WB02W9535",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB22.jpg",
+    "det_time_ms": 66.32,
+    "plates": [
+      {
+        "box": [
+          105,
+          245,
+          166,
+          264
+        ],
+        "detector_conf": 0.7926731705665588,
+        "text": "WB20H0271",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB23.jpg",
+    "det_time_ms": 68.63,
+    "plates": [
+      {
+        "box": [
+          91,
+          140,
+          182,
+          163
+        ],
+        "detector_conf": 0.8305308818817139,
+        "text": "WB20AG9041",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB25.jpg",
+    "det_time_ms": 61.12,
+    "plates": [
+      {
+        "box": [
+          16,
+          117,
+          65,
+          139
+        ],
+        "detector_conf": 0.8111332654953003,
+        "text": "WB06H2237",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB26.jpg",
+    "det_time_ms": 66.04,
+    "plates": [
+      {
+        "box": [
+          29,
+          119,
+          78,
+          143
+        ],
+        "detector_conf": 0.821700394153595,
+        "text": "WB02AD3017",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB27.jpg",
+    "det_time_ms": 85.23,
+    "plates": [
+      {
+        "box": [
+          101,
+          164,
+          188,
+          188
+        ],
+        "detector_conf": 0.8469241261482239,
+        "text": "WB02AD4162",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB28.jpg",
+    "det_time_ms": 64.39,
+    "plates": [
+      {
+        "box": [
+          84,
+          304,
+          180,
+          328
+        ],
+        "detector_conf": 0.8096951842308044,
+        "text": "WB02AM8548",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB3.jpg",
+    "det_time_ms": 62.71,
+    "plates": [
+      {
+        "box": [
+          94,
+          145,
+          171,
+          165
+        ],
+        "detector_conf": 0.8262149095535278,
+        "text": "WB70G3763",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB4.jpg",
+    "det_time_ms": 64.87,
+    "plates": [
+      {
+        "box": [
+          115,
+          270,
+          194,
+          292
+        ],
+        "detector_conf": 0.7889610528945923,
+        "text": "WB02X8795",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB5.jpg",
+    "det_time_ms": 63.36,
+    "plates": [
+      {
+        "box": [
+          104,
+          257,
+          188,
+          280
+        ],
+        "detector_conf": 0.7895509600639343,
+        "text": "WB06G4120",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB6.jpg",
+    "det_time_ms": 63.31,
+    "plates": [
+      {
+        "box": [
+          107,
+          246,
+          181,
+          266
+        ],
+        "detector_conf": 0.8336833119392395,
+        "text": "WB02AH4655",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB8.jpg",
+    "det_time_ms": 82.5,
+    "plates": [
+      {
+        "box": [
+          99,
+          209,
+          185,
+          231
+        ],
+        "detector_conf": 0.8318741321563721,
+        "text": "WB06J4432",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  },
+  {
+    "image": "WB9.jpg",
+    "det_time_ms": 64.1,
+    "plates": [
+      {
+        "box": [
+          93,
+          204,
+          152,
+          221
+        ],
+        "detector_conf": 0.8174025416374207,
+        "text": "WB02AA5580",
+        "ocr_time_ms": 155.0
+      }
+    ]
+  }
+]

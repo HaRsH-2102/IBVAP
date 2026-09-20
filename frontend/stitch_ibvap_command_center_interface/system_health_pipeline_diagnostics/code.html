@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>System Health Dashboard</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              "colors": {
+                      "on-error": "#690005",
+                      "primary": "#adc6ff",
+                      "outline": "#8c909f",
+                      "surface-dim": "#111318",
+                      "surface-container-lowest": "#0c0e12",
+                      "on-tertiary-container": "#461f00",
+                      "primary-container": "#4d8eff",
+                      "on-secondary-fixed-variant": "#005236",
+                      "on-secondary": "#003824",
+                      "on-background": "#e2e2e8",
+                      "inverse-primary": "#005ac2",
+                      "secondary-fixed": "#6ffbbe",
+                      "surface": "#111318",
+                      "primary-fixed": "#d8e2ff",
+                      "surface-variant": "#333539",
+                      "on-primary-fixed": "#001a42",
+                      "error": "#ffb4ab",
+                      "error-container": "#93000a",
+                      "on-tertiary-fixed": "#311400",
+                      "on-tertiary-fixed-variant": "#723600",
+                      "on-primary-fixed-variant": "#004395",
+                      "surface-tint": "#adc6ff",
+                      "surface-container-low": "#1a1c20",
+                      "on-surface": "#e2e2e8",
+                      "tertiary-fixed-dim": "#ffb786",
+                      "secondary-container": "#00a572",
+                      "on-secondary-container": "#00311f",
+                      "primary-fixed-dim": "#adc6ff",
+                      "tertiary-container": "#df7412",
+                      "on-primary": "#002e6a",
+                      "tertiary-fixed": "#ffdcc6",
+                      "on-error-container": "#ffdad6",
+                      "surface-container-high": "#282a2e",
+                      "on-secondary-fixed": "#002113",
+                      "on-tertiary": "#502400",
+                      "on-primary-container": "#00285d",
+                      "surface-container": "#1e2024",
+                      "secondary": "#4edea3",
+                      "tertiary": "#ffb786",
+                      "surface-bright": "#37393e",
+                      "outline-variant": "#424754",
+                      "inverse-on-surface": "#2f3035",
+                      "on-surface-variant": "#c2c6d6",
+                      "surface-container-highest": "#333539",
+                      "secondary-fixed-dim": "#4edea3",
+                      "inverse-surface": "#e2e2e8",
+                      "background": "#111318"
+              },
+              "borderRadius": {
+                      "DEFAULT": "0.125rem",
+                      "lg": "0.25rem",
+                      "xl": "0.5rem",
+                      "full": "0.75rem"
+              },
+              "spacing": {
+                      "element-gap": "8px",
+                      "grid-gutter": "12px",
+                      "container-padding": "16px",
+                      "unit": "4px"
+              },
+              "fontFamily": {
+                      "data-mono": ["JetBrains Mono"],
+                      "display-lg": ["Inter"],
+                      "body-base": ["Inter"],
+                      "label-caps": ["JetBrains Mono"],
+                      "body-sm": ["Inter"],
+                      "headline-md": ["Inter"]
+              },
+              "fontSize": {
+                      "data-mono": ["13px", {"lineHeight": "18px", "letterSpacing": "-0.01em", "fontWeight": "500"}],
+                      "display-lg": ["32px", {"lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                      "body-base": ["14px", {"lineHeight": "20px", "fontWeight": "400"}],
+                      "label-caps": ["10px", {"lineHeight": "12px", "letterSpacing": "0.06em", "fontWeight": "700"}],
+                      "body-sm": ["12px", {"lineHeight": "16px", "fontWeight": "400"}],
+                      "headline-md": ["20px", {"lineHeight": "28px", "fontWeight": "600"}]
+              }
+            }
+          }
+        }
+    </script>
+</head>
+<body class="bg-background text-on-background min-h-screen font-body-base overflow-hidden flex selection:bg-primary-container selection:text-on-primary-container">
+<!-- SideNavBar (Shared Component) -->
+<nav class="fixed left-0 top-0 h-screen w-[280px] bg-surface-dim border-r border-outline-variant flex flex-col py-container-padding z-50">
+<div class="px-container-padding mb-8 flex items-center gap-4">
+<div class="w-10 h-10 rounded bg-primary-container flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-on-primary-container" data-weight="fill" style="font-variation-settings: 'FILL' 1;">local_police</span>
+</div>
+<div>
+<h1 class="font-display-lg text-display-lg font-bold text-primary tracking-tight" style="font-size: 24px; line-height: 28px;">IBVAP</h1>
+<p class="font-label-caps text-label-caps text-on-surface-variant uppercase">Mission Control</p>
+</div>
+</div>
+<div class="flex-1 overflow-y-auto px-unit flex flex-col gap-unit">
+<!-- Nav Items -->
+<a class="flex items-center gap-3 px-3 py-2 rounded text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined">dashboard</span>
+<span>Command Center</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined">videocam</span>
+<span>Live Surveillance</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined">emergency</span>
+<span>Active Incidents</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined">history</span>
+<span>Incident History</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined">save_as</span>
+<span>Cameras</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined">analytics</span>
+<span>Analytics</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded text-primary font-bold border-l-2 border-primary bg-surface-container-high opacity-80 scale-[0.98] transition-all" href="#">
+<span class="material-symbols-outlined">settings_input_component</span>
+<span>System Health</span>
+</a>
+</div>
+<div class="mt-auto pt-4 px-unit border-t border-outline-variant">
+<a class="flex items-center gap-3 px-3 py-2 rounded text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined text-secondary">fiber_manual_record</span>
+<span>System Status</span>
+</a>
+</div>
+</nav>
+<!-- Main Content Area -->
+<div class="ml-[280px] flex-1 flex flex-col h-screen overflow-hidden">
+<!-- TopAppBar (Shared Component) -->
+<header class="fixed top-0 right-0 left-[280px] h-16 bg-surface border-b border-outline-variant flex justify-between items-center px-container-padding z-40">
+<div class="flex items-center gap-4">
+<h2 class="font-headline-md text-headline-md font-bold text-on-surface">IBVAP Operations</h2>
+</div>
+<div class="flex items-center gap-element-gap">
+<div class="hidden md:flex font-data-mono text-data-mono text-primary font-bold bg-surface-container px-3 py-1.5 rounded border border-outline-variant mr-4">
+                    UTC 12:45
+                </div>
+<button class="w-8 h-8 rounded-full hover:bg-surface-container-highest transition-all flex items-center justify-center text-on-surface-variant">
+<span class="material-symbols-outlined">notifications</span>
+</button>
+<button class="w-8 h-8 rounded-full hover:bg-surface-container-highest transition-all flex items-center justify-center text-on-surface-variant">
+<span class="material-symbols-outlined">settings</span>
+</button>
+<button class="w-8 h-8 rounded-full overflow-hidden border border-outline-variant ml-2">
+<img alt="User profile" class="w-full h-full object-cover" data-alt="A small circular avatar placeholder image for a generic user profile. Dark mode aesthetic, minimalist." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCKNfmPIq3GazhOTbu_52dXlUKnyIhgJMlRLBZ-tDW-2WTAUVBXyqd7a6zZW0MChE315duxNvtPesjnq5BLFFFn8TGtNc5vD_FCenFlyDyX4gWabWASpkYWupZWgeg9N7cFoNmnaBBMEKBcXME3aGAHmOg2g8vh71fDDDigReq431rEYDKJfCuV-CjjjGKyjZtLVCDGC7Rpnzpm6Y3_CEqnRTuciv5YWYrOrKSJQCwn2J4byTPApigN"/>
+</button>
+</div>
+</header>
+<!-- Canvas -->
+<main class="flex-1 mt-16 p-container-padding overflow-y-auto bg-background">
+<div class="max-w-7xl mx-auto space-y-grid-gutter">
+<!-- Page Header -->
+<div class="flex items-center justify-between pb-4 border-b border-outline-variant">
+<div>
+<h3 class="font-headline-md text-headline-md text-on-surface">Pipeline Diagnostic Overview</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1">Real-time status monitoring for M2-M12 modules.</p>
+</div>
+<div class="flex items-center gap-4 font-label-caps text-label-caps uppercase">
+<div class="flex items-center gap-1.5">
+<span class="w-2 h-2 rounded-full bg-secondary"></span>
+<span class="text-on-surface-variant">Healthy</span>
+</div>
+<div class="flex items-center gap-1.5">
+<span class="w-2 h-2 rounded-full bg-tertiary-container"></span>
+<span class="text-on-surface-variant">Degraded</span>
+</div>
+<div class="flex items-center gap-1.5">
+<span class="w-2 h-2 rounded-full bg-error"></span>
+<span class="text-on-surface-variant">Offline</span>
+</div>
+</div>
+</div>
+<!-- Diagnostics Grid -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-grid-gutter">
+<!-- M2 Card (Healthy) -->
+<div class="bg-[#151921] border border-[#262C36] rounded-lg p-3 flex flex-col gap-3 hover:border-primary transition-colors border-l-2 border-l-secondary relative group">
+<div class="flex justify-between items-start">
+<div>
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase tracking-wider">Module M2</span>
+<h4 class="font-body-base text-body-base font-semibold text-on-surface mt-0.5">Camera Ingestion</h4>
+</div>
+<span class="w-2.5 h-2.5 rounded-full bg-secondary shadow-[0_0_8px_rgba(78,222,163,0.5)]"></span>
+</div>
+<div class="grid grid-cols-2 gap-2 mt-2 border-t border-outline-variant/30 pt-3">
+<div>
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Latency</span>
+<span class="font-data-mono text-data-mono text-secondary">12ms</span>
+</div>
+<div>
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Errors (1h)</span>
+<span class="font-data-mono text-data-mono text-on-surface">0</span>
+</div>
+</div>
+<div class="mt-auto pt-2">
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Last Update</span>
+<div class="flex justify-between items-center">
+<span class="font-data-mono text-data-mono text-on-surface-variant">12:45:01 UTC</span>
+<span class="font-body-sm text-body-sm text-secondary truncate ml-2 text-right">Stream stable.</span>
+</div>
+</div>
+</div>
+<!-- M3 Card (Degraded) -->
+<div class="bg-[#151921] border border-[#262C36] rounded-lg p-3 flex flex-col gap-3 hover:border-primary transition-colors border-l-2 border-l-tertiary-container relative group">
+<div class="flex justify-between items-start">
+<div>
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase tracking-wider">Module M3</span>
+<h4 class="font-body-base text-body-base font-semibold text-on-surface mt-0.5">Detection (YOLO)</h4>
+</div>
+<span class="w-2.5 h-2.5 rounded-full bg-tertiary-container shadow-[0_0_8px_rgba(223,116,18,0.5)] animate-pulse"></span>
+</div>
+<div class="grid grid-cols-2 gap-2 mt-2 border-t border-outline-variant/30 pt-3">
+<div>
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Latency</span>
+<span class="font-data-mono text-data-mono text-tertiary-container">145ms</span>
+</div>
+<div>
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Errors (1h)</span>
+<span class="font-data-mono text-data-mono text-on-surface">12</span>
+</div>
+</div>
+<div class="mt-auto pt-2">
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Last Update</span>
+<div class="flex justify-between items-center">
+<span class="font-data-mono text-data-mono text-on-surface-variant">12:45:00 UTC</span>
+<span class="font-body-sm text-body-sm text-tertiary-container truncate ml-2 text-right">High GPU load.</span>
+</div>
+</div>
+</div>
+<!-- M4 Card (Healthy) -->
+<div class="bg-[#151921] border border-[#262C36] rounded-lg p-3 flex flex-col gap-3 hover:border-primary transition-colors border-l-2 border-l-secondary relative group">
+<div class="flex justify-between items-start">
+<div>
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase tracking-wider">Module M4</span>
+<h4 class="font-body-base text-body-base font-semibold text-on-surface mt-0.5">Tracking</h4>
+</div>
+<span class="w-2.5 h-2.5 rounded-full bg-secondary shadow-[0_0_8px_rgba(78,222,163,0.5)]"></span>
+</div>
+<div class="grid grid-cols-2 gap-2 mt-2 border-t border-outline-variant/30 pt-3">
+<div>
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Latency</span>
+<span class="font-data-mono text-data-mono text-secondary">24ms</span>
+</div>
+<div>
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Errors (1h)</span>
+<span class="font-data-mono text-data-mono text-on-surface">1</span>
+</div>
+</div>
+<div class="mt-auto pt-2">
+<span class="block font-label-caps text-label-caps text-on-surface-variant uppercase mb-1">Last Update</span>
+<div class="flex justify-between items-center">
+<span class="font-data-mono text-data-mono text-on-surface-variant">12:45:01 UTC</span>
+<span class="font-body-sm text-body-sm text-secondary truncate ml-2 text-right">Nominal.</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</body></html>

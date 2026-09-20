@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Live Surveillance - IBVAP Operations</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "on-error": "#690005",
+                        "primary": "#adc6ff",
+                        "outline": "#8c909f",
+                        "surface-dim": "#111318",
+                        "surface-container-lowest": "#0c0e12",
+                        "on-tertiary-container": "#461f00",
+                        "primary-container": "#4d8eff",
+                        "on-secondary-fixed-variant": "#005236",
+                        "on-secondary": "#003824",
+                        "on-background": "#e2e2e8",
+                        "inverse-primary": "#005ac2",
+                        "secondary-fixed": "#6ffbbe",
+                        "surface": "#111318",
+                        "primary-fixed": "#d8e2ff",
+                        "surface-variant": "#333539",
+                        "on-primary-fixed": "#001a42",
+                        "error": "#ffb4ab",
+                        "error-container": "#93000a",
+                        "on-tertiary-fixed": "#311400",
+                        "on-tertiary-fixed-variant": "#723600",
+                        "on-primary-fixed-variant": "#004395",
+                        "surface-tint": "#adc6ff",
+                        "surface-container-low": "#1a1c20",
+                        "on-surface": "#e2e2e8",
+                        "tertiary-fixed-dim": "#ffb786",
+                        "secondary-container": "#00a572",
+                        "on-secondary-container": "#00311f",
+                        "primary-fixed-dim": "#adc6ff",
+                        "tertiary-container": "#df7412",
+                        "on-primary": "#002e6a",
+                        "tertiary-fixed": "#ffdcc6",
+                        "on-error-container": "#ffdad6",
+                        "surface-container-high": "#282a2e",
+                        "on-secondary-fixed": "#002113",
+                        "on-tertiary": "#502400",
+                        "on-primary-container": "#00285d",
+                        "surface-container": "#1e2024",
+                        "secondary": "#4edea3",
+                        "tertiary": "#ffb786",
+                        "surface-bright": "#37393e",
+                        "outline-variant": "#424754",
+                        "inverse-on-surface": "#2f3035",
+                        "on-surface-variant": "#c2c6d6",
+                        "surface-container-highest": "#333539",
+                        "secondary-fixed-dim": "#4edea3",
+                        "inverse-surface": "#e2e2e8",
+                        "background": "#111318"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "element-gap": "8px",
+                        "grid-gutter": "12px",
+                        "container-padding": "16px",
+                        "unit": "4px"
+                    },
+                    "fontFamily": {
+                        "data-mono": ["JetBrains Mono"],
+                        "display-lg": ["Inter"],
+                        "body-base": ["Inter"],
+                        "label-caps": ["JetBrains Mono"],
+                        "body-sm": ["Inter"],
+                        "headline-md": ["Inter"]
+                    },
+                    "fontSize": {
+                        "data-mono": ["13px", { "lineHeight": "18px", "letterSpacing": "-0.01em", "fontWeight": "500" }],
+                        "display-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "body-base": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+                        "label-caps": ["10px", { "lineHeight": "12px", "letterSpacing": "0.06em", "fontWeight": "700" }],
+                        "body-sm": ["12px", { "lineHeight": "16px", "fontWeight": "400" }],
+                        "headline-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        body {
+            background-color: #0A0C10; /* Z-Index 0 */
+            color: #e2e2e8;
+            margin: 0;
+            overflow: hidden; /* Prevent body scroll, manage scrolling in panels */
+        }
+        .technical-panel {
+            background-color: #151921; /* Z-Index 1 */
+            border: 1px solid #262C36;
+        }
+        .technical-panel-hover:hover {
+            border-color: #3B82F6;
+        }
+        .severity-critical { border-left: 2px solid #EF4444; }
+        .severity-warning { border-left: 2px solid #df7412; }
+        .severity-normal { border-left: 2px solid #00a572; }
+        
+        /* Custom scrollbar for tech feel */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: #0A0C10; }
+        ::-webkit-scrollbar-thumb { background: #262C36; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: #424754; }
+    </style>
+</head>
+<body class="font-body-base text-body-base bg-background h-screen flex flex-col">
+<!-- TopAppBar -->
+<header class="fixed top-0 right-0 left-[280px] h-16 border-b border-outline-variant bg-surface flex justify-between items-center px-container-padding w-[calc(100%-280px)] z-50">
+<div class="flex items-center gap-element-gap">
+<span class="font-headline-md text-headline-md font-bold text-on-surface">IBVAP Operations</span>
+<span class="text-on-surface-variant ml-4 font-data-mono text-data-mono">/ LIVE SURVEILLANCE</span>
+</div>
+<div class="flex items-center gap-container-padding">
+<div class="font-data-mono text-data-mono text-primary font-bold">UTC 12:45</div>
+<button aria-label="notifications" class="w-8 h-8 flex items-center justify-center text-on-surface hover:bg-surface-container-highest transition-all rounded">
+<span class="material-symbols-outlined" data-icon="notifications">notifications</span>
+</button>
+<button aria-label="settings" class="w-8 h-8 flex items-center justify-center text-on-surface hover:bg-surface-container-highest transition-all rounded">
+<span class="material-symbols-outlined" data-icon="settings">settings</span>
+</button>
+<div class="w-8 h-8 rounded-full overflow-hidden border border-outline-variant">
+<img alt="User profile" class="w-full h-full object-cover" data-alt="A small, professional headshot of a control room operator. High-contrast lighting, technical environment background, cool tones. Designed for a dark mode interface avatar." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAaXVlbDb6TJUd2WCmjRhPkawT-Eei4LqHZXnXLULkRT2gHEoIDlrp9glLrEN3AqrPitiIj5_-EYeufhFDVwi7ko4xdsBn--jfcP_0nxOBBfUwiiCDekdB2H4hKYc8l3Wv4DPQbSszLkRLCyBA2X1mrSbyiyV1SqnMdhUIvwOX5VsKRMj6HuKnO8OxfckvLl-dtsMqNPdGtPtcWdg5sXBhCeYevNsChX6j9qil3h7mDQWTMkqwUrhW9"/>
+</div>
+</div>
+</header>
+<!-- SideNavBar -->
+<nav class="fixed left-0 top-0 h-screen w-[280px] border-r border-outline-variant bg-surface-dim flex flex-col py-container-padding z-50">
+<div class="px-container-padding mb-8">
+<h1 class="font-display-lg text-display-lg font-bold text-primary flex items-center gap-2">
+<span class="material-symbols-outlined text-[32px]" data-icon="security">security</span>
+                IBVAP
+            </h1>
+<p class="font-label-caps text-label-caps text-on-surface-variant mt-1">Mission Control</p>
+</div>
+<ul class="flex flex-col gap-unit flex-grow">
+<!-- Command Center -->
+<li>
+<a class="flex items-center gap-3 px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined" data-icon="dashboard">dashboard</span>
+                    Command Center
+                </a>
+</li>
+<!-- Live Surveillance (Active) -->
+<li>
+<a class="flex items-center gap-3 px-container-padding py-2 text-primary font-bold border-l-2 border-primary bg-surface-container-high active:opacity-80 active:scale-[0.98]" href="#">
+<span class="material-symbols-outlined" data-icon="videocam" data-weight="fill">videocam</span>
+                    Live Surveillance
+                </a>
+</li>
+<!-- Active Incidents -->
+<li>
+<a class="flex items-center gap-3 px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined" data-icon="emergency">emergency</span>
+                    Active Incidents
+                </a>
+</li>
+<!-- Incident History -->
+<li>
+<a class="flex items-center gap-3 px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined" data-icon="history">history</span>
+                    Incident History
+                </a>
+</li>
+<!-- Cameras -->
+<li>
+<a class="flex items-center gap-3 px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined" data-icon="videocam_recorder">save_as</span>
+                    Cameras
+                </a>
+</li>
+<!-- Analytics -->
+<li>
+<a class="flex items-center gap-3 px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined" data-icon="analytics">analytics</span>
+                    Analytics
+                </a>
+</li>
+<!-- System Health -->
+<li>
+<a class="flex items-center gap-3 px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined" data-icon="settings_input_component">settings_input_component</span>
+                    System Health
+                </a>
+</li>
+</ul>
+<div class="mt-auto pt-4 border-t border-outline-variant px-container-padding">
+<a class="flex items-center gap-3 py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#">
+<span class="material-symbols-outlined text-[#00a572]" data-icon="fiber_manual_record" data-weight="fill">fiber_manual_record</span>
+                System Status
+            </a>
+</div>
+</nav>
+<!-- Main Workspace -->
+<main class="ml-[280px] mt-16 p-4 h-[calc(100vh-64px)] grid grid-cols-12 gap-grid-gutter box-border">
+<!-- Center Focus View -->
+<section class="col-span-9 flex flex-col gap-grid-gutter h-full">
+<!-- Video Container -->
+<div class="technical-panel rounded-lg flex-grow relative overflow-hidden flex flex-col">
+<div class="absolute top-0 left-0 w-full p-3 z-10 flex justify-between items-start pointer-events-none">
+<div>
+<div class="font-data-mono text-data-mono text-white bg-black/60 px-2 py-1 rounded border border-white/20 inline-block backdrop-blur-sm pointer-events-auto">CAM-N-042 [MAIN GATE]</div>
+<div class="mt-2 flex gap-2">
+<span class="px-2 py-0.5 rounded bg-[#EF4444]/15 text-[#EF4444] font-label-caps text-label-caps border border-[#EF4444]/30 backdrop-blur-sm pointer-events-auto">REC</span>
+<span class="px-2 py-0.5 rounded bg-surface/80 text-on-surface font-label-caps text-label-caps border border-outline-variant backdrop-blur-sm pointer-events-auto">4K H.265</span>
+</div>
+</div>
+<div class="flex gap-2 pointer-events-auto">
+<button class="w-8 h-8 bg-black/60 hover:bg-primary/20 border border-white/20 hover:border-primary text-white rounded flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-[18px]" data-icon="fullscreen">fullscreen</span>
+</button>
+</div>
+</div>
+<!-- Video Feed Placeholder -->
+<div class="w-full h-full bg-surface-container-lowest relative">
+<img alt="Camera Feed" class="w-full h-full object-cover opacity-80 mix-blend-luminosity" data-alt="A high-resolution, wide-angle surveillance camera view of a modern industrial facility gate at night. High contrast, sharp details. A blue bounding box highlights a moving vehicle. Dark mode tactical UI aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB1jg1Sb3kpTmrLtjfJgQsa2hxv2OJQRRMYac1G0DGhFJWrotREwj5nqA5aIVFg7pe_C5AaFxQ1CJRlvhy6bn_gToy_r6qV2KEjIMQp9BMGINF8i9K6F_pBP_fixpds3xkQLgu0Za-PT4yPQlIsEciuMGycdHvJiPftXfoPU4FHbttlVJcQNu0sI1lTBe2PakFHxT0hdkrItSMcZuN3NLElCj1vJySBb4vVdsUONn_4Bg9YVy2zdz_X"/>
+<!-- Overlays -->
+<div class="absolute inset-0 border-[1px] border-primary/40 m-[10%] rounded-sm"></div>
+</div>
+</div>
+<!-- Controls & Metadata Footer -->
+<div class="grid grid-cols-12 gap-grid-gutter h-32 flex-shrink-0">
+<!-- Visualization Toggles -->
+<div class="technical-panel rounded p-3 col-span-5 flex flex-col">
+<h3 class="font-label-caps text-label-caps text-on-surface-variant mb-2">VISUALIZATION OVERLAYS</h3>
+<div class="grid grid-cols-2 gap-2 flex-grow">
+<label class="flex items-center gap-2 font-data-mono text-data-mono cursor-pointer hover:text-primary transition-colors">
+<input checked="" class="rounded border-outline-variant bg-transparent text-primary focus:ring-primary focus:ring-offset-0 focus:ring-1 w-4 h-4" type="checkbox"/>
+                            Show Tracks
+                        </label>
+<label class="flex items-center gap-2 font-data-mono text-data-mono cursor-pointer hover:text-primary transition-colors">
+<input checked="" class="rounded border-outline-variant bg-transparent text-primary focus:ring-primary focus:ring-offset-0 focus:ring-1 w-4 h-4" type="checkbox"/>
+                            Show Zones
+                        </label>
+<label class="flex items-center gap-2 font-data-mono text-data-mono cursor-pointer hover:text-primary transition-colors">
+<input class="rounded border-outline-variant bg-transparent text-primary focus:ring-primary focus:ring-offset-0 focus:ring-1 w-4 h-4" type="checkbox"/>
+                            Show Tripwires
+                        </label>
+<label class="flex items-center gap-2 font-data-mono text-data-mono cursor-pointer hover:text-primary transition-colors">
+<input class="rounded border-outline-variant bg-transparent text-primary focus:ring-primary focus:ring-offset-0 focus:ring-1 w-4 h-4" type="checkbox"/>
+                            Trajectories
+                        </label>
+</div>
+</div>
+<!-- Camera Metadata -->
+<div class="technical-panel rounded p-3 col-span-7 severity-normal flex flex-col">
+<h3 class="font-label-caps text-label-caps text-on-surface-variant mb-2">TELEMETRY &amp; STATE</h3>
+<div class="flex justify-between items-center flex-grow">
+<div class="text-center">
+<div class="font-data-mono text-data-mono text-on-surface-variant mb-1">FPS</div>
+<div class="font-data-mono text-[16px] text-primary">30.0</div>
+</div>
+<div class="w-px h-8 bg-outline-variant/30"></div>
+<div class="text-center">
+<div class="font-data-mono text-data-mono text-on-surface-variant mb-1">LATENCY</div>
+<div class="font-data-mono text-[16px] text-secondary">12ms</div>
+</div>
+<div class="w-px h-8 bg-outline-variant/30"></div>
+<div class="text-center">
+<div class="font-data-mono text-data-mono text-on-surface-variant mb-1">SCENE</div>
+<div class="font-data-mono text-[16px] text-on-surface">NIGHT_IR</div>
+</div>
+<div class="w-px h-8 bg-outline-variant/30"></div>
+<div class="text-center">
+<div class="font-data-mono text-data-mono text-on-surface-variant mb-1">TRACKS</div>
+<div class="font-data-mono text-[16px] text-primary">04</div>
+</div>
+<div class="w-px h-8 bg-outline-variant/30"></div>
+<div class="text-center">
+<div class="font-data-mono text-data-mono text-on-surface-variant mb-1">ALERTS</div>
+<div class="font-data-mono text-[16px] text-on-surface">00</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Sidebar Thumbnails -->
+<aside class="col-span-3 flex flex-col gap-grid-gutter h-full overflow-y-auto pr-2 pb-4">
+<div class="flex justify-between items-center bg-surface-dim sticky top-0 z-20 py-1">
+<span class="font-label-caps text-label-caps text-on-surface-variant">NEARBY CAMERAS</span>
+<div class="flex gap-1">
+<button class="w-6 h-6 flex items-center justify-center border border-outline-variant rounded hover:bg-surface-variant text-on-surface-variant">
+<span class="material-symbols-outlined text-[14px]" data-icon="grid_view">grid_view</span>
+</button>
+<button class="w-6 h-6 flex items-center justify-center border border-primary bg-primary/10 rounded text-primary">
+<span class="material-symbols-outlined text-[14px]" data-icon="view_agenda">view_agenda</span>
+</button>
+</div>
+</div>
+<!-- Thumbnail 1 -->
+<div class="technical-panel technical-panel-hover rounded aspect-video relative overflow-hidden cursor-pointer severity-normal">
+<img alt="Thumbnail" class="w-full h-full object-cover opacity-70" data-alt="A low-res thumbnail of a security camera viewing a parking lot at night. Black and white IR view. Tactical dark mode UI style." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA_NJutj-ig8Acsh7D513T3us6ez3JwDPevXZr4DsPmje_tvKQS4ebE8KMXInJMcEa33NIP5TuO8ejFo_OD_720YCmSKp03W2hYjHtimQ-dJiUn4kzdUJEyyeUW0iSbb9xE6RZBW81-vH1I1G3LDSRZBc-kWfHJM0R880Mippq1E4rUD0wmKkvPiLGvvKgj6c7eqRqZ7-wSKAKpC-X1YX719kvFIxmmVxseJ5zrlT-AlmJT2jJ6IPJq"/>
+<div class="absolute bottom-0 left-0 w-full p-1 bg-gradient-to-t from-black/80 to-transparent">
+<span class="font-data-mono text-[10px] text-white">CAM-N-043 [PRKG_A]</span>
+</div>
+</div>
+<!-- Thumbnail 2 (Warning) -->
+<div class="technical-panel technical-panel-hover rounded aspect-video relative overflow-hidden cursor-pointer severity-warning">
+<img alt="Thumbnail" class="w-full h-full object-cover opacity-70" data-alt="A low-res thumbnail of a security camera viewing a perimeter fence. A faint yellow overlay indicates motion. Tactical dark mode UI style." src="https://lh3.googleusercontent.com/aida-public/AB6AXuD4-7cP0OcexH1cOCpY85BHHSNfuBUFR_1rQ021O1otdaWWgSdychWj01z4WzjYIdA9R8nKokabmwV6V_vAALEqSmNv_SmScFzZ9P36rf8EULUfDlO0O5pKdppBNX5V1Xqhcc3jVyYjy8WZxft3KPSLZvVESY95fhpZ6boloVxKB1Fz10lCLXBIt8L1O1dnwHslNIlfXXlmkiTKUbeKRRb78NBHWLQ3riDMAAfAUQtl1lHPMoK2fT9s"/>
+<div class="absolute bottom-0 left-0 w-full p-1 bg-gradient-to-t from-black/80 to-transparent flex justify-between items-center">
+<span class="font-data-mono text-[10px] text-white">CAM-E-102 [PERIM_E]</span>
+<span class="material-symbols-outlined text-[12px] text-tertiary-container" data-icon="warning">warning</span>
+</div>
+</div>
+<!-- Thumbnail 3 -->
+<div class="technical-panel technical-panel-hover rounded aspect-video relative overflow-hidden cursor-pointer severity-normal">
+<img alt="Thumbnail" class="w-full h-full object-cover opacity-70" data-alt="A low-res thumbnail of a security camera viewing an interior hallway. Cold artificial light. Tactical dark mode UI style." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBVN6QF60Dy18XKJ9luRKFvgXtSD10lIVImkc9PZhL79yaOEz-BRuGzod5PLxugGKo-N4NLxQuW111uvSHEwGmIPA-zJ6cIzYw5scUyns0f5wX6KIarPKDMXcStVwa-y5YtdlonJnoUDs5MYPQYC1ErSlOOR7Ow4E0QKgxJkHpd0QSd7coAD1AE7aPMdFw_16BAoE5cra75XrBhKeGRiJbLmkfGW7MKNrlAmCkwhWZ9FtzNTzmtjRMo"/>
+<div class="absolute bottom-0 left-0 w-full p-1 bg-gradient-to-t from-black/80 to-transparent">
+<span class="font-data-mono text-[10px] text-white">CAM-I-005 [HALL_L1]</span>
+</div>
+</div>
+<!-- Thumbnail 4 -->
+<div class="technical-panel technical-panel-hover rounded aspect-video relative overflow-hidden cursor-pointer severity-normal">
+<img alt="Thumbnail" class="w-full h-full object-cover opacity-70" data-alt="A low-res thumbnail of a security camera viewing an interior hallway. Cold artificial light. Tactical dark mode UI style." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDKVv2U0nVjVf--4yjZWie58B4fvk5Mwtmrxhh4JIBIvW6brl8a5S4mpAzDzjpUIT4AMwitSM96Vf0FEjr3PB7BWKWFPWZMI6EG1L9eedhNdKR27U9z61248zQcxz4SrgFqdiIba5ffk-vqdtvidngNGAV6MDFs3H41Q5WIfDQkCwE_MEEbJ47s7DfptZmBRiQXPa_kp_QYSmNWnSo2uh8jouPfzsWnlLf7BHblARhzxnb4FLpO0CpR"/>
+<div class="absolute bottom-0 left-0 w-full p-1 bg-gradient-to-t from-black/80 to-transparent">
+<span class="font-data-mono text-[10px] text-white">CAM-I-006 [ELEV_L1]</span>
+</div>
+</div>
+</aside>
+</main>
+</body></html>

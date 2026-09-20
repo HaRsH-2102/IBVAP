@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Incident Detail - IBVAP Operations</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@500;700&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=JetBrains+Mono:wght@100..900&display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            "colors": {
+                    "on-error": "#690005",
+                    "primary": "#adc6ff",
+                    "outline": "#8c909f",
+                    "surface-dim": "#111318",
+                    "surface-container-lowest": "#0c0e12",
+                    "on-tertiary-container": "#461f00",
+                    "primary-container": "#4d8eff",
+                    "on-secondary-fixed-variant": "#005236",
+                    "on-secondary": "#003824",
+                    "on-background": "#e2e2e8",
+                    "inverse-primary": "#005ac2",
+                    "secondary-fixed": "#6ffbbe",
+                    "surface": "#111318",
+                    "primary-fixed": "#d8e2ff",
+                    "surface-variant": "#333539",
+                    "on-primary-fixed": "#001a42",
+                    "error": "#ffb4ab",
+                    "error-container": "#93000a",
+                    "on-tertiary-fixed": "#311400",
+                    "on-tertiary-fixed-variant": "#723600",
+                    "on-primary-fixed-variant": "#004395",
+                    "surface-tint": "#adc6ff",
+                    "surface-container-low": "#1a1c20",
+                    "on-surface": "#e2e2e8",
+                    "tertiary-fixed-dim": "#ffb786",
+                    "secondary-container": "#00a572",
+                    "on-secondary-container": "#00311f",
+                    "primary-fixed-dim": "#adc6ff",
+                    "tertiary-container": "#df7412",
+                    "on-primary": "#002e6a",
+                    "tertiary-fixed": "#ffdcc6",
+                    "on-error-container": "#ffdad6",
+                    "surface-container-high": "#282a2e",
+                    "on-secondary-fixed": "#002113",
+                    "on-tertiary": "#502400",
+                    "on-primary-container": "#00285d",
+                    "surface-container": "#1e2024",
+                    "secondary": "#4edea3",
+                    "tertiary": "#ffb786",
+                    "surface-bright": "#37393e",
+                    "outline-variant": "#424754",
+                    "inverse-on-surface": "#2f3035",
+                    "on-surface-variant": "#c2c6d6",
+                    "surface-container-highest": "#333539",
+                    "secondary-fixed-dim": "#4edea3",
+                    "inverse-surface": "#e2e2e8",
+                    "background": "#111318"
+            },
+            "borderRadius": {
+                    "DEFAULT": "0.125rem",
+                    "lg": "0.25rem",
+                    "xl": "0.5rem",
+                    "full": "0.75rem"
+            },
+            "spacing": {
+                    "element-gap": "8px",
+                    "grid-gutter": "12px",
+                    "container-padding": "16px",
+                    "unit": "4px"
+            },
+            "fontFamily": {
+                    "data-mono": ["JetBrains Mono"],
+                    "display-lg": ["Inter"],
+                    "body-base": ["Inter"],
+                    "label-caps": ["JetBrains Mono"],
+                    "body-sm": ["Inter"],
+                    "headline-md": ["Inter"]
+            },
+            "fontSize": {
+                    "data-mono": ["13px", {"lineHeight": "18px", "letterSpacing": "-0.01em", "fontWeight": "500"}],
+                    "display-lg": ["32px", {"lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                    "body-base": ["14px", {"lineHeight": "20px", "fontWeight": "400"}],
+                    "label-caps": ["10px", {"lineHeight": "12px", "letterSpacing": "0.06em", "fontWeight": "700"}],
+                    "body-sm": ["12px", {"lineHeight": "16px", "fontWeight": "400"}],
+                    "headline-md": ["20px", {"lineHeight": "28px", "fontWeight": "600"}]
+            }
+          },
+        },
+      }
+    </script>
+<style>
+        .material-symbols-outlined {
+          font-family: 'Material Symbols Outlined';
+          font-weight: normal;
+          font-style: normal;
+          font-size: 24px;
+          line-height: 1;
+          letter-spacing: normal;
+          text-transform: none;
+          display: inline-block;
+          white-space: nowrap;
+          word-wrap: normal;
+          direction: ltr;
+          -webkit-font-feature-settings: 'liga';
+          -webkit-font-smoothing: antialiased;
+        }
+    </style>
+</head>
+<body class="bg-background text-on-surface font-body-base h-screen overflow-hidden flex">
+<!-- SideNavBar -->
+<nav class="fixed left-0 top-0 h-screen w-[280px] border-r border-outline-variant bg-surface-dim flex flex-col py-container-padding z-10">
+<div class="px-container-padding mb-8 flex items-center gap-element-gap">
+<span class="font-display-lg text-display-lg font-bold text-primary">IBVAP</span>
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase mt-2">Mission Control</span>
+</div>
+<ul class="flex-1 flex flex-col gap-unit">
+<li><a class="flex items-center gap-grid-gutter px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 opacity-80 scale-[0.98]" href="#"><span class="material-symbols-outlined text-[20px]" data-icon="dashboard">dashboard</span>Command Center</a></li>
+<li><a class="flex items-center gap-grid-gutter px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 opacity-80 scale-[0.98]" href="#"><span class="material-symbols-outlined text-[20px]" data-icon="videocam">videocam</span>Live Surveillance</a></li>
+<li><a class="flex items-center gap-grid-gutter px-container-padding py-2 text-primary font-bold border-l-2 border-primary bg-surface-container-high opacity-80 scale-[0.98]" href="#"><span class="material-symbols-outlined text-[20px]" data-icon="emergency">emergency</span>Active Incidents</a></li>
+<li><a class="flex items-center gap-grid-gutter px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 opacity-80 scale-[0.98]" href="#"><span class="material-symbols-outlined text-[20px]" data-icon="history">history</span>Incident History</a></li>
+<li><a class="flex items-center gap-grid-gutter px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 opacity-80 scale-[0.98]" href="#"><span class="material-symbols-outlined text-[20px]" data-icon="videocam_recorder">save_as</span>Cameras</a></li>
+<li><a class="flex items-center gap-grid-gutter px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 opacity-80 scale-[0.98]" href="#"><span class="material-symbols-outlined text-[20px]" data-icon="analytics">analytics</span>Analytics</a></li>
+<li><a class="flex items-center gap-grid-gutter px-container-padding py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 opacity-80 scale-[0.98]" href="#"><span class="material-symbols-outlined text-[20px]" data-icon="settings_input_component">settings_input_component</span>System Health</a></li>
+</ul>
+<div class="mt-auto px-container-padding">
+<a class="flex items-center gap-grid-gutter py-2 text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 opacity-80 scale-[0.98]" href="#"><span class="material-symbols-outlined text-[20px] text-secondary" data-icon="fiber_manual_record">fiber_manual_record</span>System Status</a>
+</div>
+</nav>
+<!-- Main Content Area -->
+<div class="ml-[280px] flex-1 flex flex-col h-screen">
+<!-- TopAppBar -->
+<header class="fixed top-0 right-0 left-[280px] h-16 border-b border-outline-variant bg-surface flex justify-between items-center px-container-padding z-10">
+<div class="font-headline-md text-headline-md font-bold text-on-surface">IBVAP Operations</div>
+<div class="flex items-center gap-grid-gutter">
+<span class="font-data-mono text-data-mono text-primary mr-4">UTC 12:45</span>
+<button class="p-2 text-on-surface-variant hover:bg-surface-container-highest transition-all rounded"><span class="material-symbols-outlined" data-icon="notifications">notifications</span></button>
+<button class="p-2 text-on-surface-variant hover:bg-surface-container-highest transition-all rounded"><span class="material-symbols-outlined" data-icon="settings">settings</span></button>
+<div class="w-8 h-8 rounded-full bg-surface-variant overflow-hidden ml-2 border border-outline-variant">
+<img alt="User profile" class="w-full h-full object-cover" data-alt="A small, circular avatar image of an operator profile picture, set against a dark grey technical background. The lighting is subtle, matching a dark mode interface." src="https://lh3.googleusercontent.com/aida-public/AB6AXuD7N8qAAkHa4eaKO_xQqaQZoKOfa-Wx_1VIp5aI7OzF-XC6rKBwr5EOtz3o6FUX99dvzJWxMFRXAC4D3eFIVqUNe-CSwZuuQzxTaER3HHCDctT95DBxxCA6_iCFevQ7g9OdlJ9pXZKF-OoV_kkh6BBgrk0Ag1gY7VWU23tER0wjMBz9E_26pqhmJj7MZTqTewo476j3qHqdNAzK5E_A1bsooN-snjhhqdgln4CEsub_Gtu12UaQQ89C"/>
+</div>
+</div>
+</header>
+<!-- Canvas -->
+<main class="flex-1 mt-16 p-container-padding overflow-y-auto bg-[#0A0C10] grid grid-cols-12 gap-grid-gutter relative">
+<!-- Header Section -->
+<div class="col-span-12 flex justify-between items-start mb-4">
+<div>
+<div class="flex items-center gap-element-gap mb-2">
+<span class="bg-error/15 text-error px-2 py-1 rounded font-label-caps text-label-caps uppercase tracking-wider border border-error/30">HIGH</span>
+<span class="bg-surface-variant text-on-surface-variant px-2 py-1 rounded font-label-caps text-label-caps uppercase tracking-wider">OPEN</span>
+</div>
+<h1 class="font-headline-md text-headline-md text-on-surface">Restricted Zone Entry</h1>
+<div class="font-data-mono text-data-mono text-on-surface-variant mt-1">INC-2023-11-28-0042</div>
+</div>
+<div class="flex gap-element-gap">
+<button class="px-4 py-2 bg-transparent border border-[#262C36] text-on-surface rounded font-data-mono text-data-mono hover:border-primary transition-colors">Acknowledge</button>
+<button class="px-4 py-2 bg-transparent border border-[#262C36] text-on-surface rounded font-data-mono text-data-mono hover:border-primary transition-colors">Resolve</button>
+<button class="px-4 py-2 bg-primary text-on-primary rounded font-data-mono text-data-mono hover:opacity-90 transition-opacity">Close</button>
+</div>
+</div>
+<!-- Left: Evidence Viewer -->
+<div class="col-span-7 bg-[#151921] border border-[#262C36] rounded flex flex-col h-[600px] overflow-hidden group">
+<div class="px-3 py-2 border-b border-[#262C36] bg-[#1C222B] flex justify-between items-center">
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase">M10 Evidence Viewer</span>
+<span class="font-data-mono text-data-mono text-secondary text-[11px]">Quality: EXACT</span>
+</div>
+<div class="flex-1 relative bg-black p-1">
+<img alt="Forensic Evidence" class="w-full h-full object-contain" data-alt="A stark, high-contrast security camera image showing a restricted industrial zone at night. A figure is highlighted by a thin red bounding box indicating a perimeter breach. The aesthetic is cold, technical, and surveillance-focused with deep shadows and harsh artificial lighting." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDRaaI3O4p43dAr8yWbOVVu2lAq9yV5tQcK9FgdTiLBFmzSLp_lhYytr_GB3wNgn7GXoX5oc4mEwMVKazVuA2ExGCS7SJnMz_JQsfp44KUaPVg-gAIqHCR_LRqJHwYADzmBf465fDwjXb__ntEu2RESJgLNtBh_9zwBOfa-yPaXAvC3055WCE5rMUC4UzI99_WxSk8-BRZ_7Z5kJk1MgCoSng8hRByN4jcIGHMgDkyDxX2659sea02P"/>
+<!-- Analytics Overlay Example -->
+<div class="absolute border border-error bg-error/10 w-32 h-48 top-1/3 left-1/2 -translate-x-1/2" style="border-width: 1px;"></div>
+</div>
+<div class="p-3 bg-[#1C222B] border-t border-[#262C36] grid grid-cols-3 gap-4 font-data-mono text-data-mono text-on-surface-variant text-xs">
+<div>
+<span class="block text-[#8c909f] mb-1 text-[10px]">EVIDENCE ID</span>
+<span class="text-on-surface">EV-992-A</span>
+</div>
+<div>
+<span class="block text-[#8c909f] mb-1 text-[10px]">TIMESTAMP</span>
+<span class="text-on-surface">12:42:15.332</span>
+</div>
+<div>
+<span class="block text-[#8c909f] mb-1 text-[10px]">TRACK ID</span>
+<span class="text-on-surface">TRK-4421</span>
+</div>
+</div>
+</div>
+<!-- Right: Clip Player -->
+<div class="col-span-5 bg-[#151921] border border-[#262C36] rounded flex flex-col h-[600px] overflow-hidden group border-l-2 border-l-error">
+<div class="px-3 py-2 border-b border-[#262C36] bg-[#1C222B] flex justify-between items-center">
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase">M11 Incident Clip</span>
+<span class="font-data-mono text-data-mono text-on-surface-variant text-[11px] bg-surface-variant px-1 rounded">PERSISTED</span>
+</div>
+<div class="flex-1 bg-black p-1 relative flex items-center justify-center">
+<div class="w-full aspect-video bg-[#0c0e12] relative">
+<!-- Simulated Video -->
+<div class="absolute inset-0 flex items-center justify-center text-outline-variant font-data-mono text-data-mono">
+                             NO SIGNAL / PLAYBACK STOPPED
+                         </div>
+</div>
+</div>
+<!-- Playback Controls -->
+<div class="p-4 bg-[#1C222B] border-t border-[#262C36] flex flex-col gap-3">
+<!-- Scrubber -->
+<div class="w-full h-2 bg-surface rounded overflow-hidden relative cursor-pointer">
+<div class="absolute top-0 left-0 h-full w-1/3 bg-primary"></div>
+<div class="absolute top-0 left-1/3 w-1 h-full bg-white"></div>
+</div>
+<!-- Controls -->
+<div class="flex justify-between items-center font-data-mono text-data-mono text-xs">
+<span class="text-on-surface-variant">-00:15</span>
+<div class="flex gap-2">
+<button class="p-1 text-on-surface-variant hover:text-primary transition-colors"><span class="material-symbols-outlined text-[20px]" data-icon="skip_previous">skip_previous</span></button>
+<button class="p-1 text-on-surface hover:text-primary transition-colors"><span class="material-symbols-outlined text-[24px]" data-icon="play_arrow">play_arrow</span></button>
+<button class="p-1 text-on-surface-variant hover:text-primary transition-colors"><span class="material-symbols-outlined text-[20px]" data-icon="skip_next">skip_next</span></button>
+</div>
+<span class="text-on-surface-variant">+00:05</span>
+</div>
+</div>
+</div>
+<!-- Bottom: Vertical Event Timeline -->
+<div class="col-span-12 bg-[#151921] border border-[#262C36] rounded p-4 mt-2">
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase mb-4 block">Pipeline Event Trace</span>
+<div class="flex justify-between items-start relative px-8">
+<!-- Connecting Line -->
+<div class="absolute top-4 left-12 right-12 h-px bg-[#262C36] z-0"></div>
+<!-- Nodes -->
+<div class="flex flex-col items-center gap-2 relative z-10 w-24">
+<div class="w-8 h-8 rounded bg-[#1C222B] border border-outline-variant flex items-center justify-center text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]" data-icon="radar">radar</span>
+</div>
+<span class="font-data-mono text-data-mono text-[10px] text-center text-on-surface-variant">Track Detected<br/>M2</span>
+</div>
+<div class="flex flex-col items-center gap-2 relative z-10 w-24">
+<div class="w-8 h-8 rounded bg-[#1C222B] border border-outline-variant flex items-center justify-center text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]" data-icon="location_searching">location_searching</span>
+</div>
+<span class="font-data-mono text-data-mono text-[10px] text-center text-on-surface-variant">Zone Approach<br/>M5</span>
+</div>
+<div class="flex flex-col items-center gap-2 relative z-10 w-24">
+<div class="w-8 h-8 rounded bg-error/10 border border-error flex items-center justify-center text-error">
+<span class="material-symbols-outlined text-[16px]" data-icon="warning">warning</span>
+</div>
+<span class="font-data-mono text-data-mono text-[10px] text-center text-on-surface">Alert Created<br/>M8</span>
+</div>
+<div class="flex flex-col items-center gap-2 relative z-10 w-24">
+<div class="w-8 h-8 rounded bg-primary/10 border border-primary flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-[16px]" data-icon="image">image</span>
+</div>
+<span class="font-data-mono text-data-mono text-[10px] text-center text-on-surface">Evidence Saved<br/>M10</span>
+</div>
+<div class="flex flex-col items-center gap-2 relative z-10 w-24">
+<div class="w-8 h-8 rounded bg-secondary/10 border border-secondary flex items-center justify-center text-secondary">
+<span class="material-symbols-outlined text-[16px]" data-icon="movie">movie</span>
+</div>
+<span class="font-data-mono text-data-mono text-[10px] text-center text-on-surface">Clip Generated<br/>M11</span>
+</div>
+</div>
+</div>
+</main>
+</div>
+</body></html>

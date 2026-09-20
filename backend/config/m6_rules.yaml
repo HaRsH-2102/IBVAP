@@ -1,0 +1,126 @@
+rules:
+  # Rule 1: Restricted Zone Entry
+  - rule_id: "rule_restricted_zone_entry"
+    name: "Restricted Zone Entry"
+    enabled: true
+    priority: 10
+    event_type: 
+      - "ZONE_ENTER"
+    spatial_object_scope: 
+      - "zone_01"
+    security_event_type: "RESTRICTED_AREA_INTRUSION"
+    severity: "HIGH"
+    correlation_policy:
+      enabled: true
+      window_seconds: 5
+      matching_context:
+        - "camera_id"
+        - "track_id"
+
+  # Rule 2: Restricted Boundary Crossing
+  - rule_id: "rule_border_line_crossing"
+    name: "Restricted Boundary Crossing"
+    enabled: true
+    priority: 20
+    event_type: 
+      - "LINE_CROSS"
+    spatial_object_scope: 
+      - "line_01"
+    security_event_type: "FENCE_CROSSING"
+    severity: "CRITICAL"
+    correlation_policy:
+      enabled: true
+      window_seconds: 5
+      matching_context:
+        - "camera_id"
+        - "track_id"
+
+  # Rule 3: Restricted Zone Exit
+  - rule_id: "rule_restricted_zone_exit"
+    name: "Restricted Zone Exit"
+    enabled: true
+    priority: 5
+    event_type: 
+      - "ZONE_EXIT"
+    spatial_object_scope: 
+      - "zone_01"
+    security_event_type: "RESTRICTED_ZONE_EXIT"
+    severity: "LOW"
+    correlation_policy:
+      enabled: true
+      window_seconds: 5
+      matching_context:
+        - "camera_id"
+        - "track_id"
+
+  # Rule 4: Loitering in Restricted Zone
+  - rule_id: "rule_loitering_restricted"
+    name: "Loitering in Restricted Zone"
+    enabled: true
+    priority: 15
+    event_type: 
+      - "LOITERING"
+    spatial_object_scope: 
+      - "zone_01"
+    security_event_type: "RESTRICTED_ZONE_LOITERING"
+    severity: "HIGH"
+    correlation_policy:
+      enabled: true
+      window_seconds: 5
+      matching_context:
+        - "camera_id"
+        - "track_id"
+
+  # Rule 5: Repeated Zone Entry
+  - rule_id: "rule_repeated_entry"
+    name: "Repeated Zone Entry"
+    enabled: true
+    priority: 12
+    event_type: 
+      - "REPEATED_ZONE_ENTRY"
+    spatial_object_scope: 
+      - "ALL"
+    security_event_type: "SUSPICIOUS_REPEATED_ENTRY"
+    severity: "MEDIUM"
+    correlation_policy:
+      enabled: true
+      window_seconds: 5
+      matching_context:
+        - "camera_id"
+        - "track_id"
+
+  # Rule 6: Direction Reversal
+  - rule_id: "rule_direction_reversal"
+    name: "Suspicious Direction Reversal"
+    enabled: true
+    priority: 8
+    event_type: 
+      - "DIRECTION_REVERSAL"
+    spatial_object_scope: 
+      - "ALL"
+    security_event_type: "DIRECTION_REVERSAL"
+    severity: "LOW"
+    correlation_policy:
+      enabled: true
+      window_seconds: 5
+      matching_context:
+        - "camera_id"
+        - "track_id"
+
+  # Rule 7: Night Movement
+  - rule_id: "rule_night_movement"
+    name: "Night Movement Detected"
+    enabled: true
+    priority: 25
+    event_type: 
+      - "NIGHT_MOVEMENT"
+    spatial_object_scope: 
+      - "ALL"
+    security_event_type: "NIGHT_MOVEMENT"
+    severity: "HIGH"
+    correlation_policy:
+      enabled: true
+      window_seconds: 5
+      matching_context:
+        - "camera_id"
+        - "track_id"

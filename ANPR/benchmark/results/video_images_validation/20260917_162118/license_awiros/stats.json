@@ -1,0 +1,20 @@
+{
+  "model": "license",
+  "physical_files": 654,
+  "unique_images": 654,
+  "duplicates": 0,
+  "failed": 0,
+  "images_with_det": 654,
+  "total_plates": 681,
+  "ocr_attempts": 681,
+  "non_empty": 681,
+  "det_avg": 12.287736697639025,
+  "det_p50": 9.004200001072604,
+  "det_p95": 32.48013000047649,
+  "ocr_avg": 10.631478708246812,
+  "ocr_p50": 9.568499997840263,
+  "ocr_p95": 15.07100000162609,
+  "tot_avg": 23.358129664483183,
+  "fps": 42.81164692396298,
+  "out_dir": "E:\\ANPR\\benchmark\\results\\video_images_validation\\20260917_162118\\license_awiros"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "image": "10_14_68e6fcf21e55ac002f310971_awi_1.jpg",
+    "prediction": "HR12AX8522",
+    "confidence": 0.9997
+  },
+  {
+    "image": "10_20_68f0b5ea88aefc002f543e60_awi_1.jpg",
+    "prediction": "HR35M2576",
+    "confidence": 0.9493
+  },
+  {
+    "image": "10_20_68fc5fb360b026003091b0eb_awi_1.jpg",
+    "prediction": "HR34M4007",
+    "confidence": 1.0
+  },
+  {
+    "image": "10_20_69027403e20fe9002fceedaa_awi_1.jpg",
+    "prediction": "RJ29GB2097",
+    "confidence": 0.995
+  },
+  {
+    "image": "10_21_68ecddf9925604002f70876a_awi_1.jpg",
+    "prediction": "HR38AB421",
+    "confidence": 0.9922
+  },
+  {
+    "image": "9_13_68f45a82b5e646002f924bbd_awi_1.jpg",
+    "prediction": "DL9CBH1669",
+    "confidence": 0.9998
+  },
+  {
+    "image": "9_16_68f325be3a50df002e43a509_awi_1.jpg",
+    "prediction": "HR51BV822",
+    "confidence": 0.9994
+  },
+  {
+    "image": "9_25_6901aa035e29cc002f516180_awi_1.jpg",
+    "prediction": "HR46E227",
+    "confidence": 0.9739
+  },
+  {
+    "image": "two_row-set-1_1_1420_.jpg",
+    "prediction": "UP14BQ208",
+    "confidence": 0.9955
+  }
+]

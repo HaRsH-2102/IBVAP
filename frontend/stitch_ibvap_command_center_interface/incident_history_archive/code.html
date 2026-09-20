@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>IBVAP Operations - Incident History</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "on-error": "#690005",
+                        "primary": "#adc6ff",
+                        "outline": "#8c909f",
+                        "surface-dim": "#111318",
+                        "surface-container-lowest": "#0c0e12",
+                        "on-tertiary-container": "#461f00",
+                        "primary-container": "#4d8eff",
+                        "on-secondary-fixed-variant": "#005236",
+                        "on-secondary": "#003824",
+                        "on-background": "#e2e2e8",
+                        "inverse-primary": "#005ac2",
+                        "secondary-fixed": "#6ffbbe",
+                        "surface": "#111318",
+                        "primary-fixed": "#d8e2ff",
+                        "surface-variant": "#333539",
+                        "on-primary-fixed": "#001a42",
+                        "error": "#ffb4ab",
+                        "error-container": "#93000a",
+                        "on-tertiary-fixed": "#311400",
+                        "on-tertiary-fixed-variant": "#723600",
+                        "on-primary-fixed-variant": "#004395",
+                        "surface-tint": "#adc6ff",
+                        "surface-container-low": "#1a1c20",
+                        "on-surface": "#e2e2e8",
+                        "tertiary-fixed-dim": "#ffb786",
+                        "secondary-container": "#00a572",
+                        "on-secondary-container": "#00311f",
+                        "primary-fixed-dim": "#adc6ff",
+                        "tertiary-container": "#df7412",
+                        "on-primary": "#002e6a",
+                        "tertiary-fixed": "#ffdcc6",
+                        "on-error-container": "#ffdad6",
+                        "surface-container-high": "#282a2e",
+                        "on-secondary-fixed": "#002113",
+                        "on-tertiary": "#502400",
+                        "on-primary-container": "#00285d",
+                        "surface-container": "#1e2024",
+                        "secondary": "#4edea3",
+                        "tertiary": "#ffb786",
+                        "surface-bright": "#37393e",
+                        "outline-variant": "#424754",
+                        "inverse-on-surface": "#2f3035",
+                        "on-surface-variant": "#c2c6d6",
+                        "surface-container-highest": "#333539",
+                        "secondary-fixed-dim": "#4edea3",
+                        "inverse-surface": "#e2e2e8",
+                        "background": "#111318"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "element-gap": "8px",
+                        "grid-gutter": "12px",
+                        "container-padding": "16px",
+                        "unit": "4px"
+                    },
+                    "fontFamily": {
+                        "data-mono": ["JetBrains Mono"],
+                        "display-lg": ["Inter"],
+                        "body-base": ["Inter"],
+                        "label-caps": ["JetBrains Mono"],
+                        "body-sm": ["Inter"],
+                        "headline-md": ["Inter"]
+                    },
+                    "fontSize": {
+                        "data-mono": ["13px", { "lineHeight": "18px", "letterSpacing": "-0.01em", "fontWeight": "500" }],
+                        "display-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "body-base": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+                        "label-caps": ["10px", { "lineHeight": "12px", "letterSpacing": "0.06em", "fontWeight": "700" }],
+                        "body-sm": ["12px", { "lineHeight": "16px", "fontWeight": "400" }],
+                        "headline-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background-color: #424754;
+            border-radius: 4px;
+        }
+        .tech-border {
+            border: 1px solid #262C36;
+        }
+        .tech-border-hover:hover {
+            border-color: #3B82F6;
+        }
+        input[type="checkbox"].tech-checkbox {
+            background-color: transparent;
+            border: 1px solid #424754;
+            border-radius: 2px;
+            width: 14px;
+            height: 14px;
+        }
+        input[type="checkbox"].tech-checkbox:checked {
+            background-color: #3B82F6;
+            border-color: #3B82F6;
+        }
+        input[type="text"].tech-input, select.tech-input, input[type="date"].tech-input {
+            background-color: #111318;
+            border: 1px solid #424754;
+            color: #e2e2e8;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 13px;
+        }
+        input[type="text"].tech-input:focus, select.tech-input:focus, input[type="date"].tech-input:focus {
+            border-color: #3B82F6;
+            box-shadow: none;
+            outline: none;
+        }
+    </style>
+</head>
+<body class="bg-background text-on-background font-body-base h-screen overflow-hidden flex">
+<!-- SideNavBar -->
+<nav class="fixed left-0 top-0 h-screen w-[280px] flex flex-col py-container-padding border-r border-outline-variant bg-surface-dim z-10">
+<div class="px-container-padding mb-8">
+<div class="flex items-center gap-3">
+<div class="w-8 h-8 bg-primary rounded flex items-center justify-center text-on-primary font-bold">IB</div>
+<div>
+<h1 class="font-display-lg text-display-lg font-bold text-primary text-[20px] leading-tight">IBVAP</h1>
+<p class="font-label-caps text-label-caps text-on-surface-variant">Mission Control</p>
+</div>
+</div>
+</div>
+<div class="flex-1 overflow-y-auto custom-scrollbar px-container-padding flex flex-col gap-unit">
+<a class="flex items-center gap-3 px-3 py-2 rounded font-body-base text-body-base text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 Active: opacity-80 scale-[0.98]" href="#">
+<span class="material-symbols-outlined text-[20px]">dashboard</span>
+                Command Center
+            </a>
+<a class="flex items-center gap-3 px-3 py-2 rounded font-body-base text-body-base text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 Active: opacity-80 scale-[0.98]" href="#">
+<span class="material-symbols-outlined text-[20px]">videocam</span>
+                Live Surveillance
+            </a>
+<a class="flex items-center gap-3 px-3 py-2 rounded font-body-base text-body-base text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 Active: opacity-80 scale-[0.98]" href="#">
+<span class="material-symbols-outlined text-[20px]">emergency</span>
+                Active Incidents
+            </a>
+<!-- Active Tab -->
+<a class="flex items-center gap-3 px-3 py-2 rounded font-body-base text-body-base text-primary font-bold border-l-2 border-primary bg-surface-container-high Active: opacity-80 scale-[0.98]" href="#">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">history</span>
+                Incident History
+            </a>
+<a class="flex items-center gap-3 px-3 py-2 rounded font-body-base text-body-base text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 Active: opacity-80 scale-[0.98]" href="#">
+<span class="material-symbols-outlined text-[20px]">save_as</span>
+                Cameras
+            </a>
+<a class="flex items-center gap-3 px-3 py-2 rounded font-body-base text-body-base text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 Active: opacity-80 scale-[0.98]" href="#">
+<span class="material-symbols-outlined text-[20px]">analytics</span>
+                Analytics
+            </a>
+<a class="flex items-center gap-3 px-3 py-2 rounded font-body-base text-body-base text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 Active: opacity-80 scale-[0.98]" href="#">
+<span class="material-symbols-outlined text-[20px]">settings_input_component</span>
+                System Health
+            </a>
+</div>
+<div class="px-container-padding mt-auto pt-4 border-t border-outline-variant">
+<a class="flex items-center gap-3 px-3 py-2 rounded font-body-base text-body-base text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200 Active: opacity-80 scale-[0.98]" href="#">
+<span class="material-symbols-outlined text-[20px] text-secondary">fiber_manual_record</span>
+                System Status
+            </a>
+</div>
+</nav>
+<!-- TopAppBar -->
+<header class="fixed top-0 right-0 left-[280px] h-16 flex justify-between items-center px-container-padding w-full border-b border-outline-variant bg-surface z-10">
+<div class="font-headline-md text-headline-md font-bold text-on-surface">
+            IBVAP Operations
+        </div>
+<div class="flex items-center gap-4">
+<div class="font-data-mono text-data-mono text-primary bg-surface-container-high px-3 py-1 rounded tech-border">
+                UTC 12:45
+            </div>
+<button class="w-8 h-8 rounded-full flex items-center justify-center hover:bg-surface-container-highest transition-all text-on-surface-variant">
+<span class="material-symbols-outlined">notifications</span>
+</button>
+<button class="w-8 h-8 rounded-full flex items-center justify-center hover:bg-surface-container-highest transition-all text-on-surface-variant">
+<span class="material-symbols-outlined">settings</span>
+</button>
+<img alt="User profile" class="w-8 h-8 rounded-full object-cover tech-border ml-2" data-alt="A small circular avatar placeholder showing a generic user silhouette in a minimal dark theme UI. Highly tactical and technical style." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBX7CYrPJTAiim2ZR6dVzoFffCgazwSDBBfqZkzmsPfzeS_s0l0yeO1YLZpfY8fbtv8UBPTmn_Al-Rt3d4x26NF85xiCVZ1UaE3xfcEbySq-zunMIOVgJpHxa1co5Vgbvn6yDDoe-fCtxQl8CIaDXbbw1J47yNeY7blzs-okEiJqyO-8q617SPCosWvfGjxPj7Q36_UU3Ci3QQa-rAb2VrrkHglfpiwzqVEUIcsGLKsjE6yl2Wq0MT1"/>
+</div>
+</header>
+<!-- Main Content Area -->
+<main class="ml-[280px] mt-16 p-container-padding flex-1 h-[calc(100vh-64px)] overflow-hidden flex flex-col bg-surface-container-lowest gap-grid-gutter relative z-0">
+<!-- Filter Panel -->
+<section class="bg-[#151921] tech-border p-3 rounded-DEFAULT flex-shrink-0">
+<div class="flex items-center justify-between mb-3">
+<h2 class="font-label-caps text-label-caps text-on-surface-variant uppercase tracking-wider">Search Parameters</h2>
+<button class="font-label-caps text-label-caps text-primary hover:text-primary-fixed transition-colors">Clear All</button>
+</div>
+<div class="grid grid-cols-6 gap-3">
+<!-- Date Range -->
+<div class="col-span-1 flex flex-col gap-1">
+<label class="font-label-caps text-label-caps text-outline-variant">START DATE</label>
+<input class="tech-input rounded w-full py-1 px-2 h-8" type="date" value="2023-10-25"/>
+</div>
+<div class="col-span-1 flex flex-col gap-1">
+<label class="font-label-caps text-label-caps text-outline-variant">END DATE</label>
+<input class="tech-input rounded w-full py-1 px-2 h-8" type="date" value="2023-10-27"/>
+</div>
+<!-- Camera -->
+<div class="col-span-1 flex flex-col gap-1">
+<label class="font-label-caps text-label-caps text-outline-variant">CAMERA ID</label>
+<select class="tech-input rounded w-full py-1 px-2 h-8">
+<option>ALL CAMERAS</option>
+<option>CAM-N-01</option>
+<option>CAM-S-44</option>
+</select>
+</div>
+<!-- Severity -->
+<div class="col-span-1 flex flex-col gap-1">
+<label class="font-label-caps text-label-caps text-outline-variant">SEVERITY</label>
+<select class="tech-input rounded w-full py-1 px-2 h-8">
+<option>ALL</option>
+<option>CRITICAL</option>
+<option>WARNING</option>
+<option>INFO</option>
+</select>
+</div>
+<!-- Track ID -->
+<div class="col-span-1 flex flex-col gap-1">
+<label class="font-label-caps text-label-caps text-outline-variant">TRACK ID</label>
+<input class="tech-input rounded w-full py-1 px-2 h-8" placeholder="TRK-XXXX" type="text"/>
+</div>
+<!-- Action -->
+<div class="col-span-1 flex items-end">
+<button class="bg-[#3B82F6] hover:bg-primary-container text-white font-label-caps text-label-caps w-full h-8 rounded flex items-center justify-center gap-2 transition-colors">
+<span class="material-symbols-outlined text-[16px]">search</span>
+                        EXECUTE QUERY
+                    </button>
+</div>
+</div>
+</section>
+<!-- Data Table Container -->
+<section class="bg-[#151921] tech-border rounded-DEFAULT flex-1 flex flex-col overflow-hidden">
+<!-- Table Header -->
+<div class="flex items-center justify-between p-3 border-b border-[#262C36] bg-[#1C222B]">
+<div class="flex items-center gap-4">
+<h3 class="font-label-caps text-label-caps text-on-surface tracking-wider">RESULTS: 24 MATCHES</h3>
+<div class="h-4 w-px bg-[#424754]"></div>
+<div class="flex gap-2">
+<button class="bg-[#262C36] hover:bg-[#333539] text-on-surface-variant font-label-caps text-label-caps px-2 py-1 rounded tech-border transition-colors flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">download</span> EXPORT CSV
+                        </button>
+</div>
+</div>
+<div class="flex items-center gap-2 font-data-mono text-data-mono text-outline-variant text-[11px]">
+                    SHOWING: 
+                    <select class="tech-input bg-transparent border-none py-0 pl-1 pr-6 h-6 focus:ring-0 cursor-pointer">
+<option>50</option>
+<option>100</option>
+<option>200</option>
+</select>
+</div>
+</div>
+<!-- Table Body Container (Scrollable) -->
+<div class="flex-1 overflow-auto custom-scrollbar">
+<table class="w-full text-left border-collapse whitespace-nowrap">
+<thead class="sticky top-0 bg-[#151921] z-10 border-b border-[#262C36]">
+<tr>
+<th class="p-3 font-label-caps text-label-caps text-outline-variant font-normal w-8"><input class="tech-checkbox" type="checkbox"/></th>
+<th class="p-3 font-label-caps text-label-caps text-outline-variant font-normal">TIMESTAMP (UTC)</th>
+<th class="p-3 font-label-caps text-label-caps text-outline-variant font-normal">SEVERITY</th>
+<th class="p-3 font-label-caps text-label-caps text-outline-variant font-normal">EVENT TYPE</th>
+<th class="p-3 font-label-caps text-label-caps text-outline-variant font-normal">CAMERA ID</th>
+<th class="p-3 font-label-caps text-label-caps text-outline-variant font-normal">TRACK ID</th>
+<th class="p-3 font-label-caps text-label-caps text-outline-variant font-normal text-right">ACTIONS</th>
+</tr>
+</thead>
+<tbody class="font-data-mono text-data-mono text-on-surface-variant divide-y divide-[#262C36]">
+<!-- Row 1 -->
+<tr class="hover:bg-[#1C222B] transition-colors group cursor-pointer border-l-2 border-l-[#EF4444]">
+<td class="p-3"><input class="tech-checkbox" type="checkbox"/></td>
+<td class="p-3 text-on-surface">2023-10-26 14:32:11.045</td>
+<td class="p-3">
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-[#EF4444]/15 text-[#EF4444] border border-[#EF4444]/30">CRITICAL</span>
+</td>
+<td class="p-3">UNAUTHORIZED_ACCESS</td>
+<td class="p-3 text-primary">CAM-N-01</td>
+<td class="p-3">TRK-9982-A</td>
+<td class="p-3 text-right">
+<div class="flex justify-end gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
+<button class="w-7 h-7 rounded bg-transparent border border-[#424754] hover:border-[#3B82F6] hover:text-[#3B82F6] flex items-center justify-center transition-colors" title="View Evidence">
+<span class="material-symbols-outlined text-[16px]">visibility</span>
+</button>
+<button class="w-7 h-7 rounded bg-transparent border border-[#424754] hover:border-[#3B82F6] hover:text-[#3B82F6] flex items-center justify-center transition-colors" title="Play Clip">
+<span class="material-symbols-outlined text-[16px]">play_circle</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- Row 2 -->
+<tr class="hover:bg-[#1C222B] transition-colors group cursor-pointer border-l-2 border-l-[#F59E0B]">
+<td class="p-3"><input class="tech-checkbox" type="checkbox"/></td>
+<td class="p-3 text-on-surface">2023-10-26 13:15:02.881</td>
+<td class="p-3">
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-[#F59E0B]/15 text-[#F59E0B] border border-[#F59E0B]/30">WARNING</span>
+</td>
+<td class="p-3">LOITERING_DETECTED</td>
+<td class="p-3 text-primary">CAM-S-44</td>
+<td class="p-3">TRK-9981-B</td>
+<td class="p-3 text-right">
+<div class="flex justify-end gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
+<button class="w-7 h-7 rounded bg-transparent border border-[#424754] hover:border-[#3B82F6] hover:text-[#3B82F6] flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-[16px]">visibility</span>
+</button>
+<button class="w-7 h-7 rounded bg-transparent border border-[#424754] hover:border-[#3B82F6] hover:text-[#3B82F6] flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-[16px]">play_circle</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- Row 3 -->
+<tr class="hover:bg-[#1C222B] transition-colors group cursor-pointer border-l-2 border-l-[#3B82F6]">
+<td class="p-3"><input class="tech-checkbox" type="checkbox"/></td>
+<td class="p-3 text-on-surface">2023-10-26 11:05:44.210</td>
+<td class="p-3">
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-[#3B82F6]/15 text-[#3B82F6] border border-[#3B82F6]/30">INFO</span>
+</td>
+<td class="p-3">SYSTEM_CALIBRATION</td>
+<td class="p-3 text-primary">SYS-MAIN</td>
+<td class="p-3 text-outline-variant">N/A</td>
+<td class="p-3 text-right">
+<div class="flex justify-end gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
+<button class="w-7 h-7 rounded bg-transparent border border-[#424754] hover:border-[#3B82F6] hover:text-[#3B82F6] flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-[16px]">visibility</span>
+</button>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- Pagination Footer -->
+<div class="border-t border-[#262C36] p-3 bg-[#151921] flex items-center justify-between">
+<div class="font-data-mono text-data-mono text-outline-variant">
+                    SHOWING 1-3 OF 24
+                </div>
+<div class="flex items-center gap-1">
+<button class="w-8 h-8 flex items-center justify-center rounded border border-[#262C36] text-outline-variant hover:bg-[#1C222B] hover:text-on-surface transition-colors disabled:opacity-50" disabled="">
+<span class="material-symbols-outlined text-[18px]">chevron_left</span>
+</button>
+<button class="w-8 h-8 flex items-center justify-center rounded bg-[#3B82F6] text-white font-data-mono text-data-mono">1</button>
+<button class="w-8 h-8 flex items-center justify-center rounded border border-[#262C36] text-on-surface-variant hover:bg-[#1C222B] hover:text-on-surface transition-colors font-data-mono text-data-mono">2</button>
+<button class="w-8 h-8 flex items-center justify-center rounded border border-[#262C36] text-on-surface-variant hover:bg-[#1C222B] hover:text-on-surface transition-colors font-data-mono text-data-mono">3</button>
+<button class="w-8 h-8 flex items-center justify-center rounded border border-[#262C36] text-outline-variant hover:bg-[#1C222B] hover:text-on-surface transition-colors">
+<span class="material-symbols-outlined text-[18px]">chevron_right</span>
+</button>
+</div>
+</div>
+</section>
+</main>
+</body></html>

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>IBVAP - Command Center</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            "colors": {
+                    "on-error": "#690005",
+                    "primary": "#adc6ff",
+                    "outline": "#8c909f",
+                    "surface-dim": "#111318",
+                    "surface-container-lowest": "#0c0e12",
+                    "on-tertiary-container": "#461f00",
+                    "primary-container": "#4d8eff",
+                    "on-secondary-fixed-variant": "#005236",
+                    "on-secondary": "#003824",
+                    "on-background": "#e2e2e8",
+                    "inverse-primary": "#005ac2",
+                    "secondary-fixed": "#6ffbbe",
+                    "surface": "#111318",
+                    "primary-fixed": "#d8e2ff",
+                    "surface-variant": "#333539",
+                    "on-primary-fixed": "#001a42",
+                    "error": "#ffb4ab",
+                    "error-container": "#93000a",
+                    "on-tertiary-fixed": "#311400",
+                    "on-tertiary-fixed-variant": "#723600",
+                    "on-primary-fixed-variant": "#004395",
+                    "surface-tint": "#adc6ff",
+                    "surface-container-low": "#1a1c20",
+                    "on-surface": "#e2e2e8",
+                    "tertiary-fixed-dim": "#ffb786",
+                    "secondary-container": "#00a572",
+                    "on-secondary-container": "#00311f",
+                    "primary-fixed-dim": "#adc6ff",
+                    "tertiary-container": "#df7412",
+                    "on-primary": "#002e6a",
+                    "tertiary-fixed": "#ffdcc6",
+                    "on-error-container": "#ffdad6",
+                    "surface-container-high": "#282a2e",
+                    "on-secondary-fixed": "#002113",
+                    "on-tertiary": "#502400",
+                    "on-primary-container": "#00285d",
+                    "surface-container": "#1e2024",
+                    "secondary": "#4edea3",
+                    "tertiary": "#ffb786",
+                    "surface-bright": "#37393e",
+                    "outline-variant": "#424754",
+                    "inverse-on-surface": "#2f3035",
+                    "on-surface-variant": "#c2c6d6",
+                    "surface-container-highest": "#333539",
+                    "secondary-fixed-dim": "#4edea3",
+                    "inverse-surface": "#e2e2e8",
+                    "background": "#111318"
+            },
+            "borderRadius": {
+                    "DEFAULT": "0.125rem",
+                    "lg": "0.25rem",
+                    "xl": "0.5rem",
+                    "full": "0.75rem"
+            },
+            "spacing": {
+                    "element-gap": "8px",
+                    "grid-gutter": "12px",
+                    "container-padding": "16px",
+                    "unit": "4px"
+            },
+            "fontFamily": {
+                    "data-mono": ["JetBrains Mono"],
+                    "display-lg": ["Inter"],
+                    "body-base": ["Inter"],
+                    "label-caps": ["JetBrains Mono"],
+                    "body-sm": ["Inter"],
+                    "headline-md": ["Inter"]
+            },
+            "fontSize": {
+                    "data-mono": ["13px", {"lineHeight": "18px", "letterSpacing": "-0.01em", "fontWeight": "500"}],
+                    "display-lg": ["32px", {"lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                    "body-base": ["14px", {"lineHeight": "20px", "fontWeight": "400"}],
+                    "label-caps": ["10px", {"lineHeight": "12px", "letterSpacing": "0.06em", "fontWeight": "700"}],
+                    "body-sm": ["12px", {"lineHeight": "16px", "fontWeight": "400"}],
+                    "headline-md": ["20px", {"lineHeight": "28px", "fontWeight": "600"}]
+            }
+          }
+        }
+      }
+    </script>
+<style>
+        body { background-color: #0A0C10; }
+        .tech-panel { background-color: #151921; border: 1px solid #262C36; }
+        .tech-panel:hover { border-color: #3B82F6; }
+        .video-grid-gap { gap: 2px; }
+        
+        /* Severity Colors */
+        .sev-critical { border-left-color: #EF4444; }
+        .sev-high { border-left-color: #F97316; }
+        .sev-medium { border-left-color: #EAB308; }
+        .sev-low { border-left-color: #3B82F6; }
+
+        .badge-critical { background-color: rgba(239, 68, 68, 0.15); color: #EF4444; }
+        .badge-high { background-color: rgba(249, 115, 22, 0.15); color: #F97316; }
+        .badge-medium { background-color: rgba(234, 179, 8, 0.15); color: #EAB308; }
+        .badge-low { background-color: rgba(59, 130, 246, 0.15); color: #3B82F6; }
+        
+        .overlay-box { border: 1px solid #EF4444; background: rgba(239, 68, 68, 0.1); }
+    </style>
+</head>
+<body class="text-on-surface h-screen overflow-hidden flex font-body-base">
+<!-- SideNavBar -->
+<nav class="fixed left-0 top-0 h-screen w-[280px] bg-surface-dim border-r border-outline-variant flex flex-col py-container-padding z-50">
+<div class="px-container-padding mb-8">
+<h1 class="font-display-lg text-display-lg font-bold text-primary">IBVAP</h1>
+<p class="font-label-caps text-label-caps text-on-surface-variant mt-1">Mission Control</p>
+</div>
+<ul class="flex flex-col h-full gap-1 px-2">
+<li><a class="flex items-center gap-3 px-4 py-3 rounded-DEFAULT text-primary font-bold border-l-2 border-primary bg-surface-container-high transition-colors duration-200" href="#"><span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">dashboard</span>Command Center</a></li>
+<li><a class="flex items-center gap-3 px-4 py-3 rounded-DEFAULT text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#"><span class="material-symbols-outlined">videocam</span>Live Surveillance</a></li>
+<li><a class="flex items-center gap-3 px-4 py-3 rounded-DEFAULT text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#"><span class="material-symbols-outlined">emergency</span>Active Incidents</a></li>
+<li><a class="flex items-center gap-3 px-4 py-3 rounded-DEFAULT text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#"><span class="material-symbols-outlined">history</span>Incident History</a></li>
+<li><a class="flex items-center gap-3 px-4 py-3 rounded-DEFAULT text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#"><span class="material-symbols-outlined">save_as</span>Cameras</a></li>
+<li><a class="flex items-center gap-3 px-4 py-3 rounded-DEFAULT text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#"><span class="material-symbols-outlined">analytics</span>Analytics</a></li>
+<li><a class="flex items-center gap-3 px-4 py-3 rounded-DEFAULT text-on-surface-variant font-medium hover:bg-surface-variant hover:text-on-surface transition-colors duration-200" href="#"><span class="material-symbols-outlined">settings_input_component</span>System Health</a></li>
+</ul>
+<div class="mt-auto px-2">
+<div class="flex items-center gap-3 px-4 py-3 text-secondary font-data-mono text-data-mono">
+<span class="material-symbols-outlined text-[14px]" style="font-variation-settings: 'FILL' 1;">fiber_manual_record</span> System Status
+            </div>
+</div>
+</nav>
+<!-- TopAppBar -->
+<header class="fixed top-0 right-0 left-[280px] h-16 bg-surface border-b border-outline-variant flex justify-between items-center px-container-padding w-[calc(100%-280px)] z-40">
+<h2 class="font-headline-md text-headline-md font-bold text-on-surface">IBVAP Operations</h2>
+<div class="flex items-center gap-6">
+<span class="font-data-mono text-data-mono text-on-surface-variant">UTC 12:45</span>
+<div class="flex items-center gap-4">
+<button class="text-on-surface-variant hover:bg-surface-container-highest p-2 rounded-DEFAULT transition-all"><span class="material-symbols-outlined">notifications</span></button>
+<button class="text-on-surface-variant hover:bg-surface-container-highest p-2 rounded-DEFAULT transition-all"><span class="material-symbols-outlined">settings</span></button>
+</div>
+</div>
+</header>
+<!-- Main Content Canvas -->
+<main class="ml-[280px] mt-16 p-container-padding h-[calc(100vh-64px)] w-full flex flex-col gap-container-padding relative z-10">
+<!-- Top Workspace Area: Cameras (L/C) + Incidents (R) -->
+<div class="flex-1 flex gap-grid-gutter h-[calc(100%-120px)]">
+<!-- Left/Center: Camera Grid -->
+<div class="flex-[3] flex flex-col tech-panel p-1 relative z-10">
+<div class="flex items-center justify-between px-3 py-2 border-b border-[#262C36] mb-1">
+<span class="font-label-caps text-label-caps text-on-surface-variant">SURVEILLANCE MATRIX [2x2]</span>
+<span class="font-data-mono text-data-mono text-secondary flex items-center gap-2 text-[11px]"><span class="material-symbols-outlined text-[12px]" style="font-variation-settings: 'FILL' 1;">fiber_manual_record</span> ● CONNECTED</span>
+</div>
+<div class="grid grid-cols-2 grid-rows-2 video-grid-gap flex-1 bg-[#262C36]">
+<!-- Cam 1 -->
+<div class="bg-surface relative group overflow-hidden">
+<img class="absolute inset-0 w-full h-full object-cover opacity-80" data-alt="A highly detailed, realistic surveillance camera view of a secure industrial facility loading dock. The scene is illuminated by harsh, cold white security floodlights cutting through the deep night. The overall aesthetic is gritty, technical, and high-contrast, fitting a modern command center interface. Heavy steel doors and concrete pillars dominate the frame. 4K resolution, sharp focus." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCCKI3NdG6D0GUDPZTwgFoyV3IWsVu42ZgAMXQbAakr4TNUe2-nvKhzXIJ7gcSVy5KjciC497y0RvaiULGV4LtqbmrPXfxSylEojG2UxkceE2Rr7W0u-ORqZKyUogbxwJ6AEyuR0CTSukSjV3_2xmaLpygf6S1Gt7eTXM0DC0ZQSbaq3Eq1hnhSeVtB7C1mRtHFMRS98_p7SF83rTFD111OJCA0O3yzz_hxHV8GIL3rIGQsMYvnb2tb"/>
+<div class="absolute inset-0 bg-gradient-to-b from-surface/80 via-transparent to-surface/80 pointer-events-none"></div>
+<!-- AI Overlay -->
+<div class="absolute top-[30%] left-[45%] w-[120px] h-[180px] overlay-box z-20">
+<span class="absolute -top-5 left-0 bg-[#EF4444] text-white font-data-mono text-[10px] px-1">TRK-A942</span>
+</div>
+<div class="absolute top-2 left-2 right-2 flex justify-between items-start z-30">
+<div class="flex flex-col gap-1">
+<span class="bg-surface-dim/80 backdrop-blur-sm px-2 py-1 font-data-mono text-data-mono text-primary rounded-DEFAULT">CAM-01</span>
+<span class="bg-surface-dim/80 backdrop-blur-sm px-2 py-1 font-label-caps text-label-caps text-on-surface-variant rounded-DEFAULT">ZONE_NORTH_DOCK</span>
+</div>
+<span class="bg-[#EF4444]/20 text-[#EF4444] px-2 py-1 font-label-caps text-label-caps rounded-DEFAULT border border-[#EF4444]/30 backdrop-blur-sm flex items-center gap-1"><span class="material-symbols-outlined text-[12px]">warning</span>ALERT</span>
+</div>
+<div class="absolute bottom-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity flex gap-1 z-30">
+<button class="bg-surface-dim/80 hover:bg-[#3B82F6] text-on-surface p-1.5 rounded-DEFAULT backdrop-blur-sm"><span class="material-symbols-outlined text-[16px]">fullscreen</span></button>
+<button class="bg-surface-dim/80 hover:bg-[#3B82F6] text-on-surface p-1.5 rounded-DEFAULT backdrop-blur-sm"><span class="material-symbols-outlined text-[16px]">volume_off</span></button>
+<button class="bg-surface-dim/80 hover:bg-[#3B82F6] text-on-surface p-1.5 rounded-DEFAULT backdrop-blur-sm"><span class="material-symbols-outlined text-[16px]">photo_camera</span></button>
+</div>
+</div>
+<!-- Cam 2 -->
+<div class="bg-surface relative group overflow-hidden flex items-center justify-center">
+<div class="flex flex-col items-center gap-2 text-outline-variant">
+<span class="material-symbols-outlined text-display-lg">videocam_off</span>
+<span class="font-data-mono text-data-mono">CAMERA FEED UNAVAILABLE</span>
+</div>
+<div class="absolute top-2 left-2 z-30">
+<span class="bg-surface-dim/80 px-2 py-1 font-data-mono text-data-mono text-outline rounded-DEFAULT">CAM-02</span>
+</div>
+</div>
+<!-- Cam 3 -->
+<div class="bg-surface relative group overflow-hidden">
+<img class="absolute inset-0 w-full h-full object-cover opacity-60 grayscale-[30%]" data-alt="A crisp, high-definition security camera feed showing an empty, sterile corporate server room. The lighting is dim, characterized by cool blue and green LED indicator lights on the server racks. The scene looks highly technical, cold, and secure, perfectly fitting a dark-mode command center UI. Sharp geometric lines and deep shadows." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDOE22A_vGfW25sClHtHzxNQvHAG9ZESLXOOWIrLbo5ynwO8isAvqBqzsLwY0DNMt8wzwel_jAA2NZTbhSGJ5xTLghejtbMvoM2aZGQVkdWKSZHf94NKC-6-_c9hapnM_5OM6Jvk9dmmBrqIMV7UaBUEOOY-rULSdvLVXFyjRiIviVVNHGZAdeys2FeSLaleLN77zgQABXAwyRg9QgyKH2IyOqkeJwEb_LUrXgBOKU3TAVMlv0Wh0Cm"/>
+<div class="absolute inset-0 bg-gradient-to-b from-surface/80 via-transparent to-surface/80 pointer-events-none"></div>
+<div class="absolute top-2 left-2 right-2 flex justify-between items-start z-30">
+<div class="flex flex-col gap-1">
+<span class="bg-surface-dim/80 backdrop-blur-sm px-2 py-1 font-data-mono text-data-mono text-primary rounded-DEFAULT">CAM-03</span>
+<span class="bg-surface-dim/80 backdrop-blur-sm px-2 py-1 font-label-caps text-label-caps text-on-surface-variant rounded-DEFAULT">SERVER_RM_A</span>
+</div>
+</div>
+<div class="absolute bottom-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity flex gap-1 z-30">
+<button class="bg-surface-dim/80 hover:bg-[#3B82F6] text-on-surface p-1.5 rounded-DEFAULT backdrop-blur-sm"><span class="material-symbols-outlined text-[16px]">fullscreen</span></button>
+<button class="bg-surface-dim/80 hover:bg-[#3B82F6] text-on-surface p-1.5 rounded-DEFAULT backdrop-blur-sm"><span class="material-symbols-outlined text-[16px]">volume_off</span></button>
+</div>
+</div>
+<!-- Cam 4 -->
+<div class="bg-surface relative group overflow-hidden">
+<img class="absolute inset-0 w-full h-full object-cover opacity-80" data-alt="A thermal imaging surveillance camera feed of an exterior perimeter fence at night. The imagery is pseudo-color, highlighting heat signatures against a dark, cool background. The scene feels tactical, precise, and high-tech, typical of an advanced military or high-security monitoring system in a dark interface." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBjb6PtJK9s7rCb5uoH_cgUCsQCN4AQOoeBEzpFE6Q7-la922cu4w90pJdBQ-zPiJrMrqCnFOiwhbIM2j-_Oiek_SVNvyrD2nH6wVO9g095aaVuZSgqPysYvldF64eFMdTjnh9T0wR58uZgxCj3g5N5vqD4-70g0WbtsINLLr6hDpocqjDvCERkFADZIurymLR99KDlO7at8b-Ld2FzDkd8vgRBWsvfXANR3cVhOl_2uJIi8lC2ZnC8"/>
+<div class="absolute inset-0 bg-gradient-to-b from-surface/80 via-transparent to-surface/80 pointer-events-none"></div>
+<div class="absolute top-2 left-2 right-2 flex justify-between items-start z-30">
+<div class="flex flex-col gap-1">
+<span class="bg-surface-dim/80 backdrop-blur-sm px-2 py-1 font-data-mono text-data-mono text-primary rounded-DEFAULT">CAM-04</span>
+<span class="bg-surface-dim/80 backdrop-blur-sm px-2 py-1 font-label-caps text-label-caps text-on-surface-variant rounded-DEFAULT">PERIMETER_E</span>
+</div>
+<span class="bg-[#F97316]/20 text-[#F97316] px-2 py-1 font-label-caps text-label-caps rounded-DEFAULT border border-[#F97316]/30 backdrop-blur-sm">THERMAL_ON</span>
+</div>
+<div class="absolute bottom-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity flex gap-1 z-30">
+<button class="bg-surface-dim/80 hover:bg-[#3B82F6] text-on-surface p-1.5 rounded-DEFAULT backdrop-blur-sm"><span class="material-symbols-outlined text-[16px]">fullscreen</span></button>
+</div>
+</div>
+</div>
+</div>
+<!-- Right: Active Incidents -->
+<div class="flex-[1] flex flex-col tech-panel z-10 min-w-[320px]">
+<div class="px-4 py-3 border-b border-[#262C36] flex justify-between items-center">
+<span class="font-label-caps text-label-caps text-on-surface-variant tracking-widest">ACTIVE INCIDENTS</span>
+<span class="bg-[#EF4444] text-white px-2 py-0.5 rounded-sm font-data-mono text-[10px]">3</span>
+</div>
+<div class="flex-1 overflow-y-auto p-2 flex flex-col gap-2">
+<!-- Incident Card: Critical -->
+<div class="bg-surface p-3 rounded-DEFAULT border-l-2 sev-critical flex flex-col gap-2 hover:bg-surface-container-high transition-colors">
+<div class="flex justify-between items-start">
+<span class="badge-critical px-2 py-0.5 rounded-sm font-label-caps text-[10px]">CRITICAL</span>
+<span class="font-data-mono text-[10px] text-outline-variant">12:44:02 UTC</span>
+</div>
+<h4 class="font-body-sm text-body-sm text-on-surface font-semibold">Unauthorized Access Detected</h4>
+<div class="grid grid-cols-2 gap-1 font-data-mono text-[11px] text-on-surface-variant">
+<div>SRC: <span class="text-primary">CAM-01</span></div>
+<div>TRK: <span class="text-primary">A942</span></div>
+</div>
+<button class="mt-1 w-full bg-transparent border border-[#262C36] hover:border-[#3B82F6] hover:text-[#3B82F6] text-on-surface-variant font-label-caps py-1.5 rounded-sm transition-colors">ACKNOWLEDGE</button>
+</div>
+<!-- Incident Card: High -->
+<div class="bg-surface p-3 rounded-DEFAULT border-l-2 sev-high flex flex-col gap-2 hover:bg-surface-container-high transition-colors">
+<div class="flex justify-between items-start">
+<span class="badge-high px-2 py-0.5 rounded-sm font-label-caps text-[10px]">HIGH</span>
+<span class="font-data-mono text-[10px] text-outline-variant">12:38:15 UTC</span>
+</div>
+<h4 class="font-body-sm text-body-sm text-on-surface font-semibold">Perimeter Breach Attempt</h4>
+<div class="grid grid-cols-2 gap-1 font-data-mono text-[11px] text-on-surface-variant">
+<div>SRC: <span class="text-primary">CAM-04</span></div>
+<div>TRK: <span class="text-primary">T211</span></div>
+</div>
+<button class="mt-1 w-full bg-transparent border border-[#262C36] hover:border-[#3B82F6] hover:text-[#3B82F6] text-on-surface-variant font-label-caps py-1.5 rounded-sm transition-colors">ACKNOWLEDGE</button>
+</div>
+<!-- Incident Card: Medium -->
+<div class="bg-surface p-3 rounded-DEFAULT border-l-2 sev-medium flex flex-col gap-2 hover:bg-surface-container-high transition-colors opacity-70">
+<div class="flex justify-between items-start">
+<span class="badge-medium px-2 py-0.5 rounded-sm font-label-caps text-[10px]">MEDIUM</span>
+<span class="font-data-mono text-[10px] text-outline-variant">12:15:00 UTC</span>
+</div>
+<h4 class="font-body-sm text-body-sm text-on-surface font-semibold">Motion in Restricted Area</h4>
+<div class="grid grid-cols-2 gap-1 font-data-mono text-[11px] text-on-surface-variant">
+<div>SRC: <span class="text-primary">CAM-03</span></div>
+<div>TRK: <span class="text-primary">M098</span></div>
+</div>
+<button class="mt-1 w-full bg-transparent border border-[#262C36] hover:border-[#3B82F6] hover:text-[#3B82F6] text-on-surface-variant font-label-caps py-1.5 rounded-sm transition-colors">ACKNOWLEDGE</button>
+</div>
+</div>
+</div>
+</div>
+<!-- Bottom: Telemetry / Pipeline -->
+<div class="h-[100px] tech-panel flex flex-col z-10 shrink-0">
+<div class="px-4 py-2 border-b border-[#262C36] flex justify-between items-center bg-[#0c0e12]">
+<span class="font-label-caps text-label-caps text-on-surface-variant">M2-M12 PIPELINE TELEMETRY</span>
+</div>
+<div class="flex-1 flex items-center px-4 overflow-hidden relative">
+<!-- Timeline Axis -->
+<div class="absolute left-4 right-4 h-px bg-[#262C36] top-1/2 -translate-y-1/2 z-0"></div>
+<!-- Events -->
+<div class="w-full flex justify-between items-center z-10 font-data-mono text-[10px]">
+<div class="flex flex-col items-center gap-1">
+<span class="text-outline-variant">12:40</span>
+<div class="w-2 h-2 rounded-full bg-[#EAB308]"></div>
+</div>
+<div class="flex flex-col items-center gap-1">
+<span class="text-outline-variant">12:41</span>
+<div class="w-2 h-2 rounded-full bg-[#3B82F6]"></div>
+</div>
+<div class="flex flex-col items-center gap-1">
+<span class="text-outline-variant">12:42</span>
+<div class="w-2 h-2 rounded-full bg-[#3B82F6]"></div>
+</div>
+<div class="flex flex-col items-center gap-1">
+<span class="text-primary font-bold">12:43</span>
+<div class="w-3 h-3 rounded-full bg-[#EF4444] animate-pulse shadow-[0_0_8px_#EF4444]"></div>
+<span class="text-[#EF4444] absolute top-8">TRK-A942 DETECTED</span>
+</div>
+<div class="flex flex-col items-center gap-1">
+<span class="text-outline-variant">12:44</span>
+<div class="w-2 h-2 rounded-full bg-[#262C36]"></div>
+</div>
+<div class="flex flex-col items-center gap-1">
+<span class="text-outline-variant">12:45</span>
+<div class="w-2 h-2 rounded-full border border-primary bg-transparent"></div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</body></html>

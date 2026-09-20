@@ -1,0 +1,8 @@
+[PASS] 13. Retention default disabled: clip_retention_enabled=False
+[PASS] 10. Idempotency UNIQUE constraint: DB rejected duplicate security_event_id
+[FAIL] 1. Normal Full Clip: Status: CAPTURING
+[FAIL] 2. Partial Clip: Status: Not Found
+[FAIL] 8. Source Unavailable: Status: Not Found
+[PASS] 5. Queue Full: Queue rejected overflow request
+[PASS] 5. Queue Full DB status: Recorded CLIP_QUEUE_FULL
+[PASS] 7. Encoder Unavailable: Status gracefully degraded

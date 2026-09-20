@@ -1,0 +1,3300 @@
+[
+  {
+    "image": "AN1.jpg",
+    "det_time_ms": 254.98,
+    "plates": []
+  },
+  {
+    "image": "AN10.jpg",
+    "det_time_ms": 42.99,
+    "plates": []
+  },
+  {
+    "image": "AN2.jpg",
+    "det_time_ms": 29.0,
+    "plates": []
+  },
+  {
+    "image": "AN4.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AN5.jpg",
+    "det_time_ms": 49.99,
+    "plates": []
+  },
+  {
+    "image": "AN6.jpg",
+    "det_time_ms": 30.99,
+    "plates": []
+  },
+  {
+    "image": "AN7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AP1.jpg",
+    "det_time_ms": 30.0,
+    "plates": []
+  },
+  {
+    "image": "AP10.jpg",
+    "det_time_ms": 28.0,
+    "plates": []
+  },
+  {
+    "image": "AP12.jpg",
+    "det_time_ms": 7.25,
+    "plates": []
+  },
+  {
+    "image": "AP13.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "AP14.jpg",
+    "det_time_ms": 28.99,
+    "plates": []
+  },
+  {
+    "image": "AP15.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "AP16.jpg",
+    "det_time_ms": 28.0,
+    "plates": []
+  },
+  {
+    "image": "AP17.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "AP18.jpg",
+    "det_time_ms": 27.0,
+    "plates": []
+  },
+  {
+    "image": "AP19.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "AP2.jpg",
+    "det_time_ms": 27.0,
+    "plates": []
+  },
+  {
+    "image": "AP20.jpg",
+    "det_time_ms": 7.04,
+    "plates": []
+  },
+  {
+    "image": "AP21.jpg",
+    "det_time_ms": 6.23,
+    "plates": []
+  },
+  {
+    "image": "AP22.jpg",
+    "det_time_ms": 7.86,
+    "plates": []
+  },
+  {
+    "image": "AP23.jpg",
+    "det_time_ms": 6.57,
+    "plates": []
+  },
+  {
+    "image": "AP24.jpg",
+    "det_time_ms": 7.17,
+    "plates": []
+  },
+  {
+    "image": "AP25.jpg",
+    "det_time_ms": 6.94,
+    "plates": []
+  },
+  {
+    "image": "AP26.jpg",
+    "det_time_ms": 28.14,
+    "plates": []
+  },
+  {
+    "image": "AP27.jpg",
+    "det_time_ms": 7.51,
+    "plates": []
+  },
+  {
+    "image": "AP29.jpg",
+    "det_time_ms": 28.0,
+    "plates": []
+  },
+  {
+    "image": "AP3.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "AP30.jpg",
+    "det_time_ms": 28.27,
+    "plates": []
+  },
+  {
+    "image": "AP33.jpg",
+    "det_time_ms": 6.51,
+    "plates": []
+  },
+  {
+    "image": "AP34.jpg",
+    "det_time_ms": 29.22,
+    "plates": []
+  },
+  {
+    "image": "AP39.jpg",
+    "det_time_ms": 6.55,
+    "plates": []
+  },
+  {
+    "image": "AP4.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "AP40.jpg",
+    "det_time_ms": 6.5,
+    "plates": []
+  },
+  {
+    "image": "AP41.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AP42.jpg",
+    "det_time_ms": 7.55,
+    "plates": []
+  },
+  {
+    "image": "AP43.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AP44.jpg",
+    "det_time_ms": 6.04,
+    "plates": []
+  },
+  {
+    "image": "AP45.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "AP46.jpg",
+    "det_time_ms": 28.0,
+    "plates": []
+  },
+  {
+    "image": "AP5.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "AP6.jpg",
+    "det_time_ms": 29.01,
+    "plates": []
+  },
+  {
+    "image": "AP7.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "AP8.jpg",
+    "det_time_ms": 6.13,
+    "plates": []
+  },
+  {
+    "image": "AR1.jpg",
+    "det_time_ms": 5.54,
+    "plates": []
+  },
+  {
+    "image": "AR10.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AR11.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "AR12.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "AR13.jpg",
+    "det_time_ms": 27.47,
+    "plates": []
+  },
+  {
+    "image": "AR2.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AR3.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AR4.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AR6.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "AR7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AR8.jpg",
+    "det_time_ms": 6.39,
+    "plates": []
+  },
+  {
+    "image": "AR9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS1.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "AS10.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AS11.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AS13.jpg",
+    "det_time_ms": 27.49,
+    "plates": []
+  },
+  {
+    "image": "AS14.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "AS15.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS16.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS17.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AS18.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "AS19.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS2.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "AS20.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS21.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "AS22.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "AS23.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS24.jpg",
+    "det_time_ms": 44.39,
+    "plates": [
+      {
+        "box": [
+          140,
+          340,
+          181,
+          369
+        ],
+        "detector_conf": 0.3269178569316864,
+        "text": "12612",
+        "ocr_time_ms": 41.01
+      }
+    ]
+  },
+  {
+    "image": "AS25.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AS26.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS3.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS5.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "AS6.jpg",
+    "det_time_ms": 8.33,
+    "plates": []
+  },
+  {
+    "image": "AS7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "AS8.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "AS9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "BR10.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "BR11.jpg",
+    "det_time_ms": 5.54,
+    "plates": []
+  },
+  {
+    "image": "BR12.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "BR13.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "BR14.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "BR15.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "BR16.jpg",
+    "det_time_ms": 7.67,
+    "plates": []
+  },
+  {
+    "image": "BR17.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "BR18.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "BR3.jpg",
+    "det_time_ms": 6.48,
+    "plates": [
+      {
+        "box": [
+          129,
+          30,
+          150,
+          45
+        ],
+        "detector_conf": 0.26917269825935364,
+        "text": "",
+        "ocr_time_ms": 19.47
+      }
+    ]
+  },
+  {
+    "image": "BR4.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "BR5.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "BR6.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "BR7.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "BR8.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "BR9.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "CG1.jpg",
+    "det_time_ms": 6.11,
+    "plates": []
+  },
+  {
+    "image": "CG10.jpg",
+    "det_time_ms": 6.06,
+    "plates": []
+  },
+  {
+    "image": "CG11.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "CG12.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "CG13.jpg",
+    "det_time_ms": 6.7,
+    "plates": []
+  },
+  {
+    "image": "CG14.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "CG15.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "CG16.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "CG17.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "CG18.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "CG19.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "CG20.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "CG21.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "CG22.jpg",
+    "det_time_ms": 30.0,
+    "plates": []
+  },
+  {
+    "image": "CG4.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "CG6.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "CG7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "CG8.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "CG9.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "CH1.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "CH10.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "CH2.jpg",
+    "det_time_ms": 7.06,
+    "plates": []
+  },
+  {
+    "image": "CH3.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "CH4.jpg",
+    "det_time_ms": 8.51,
+    "plates": []
+  },
+  {
+    "image": "CH5.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "CH6.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "CH7.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "CH8.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "CH9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DL1.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "DL10.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DL11.jpg",
+    "det_time_ms": 6.47,
+    "plates": []
+  },
+  {
+    "image": "DL12.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DL13.jpg",
+    "det_time_ms": 5.59,
+    "plates": []
+  },
+  {
+    "image": "DL14.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DL15.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "DL16.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DL18.jpg",
+    "det_time_ms": 6.59,
+    "plates": []
+  },
+  {
+    "image": "DL19.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DL2.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DL20.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "DL21.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "DL22.jpg",
+    "det_time_ms": 5.52,
+    "plates": []
+  },
+  {
+    "image": "DL23.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DL24.jpg",
+    "det_time_ms": 6.54,
+    "plates": []
+  },
+  {
+    "image": "DL25.jpg",
+    "det_time_ms": 7.2,
+    "plates": []
+  },
+  {
+    "image": "DL26.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "DL27.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DL28.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "DL29.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DL3.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DL30.jpg",
+    "det_time_ms": 6.06,
+    "plates": []
+  },
+  {
+    "image": "DL31.jpg",
+    "det_time_ms": 6.56,
+    "plates": []
+  },
+  {
+    "image": "DL32.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DL33.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DL34.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DL35.jpg",
+    "det_time_ms": 6.99,
+    "plates": [
+      {
+        "box": [
+          200,
+          290,
+          215,
+          309
+        ],
+        "detector_conf": 0.41816896200180054,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "DL38.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DL4.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "DL5.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "DL6.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DL7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "DL8.jpg",
+    "det_time_ms": 6.51,
+    "plates": []
+  },
+  {
+    "image": "DL9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "DN1.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "DN2.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "DN3.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DN4.jpg",
+    "det_time_ms": 5.82,
+    "plates": []
+  },
+  {
+    "image": "DN5.jpg",
+    "det_time_ms": 6.06,
+    "plates": []
+  },
+  {
+    "image": "DN6.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "DN7.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "DN8.jpg",
+    "det_time_ms": 7.58,
+    "plates": [
+      {
+        "box": [
+          97,
+          267,
+          134,
+          296
+        ],
+        "detector_conf": 0.3651220202445984,
+        "text": "40868",
+        "ocr_time_ms": 16.02
+      }
+    ]
+  },
+  {
+    "image": "GA1.jpg",
+    "det_time_ms": 7.51,
+    "plates": []
+  },
+  {
+    "image": "GA10.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "GA11.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "GA12.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "GA13.jpg",
+    "det_time_ms": 28.49,
+    "plates": []
+  },
+  {
+    "image": "GA2.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "GA3.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GA4.jpg",
+    "det_time_ms": 6.48,
+    "plates": []
+  },
+  {
+    "image": "GA5.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "GA6.jpg",
+    "det_time_ms": 7.99,
+    "plates": []
+  },
+  {
+    "image": "GA7.jpg",
+    "det_time_ms": 29.0,
+    "plates": []
+  },
+  {
+    "image": "GA8.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GA9.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "GJ1.jpg",
+    "det_time_ms": 6.99,
+    "plates": [
+      {
+        "box": [
+          144,
+          316,
+          176,
+          336
+        ],
+        "detector_conf": 0.792911171913147,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "GJ10.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ11.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ12.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "GJ13.jpg",
+    "det_time_ms": 5.42,
+    "plates": []
+  },
+  {
+    "image": "GJ14.jpg",
+    "det_time_ms": 5.01,
+    "plates": []
+  },
+  {
+    "image": "GJ15.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "GJ16.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ17.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "GJ18.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ2.jpg",
+    "det_time_ms": 7.34,
+    "plates": []
+  },
+  {
+    "image": "GJ20.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "GJ21.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "GJ22.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ23.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ24.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ25.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "GJ26.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "GJ27.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ28.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          161,
+          135,
+          183,
+          157
+        ],
+        "detector_conf": 0.3540268540382385,
+        "text": "6589",
+        "ocr_time_ms": 9.47
+      }
+    ]
+  },
+  {
+    "image": "GJ29.jpg",
+    "det_time_ms": 6.41,
+    "plates": []
+  },
+  {
+    "image": "GJ4.jpg",
+    "det_time_ms": 7.51,
+    "plates": []
+  },
+  {
+    "image": "GJ5.jpg",
+    "det_time_ms": 7.99,
+    "plates": []
+  },
+  {
+    "image": "GJ6.jpg",
+    "det_time_ms": 7.05,
+    "plates": []
+  },
+  {
+    "image": "GJ7.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "GJ8.jpg",
+    "det_time_ms": 6.0,
+    "plates": [
+      {
+        "box": [
+          88,
+          6,
+          109,
+          22
+        ],
+        "detector_conf": 0.5678492784500122,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "GJ9.jpg",
+    "det_time_ms": 7.84,
+    "plates": [
+      {
+        "box": [
+          18,
+          42,
+          32,
+          73
+        ],
+        "detector_conf": 0.3177367150783539,
+        "text": "",
+        "ocr_time_ms": 4.4
+      }
+    ]
+  },
+  {
+    "image": "HP1.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HP10.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HP11.jpg",
+    "det_time_ms": 6.97,
+    "plates": []
+  },
+  {
+    "image": "HP12.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HP13.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "HP14.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HP15.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HP16.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "HP17.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HP18.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HP19.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HP2.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HP20.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HP21.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HP22.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HP3.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HP4.jpg",
+    "det_time_ms": 8.33,
+    "plates": []
+  },
+  {
+    "image": "HP5.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HP6.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HP7.jpg",
+    "det_time_ms": 5.51,
+    "plates": []
+  },
+  {
+    "image": "HP8.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HP9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR1.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HR10.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HR11.jpg",
+    "det_time_ms": 6.48,
+    "plates": []
+  },
+  {
+    "image": "HR12.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HR13.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR14.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HR15.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HR16.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HR17.jpg",
+    "det_time_ms": 6.92,
+    "plates": []
+  },
+  {
+    "image": "HR18.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR19.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR2.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR20.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "HR21.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          141,
+          107,
+          163,
+          128
+        ],
+        "detector_conf": 0.26339784264564514,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "HR22.jpg",
+    "det_time_ms": 7.32,
+    "plates": []
+  },
+  {
+    "image": "HR3.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR4.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HR5.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR6.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "HR7.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR8.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "HR9.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "JH1.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JH10.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          121,
+          283,
+          173,
+          312
+        ],
+        "detector_conf": 0.5940242409706116,
+        "text": "[4c213b",
+        "ocr_time_ms": 22.51
+      }
+    ]
+  },
+  {
+    "image": "JH11.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JH12.jpg",
+    "det_time_ms": 6.14,
+    "plates": []
+  },
+  {
+    "image": "JH13.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JH14.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JH15.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JH16.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JH17.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JH18.jpg",
+    "det_time_ms": 7.03,
+    "plates": []
+  },
+  {
+    "image": "JH19.jpg",
+    "det_time_ms": 6.96,
+    "plates": []
+  },
+  {
+    "image": "JH2.jpg",
+    "det_time_ms": 6.62,
+    "plates": []
+  },
+  {
+    "image": "JH3.jpg",
+    "det_time_ms": 6.59,
+    "plates": []
+  },
+  {
+    "image": "JH5.jpg",
+    "det_time_ms": 5.51,
+    "plates": []
+  },
+  {
+    "image": "JH6.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JH7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "JH8.jpg",
+    "det_time_ms": 6.5,
+    "plates": []
+  },
+  {
+    "image": "JH9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JK1.jpg",
+    "det_time_ms": 7.54,
+    "plates": []
+  },
+  {
+    "image": "JK10.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JK11.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JK12.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "JK13.jpg",
+    "det_time_ms": 29.0,
+    "plates": []
+  },
+  {
+    "image": "JK14.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "JK15.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "JK16.jpg",
+    "det_time_ms": 5.51,
+    "plates": []
+  },
+  {
+    "image": "JK17.jpg",
+    "det_time_ms": 6.58,
+    "plates": []
+  },
+  {
+    "image": "JK18.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "JK19.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "JK2.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JK20.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "JK22.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "JK23.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JK24.jpg",
+    "det_time_ms": 10.08,
+    "plates": []
+  },
+  {
+    "image": "JK26.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "JK27.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JK28.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "JK29.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "JK3.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JK30.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JK31.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JK32.jpg",
+    "det_time_ms": 6.49,
+    "plates": []
+  },
+  {
+    "image": "JK34.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "JK35.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JK36.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JK4.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "JK5.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JK6.jpg",
+    "det_time_ms": 6.85,
+    "plates": []
+  },
+  {
+    "image": "JK7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "JK8.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "JK9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KA1.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KA10.jpg",
+    "det_time_ms": 6.93,
+    "plates": []
+  },
+  {
+    "image": "KA11.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KA12.jpg",
+    "det_time_ms": 5.0,
+    "plates": []
+  },
+  {
+    "image": "KA16.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KA17.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KA18.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KA19.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KA2.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KA20.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KA21.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KA23.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "KA24.jpg",
+    "det_time_ms": 7.99,
+    "plates": []
+  },
+  {
+    "image": "KA25.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "KA3.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "KA4.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KA5.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KA7.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KA8.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KA9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KL10.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KL11.jpg",
+    "det_time_ms": 5.0,
+    "plates": []
+  },
+  {
+    "image": "KL14.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KL15.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          196,
+          223,
+          224,
+          252
+        ],
+        "detector_conf": 0.4952891767024994,
+        "text": "6619",
+        "ocr_time_ms": 9.14
+      }
+    ]
+  },
+  {
+    "image": "KL16.jpg",
+    "det_time_ms": 7.57,
+    "plates": []
+  },
+  {
+    "image": "KL19.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "KL3.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KL4.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "KL5.jpg",
+    "det_time_ms": 9.0,
+    "plates": []
+  },
+  {
+    "image": "KL6.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KL7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "KL8.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "KL9.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "LA1.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH1.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MH10.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MH11.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH12.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MH13.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MH14.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MH15.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH16.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MH17.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH18.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH19.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MH2.jpg",
+    "det_time_ms": 6.95,
+    "plates": []
+  },
+  {
+    "image": "MH20.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH21.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MH22.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MH23.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH24.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "MH25.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "MH26.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MH3.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MH4.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MH6.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MH8.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML1.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML10.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML11.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML12.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML13.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "ML14.jpg",
+    "det_time_ms": 7.34,
+    "plates": []
+  },
+  {
+    "image": "ML15.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "ML16.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML17.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML18.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML19.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "ML2.jpg",
+    "det_time_ms": 7.36,
+    "plates": []
+  },
+  {
+    "image": "ML20.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "ML21.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML22.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML23.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML24.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML25.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML26.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML27.jpg",
+    "det_time_ms": 6.89,
+    "plates": []
+  },
+  {
+    "image": "ML28.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "ML29.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML30.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML31.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML32.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "ML33.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML34.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "ML35.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "ML36.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML37.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML38.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML39.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "ML5.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "ML7.jpg",
+    "det_time_ms": 7.42,
+    "plates": [
+      {
+        "box": [
+          79,
+          229,
+          96,
+          256
+        ],
+        "detector_conf": 0.30629101395606995,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "ML8.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MN2.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MN3.jpg",
+    "det_time_ms": 7.13,
+    "plates": []
+  },
+  {
+    "image": "MN4.jpg",
+    "det_time_ms": 28.05,
+    "plates": []
+  },
+  {
+    "image": "MN5.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MN6.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MP1.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MP10.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "MP11.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "MP2.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MP3.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MP4.jpg",
+    "det_time_ms": 5.01,
+    "plates": []
+  },
+  {
+    "image": "MP5.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "MP6.jpg",
+    "det_time_ms": 5.4,
+    "plates": []
+  },
+  {
+    "image": "MP7.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "MP8.jpg",
+    "det_time_ms": 6.58,
+    "plates": []
+  },
+  {
+    "image": "MP9.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "MZ1.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "NL2.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "NL3.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "NL4.jpg",
+    "det_time_ms": 6.28,
+    "plates": []
+  },
+  {
+    "image": "NL5.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "NL6.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "NL7.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          254,
+          45,
+          265,
+          54
+        ],
+        "detector_conf": 0.39671459794044495,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "NL8.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "NL9.jpg",
+    "det_time_ms": 7.71,
+    "plates": []
+  },
+  {
+    "image": "OD10.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "OD11.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "OD12.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "OD13.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "OD14.jpg",
+    "det_time_ms": 6.52,
+    "plates": []
+  },
+  {
+    "image": "OD15.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "OD16.jpg",
+    "det_time_ms": 6.99,
+    "plates": [
+      {
+        "box": [
+          24,
+          340,
+          36,
+          360
+        ],
+        "detector_conf": 0.2805088758468628,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "OD17.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "OD18.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "OD19.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "OD20.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "OD22.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "OD23.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "OD24.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "OD25.jpg",
+    "det_time_ms": 6.23,
+    "plates": []
+  },
+  {
+    "image": "OD26.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "OD27.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "OD3.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "OD4.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "OD5.jpg",
+    "det_time_ms": 7.99,
+    "plates": []
+  },
+  {
+    "image": "OD6.jpg",
+    "det_time_ms": 6.02,
+    "plates": []
+  },
+  {
+    "image": "OD9.jpg",
+    "det_time_ms": 7.27,
+    "plates": []
+  },
+  {
+    "image": "PB1.jpg",
+    "det_time_ms": 6.28,
+    "plates": []
+  },
+  {
+    "image": "PB10.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PB11.jpg",
+    "det_time_ms": 7.03,
+    "plates": []
+  },
+  {
+    "image": "PB12.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "PB13.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PB14.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "PB15.jpg",
+    "det_time_ms": 7.99,
+    "plates": []
+  },
+  {
+    "image": "PB17.jpg",
+    "det_time_ms": 8.0,
+    "plates": [
+      {
+        "box": [
+          144,
+          24,
+          156,
+          48
+        ],
+        "detector_conf": 0.5388906598091125,
+        "text": "",
+        "ocr_time_ms": 4.0
+      }
+    ]
+  },
+  {
+    "image": "PB18.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "PB19.jpg",
+    "det_time_ms": 5.0,
+    "plates": []
+  },
+  {
+    "image": "PB2.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PB20.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PB21.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PB22.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "PB23.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "PB24.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "PB25.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PB26.jpg",
+    "det_time_ms": 6.99,
+    "plates": [
+      {
+        "box": [
+          22,
+          243,
+          50,
+          277
+        ],
+        "detector_conf": 0.3321138620376587,
+        "text": "Re",
+        "ocr_time_ms": 30.91
+      }
+    ]
+  },
+  {
+    "image": "PB27.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PB29.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PB30.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "PB4.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "PB5.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PB6.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PB7.jpg",
+    "det_time_ms": 7.49,
+    "plates": []
+  },
+  {
+    "image": "PB8.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "PB9.jpg",
+    "det_time_ms": 6.81,
+    "plates": [
+      {
+        "box": [
+          124,
+          266,
+          156,
+          286
+        ],
+        "detector_conf": 0.2792012393474579,
+        "text": "",
+        "ocr_time_ms": 3.5
+      }
+    ]
+  },
+  {
+    "image": "PY1.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PY10.jpg",
+    "det_time_ms": 4.99,
+    "plates": []
+  },
+  {
+    "image": "PY12.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PY13.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PY14.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PY15.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PY16.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PY17.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "PY18.jpg",
+    "det_time_ms": 13.0,
+    "plates": []
+  },
+  {
+    "image": "PY2.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "PY3.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PY4.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PY5.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "PY6.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PY7.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "PY8.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "PY9.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "RJ10.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "RJ2.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "RJ4.jpg",
+    "det_time_ms": 5.07,
+    "plates": []
+  },
+  {
+    "image": "RJ5.jpg",
+    "det_time_ms": 7.5,
+    "plates": []
+  },
+  {
+    "image": "RJ6.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "RJ7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "RJ9.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "SK1.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "SK10.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "SK11.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "SK12.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "SK13.jpg",
+    "det_time_ms": 9.0,
+    "plates": []
+  },
+  {
+    "image": "SK2.jpg",
+    "det_time_ms": 6.08,
+    "plates": []
+  },
+  {
+    "image": "SK3.jpg",
+    "det_time_ms": 5.98,
+    "plates": []
+  },
+  {
+    "image": "SK4.jpg",
+    "det_time_ms": 6.03,
+    "plates": []
+  },
+  {
+    "image": "SK5.jpg",
+    "det_time_ms": 6.92,
+    "plates": []
+  },
+  {
+    "image": "SK6.jpg",
+    "det_time_ms": 6.95,
+    "plates": []
+  },
+  {
+    "image": "SK7.jpg",
+    "det_time_ms": 6.01,
+    "plates": [
+      {
+        "box": [
+          115,
+          235,
+          126,
+          254
+        ],
+        "detector_conf": 0.3650889992713928,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "SK8.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "SK9.jpg",
+    "det_time_ms": 5.54,
+    "plates": []
+  },
+  {
+    "image": "TN1.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "TN10.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "TN2.jpg",
+    "det_time_ms": 6.08,
+    "plates": []
+  },
+  {
+    "image": "TN3.jpg",
+    "det_time_ms": 6.98,
+    "plates": []
+  },
+  {
+    "image": "TN4.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "TN5.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "TN6.jpg",
+    "det_time_ms": 8.4,
+    "plates": []
+  },
+  {
+    "image": "TN7.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "TN8.jpg",
+    "det_time_ms": 8.0,
+    "plates": []
+  },
+  {
+    "image": "TN9.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "TR1.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "TR10.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "TR2.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "TR3.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "TR4.jpg",
+    "det_time_ms": 6.18,
+    "plates": []
+  },
+  {
+    "image": "TR5.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "TR6.jpg",
+    "det_time_ms": 5.72,
+    "plates": []
+  },
+  {
+    "image": "TR7.jpg",
+    "det_time_ms": 6.02,
+    "plates": []
+  },
+  {
+    "image": "TR8.jpg",
+    "det_time_ms": 6.72,
+    "plates": [
+      {
+        "box": [
+          163,
+          11,
+          172,
+          25
+        ],
+        "detector_conf": 0.262553870677948,
+        "text": "",
+        "ocr_time_ms": 3.01
+      }
+    ]
+  },
+  {
+    "image": "TR9.jpg",
+    "det_time_ms": 5.28,
+    "plates": []
+  },
+  {
+    "image": "TS1.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "TS10.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "TS11.jpg",
+    "det_time_ms": 7.0,
+    "plates": [
+      {
+        "box": [
+          173,
+          221,
+          197,
+          245
+        ],
+        "detector_conf": 0.3387502431869507,
+        "text": "8290",
+        "ocr_time_ms": 8.01
+      }
+    ]
+  },
+  {
+    "image": "TS12.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "TS13.jpg",
+    "det_time_ms": 8.1,
+    "plates": []
+  },
+  {
+    "image": "TS14.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "TS15.jpg",
+    "det_time_ms": 6.29,
+    "plates": []
+  },
+  {
+    "image": "TS16.jpg",
+    "det_time_ms": 6.1,
+    "plates": []
+  },
+  {
+    "image": "TS2.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "TS3.jpg",
+    "det_time_ms": 10.99,
+    "plates": []
+  },
+  {
+    "image": "TS4.jpg",
+    "det_time_ms": 6.02,
+    "plates": []
+  },
+  {
+    "image": "TS5.jpg",
+    "det_time_ms": 10.0,
+    "plates": []
+  },
+  {
+    "image": "TS6.jpg",
+    "det_time_ms": 7.99,
+    "plates": []
+  },
+  {
+    "image": "TS7.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "TS8.jpg",
+    "det_time_ms": 13.6,
+    "plates": []
+  },
+  {
+    "image": "TS9.jpg",
+    "det_time_ms": 8.16,
+    "plates": []
+  },
+  {
+    "image": "UK1.jpg",
+    "det_time_ms": 7.1,
+    "plates": []
+  },
+  {
+    "image": "UK10.jpg",
+    "det_time_ms": 7.43,
+    "plates": []
+  },
+  {
+    "image": "UK2.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "UK3.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UK4.jpg",
+    "det_time_ms": 5.0,
+    "plates": []
+  },
+  {
+    "image": "UK5.jpg",
+    "det_time_ms": 6.51,
+    "plates": []
+  },
+  {
+    "image": "UK6.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UK7.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UK8.jpg",
+    "det_time_ms": 5.08,
+    "plates": []
+  },
+  {
+    "image": "UK9.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UP1.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "UP10.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UP11.jpg",
+    "det_time_ms": 6.0,
+    "plates": [
+      {
+        "box": [
+          248,
+          161,
+          272,
+          187
+        ],
+        "detector_conf": 0.7069143056869507,
+        "text": "",
+        "ocr_time_ms": 4.99
+      }
+    ]
+  },
+  {
+    "image": "UP12.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UP14.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "UP15.jpg",
+    "det_time_ms": 6.98,
+    "plates": []
+  },
+  {
+    "image": "UP16.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "UP17.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "UP19.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UP2.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "UP20.jpg",
+    "det_time_ms": 6.91,
+    "plates": []
+  },
+  {
+    "image": "UP21.jpg",
+    "det_time_ms": 6.08,
+    "plates": []
+  },
+  {
+    "image": "UP22.jpg",
+    "det_time_ms": 6.98,
+    "plates": []
+  },
+  {
+    "image": "UP23.jpg",
+    "det_time_ms": 5.05,
+    "plates": []
+  },
+  {
+    "image": "UP24.jpg",
+    "det_time_ms": 5.99,
+    "plates": [
+      {
+        "box": [
+          85,
+          26,
+          102,
+          59
+        ],
+        "detector_conf": 0.3376735746860504,
+        "text": "",
+        "ocr_time_ms": 3.96
+      }
+    ]
+  },
+  {
+    "image": "UP25.jpg",
+    "det_time_ms": 6.02,
+    "plates": []
+  },
+  {
+    "image": "UP26.jpg",
+    "det_time_ms": 7.67,
+    "plates": []
+  },
+  {
+    "image": "UP27.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UP28.jpg",
+    "det_time_ms": 6.08,
+    "plates": [
+      {
+        "box": [
+          0,
+          163,
+          18,
+          192
+        ],
+        "detector_conf": 0.38220515847206116,
+        "text": "",
+        "ocr_time_ms": 3.0
+      }
+    ]
+  },
+  {
+    "image": "UP29.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "UP3.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "UP4.jpg",
+    "det_time_ms": 5.97,
+    "plates": []
+  },
+  {
+    "image": "UP5.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "UP8.jpg",
+    "det_time_ms": 6.98,
+    "plates": []
+  },
+  {
+    "image": "WB1.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "WB11.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "WB12.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "WB13.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "WB14.jpg",
+    "det_time_ms": 7.02,
+    "plates": []
+  },
+  {
+    "image": "WB15.jpg",
+    "det_time_ms": 7.01,
+    "plates": []
+  },
+  {
+    "image": "WB16.jpg",
+    "det_time_ms": 6.99,
+    "plates": [
+      {
+        "box": [
+          135,
+          249,
+          166,
+          273
+        ],
+        "detector_conf": 0.26336419582366943,
+        "text": "",
+        "ocr_time_ms": 4.94
+      }
+    ]
+  },
+  {
+    "image": "WB17.jpg",
+    "det_time_ms": 5.92,
+    "plates": []
+  },
+  {
+    "image": "WB18.jpg",
+    "det_time_ms": 5.97,
+    "plates": []
+  },
+  {
+    "image": "WB19.jpg",
+    "det_time_ms": 5.0,
+    "plates": []
+  },
+  {
+    "image": "WB2.jpg",
+    "det_time_ms": 7.09,
+    "plates": []
+  },
+  {
+    "image": "WB20.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "WB21.jpg",
+    "det_time_ms": 6.03,
+    "plates": []
+  },
+  {
+    "image": "WB22.jpg",
+    "det_time_ms": 6.01,
+    "plates": []
+  },
+  {
+    "image": "WB23.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "WB25.jpg",
+    "det_time_ms": 5.99,
+    "plates": []
+  },
+  {
+    "image": "WB26.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "WB27.jpg",
+    "det_time_ms": 5.97,
+    "plates": []
+  },
+  {
+    "image": "WB28.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  },
+  {
+    "image": "WB3.jpg",
+    "det_time_ms": 6.0,
+    "plates": []
+  },
+  {
+    "image": "WB4.jpg",
+    "det_time_ms": 7.0,
+    "plates": []
+  },
+  {
+    "image": "WB5.jpg",
+    "det_time_ms": 5.01,
+    "plates": []
+  },
+  {
+    "image": "WB6.jpg",
+    "det_time_ms": 6.91,
+    "plates": []
+  },
+  {
+    "image": "WB8.jpg",
+    "det_time_ms": 7.9,
+    "plates": []
+  },
+  {
+    "image": "WB9.jpg",
+    "det_time_ms": 6.99,
+    "plates": []
+  }
+]

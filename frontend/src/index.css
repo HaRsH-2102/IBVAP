@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+@theme {
+  --color-on-error: #ffffff;
+  --color-primary: #00f0ff;
+  --color-primary-dim: #0088ff;
+  --color-outline: #262c36;
+  --color-surface-dim: #050608;
+  --color-surface-container-lowest: #020304;
+  --color-on-background: #e2e8f0;
+  --color-surface: #0a0c10;
+  --color-surface-variant: #11141a;
+  --color-error: #ff3333;
+  --color-error-container: #4a0000;
+  --color-on-surface: #f1f5f9;
+  --color-secondary-container: #004d33;
+  --color-on-secondary-container: #00ffa6;
+  --color-on-primary: #000000;
+  --color-surface-container-high: #1a1e26;
+  --color-surface-container: #0d1015;
+  --color-secondary: #00ffa6;
+  --color-tertiary: #ff9900;
+  --color-surface-bright: #202530;
+  --color-outline-variant: #475569;
+  --color-inverse-on-surface: #0a0c10;
+  --color-on-surface-variant: #94a3b8;
+  --color-surface-container-highest: #262c36;
+  --color-inverse-surface: #f1f5f9;
+  --color-background: #050608;
+
+  --spacing-element-gap: 8px;
+  --spacing-grid-gutter: 16px;
+  --spacing-container-padding: 24px;
+  --spacing-unit: 4px;
+
+  --font-data-mono: 'JetBrains Mono', monospace;
+  --font-display-lg: 'Inter', sans-serif;
+  --font-body-base: 'Inter', sans-serif;
+  --font-label-caps: 'JetBrains Mono', monospace;
+  --font-body-sm: 'Inter', sans-serif;
+  --font-headline-md: 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-on-surface font-body-base selection:bg-primary/30 selection:text-primary;
+    background-image: 
+      linear-gradient(to right, rgba(255,255,255,0.02) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(255,255,255,0.02) 1px, transparent 1px);
+    background-size: 40px 40px;
+    background-position: center center;
+  }
+  
+  /* Scrollbar styling for a premium feel */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-surface-dim;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-surface-container-highest rounded-full;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-outline;
+  }
+}
+
+@layer utilities {
+  .tech-panel { 
+    @apply bg-surface border border-outline-variant rounded shadow-lg transition-all duration-300;
+  }
+  .tech-panel:hover { 
+    @apply border-outline shadow-primary/10; 
+  }
+  .tech-panel-active {
+    @apply bg-primary/5 border-primary shadow-primary/20;
+  }
+  
+  /* Security Severities */
+  .sev-critical { @apply border-l-2 border-l-[#ff3333]; }
+  .sev-high { @apply border-l-2 border-l-[#ff9900]; }
+  .sev-medium { @apply border-l-2 border-l-[#eab308]; }
+  .sev-low { @apply border-l-2 border-l-primary-dim; }
+
+  /* Badges */
+  .badge { @apply px-2 py-0.5 rounded text-[11px] font-label-caps uppercase tracking-wider border; }
+  .badge-critical { @apply bg-[#ff3333]/10 text-[#ff3333] border-[#ff3333]/30; }
+  .badge-high { @apply bg-[#ff9900]/10 text-[#ff9900] border-[#ff9900]/30; }
+  .badge-medium { @apply bg-[#eab308]/10 text-[#eab308] border-[#eab308]/30; }
+  .badge-low { @apply bg-primary-dim/10 text-primary-dim border-primary-dim/30; }
+  .badge-healthy { @apply bg-secondary/10 text-secondary border-secondary/30; }
+  .badge-neutral { @apply bg-surface-variant text-on-surface border-outline-variant; }
+
+  /* Buttons */
+  .btn-primary {
+    @apply px-4 py-2 bg-primary/10 text-primary border border-primary/30 rounded font-data-mono text-sm uppercase tracking-wider hover:bg-primary hover:text-on-primary transition-all duration-300 shadow-[0_0_10px_rgba(0,240,255,0.1)] hover:shadow-[0_0_15px_rgba(0,240,255,0.4)];
+  }
+  .btn-secondary {
+    @apply px-4 py-2 bg-surface-container-high text-on-surface border border-outline-variant rounded font-data-mono text-sm uppercase tracking-wider hover:bg-surface-container-highest hover:border-outline transition-all duration-200;
+  }
+  .btn-danger {
+    @apply px-4 py-2 bg-[#ff3333]/10 text-[#ff3333] border border-[#ff3333]/30 rounded font-data-mono text-sm uppercase tracking-wider hover:bg-[#ff3333] hover:text-white transition-all duration-300;
+  }
+  
+  .material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px; /* Reduced base size for premium feel */
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+  }
+}
