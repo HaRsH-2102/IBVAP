@@ -73,17 +73,25 @@ ANPR/results/
 test_results/
 
 # --- AI Models ---
-*.pt
-*.pth
-*.onnx
-*.engine
-*.bin
-*.safetensors
-*.ckpt
-*.weights
+# Explicitly allowing .pt, .safetensors, .engine, .onnx, .bin for Git LFS
+# (Git LFS manages large files)
+
+# --- Media / Videos ---
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.mpeg
+*.mpg
+*.ts
 
 # --- Datasets ---
 ANPR Data/
+datasets/
+data/
+data/raw/
+data/processed/
 
 # --- External Repositories ---
 Indian_LPR-main/
